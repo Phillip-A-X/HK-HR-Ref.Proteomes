@@ -1,7 +1,17 @@
 # HK-HR-Ref.Proteomes
 Computational pipeline for homorepeat analysis in housekeeping proteins using UniProt reference proteomes.
 
-Protocol (not final form)
+
+## Data sources
+- UniProt Reference Proteomes release 2026_01
+- Human housekeeping gene lists like Eisenberg
+- mapping information
+
+Large raw data files are not stored in this repository.
+
+
+
+## Protocol (not final form)
 
 06.05.26 14:36 [powershell] Curl of UniProt Reference Proteome Release 2026_01, 28-Jan-2026 into "C:\uniprot_reference_proteomes"
 
