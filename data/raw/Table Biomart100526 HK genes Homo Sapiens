@@ -1,5 +1,0 @@
-##Biomart 
-#10.05.26 
-#Dataset: Human genes (GRCh38.p14)
-#Filters HGNC symbol(s) [e.g. A1BG]: [ID-list specified] - HGNC symbols of eisenberg_hk_genes.tsv accessed 08.05.26
-#Attributes Attributes HGNC symbol UniProtKB/Swiss-Prot ID Gene stable ID Transcript stable ID Protein stable ID
