@@ -1,8 +1,9 @@
 #Datasources
 
-##Biomart Export
+##mart_export100526.tsv
 - https://www.ensembl.org/biomart/martview/edfc4b2acd0521d29cc397c4cd58aaab
-- 10.05.26 
+- 10.05.26
+- Biomart Export
 - Dataset: Human genes (GRCh38.p14) 3971 / 86369 Genes found
 - Filters HGNC symbol(s) [e.g. A1BG]: [ID-list specified] - HGNC symbols of eisenberg_hk_genes.tsv accessed 08.05.26
 - Attributes Attributes HGNC symbol UniProtKB/Swiss-Prot ID Gene stable ID Transcript stable ID Protein stable ID
