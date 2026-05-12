@@ -9,7 +9,7 @@ UNIPROT_RELEASE = "2026_01"
 MOUNT_POINT = Path("/mnt/d/data/compressed")
 
 REFERENCE_PROTEOME_DIR = (
-    MOUNT_POINT /"ftp.uniprot.org"/"pub"/"databases"/"uniprot"/"
+    MOUNT_POINT /"ftp.uniprot.org"/"pub"/"databases"/"uniprot"/
     "release-2026_01"/"knowledgebase"/"reference_proteomes"
 )
 
