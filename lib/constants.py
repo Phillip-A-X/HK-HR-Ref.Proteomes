@@ -39,10 +39,12 @@ HUMAN_FASTA_FILE = REFERENCE_PROTEOME_DIR / f"{HUMAN_PROTEOME_ID}.fasta.gz"
 EISENBERG_HK_GENES_FILE = RAW_DATA_DIR / "eisenberg_hk_genes.tsv"
 
 BIOMART_EISENBERG_SWISSPROT_FILE = (
-    BIOMART_DIR / "mart_export100526.tsv"
+    BIOMART_DIR / "biomartexport_100526_humanuniprotid.tsv"
 )
 
-
+BIOMART_EISENBERG_GENE_LENGTH_FILE = (
+    BIOMART_DIR / "biomartexport_120526_humanhkgenelength.tsv"
+)
 
 
 
