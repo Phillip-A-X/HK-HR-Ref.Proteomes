@@ -25,3 +25,10 @@ Content: Human housekeeping genes with RefSeq mRNA accessions
 Columns:
 - gene_symbol: HGNC gene symbol
 - refseq_mrna: RefSeq mRNA accession, e.g. NM_015665
+
+##hrtatlas_hk_genes.tsv
+- https://housekeeping.unicamp.br/?download
+- 12.05.26
+- Source: https://pubmed.ncbi.nlm.nih.gov/32663312/
+- Content: Human housekeeping genes
+- Columns: Ensembl,	Gene.name,	Refseq,	CCDS.ID
