@@ -9,7 +9,7 @@
 - Attributes HGNC symbol UniProtKB/Swiss-Prot ID Gene stable ID Transcript stable ID Protein stable ID
 
 ##biomartexport_120526_humanhkgenelength.tsv
-- https://www.ensembl.org/biomart/martview/edfc4b2acd0521d29cc397c4cd58aaab
+- https://www.ensembl.org/biomart/martview/7a34f955b4379c0b815f0eb97152867d
 - 12.05.26
 - Biomart Export
 - Dataset: Human genes (GRCh38.p14) 3971 / 86369 Genes found
