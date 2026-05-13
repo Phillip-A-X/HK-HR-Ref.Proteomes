@@ -7,13 +7,14 @@ Setup this Github on 07.05.26
 coupled VS Code with it, ran in Ubuntu. More on Software Environment in the respective DIR "software environment".
 
 Downloaded Eisenberg Housekeeping Genelist in Humans on 07.05.2026.
-This version contained 3804 HGNC symbols and xzy
+This version contained 3804 HGNC symbols and RefSeq mRNA accession
 
 Filtering using the HGNC Symbols from the Eisenberg HK Genelist in Humans and the Ensembl Genes 115, Human genes (GRCh38.p14) as a dataset; 3971 genes out of total 86369 Hk and nonHK genes were found. 
-2 tables were generated and exported from biomart.
+2 tables were generated and exported from biomart. 
+  Possible Explanation for this discrepancy (3804 genes in Eisenberg HK Genelist and 3971 Hits in Ensembl Genes 115 Ch38) might be the fact that some are annotated on alternative scaffolds/patches. Thus the chromosome number was added to the table.
 
 Downloaded Biomart Export "biomartexport_100526_humanuniprotid.tsv" - on 10.05.26, here HGNC symbols were mapped to Uniprot/Swissprot ID.
-Downloaded Biomart Export "biomartexport_120526_humanhkgenelength.tsv" - on 12.05.26, here HGNC symbols were exported with their respective gene position (start and end).
+Downloaded Biomart Export "biomartexport_120526_humanhkgenelength.tsv" - on 12.05.26, here HGNC symbols were exported with their respective gene position (start and end) + chromosome number.
 
 Wrote Python script "genelengths_calculator.py" which creates a new table using "biomartexport_120526_humanhkgenelength.tsv" adding a genelength column on the right counted in bp to make human hk genelengths comparable.
 
