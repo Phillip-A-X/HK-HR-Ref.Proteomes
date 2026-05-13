@@ -1,6 +1,6 @@
 #Data too large for this repo
 data/raw/
-
+data/processed/
 *.fasta
 *.fasta.gz
 *.fa
