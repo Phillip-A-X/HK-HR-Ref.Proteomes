@@ -1,2 +1,19 @@
+#All Datasources are detailed in the respective DIR "datasources and accession time"
 
-yza
+Downloaded all Reference Proteomes from Uniprot on 06.05.2026
+In this Version of Uniprot (2026/01) X proteins were included.
+
+Setup this Github on 07.05.26
+coupled VS Code with it, ran in Ubuntu. More on Software Environment in the respective DIR "software environment".
+
+Downloaded Eisenberg Housekeeping Genelist in Humans on 07.05.2026.
+This version contained 3804 HGNC symbols and xzy
+
+Filtering using the HGNC Symbols from the Eisenberg HK Genelist in Humans and the Ensembl Genes 115, Human genes (GRCh38.p14) as a dataset; 3971 genes out of total 86369 Hk and nonHK genes were found. 
+2 tables were generated and exported from biomart.
+
+Downloaded Biomart Export "biomartexport_100526_humanuniprotid.tsv" - on 10.05.26, here HGNC symbols were mapped to Uniprot/Swissprot ID.
+Downloaded Biomart Export "biomartexport_120526_humanhkgenelength.tsv" - on 12.05.26, here HGNC symbols were exported with their respective gene position (start and end).
+
+Wrote Python script "genelengths_calculator.py" which creates a new table using "biomartexport_120526_humanhkgenelength.tsv" adding a genelength column on the right counted in bp to make human hk genelengths comparable.
+
