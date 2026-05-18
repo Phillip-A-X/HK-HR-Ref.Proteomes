@@ -31,4 +31,4 @@ Columns:
 - 12.05.26
 - Source: https://pubmed.ncbi.nlm.nih.gov/32663312/
 - Content: Human housekeeping genes
-- Columns: Ensembl,	Gene.name,	Refseq,	CCDS.ID
+- Columns: Ensembl (Transcript IDs),	Gene.name,	Refseq,	CCDS.ID 
