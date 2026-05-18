@@ -1,1 +1,6 @@
-xyz
+For Hk Gene Length Comparison among Model Organisms:
+
+1. Finding viable Hk Genelists for said organisms.
+2. Make sure the genes are processed into tables of Gene Stable IDs from Ensembl 115 (format ENSG...) genestart, geneend and chromosome name using biomart.
+3. run "genelength_calculator.py" on the biomart export.
+4. compare results
