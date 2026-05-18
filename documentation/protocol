@@ -18,3 +18,4 @@ Downloaded Biomart Export "biomartexport_120526_humanhkgenelength.tsv" - on 12.0
 
 Wrote Python script "genelengths_calculator.py" which creates a new table using "biomartexport_120526_humanhkgenelength.tsv" adding a genelength column on the right counted in bp to make human hk genelengths comparable.
 
+Downloaded Human HkGenelist "Housekeeping_GenesHuman_HRTatlas.csv" and saved it as .tsv on 13.05.26 from https://housekeeping.unicamp.br/?download HRTAtlas. This dataset contained 2833 rows of EnsemblID	Gene.name/HGNCsymbol	Refseq	CCDS.ID
