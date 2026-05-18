@@ -31,4 +31,12 @@ Columns:
 - 12.05.26
 - Source: https://pubmed.ncbi.nlm.nih.gov/32663312/
 - Content: Human housekeeping genes
-- Columns: Ensembl (Transcript IDs),	Gene.name,	Refseq,	CCDS.ID 
+- Columns: Ensembl (Transcript IDs),	Gene.name,	Refseq,	CCDS.ID
+
+##biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_duplicatesallowed_180526.tsv
+- https://www.ensembl.org/biomart/martview/7dba1dc5838c33f434b6891cabc8bf58
+- 18.05.26
+- Biomart Export
+- Dataset: Human genes (GRCh38.p14) Ensembl 115
+- Filter: Transcript stable ID(s) [e.g. ENST00000000233]: [ID-list specified] HRT Atlas
+- Attributes Ensembl 115 Transcript IDs, Gene Stable IDs, Gene start(bp), Gene end(bp), chromosome name
