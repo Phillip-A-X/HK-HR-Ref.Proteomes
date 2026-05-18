@@ -35,6 +35,8 @@ FIGURES_DIR = RESULTS_DIR / "figures"
 HUMAN_PROTEOME_ID = "UP000005640_9606"
 HUMAN_FASTA_FILE = REFERENCE_PROTEOME_DIR / f"{HUMAN_PROTEOME_ID}.fasta.gz"
 
+
+#Human Eisenberg HK Gene List
 EISENBERG_HK_GENES_FILE = RAW_DATA_DIR / "eisenberg_hk_genes.tsv"
 
 BIOMART_EISENBERG_SWISSPROT_FILE = (
@@ -44,6 +46,24 @@ BIOMART_EISENBERG_SWISSPROT_FILE = (
 BIOMART_EISENBERG_GENE_LENGTH_FILE = (
     BIOMART_DIR / "biomartexport_120526_humanhkgenelength.tsv"
 )
+
+#Human HRTAtlas Hk Gene List
+BIOMART_HRT_ATLAS_HUMAN_HK_TRANSCRIPTS_TO_ENSG_FILE = (
+    BIOMART_DIR / "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_duplicatesallowed_180526.tsv"
+)
+
+HRT_ATLAS_HUMAN_HK_GENE_LENGTHS_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_gene_lengths.tsv"
+)
+
+HRT_ATLAS_HUMAN_HK_TRANSCRIPT_TO_GENE_MAPPING_QC_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_transcript_to_gene_mapping_qc.tsv"
+)
+
+HRT_ATLAS_HUMAN_HK_DUPLICATED_GENES_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_genes_with_multiple_transcripts.tsv"
+)
+
 
 
 
