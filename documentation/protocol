@@ -18,3 +18,5 @@ Downloaded Biomart Export "biomartexport_120526_humanhkgenelength.tsv" - on 12.0
 
 
 Downloaded Human HkGenelist "Housekeeping_GenesHuman_HRTatlas.csv" and saved it as .tsv on 13.05.26 from https://housekeeping.unicamp.br/?download HRTAtlas. This dataset contained 2833 rows of EnsemblTranscriptID	Gene.name/HGNCsymbol	Refseq	CCDS.ID
+    Since the HRTAtlas Human Hk Gene list only contained Ensembl Transcript IDs of the ENST format, i used biomart to map and export the 2833 Transcript IDs to 2156 Gene Stable IDs in the ENSG format on 18.05.26. Also gene position as in start and end such as chromosome/scaffold name were added.
+    This file was named "biomart_export_HRTatlashkgenelist_ENSGlength180526.tsv"
