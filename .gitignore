@@ -6,7 +6,7 @@
 *.fa
 *.fa.gz
 *.tar.gz
-*.tsv
+#*.tsv
 *.csv
 results/tables/
 results/figures/
