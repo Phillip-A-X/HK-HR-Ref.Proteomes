@@ -21,3 +21,9 @@ Downloaded Human HkGenelist "Housekeeping_GenesHuman_HRTatlas.csv" and saved it 
     Since the HRTAtlas Human Hk Gene list only contained Ensembl Transcript IDs of the ENST format, i used biomart to map and export the 2833 Transcript IDs to 2156 Gene Stable IDs in the ENSG format on 18.05.26. Also gene position as in start and end such as chromosome/scaffold name were added.
     This file was named "biomart_export_HRTatlashkgenelist_ENSGlength180526.tsv" 
     "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_duplicatesallowed_180526.tsv" is a control table converting the 2833 ENST entries to 2798 ENSG Entries. This control table allows duplicates while the other one ("biomart_export_HRTatlashkgenelist_ENSGlength180526.tsv") only holding 2156 ENST Entries has duplicates filtered out by biomart. Showing that these are not randomly "missing". 
+
+Wrote Python script "calculate_hrt_atlas_gene_lengths.py" on 19.05.26 to create 3 tables. Main point was to add genelength in bp to the biomart export Gene Stable ID Mapping list from the HRT Atlas Human HK Transcript ID list.
+The Results of this script were 3 different tables stored in the "data/processed/..." DIR:
+    1. "hrt_atlas_human_hk_gene_lengths.tsv" This is the main output table for downstream gene-length analysis. It contains one row per unique Ensembl gene ID and includes the calculated "gene_length_bp".
+    2. "hrt_atlas_human_hk_transcript_to_gene_mapping_qc.tsv" This table serves control. Since there are way less unique Gene level entries (2156 Gene Stable IDs) than transcript level entries (2833 Transcript Stable IDs) the difference was protocolled with this table.
+    3. "hrt_atlas_human_hk_genes_with_multiple_transcripts.tsv" This table contains only genes with more than one corresponding transcript. makes it easier to track that way.
