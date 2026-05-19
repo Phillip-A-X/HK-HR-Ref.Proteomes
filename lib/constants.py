@@ -67,5 +67,33 @@ HRT_ATLAS_HUMAN_HK_DUPLICATED_GENES_FILE = (
 
 
 
+
+
+# HRT Atlas Human HK genes: ENST to ENSG + gene coordinates - addon with protein coding only
+
+
+BIOMART_HRT_ATLAS_HUMAN_HK_ENST_TO_ENSG_PROTEIN_CODING_DUPLICATES_ALLOWED_FILE = (
+    BIOMART_DIR
+    / "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_geneCoords_proteinCoding_duplicatesAllowed_200526.tsv"
+)
+
+BIOMART_HRT_ATLAS_HUMAN_HK_ENST_TO_ENSG_PROTEIN_CODING_UNIQUE_RESULTS_FILE = (
+    BIOMART_DIR
+    / "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_geneCoords_proteinCoding_uniqueResultsOnly_200526.tsv"
+)
+
+HRT_ATLAS_HUMAN_HK_GENE_LENGTHS_PROTEIN_CODING_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_gene_lengths_protein_coding.tsv"
+)
+
+HRT_ATLAS_HUMAN_HK_TRANSCRIPT_TO_GENE_MAPPING_QC_PROTEIN_CODING_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_transcript_to_gene_mapping_qc_protein_coding.tsv"
+)
+
+HRT_ATLAS_HUMAN_HK_GENES_WITH_MULTIPLE_TRANSCRIPTS_PROTEIN_CODING_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_genes_with_multiple_transcripts_protein_coding.tsv"
+)
+
+
 POLYX_IDENTICAL_AA = 8
 POLYX_WINDOW_SIZE = 10
