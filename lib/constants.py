@@ -47,51 +47,67 @@ BIOMART_EISENBERG_GENE_LENGTH_FILE = (
     BIOMART_DIR / "biomartexport_120526_humanhkgenelength.tsv"
 )
 
-#Human HRTAtlas Hk Gene List
-BIOMART_HRT_ATLAS_HUMAN_HK_TRANSCRIPTS_TO_ENSG_FILE = (
+
+## HRT Atlas Human HK genes
+
+# Original HRT Atlas human HK gene/transcript list.
+# No header in file.
+# Columns:
+# 1. Ensembl transcript ID (ENST...)
+# 2. Gene name
+# 3. RefSeq ID
+# 4. CCDS ID
+HRT_ATLAS_HUMAN_HK_GENES_FILE = (
+    RAW_DATA_DIR / "Housekeeping_GenesHuman_HRTatlas.tsv"
+)
+
+
+# BioMart export:
+# Dataset: Human genes (GRCh38.p14), Ensembl 115
+# Filter: HRT Atlas ENST IDs
+# Attributes:
+# - Transcript stable ID
+# - Gene stable ID
+# - Gene start (bp)
+# - Gene end (bp)
+# - Chromosome/scaffold name
+BIOMART_HRT_ATLAS_HUMAN_HK_ENST_TO_ENSG_FILE = (
     BIOMART_DIR / "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_duplicatesallowed_180526.tsv"
 )
 
+
+# Main processed output:
+# one row per unique Ensembl gene ID, with calculated gene length
 HRT_ATLAS_HUMAN_HK_GENE_LENGTHS_FILE = (
     PROCESSED_DATA_DIR / "hrt_atlas_human_hk_gene_lengths.tsv"
 )
 
-HRT_ATLAS_HUMAN_HK_TRANSCRIPT_TO_GENE_MAPPING_QC_FILE = (
-    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_transcript_to_gene_mapping_qc.tsv"
+
+# QC output:
+# number of HRT Atlas transcripts mapped to each Ensembl gene
+HRT_ATLAS_TRANSCRIPTS_PER_GENE_QC_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_transcripts_per_gene_mapping_qc.tsv"
 )
 
+
+# QC output:
+# only genes with more than one HRT Atlas transcript
 HRT_ATLAS_HUMAN_HK_DUPLICATED_GENES_FILE = (
     PROCESSED_DATA_DIR / "hrt_atlas_human_hk_genes_with_multiple_transcripts.tsv"
 )
 
 
-
-
-
-
-# HRT Atlas Human HK genes: ENST to ENSG + gene coordinates - addon with protein coding only
-
-
-BIOMART_HRT_ATLAS_HUMAN_HK_ENST_TO_ENSG_PROTEIN_CODING_DUPLICATES_ALLOWED_FILE = (
-    BIOMART_DIR
-    / "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_geneCoords_proteinCoding_duplicatesAllowed_200526.tsv"
+# QC output:
+# ENST IDs from the original HRT Atlas file that were not returned by BioMart
+HRT_ATLAS_UNMAPPED_ENST_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_unmapped_enst_from_biomart.tsv"
 )
 
-BIOMART_HRT_ATLAS_HUMAN_HK_ENST_TO_ENSG_PROTEIN_CODING_UNIQUE_RESULTS_FILE = (
-    BIOMART_DIR
-    / "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_geneCoords_proteinCoding_uniqueResultsOnly_200526.tsv"
-)
 
-HRT_ATLAS_HUMAN_HK_GENE_LENGTHS_PROTEIN_CODING_FILE = (
-    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_gene_lengths_protein_coding.tsv"
-)
-
-HRT_ATLAS_HUMAN_HK_TRANSCRIPT_TO_GENE_MAPPING_QC_PROTEIN_CODING_FILE = (
-    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_transcript_to_gene_mapping_qc_protein_coding.tsv"
-)
-
-HRT_ATLAS_HUMAN_HK_GENES_WITH_MULTIPLE_TRANSCRIPTS_PROTEIN_CODING_FILE = (
-    PROCESSED_DATA_DIR / "hrt_atlas_human_hk_genes_with_multiple_transcripts_protein_coding.tsv"
+# QC output:
+# summary numbers for ENST-to-ENSG mapping
+HRT_ATLAS_ENST_TO_ENSG_MAPPING_SUMMARY_FILE = (
+    PROCESSED_DATA_DIR / "hrt_atlas_enst_to_ensg_mapping_summary.tsv"
 )
 
 
