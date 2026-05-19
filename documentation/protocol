@@ -27,3 +27,19 @@ The Results of this script were 3 different tables stored in the "data/processed
     1. "hrt_atlas_human_hk_gene_lengths.tsv" This is the main output table for downstream gene-length analysis. It contains one row per unique Ensembl gene ID and includes the calculated "gene_length_bp".
     2. "hrt_atlas_human_hk_transcript_to_gene_mapping_qc.tsv" This table serves control. Since there are way less unique Gene level entries (2156 Gene Stable IDs) than transcript level entries (2833 Transcript Stable IDs) the difference was protocolled with this table.
     3. "hrt_atlas_human_hk_genes_with_multiple_transcripts.tsv" This table contains only genes with more than one corresponding transcript. makes it easier to track that way.
+
+Wrote Python script "check_hrt_atlas_enst_to_ensg_mapping.py" on 20.05.26 to check whether the reduction from the original HRT Atlas Transcript ID list to fewer unique Ensembl Gene Stable IDs is caused by missing BioMart mappings or by multiple transcripts mapping to the same gene.
+    The script used the original HRT Atlas file: "Housekeeping_GenesHuman_HRTatlas.tsv"and the script also used the BioMart export: "biomart_export_HRTAtlas_HumanHKGenes_ENSTmappedtoENSG_duplicatesallowed_180526.tsv"
+    The script compares the original ENST IDs from the HRT Atlas list with the Transcript stable IDs returned by BioMart. This was done to test whether ENST IDs were lost during mapping or whether the reduction from transcript-level entries to gene-level entries is mainly caused by multiple transcripts belonging to the same gene. In other words things got cluttered so more comprehensive tables were needed.
+    The script created/updated 5 output tables stored in "data/processed/...":
+        1. "hrt_atlas_human_hk_gene_lengths.tsv"
+        Main gene-level output table. Contains one row per unique Ensembl Gene stable ID and adds the calculated "gene_length_bp" column.
+        2. "hrt_atlas_transcripts_per_gene_mapping_qc.tsv"
+        QC = qualit control table showing how many HRT Atlas transcript IDs map to each Ensembl Gene stable ID.
+        3. "hrt_atlas_human_hk_genes_with_multiple_transcripts.tsv"
+        Filtered QC table containing only genes with more than one corresponding HRT Atlas transcript.
+        4. "hrt_atlas_unmapped_enst_from_biomart.tsv"
+        Contains HRT Atlas ENST IDs from the original list that were not returned by BioMart.
+        5. "hrt_atlas_enst_to_ensg_mapping_summary.tsv"
+        Summary table containing the main mapping counts.
+! 
