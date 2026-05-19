@@ -1,0 +1,8 @@
+metric	value
+original_hrt_rows	2833
+unique_original_hrt_enst	2833
+biomart_rows	2798
+unique_mapped_enst_in_biomart	2798
+unmapped_enst	35
+unique_mapped_ensg_genes	2156
+genes_with_more_than_one_hk_transcript	478
