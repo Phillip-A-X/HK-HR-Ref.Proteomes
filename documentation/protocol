@@ -46,5 +46,10 @@ Wrote Python script "check_hrt_atlas_enst_to_ensg_mapping.py" on 20.05.26 to che
 -> ! 2833 HRT Atlas ENST IDs, of which 2798 were recovered in Ensembl 115 Biomart. The file "hrt_atlas_unmapped_enst_from_biomart.tsv" shows the 35 unmapped ENST IDs. Currently i treat them as release mismatches (20.05.26.) But i intend to check them in Biomart again using gene symbol or other IDs to map them anyways. The rest of the discrepancy between 2798 ENST Entries and 2156 unique ENSG Entries was due to certain genes having multiple HK transcripts.
     20.05.26 i tried to map the 35 unmapped ENST IDs (Ensembl Transcripts) to Uniprot KB using the Uniprot ID mapping tool. 0 Hits.
 
-Wrote Python script "hrt_atlas_unmappedENST_IDlocator.py" on 20.05.26 to retrieve alternative identifiers for the 35 HRT Atlas ENST IDs that were not recovered in the Ensembl 115 BioMart mapping.
+    Wrote Python script "hrt_atlas_unmappedENST_IDlocator.py" on 20.05.26 to retrieve alternative identifiers for the 35 HRT Atlas ENST IDs that were not recovered in the Ensembl 115 BioMart mapping.
     The script uses the original HRT Atlas file "Housekeeping_GenesHuman_HRTatlas.tsv"
+    
+    Performed rescue mapping attempt for the 35 HRT Atlas ENST IDs that were not recovered in the original Ensembl 115 BioMart ENST-to-ENSG mapping on 20.05.26.
+    The associated HGNC symbols were retrieved from the original HRT Atlas file using the script "hrt_atlas_unmappedENST_IDlocator.py".
+    These HGNC symbols were then used as input in Ensembl 115 BioMart, Human genes (GRCh38.p14) to test whether the unmapped ENST entries could still be assigned to current Ensembl Gene stable IDs.
+    The BioMart export was saved as "biomart_export_HRTAtlas_35unmappedENST_HGNCsymbol_rescueMapping_toENSG_geneCoords_200526.tsv" and 35 HGNC symbols mapped to 38 Ensembl Gene stable ID entries (ENSG).
