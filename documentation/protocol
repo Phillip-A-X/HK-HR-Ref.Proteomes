@@ -53,3 +53,14 @@ Wrote Python script "check_hrt_atlas_enst_to_ensg_mapping.py" on 20.05.26 to che
     The associated HGNC symbols were retrieved from the original HRT Atlas file using the script "hrt_atlas_unmappedENST_IDlocator.py".
     These HGNC symbols were then used as input in Ensembl 115 BioMart, Human genes (GRCh38.p14) to test whether the unmapped ENST entries could still be assigned to current Ensembl Gene stable IDs.
     The BioMart export was saved as "biomart_export_HRTAtlas_35unmappedENST_HGNCsymbol_rescueMapping_toENSG_geneCoords_200526.tsv" and 35 HGNC symbols mapped to 38 Ensembl Gene stable ID entries (ENSG).
+
+Exported "biomart_export_HumanAllGenes_220526.tsv" on 22.05.26 using the following settings: Ensembl 115 Dataset 23262 / 86369 Genes, Human genes (GRCh38.p14), 
+    Filters Gene type: protein_coding
+    Attributes Gene stable ID, Gene start (bp), Gene end (bp), Chromosome/scaffold name
+    This Export included all Protein Coding Genes from Humans for the current dataset.
+
+Wrote Python script "assign_hrt_hk_status_to_all_human_genes.py" on 22.05.26 to read all genes from "biomart_export_HumanAllGenes_220526.tsv" and all hk genes from "biomart_export_HRTatlashkgenelist_ENSGlength180526.tsv" Calculating the genelength of all genes.
+    Also attributing hk status as HK or nonHK to all entries of a combined table. Non-HK genes were defined as all protein-coding genes on the main chromosomes 1–22, X and Y that were not part of the HRT Atlas HK gene set. 
+    Consequently MT, alternative scaffolds, patches, haplotype regions, non-standard contigs, duplicate/alternative genomic annotations was filtered out. The final table is called "human_all_genes_with_hrt_atlas_hk_status.tsv" and contains 20084 Genes.
+
+
