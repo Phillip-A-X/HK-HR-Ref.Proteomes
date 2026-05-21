@@ -40,3 +40,11 @@ Columns:
 - Dataset: Human genes (GRCh38.p14) Ensembl 115
 - Filter: Transcript stable ID(s) [e.g. ENST00000000233]: [ID-list specified] HRT Atlas
 - Attributes Transcript stable ID, Gene stable ID, Gene start (bp), Gene end (bp), Chromosome/scaffold name
+
+##biomart_export_HumanAllGenes_220526.tsv
+- https://www.ensembl.org/biomart/martview/d5187c55b721f402c5ab60972d8ea13f
+- 22.05.26
+- Biomart Export
+- Dataset: 23262 / 86369 Genes Human genes (GRCh38.p14) Ensembl 115
+- Filters Gene type: protein_coding
+- Attributes Gene stable ID, Gene start (bp), Gene end (bp), Chromosome/scaffold name
