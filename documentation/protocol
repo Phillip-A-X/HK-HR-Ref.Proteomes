@@ -63,4 +63,7 @@ Wrote Python script "assign_hrt_hk_status_to_all_human_genes.py" on 22.05.26 to 
     Also attributing hk status as HK or nonHK to all entries of a combined table. Non-HK genes were defined as all protein-coding genes on the main chromosomes 1–22, X and Y that were not part of the HRT Atlas HK gene set. 
     Consequently MT, alternative scaffolds, patches, haplotype regions, non-standard contigs, duplicate/alternative genomic annotations was filtered out. The final table is called "human_all_genes_with_hrt_atlas_hk_status.tsv" and contains 20084 Genes.
 
-
+Wrote Python script "check_hrt_atlas_rescue_mappings.py" on 22.05.26 to check what happened to the 38 ENSG entries recovered by HGNC symbol rescue mapping from the 35 previously unmapped HRT Atlas ENST IDs.
+    The script uses the rescue mapping table "biomart_export_HRTAtlas_35unmappedENST_HGNCsymbol_rescueMapping_toENSG_geneCoords_200526.tsv", which contains Gene stable ID, Gene start (bp), Gene end (bp), and Chromosome/scaffold name.
+    It compares these rescue-mapped ENSG entries against the final table "human_all_genes_with_hrt_atlas_hk_status.tsv".
+    The script checks whether each rescue gene is already present as HK, present as non-HK, or absent from the final gene table. If they are absent - thats prob. due to being filtered out so they stay out, if they are presen as HK nothing is added. If they are present as non-HK i need to investigate whether they can be added.
