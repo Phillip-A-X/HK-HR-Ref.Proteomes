@@ -95,15 +95,15 @@ def main() -> None:
 
     def classify(row):
         if pd.isna(row["hk_status"]):
-            return "absent_from_final_table_do_not_add_automatically"
+            return "absent from final table DO NOT ADD"
 
         if row["hk_status"] == "HK":
-            return "already_present_as_HK_no_change_needed"
+            return "Present as HK"
 
         if row["hk_status"] == "non-HK":
-            return "present_as_nonHK_possible_rescue_candidate_check_manually"
+            return "Present as nonHK research the Gene"
 
-        return "present_with_unknown_status_check_manually"
+        return "present with unknown status"
 
     merged["rescue_decision"] = merged.apply(classify, axis=1)
 
