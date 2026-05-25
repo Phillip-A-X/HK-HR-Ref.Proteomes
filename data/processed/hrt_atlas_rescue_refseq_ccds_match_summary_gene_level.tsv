@@ -1,0 +1,3 @@
+gene_level_rescue_decision	n_genes
+eligible for rescue - unambiguous match to one original HRT Atlas entry	16
+exclude - no RefSeq or CCDS match to original HRT Atlas entry	4
