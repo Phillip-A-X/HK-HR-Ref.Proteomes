@@ -16,3 +16,4 @@ RStudio Version: 2026.04.0+526
 RStudio release date: 2026-04-22
 R version: 4.5.0 (2025-04-11 ucrt)
 ggplot2 4.0.3
+scales 1.4.0
