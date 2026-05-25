@@ -15,5 +15,5 @@ Documents every step of the work, its intention and reasoning and details in chr
 
 
 ## Software Environment 
-To have a simple overview over the software environment in which is work prospered.
+To have a simple overview over the software environment in which this work prospered.
 [Software environment](documentation/software%20environment.md)
