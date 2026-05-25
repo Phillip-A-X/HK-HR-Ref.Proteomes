@@ -55,3 +55,10 @@ Columns:
 - Dataset: 23262 / 86369 Genes Human genes (GRCh38.p14) Ensembl 115
 - Filters Gene type: protein_coding
 - Attributes Gene stable ID, Gene start (bp), Gene end (bp), Chromosome/scaffold name
+
+##biomart_export_humanHK_rescuemappedENSG_toENST_CCD_RefSeq250526.tsv
+- https://www.ensembl.org/biomart/martview/99e4d9b03d9b751102db79c2179c210e
+- 25.05.26
+- Dataset: 20 / 86369 Genes Human genes (GRCh38.p14)
+- Filters Gene stable ID(s) [e.g. ENSG00000000003]: [ID-list specified] Gene type: protein_coding
+- Attributes Gene stable ID Transcript stable ID CCDS ID RefSeq mRNA ID
