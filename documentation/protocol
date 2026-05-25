@@ -86,3 +86,7 @@ Wrote Python script "apply_hrt_atlas_rescue_hk_status.py" on 25.05.26 to apply t
     The updated final table is saved as "human_all_genes_with_hrt_atlas_hk_status_rescued.tsv".
     For transparency the script also creates "hrt_atlas_rescue_applied_log.tsv", to show (in the table) which genes were changed from non-HK to HK.
     This table should be the FINAL Human HK Gene mapping table - further Analysis in R.
+
+R and RStudio environment:
+    RStudio Version 2026.04.0+526, released 2026-04-22.
+    R version 4.5.0 (2025-04-11 ucrt) was used for statistical analysis and plotting.
