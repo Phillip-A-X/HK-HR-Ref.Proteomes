@@ -90,3 +90,7 @@ Wrote Python script "apply_hrt_atlas_rescue_hk_status.py" on 25.05.26 to apply t
 R and RStudio environment:
     RStudio Version 2026.04.0+526, released 2026-04-22.
     R version 4.5.0 (2025-04-11 ucrt) was used for statistical analysis and plotting.
+    packages ggplot2 4.0.3 and scales 1.4.0 were installed.
+
+Wrote the R Script "compare_humanHK_vsnonHK_hrt_gene_lengths.R" on 25.05.26 which reads the table "human_all_genes_with_hrt_atlas_hk_status_rescued.tsv" using the columns: Gene stable ID, Gene start (bp), Gene end (bp), Chromosome/scaffold name, gene_length_bp, hk_status.
+    This script 
