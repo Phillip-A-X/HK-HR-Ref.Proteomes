@@ -78,3 +78,11 @@ Wrote Python script "missingENSG_toHRT_rescue_refseq_ccds_matches.py" on 25.05.2
     Decision whther to add was made on ENSG/gene level, not on BioMart transcript-row level, because one ENSG can have many transcript, RefSeq or CCDS entries.
     Result: 16 rescue mappings were considered eligible because they matched unambiguously to one original HRT Atlas entry through RefSeq and/or CCDS. 4 rescue candidates were ignored/excluded because they were not sufficiently supported or were not unambiguous.
     This step was therefore useful because it recovered additional HRT Atlas HK genes while keeping the final HK/non-HK assignment conservative and traceable.
+
+Wrote Python script "apply_hrt_atlas_rescue_hk_status.py" on 25.05.26 to apply the 16 unambiguous HRT Atlas rescue mappings to the final human gene-level HK/non-HK table.
+    The script uses the table "human_all_genes_with_hrt_atlas_hk_status.tsv", which contains all human protein-coding main-chromosome genes with gene length and initial hk_status such as
+    the gene rescue table "hrt_atlas_rescue_refseq_ccds_match_check_gene_level.tsv", where unambiguous rescue candidates were identified through RefSeq and/or CCDS matching.
+    Only entries with the decision "eligible for rescue - unambiguous match to one original HRT Atlas entry" were chosen included/changed in status to HK.
+    The updated final table is saved as "human_all_genes_with_hrt_atlas_hk_status_rescued.tsv".
+    For transparency the script also creates "hrt_atlas_rescue_applied_log.tsv", to show (in the table) which genes were changed from non-HK to HK.
+    This table should be the FINAL Human HK Gene mapping table - further Analysis in R.
