@@ -67,3 +67,14 @@ Wrote Python script "check_hrt_atlas_rescue_mappings.py" on 22.05.26 to check wh
     The script uses the rescue mapping table "biomart_export_HRTAtlas_35unmappedENST_HGNCsymbol_rescueMapping_toENSG_geneCoords_200526.tsv", which contains Gene stable ID, Gene start (bp), Gene end (bp), and Chromosome/scaffold name.
     It compares these rescue-mapped ENSG entries against the final table "human_all_genes_with_hrt_atlas_hk_status.tsv".
     The script checks whether each rescue gene is already present as HK, present as non-HK, or absent from the final gene table. If they are absent - thats prob. due to being filtered out so they stay out, if they are presen as HK nothing is added. If they are present as non-HK i need to investigate whether they can be added.
+
+Wrote Python script "missingENSG_toHRT_rescue_refseq_ccds_matches.py" on 25.05.26 to check whether the rescue-mapped ENSG entries from the previously unmapped HRT Atlas ENST IDs could be clearly linked back to original HRT Atlas entries.
+    Before this step, 35 HRT Atlas ENST IDs were not recovered in the original ENST-to-ENSG BioMart mapping. A rescue mapping via HGNC symbols had recovered 38 ENSG entries, of which 20 were present in the final human all-gene table as non-HK and therefore possible rescue candidates.
+    To check these candidates more strictly, the 20 rescue ENSG IDs were used in Ensembl 115 BioMart, Human genes (GRCh38.p14), and exported as "biomart_export_humanHK_rescuemappedENSG_toENST_CCD_RefSeq250526.tsv" on 25.05.26.
+    This BioMart export contained the attributes: Gene stable ID, Transcript stable ID, CCDS ID and RefSeq mRNA ID.
+    The script uses this BioMart export and compares its RefSeq mRNA IDs and CCDS IDs against the original HRT Atlas file "Housekeeping_GenesHuman_HRTatlas.tsv", which contains ENST ID, Gene.name/HGNC symbol, RefSeq ID and CCDS ID.
+    The goal was to avoid adding rescue-mapped genes blindly and to only accept mappings that can be linked unambiguously back to exactly one original HRT Atlas entry.
+    The script produced 2 output tables "hrt_atlas_rescue_refseq_ccds_match_check_gene_level.tsv" and "hrt_atlas_rescue_refseq_ccds_match_summary_gene_level.tsv".
+    Decision whther to add was made on ENSG/gene level, not on BioMart transcript-row level, because one ENSG can have many transcript, RefSeq or CCDS entries.
+    Result: 16 rescue mappings were considered eligible because they matched unambiguously to one original HRT Atlas entry through RefSeq and/or CCDS. 4 rescue candidates were ignored/excluded because they were not sufficiently supported or were not unambiguous.
+    This step was therefore useful because it recovered additional HRT Atlas HK genes while keeping the final HK/non-HK assignment conservative and traceable.
