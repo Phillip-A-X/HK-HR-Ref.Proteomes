@@ -9,7 +9,6 @@
 
 # Output:
 # results/tables/human_hrt_gene_length_summary.tsv
-# results/figures/human_hrt_gene_length_boxplot.pdf
 # results/figures/human_hrt_gene_length_boxplot.png
 
 
