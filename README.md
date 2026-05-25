@@ -5,7 +5,7 @@ Computational pipeline for homorepeat analysis in housekeeping proteins using Un
 ## Documentation
 
 ## Data sources
-[Data sources and accession times](documentation/datasources_and_accession_time.md)
+[Data sources and accession times](documentation/datasources_and_accession_time)
 
 
 ## Protocol
@@ -13,4 +13,4 @@ Computational pipeline for homorepeat analysis in housekeeping proteins using Un
 
 
 ## Software Environment 
-[Software environment](documentation/software_environment.md)
+[Software environment](documentation/software_environment)
