@@ -100,3 +100,16 @@ Wrote the R Script "compare_humanHK_vsnonHK_hrt_gene_lengths.R" on 25.05.26 whic
     Key Findings: 
     human_hrt_gene_length_wilcox_test.tsv: HK genes showed a lower median gene length than non-HK genes. Wilcoxon rank-sum test: p = 3.27 × 10^-14.
     human_hrt_gene_length_summary.tsv: median HK = 22.800 bp, median non-HK = 28.549 bp     mean HK = 39.014 bp, mean nonHK = 72.910 bp.
+
+
+
+
+Processed Eisenberg human HK gene list on 31.05.26.
+    The original file "eisenberg_hk_genes.tsv" contains 3804 human HK genes from Eisenberg & Levanon 2013, with one column for HGNC gene symbols and one column for RefSeq mRNA accession IDs in the NM_* format.
+    The HGNC symbols were used as input in Ensembl 115 BioMart, Human genes (GRCh38.p14), to map the Eisenberg HK genes to Ensembl Gene stable IDs and gene coordinates.
+    The BioMart export contained the attributes HGNC symbol, Gene stable ID, Gene start (bp), Gene end (bp), and Chromosome/scaffold name.
+    BioMart returned more rows than the original 3804 HGNC symbols because some HGNC symbols mapped to multiple Ensembl gene entries, for example due to alternative scaffolds, patches, haplotype regions or duplicated/alternative annotations.
+    A Python script was used "Prepare_Eisenberg_HKgenetable.py" to calculate gene_length_bp as Gene end (bp) - Gene start (bp) + 1.
+    The script also filtered the table to main chromosomes 1–22, X and Y, excluding MT, patches, alternative scaffolds, haplotype regions and non-standard contigs.
+    Duplicate Ensembl Gene stable IDs were removed so that each gene is counted only once for gene-length analysis.
+    This produced an Eisenberg HK gene-level table "eisenberg_human_hk_gene_lengths_main_chromosomes.tsv" that can later be compared to the HRT Atlas HK gene set and to the protein-coding human background set.
