@@ -62,3 +62,9 @@ Columns:
 - Dataset: 20 / 86369 Genes Human genes (GRCh38.p14)
 - Filters Gene stable ID(s) [e.g. ENSG00000000003]: [ID-list specified] Gene type: protein_coding
 - Attributes Gene stable ID Transcript stable ID CCDS ID RefSeq mRNA ID
+
+##biomart_export_humanHK_eisenberg.tsv
+- 31.05.26
+- Dataset: 3968 / 86369 Genes Human genes (GRCh38.p14)
+- Filters HGNC symbol(s) [e.g. A1BG]: [ID-list specified] - HGNC symbols from "eisenberg_hk_genes.tsv"
+- Attributes HGNC symbol Gene stable ID Gene start (bp) Gene end (bp) Chromosome/scaffold name
