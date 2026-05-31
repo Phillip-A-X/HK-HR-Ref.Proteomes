@@ -144,3 +144,33 @@ write.table(
   row.names = FALSE,
   quote = FALSE
 )
+
+
+# Mean gene length barplot for Human HRT Atlas HK vs non-HK
+
+png(
+  filename = file.path(figure_output_dir, "human_hrt_mean_gene_length_barplot.png"),
+  width = 1200,
+  height = 1000,
+  res = 200
+)
+
+ggplot(
+  humanhkgenelengthcompstat_table,
+  aes(x = hk_status, y = mean_gene_length_bp)
+) +
+  geom_col(width = 0.6) +
+  geom_text(
+    aes(label = comma(round(mean_gene_length_bp, 0))),
+    vjust = -0.5,
+    size = 4
+  ) +
+  scale_y_continuous(labels = label_comma()) +
+  labs(
+    title = "Human HRT Atlas HK vs non-HK mean gene length",
+    x = "Gene status",
+    y = "Mean gene length (bp)"
+  ) +
+  theme_classic()
+
+dev.off()
