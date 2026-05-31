@@ -1,0 +1,2 @@
+test	comparison	mean_HK_bp	mean_nonHK_bp	mean_difference_bp	statistic	df	p_value	conf_int_low	conf_int_high
+Welch t-test	HK vs non-HK gene_length_bp	48942.7958309537	73532.2783138343	-24589.4824828805	-15.5195700522416	11460.8225700878	9.00186933468585e-54	-27695.2122291668	-21483.7527365943
