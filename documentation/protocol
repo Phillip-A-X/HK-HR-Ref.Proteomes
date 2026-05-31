@@ -113,3 +113,15 @@ Processed Eisenberg human HK gene list on 31.05.26.
     The script also filtered the table to main chromosomes 1–22, X and Y, excluding MT, patches, alternative scaffolds, haplotype regions and non-standard contigs.
     Duplicate Ensembl Gene stable IDs were removed so that each gene is counted only once for gene-length analysis.
     This produced an Eisenberg HK gene-level table "eisenberg_human_hk_gene_lengths_main_chromosomes.tsv" that can later be compared to the HRT Atlas HK gene set and to the protein-coding human background set.
+    Another script was written to create a final table "human_all_genes_with_eisenberg_hk_status.tsv" in which 3502 genes were classified as Eisenberg HK genes and 16582 genes as non-HK genes 
+    of the grandtotal which contains all 20084 human protein-coding main-chromosome genes.
+
+Wrote R script "humanHK_eisenberg_genelengthcompare.R" to compare human Eisenberg HK and non-HK gene lengths based on the final human protein-coding main-chromosome background table.
+    The script uses "human_all_genes_with_eisenberg_hk_status.tsv", which contains all 20084 human protein-coding main-chromosome genes with calculated gene_length_bp and Eisenberg-based hk_status.
+    It creates the summary table "human_eisenberg_gene_length_summary.tsv", containing descriptive statistics for HK and non-HK genes.
+    Mean gene length was 48942.80 bp for Eisenberg HK genes and 73532.28 bp for non-HK genes.
+    Median gene length was 27784.5 bp for Eisenberg HK genes and 27832.5 bp for non-HK genes.
+    The script also creates a log10-scaled boxplot and a mean gene length barplot to visualize the HK vs non-HK comparison.
+    A Welch t-test was used to directly compare mean gene lengths between HK and non-HK genes.
+    Result: the mean gene length difference was -24589.48 bp, meaning Eisenberg HK genes were on average shorter than non-HK genes.
+    The Welch t-test was highly significant with p = 9.00e-54, indicating a statistically significant difference in mean gene length between Eisenberg HK and non-HK genes.
