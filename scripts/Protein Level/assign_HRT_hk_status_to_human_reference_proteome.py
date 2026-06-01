@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # Allows importing from lib/ when running this script from the project root
-sys.path.append(str(Path(__file__).resolve().parents[1]))
+sys.path.append(str(Path(__file__).resolve().parents[2]))
 
 from lib.constants import RAW_DATA_DIR, PROCESSED_DATA_DIR
 
