@@ -125,3 +125,12 @@ Wrote R script "humanHK_eisenberg_genelengthcompare.R" to compare human Eisenber
     A Welch t-test was used to directly compare mean gene lengths between HK and non-HK genes.
     Result: the mean gene length difference was -24589.48 bp, meaning Eisenberg HK genes were on average shorter than non-HK genes.
     The Welch t-test was highly significant with p = 9.00e-54, indicating a statistically significant difference in mean gene length between Eisenberg HK and non-HK genes.
+
+Protein-level HRT Atlas mapping:
+    2166/2172 HRT Atlas HK ENSG IDs were mapped to UniProtKB/Swiss-Prot accessions using Uniprot ID Mapping Tool resulting in 2169 Hits. 6 ENSG IDs were not found. 
+    Afterwards intersected with the human UniProt Reference Proteome UP000005640_9606 from release 2026_01 using a python script.
+    The Human reference proteome contained 20659 protein sequences.
+    out of the 2169 Hits 2163 proteins were classified as HK proteins and 18496 proteins as non-HK proteins.
+    5 mapped UniProt accessions were not found in the reference proteome FASTA and were documented separately.
+    The resulting protein-level table is used for downstream HK vs non-HK protein length comparison.
+
