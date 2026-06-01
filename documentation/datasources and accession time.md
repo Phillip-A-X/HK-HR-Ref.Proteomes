@@ -68,3 +68,15 @@ Columns:
 - Dataset: 3968 / 86369 Genes Human genes (GRCh38.p14)
 - Filters HGNC symbol(s) [e.g. A1BG]: [ID-list specified] - HGNC symbols from "eisenberg_hk_genes.tsv"
 - Attributes HGNC symbol Gene stable ID Gene start (bp) Gene end (bp) Chromosome/scaffold name
+
+##Uniprot ID Mapping
+- 01.06.26
+- lpNLBuz77y
+- HRT HUMAN HK GENELIST as ENSG -> UniprotKB/Swiss Prot
+- 2169 Hits
+
+##Uniprot ID Mapping
+- 01.06.26
+- hhTdC1dNhx
+- Eisenberg HUMAN HK GENELIST as ENSG -> UniprotKB/SwissProt
+- 3483 Hits
