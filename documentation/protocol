@@ -134,3 +134,12 @@ Protein-level HRT Atlas mapping:
     5 mapped UniProt accessions were not found in the reference proteome FASTA and were documented separately.
     The resulting protein-level table is used for downstream HK vs non-HK protein length comparison.
 
+Wrote R script 02.06.26 "HRTatlas_Human_HK_Protein_Length_stats.R" to analyze protein lengths of human HRT Atlas HK and non-HK proteins.
+    The script uses the final protein-level table "human_reference_proteome_with_hrt_atlas_hk_status.tsv", which contains all proteins from the human UniProt Reference Proteome 2026_01 with protein_length_aa and hk_status.
+    It creates a summary table with descriptive statistics for HK and non-HK proteins, including n, mean, median, sd, quartiles, IQR, min and max protein length in aa.
+    It also creates a log10-scaled boxplot and a mean protein length barplot to visualize HK vs non-HK protein length differences.
+    A Wilcoxon rank-sum test was used to test whether the HK and non-HK protein length distributions differ.
+    A Welch t-test was used to directly compare mean protein lengths between HK and non-HK proteins.
+    Result: 2163 proteins were classified as HRT Atlas HK proteins and 18496 proteins as non-HK proteins.
+    Mean protein length was 458 aa for HK proteins and 566 aa for non-HK proteins.
+    The Welch t-test showed a significant difference in mean protein length, with HK proteins being shorter on average than non-HK proteins.
