@@ -217,3 +217,50 @@ write.table(
   row.names = FALSE,
   quote = FALSE
 )
+
+# Protein length distribution: log10 protein length vs number of proteins
+
+png(
+  filename = file.path(figure_output_dir, "human_hrt_protein_length_distribution_freqpoly_log10.png"),
+  width = 1400,
+  height = 1000,
+  res = 200
+)
+
+ggplot(df, aes(x = log10(protein_length_aa), color = hk_status)) +
+  geom_freqpoly(
+    bins = 50,
+    linewidth = 1.1
+  ) +
+  labs(
+    title = "Human HRT Atlas HK vs non-HK protein length distribution",
+    x = "log10 protein length (aa)",
+    y = "Number of proteins",
+    color = "Protein status"
+  ) +
+  theme_classic()
+
+dev.off()
+
+# Protein length distribution plot after log10 transformation
+# x-axis = log10 protein length
+# y-axis = density
+
+png(
+  filename = file.path(figure_output_dir, "human_hrt_protein_length_distribution_log10.png"),
+  width = 1400,
+  height = 1000,
+  res = 200
+)
+
+ggplot(df, aes(x = log10(protein_length_aa), fill = hk_status)) +
+  geom_density(alpha = 0.45) +
+  labs(
+    title = "Human HRT Atlas HK vs non-HK protein length distribution",
+    x = "log10 protein length (aa)",
+    y = "Density",
+    fill = "Protein status"
+  ) +
+  theme_classic()
+
+dev.off()
