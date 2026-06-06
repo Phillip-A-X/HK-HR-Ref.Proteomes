@@ -143,3 +143,19 @@ Wrote R script 02.06.26 "HRTatlas_Human_HK_Protein_Length_stats.R" to analyze pr
     Result: 2163 proteins were classified as HRT Atlas HK proteins and 18496 proteins as non-HK proteins.
     Mean protein length was 458 aa for HK proteins and 566 aa for non-HK proteins.
     The Welch t-test showed a significant difference in mean protein length, with HK proteins being shorter on average than non-HK proteins.
+
+Added Welch t-test to the HRT Atlas human gene-length analysis on 03.06.26.
+    The Welch t-test was added to the R script for HRT Atlas human gene lengths to directly compare mean gene_length_bp between HK and non-HK genes.
+    This was added because the Wilcoxon rank-sum test compares the rank distributions, while the Welch t-test more directly tests whether the mean gene lengths differ between both groups.
+    The output table "human_hrt_gene_length_welch_t_test.tsv" was created and stored in the results/tables directory.
+    This table contains the test name, comparison, mean HK gene length, mean non-HK gene length, mean difference, test statistic, degrees of freedom, p-value and confidence interval.
+
+Added log10 length distribution plots to the scripts "HRTatlas_Human_HK_Protein_Length_stats.R" and "compare_humanHK_vsnonHK_hrt_gene_lengths.R" for HRT Atlas human HK and non-HK genes/proteins on 03.06.26.
+    The gene-level plot was added to show the distribution of gene lengths for HRT Atlas HK and non-HK genes.
+    The protein-level plot was added to show the distribution of protein lengths for HRT Atlas HK and non-HK proteins.
+    For both plots, the x-axis shows the log10-transformed length and the y-axis shows the number/density depending on the plot version.
+    The gene plot uses gene_length_bp from "human_all_genes_with_hrt_atlas_hk_status_rescued.tsv".
+    The protein plot uses protein_length_aa from "human_reference_proteome_with_hrt_atlas_hk_status.tsv" / "HRTAtlas Human HK Protein Map.tsv".
+    These plots were added to visualize the complete length distributions instead of only comparing mean or median values.
+    The distribution plots make it easier to inspect whether HK genes/proteins are shifted toward shorter lengths compared with non-HK genes/proteins.
+    These plots are as of now not uploaded but the script is (03.06.26)
