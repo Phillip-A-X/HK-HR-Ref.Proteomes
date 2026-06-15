@@ -190,6 +190,8 @@ Researched HK Genelists for multiple Organisms of different taxons. Not All list
 	Giaever et al. 2002
 		S.Cerevisae Essential Genes
 		https://rdrr.io/bioc/SLGI/man/essglist.html
+	
+		Danio rerio (Zebrafish) was considered as an additional vertebrate species (and representative for fishes which are lacking). However, available studies mainly provided small sets of candidate reference genes for qRT-PCR normalization rather than a genome-wide housekeeping gene classification. Therefore, Danio rerio was not included in the HK/non-HK gene length analysis.
 
 
 Downloaded Ensembl/Ensembl 115 Genomes annotation files for additional species and extracted gene lengths. (14.06.2026)
