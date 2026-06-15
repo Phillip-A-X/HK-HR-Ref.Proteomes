@@ -187,6 +187,10 @@ Researched HK Genelists for multiple Organisms of different taxons. Not All list
     Corrales et al. 2017 (The D. melanogaster housekeeping gene set was taken from the documented workflow of Körner (2025), where it is linked to Corrales et al. (2017) as the primary source. The file was used as a machine-readable version of the Corrales housekeeping gene set and was then mapped to the Ensembl GTF release 115 annotation used in this thesis.)
 	    D.Melanogaster
         https://doi.org/10.1101/gr.211433.116
+	Giaever et al. 2002
+		S.Cerevisae Essential Genes
+		https://rdrr.io/bioc/SLGI/man/essglist.html
+
 
 Downloaded Ensembl/Ensembl 115 Genomes annotation files for additional species and extracted gene lengths. (14.06.2026)
     For the vertebrate species Gorilla gorilla, Pongo abelii, Pan troglodytes, Gallus gallus, Macaca mulatta, Monodelphis domestica and Ornithorhynchus anatinus, GTF annotation files were downloaded directly from Ensembl release 115.
