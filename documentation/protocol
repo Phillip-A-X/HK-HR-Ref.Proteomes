@@ -159,3 +159,33 @@ Added log10 length distribution plots to the scripts "HRTatlas_Human_HK_Protein_
     These plots were added to visualize the complete length distributions instead of only comparing mean or median values.
     The distribution plots make it easier to inspect whether HK genes/proteins are shifted toward shorter lengths compared with non-HK genes/proteins.
     These plots are as of now not uploaded but the script is (03.06.26)
+
+
+
+Downloaded Ensembl/Ensembl 115 Genomes annotation files for additional species and extracted gene lengths. (14.06.2026)
+    For the vertebrate species Gorilla gorilla, Pongo abelii, Pan troglodytes, Gallus gallus, Macaca mulatta, Monodelphis domestica and Ornithorhynchus anatinus, GTF annotation files were downloaded directly from Ensembl release 115.
+    The files were downloaded from the Ensembl FTP server and stored under data/raw/ensembl/[species]/release-115/.
+    For these species, the chromosome-level .chr.gtf.gz files were used where available.
+
+    For the non-vertebrate species Caenorhabditis elegans, Drosophila melanogaster, Arabidopsis thaliana and Saccharomyces cerevisiae, GTF annotation files were downloaded from Ensembl Genomes release 62.
+    C. elegans and Drosophila were downloaded from Ensembl Metazoa, Arabidopsis from Ensembl Plants and S. cerevisiae from Ensembl Fungi.
+    The files were stored under data/raw/ensembl_genomes/[division]/[species]/release-62/.
+
+    E. coli was handled separately because bacterial annotations are provided as GFF3 rather than GTF.
+    The annotation for Escherichia coli str. K-12 substr. MG1655 was downloaded from Ensembl Bacteria release 62.
+    The selected file was the chromosome-level GFF3 file for escherichia_coli_str_k_12_substr_mg1655_gca_000005845 and was stored under data/raw/ensembl_genomes/bacteria/escherichia_coli_k12_mg1655/release-62/.
+
+    The GTF files were parsed with the script extract_gene_lengths_from_gtf.py.
+    The script extracts only entries with feature type "gene" and genetype "protein_coding".
+    For each gene, species, gene_id, gene_name, genetype, chromosome, start, end, gene_length_bp, strand and source_file were written to output tables.
+    Gene length was calculated as end - start + 1.
+    Output tables were written to data/processed/gene_lengths/.
+
+    For E. coli, the GFF3 file was parsed with the script extract_gene_lengths_from_gff3.py.
+    The script extracts protein-coding gene entries and uses the GFF3 gene_id field as stable gene identifier.
+    For E. coli this corresponds to the Blattner IDs such as b0001, b0002 and b0003, which are compatible with the essential-gene source table.
+    The E. coli output table was also written to data/processed/gene_lengths/.
+
+    The generated gene-length tables contain protein-coding background genes for all downloaded species.
+    These tables provide the annotation-derived gene coordinates and gene lengths, but they do not contain HK status.
+    HK status will be assigned separately by mapping the organism-specific HK/essential gene lists to the corresponding gene IDs in these annotation-derived tables.
