@@ -1,5 +1,7 @@
 #Datasources
 
+#Human
+
 ##biomartexport_100526_humanuniprotid.tsv
 - https://www.ensembl.org/biomart/martview/edfc4b2acd0521d29cc397c4cd58aaab
 - 10.05.26
@@ -80,3 +82,21 @@ Columns:
 - hhTdC1dNhx
 - Eisenberg HUMAN HK GENELIST as ENSG -> UniprotKB/SwissProt
 - 3483 Hits
+
+#Other Organisms
+
+##Ensembl 115 GTF Curl
+- 14.06.26
+- Gallus_gallus 29558 genes 16711 protein coding
+- Ornithorhynchus_anatinus 25693 genes 16976 protein coding
+- Monodelphis_domestica 33428 genes 20425 protein coding
+- Macaca_mulatta 34884 genes 21369 protein coding
+- Pongo_abelii 30444 genes 19553 protein coding
+- Gorilla_gorilla 29518 genes 21256 protein coding
+- Pan_troglodytes 31373 genes 21879 protein coding
+- Drosophila_melanogaster 24204 genes 13981 protein coding
+- Caenorhabditis_elegans 46926 genes 19985 protein coding
+- Arabidopsis_thaliana 32833 genes 27628 protein coding
+- Saccharomyces_cerevisiae 7127 genes 6600 protein coding
+- EColi  4237 protein coding
+
