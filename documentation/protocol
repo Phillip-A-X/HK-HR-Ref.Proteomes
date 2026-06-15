@@ -184,7 +184,7 @@ Researched HK Genelists for multiple Organisms of different taxons. Not All list
 	    E.Coli
         In the footnotes i found:
         https://www.genome.wisc.edu/Gerdes2003/
-    Corrales et al. 2017
+    Corrales et al. 2017 (The D. melanogaster housekeeping gene set was taken from the documented workflow of Körner (2025), where it is linked to Corrales et al. (2017) as the primary source. The file was used as a machine-readable version of the Corrales housekeeping gene set and was then mapped to the Ensembl GTF release 115 annotation used in this thesis.)
 	    D.Melanogaster
         https://doi.org/10.1101/gr.211433.116
 
