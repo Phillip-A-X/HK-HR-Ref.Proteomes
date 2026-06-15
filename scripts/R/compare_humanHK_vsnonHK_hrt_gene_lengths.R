@@ -96,7 +96,7 @@ print(humanhkgenelengthcompstat_table)
 # Gene lengths are sometimes strongly right-skewed.
 # Therefore, the y-axis is log10-scaled for readability.
 
-# Boxplot using ggplot2 and scales.
+# Boxplot using ggplot2
 
 library(ggplot2)
 library(scales)
@@ -145,6 +145,32 @@ write.table(
   quote = FALSE
 )
 
+# Welch t-test for comparing mean gene lengths
+
+t_test_result <- t.test(hk_lengths, nonhk_lengths)
+
+print(t_test_result)
+
+t_test_output <- data.frame(
+  test = "Welch t-test",
+  comparison = "HK vs non-HK gene_length_bp",
+  mean_HK_bp = mean(hk_lengths),
+  mean_nonHK_bp = mean(nonhk_lengths),
+  mean_difference_bp = mean(hk_lengths) - mean(nonhk_lengths),
+  statistic = unname(t_test_result$statistic),
+  df = unname(t_test_result$parameter),
+  p_value = t_test_result$p.value,
+  conf_int_low = t_test_result$conf.int[1],
+  conf_int_high = t_test_result$conf.int[2]
+)
+
+write.table(
+  t_test_output,
+  file = file.path(table_output_dir, "human_hrt_gene_length_welch_t_test.tsv"),
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
 
 # Mean gene length barplot for Human HRT Atlas HK vs non-HK
 
@@ -170,6 +196,61 @@ ggplot(
     title = "Human HRT Atlas HK vs non-HK mean gene length",
     x = "Gene status",
     y = "Mean gene length (bp)"
+  ) +
+  theme_classic()
+
+dev.off()
+
+# Gene length distribution plot after log10 transformation
+# x-axis = log10 gene length
+# y-axis = density
+
+png(
+  filename = file.path(figure_output_dir, "human_hrt_gene_length_distribution_log10.png"),
+  width = 1400,
+  height = 1000,
+  res = 200
+)
+
+ggplot(df, aes(x = log10(gene_length_bp), fill = hk_status)) +
+  geom_density(alpha = 0.45) +
+  labs(
+    title = "Human HRT Atlas HK vs non-HK gene length distribution",
+    x = "log10 gene length (bp)",
+    y = "Density",
+    fill = "Gene status"
+  ) +
+  theme_classic()
+
+dev.off()
+
+# Gene length distribution histogram after log10 transformation
+# x-axis = log10 gene length
+# y-axis = number of genes
+
+# Gene length distribution histogram after log10 transformation
+# Faceted to avoid overlap of HK and non-HK distributions
+
+# Gene length distribution: log10 gene length vs number of genes
+# Frequency polygon avoids color overlap
+
+png(
+  filename = file.path(figure_output_dir, "human_hrt_gene_length_distribution_freqpoly_log10.png"),
+  width = 1400,
+  height = 1000,
+  res = 200
+)
+
+ggplot(df, aes(x = log10(gene_length_bp), color = hk_status)) +
+  geom_freqpoly(
+    bins = 50,
+    linewidth = 1.1
+  ) +
+  labs(
+    title = "Human HRT Atlas HK vs non-HK gene length distribution",
+    x = "log10 gene length (bp)",
+    y = "Number of genes",
+    color = "Gene status"
   ) +
   theme_classic()
 

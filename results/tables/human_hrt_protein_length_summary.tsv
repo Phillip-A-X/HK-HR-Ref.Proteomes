@@ -1,0 +1,3 @@
+hk_status	n	mean_protein_length_aa	median_protein_length_aa	sd_protein_length_aa	min_protein_length_aa	q1_protein_length_aa	q3_protein_length_aa	iqr_protein_length_aa	max_protein_length_aa
+HK	2163	457.713823393435	342	459.377094969229	25	197	562.5	365.5	7388
+non-HK	18496	565.888137975779	419	621.100377053211	2	253	679	426	34350
