@@ -221,3 +221,42 @@ Downloaded Ensembl/Ensembl 115 Genomes annotation files for additional species a
     The generated gene-length tables contain protein-coding background genes for all downloaded species.
     These tables provide the annotation-derived gene coordinates and gene lengths, but they do not contain HK status.
     HK status will be assigned separately by mapping the organism-specific HK/essential gene lists to the corresponding gene IDs in these annotation-derived tables.
+
+
+
+
+Performed E. coli gene-length analysis using the Gerdes et al. 2003 essential-gene list as HK/essential-gene proxy.
+	The E. coli protein-coding background gene table was generated from the Ensembl Bacteria GFF3 annotation for Escherichia coli str. K-12 substr. MG1655.
+    The annotation-derived gene-length table contains 4237 protein-coding genes with gene_id, gene_name, genetype, chromosome, start, end, gene_length_bp, strand, description and source_file.
+    The gene_id field corresponds to the Blattner IDs such as b0001, b0002 and b0003.
+
+    The Gerdes et al. 2003 essential-gene list was used as the HK/essential-gene proxy for E. coli.
+    Essential genes were extracted from the source table by selecting entries with E/N = E and using the Blattner ID column for mapping.
+    In total, 616 essential genes were extracted from the Gerdes source list.
+    These IDs were mapped against the annotation-derived E. coli gene-length table using gene_id.
+    609 essential genes were successfully matched to protein-coding genes in the Ensembl Bacteria annotation.
+    7 essential-gene IDs from the source list were not matched.
+    All remaining protein-coding genes were classified as non-HK/non-essential.
+
+    The final E. coli HK-status table contains 4237 protein-coding genes.
+    Of these, 609 genes were classified as HK/essential-proxy genes and 3628 genes as non-HK genes.
+    The output table was written to data/processed/gene_lengths_with_hk_status/escherichia_coli_k12_mg1655_gene_lengths_with_hk_status.tsv.
+
+    Statistical analysis was performed in R using the script "E Coli Statistical Analysis.R".
+    The analysis compared gene_length_bp between essential/HK-proxy genes and non-HK genes.
+    Descriptive statistics were calculated for both groups, including n, mean, median, standard deviation, quartiles, IQR, minimum and maximum gene length.
+    Essential/HK-proxy genes had a mean gene length of 826.67 bp and a median gene length of 675 bp.
+    non-HK genes had a mean gene length of 957.44 bp and a median gene length of 861 bp.
+
+    Three statistical tests were applied.
+    A Wilcoxon rank-sum test was used to test whether the gene-length rank distributions differ between essential/HK-proxy and non-HK genes.
+    A Welch t-test on raw gene_length_bp was used to test whether mean gene length differs between both groups.
+    An additional Welch t-test on log10-transformed gene lengths was used as a robustness check because gene lengths are right-skewed.
+
+    The Wilcoxon rank-sum test gave p = 3.982111e-09.
+    The Welch t-test on raw gene lengths gave p = 3.608683e-07.
+    The Welch t-test on log10-transformed gene lengths gave p = 0.000118.
+    All three tests indicate a significant difference between essential/HK-proxy and non-HK gene lengths in E. coli.
+
+    The E. coli result suggests that essential/HK-proxy genes are shorter than non-HK genes in this dataset.
+    This pattern is visible in both the mean and median gene lengths and is supported by the rank-based test, the raw mean comparison and the log10-transformed mean comparison.
