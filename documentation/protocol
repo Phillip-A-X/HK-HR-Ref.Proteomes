@@ -191,7 +191,30 @@ Researched HK Genelists for multiple Organisms of different taxons. Not All list
 		S.Cerevisae Essential Genes
 		https://rdrr.io/bioc/SLGI/man/essglist.html
 	
-		Danio rerio (Zebrafish) was considered as an additional vertebrate species (and representative for fishes which are lacking). However, available studies mainly provided small sets of candidate reference genes for qRT-PCR normalization rather than a genome-wide housekeeping gene classification. Therefore, Danio rerio was not included in the HK/non-HK gene length analysis.
+	Considered Danio rerio (Zebrafish) as additional vertebrate species.
+    	Excluded because no suitable genome-wide HK gene list was found.
+    	Available sources mainly provide small qRT-PCR/reference-gene candidate sets, not full HK/non-HK classifications.
+
+	Considered Xenopus tropicalis as amphibian representative.
+    	Excluded because no suitable genome-wide HK gene list was found.
+    	Ensembl 115 annotation is available, but available HK-related sources mainly describe reference genes.
+
+	Considered Acipenser sinensis as fish representative.
+    	Excluded because the species is not available in Ensembl 115.
+    	The available HK/TSG study did not provide a directly usable genome-wide HK gene list for the current workflow.
+
+	Considered Ichthyophis bannanicus as amphibian/caecilian representative.
+    	Excluded because the species is not available in Ensembl 115.
+    	Available HKG information would require a separate expression-matrix-based HK classification.
+
+	Considered Microcaecilia unicolor and Rhinatrema bivittatum as additional caecilian representatives.
+    	Excluded because they are not available in Ensembl 115.
+    	No directly usable genome-wide HK gene lists were found for the current workflow.
+
+	Considered Cricetulus griseus / CHO.
+    	Excluded because the available Joshi et al. 2022 dataset refers to CHO/ovary-cell context rather than a full organismal HK classification.
+    	Not suitable for the organism-level gene-length comparison.
+
 
 
 Downloaded Ensembl/Ensembl 115 Genomes annotation files for additional species and extracted gene lengths. (14.06.2026)
