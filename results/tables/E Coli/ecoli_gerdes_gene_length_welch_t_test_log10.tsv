@@ -1,0 +1,2 @@
+test	comparison	mean_log10_HK	mean_log10_nonHK	mean_log10_difference	statistic	df	p_value	conf_int_low	conf_int_high
+Welch t-test	HK/essential-proxy vs non-HK log10(gene_length_bp)	2.8360485847903	2.88153421403624	-0.0454856292459329	-3.86620751163027	947.915271392876	0.000118078924970404	-0.0685739324747496	-0.0223973260171162

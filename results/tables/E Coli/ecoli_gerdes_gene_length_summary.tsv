@@ -1,0 +1,3 @@
+hk_status	n	mean_gene_length_bp	median_gene_length_bp	sd_gene_length_bp	q1_gene_length_bp	q3_gene_length_bp	iqr_gene_length_bp	min_gene_length_bp	max_gene_length_bp	mean_log10_gene_length	median_log10_gene_length
+HK	609	826.669950738916	675	573.355079456282	423	1017	594	201	4461	2.8360485847903	2.82930377283102
+non-HK	3628	957.437706725469	861	633.266088224451	519	1254.75	735.75	42	7077	2.88153421403624	2.93500315145365

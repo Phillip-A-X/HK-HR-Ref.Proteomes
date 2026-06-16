@@ -1,0 +1,2 @@
+test	comparison	statistic	p_value
+Wilcoxon rank-sum test	HK/essential-proxy vs non-HK gene_length_bp	940336.5	3.9821106721175e-09
