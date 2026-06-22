@@ -283,3 +283,20 @@ Performed E. coli gene-length analysis using the Gerdes et al. 2003 essential-ge
 
     The E. coli result suggests that essential/HK-proxy genes are shorter than non-HK genes in this dataset.
     This pattern is visible in both the mean and median gene lengths and is supported by the rank-based test, the raw mean comparison and the log10-transformed mean comparison.
+
+
+
+Validated the Ensembl 115 Pan troglodytes gene-length background using both the chromosome-restricted and complete GTF annotations.
+	The original chromosome-restricted file, Pan_troglodytes.Pan_tro_3.0.115.chr.gtf.gz, contained 31,373 genes, including 21,879 genes with the exact biotype protein_coding.
+	The complete file, Pan_troglodytes.Pan_tro_3.0.115.gtf.gz, contained 33,729 unique genes, including 23,302 genes with the exact biotype protein_coding.
+	The remaining Ensembl coding-gene count of 23,534 was reproduced by additionally including 232 IG/TR coding genes.
+	The difference between the complete and chromosome-restricted annotations comprised 2,356 genes, including 1,423 protein-coding genes located on non-chromosomal sequences.
+	This confirmed that the lower original Pan troglodytes gene count resulted from using the chromosome-restricted GTF and not from a parsing error.
+
+Validated the Ensembl 115 Homo sapiens chromosome-restricted gene-length background and HRT Atlas HK mapping in a newly generated dataset.
+	The Homo_sapiens.GRCh38.115.chr.gtf.gz file was parsed at the gene level, retaining only rows with feature == gene and gene_biotype == protein_coding.
+	Gene length was calculated as end - start + 1, representing the complete genomic gene span including exons, introns and UTRs.
+	The HRT Atlas HK list was mapped directly using Ensembl Gene IDs, with optional version suffixes removed before matching.
+	Each retained protein-coding gene was classified as HK when its ENSG ID occurred in the HRT Atlas list and as non-HK otherwise.
+	The resulting table contains species, gene_id, gene_name, genetype, chromosome, start, end, gene_length_bp, strand, hk_status, hk_source and source_file.
+	The final HK vs non-HK gene-length comparison was checked using descriptive statistics, a Wilcoxon rank-sum test, a Welch t-test and multiple distribution plots.
