@@ -374,3 +374,13 @@ Validated the Ensembl 115 Homo sapiens chromosome-restricted gene-length backgro
     For each tissue, gene_length_bp and log10_gene_length_bp can be analyzed among genes with nTPM >= 1.
     Planned summaries include number of expressed genes per tissue, mean gene length, median gene length, variance, standard deviation and distribution plots.
     The same conceptual workflow can later be extended to protein length after mapping the expressed genes to UniProt/reference-proteome protein lengths.
+
+Because HPA-GTEx is based on Ensembl 109, I performed a robustness check using an Ensembl-109 human protein-coding main-chromosome background.
+
+    The Ensembl-109 background slightly improved the HPA-GTEx mapping rate from 97.714% to 97.783%.
+    This corresponded to only 14 additional mapped HPA genes and 8 additional expressed genes after applying the nTPM >= 1 threshold.
+    The number of expressed gene-tissue pairs increased only from 481019 to 481181.
+    All 36 tissues remained represented in both mappings.
+
+    Therefore, the annotation-release mismatch between HPA-GTEx and the Ensembl-115 background had only a negligible effect on mapping.
+    The main analysis was therefore continued with the predefined Ensembl-115 protein-coding main-chromosome background.
