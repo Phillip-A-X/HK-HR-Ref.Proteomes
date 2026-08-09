@@ -300,3 +300,77 @@ Validated the Ensembl 115 Homo sapiens chromosome-restricted gene-length backgro
 	Each retained protein-coding gene was classified as HK when its ENSG ID occurred in the HRT Atlas list and as non-HK otherwise.
 	The resulting table contains species, gene_id, gene_name, genetype, chromosome, start, end, gene_length_bp, strand, hk_status, hk_source and source_file.
 	The final HK vs non-HK gene-length comparison was checked using descriptive statistics, a Wilcoxon rank-sum test, a Welch t-test and multiple distribution plots.
+
+
+
+
+!!!! -------   Switched the human analysis from a pure HK vs non-HK comparison to a tissue-wise human expression analysis.
+
+    The new analysis uses Human Protein Atlas GTEx-based RNA tissue data as tissue-expression source.
+    The selected HPA file was rna_tissue_gtex.tsv, not the detail/subtype file.
+    This file was chosen because it provides gene-level RNA expression data by tissue and is therefore directly suitable for a Gene × Tissue × nTPM analysis.
+    The detail file was not used because it contains more fine-grained tissue subtype/sample information and would make the first analysis unnecessarily complex.
+
+    The HPA-GTEx file contains gene-level expression information for 36 GTEx tissues.
+    Expression values are given as nTPM.
+    nTPM was used as the expression measure, and genes were defined as expressed in a tissue when nTPM >= 1.
+    This cutoff was chosen as a practical expression threshold to distinguish genes with detectable/relevant expression from genes with very low or absent expression.
+    Importantly, this threshold defines tissue-expressed genes, not strictly tissue-specific genes.
+
+    The human gene-length background remained the previously generated Ensembl release 115 protein-coding main-chromosome table.
+    This background contains 20084 human protein-coding genes located on chromosomes 1–22, X and Y.
+    Gene length was already calculated as Gene end (bp) - Gene start (bp) + 1.
+    The tissue-expression data were mapped to this background using Ensembl gene IDs.
+
+    The HPA-GTEx dataset and the Ensembl 115 background are not based on exactly the same Ensembl release.
+    HPA-GTEx uses HPA/GTEx gene-level RNA data based on an older Ensembl annotation, whereas the gene-length background uses Ensembl release 115.
+    Therefore, Ensembl gene IDs were normalized before mapping by removing possible version suffixes after a dot.
+    For example, ENSG00000123456.15 would be converted to ENSG00000123456.
+    In the downloaded HPA file, no obvious suffixes were observed during manual inspection, but the normalization step was kept in the script for safety.
+
+    The mapping script combined the HPA-GTEx tissue-expression table with the Ensembl 115 human protein-coding main-chromosome gene-length background.
+    The main output table was written as:
+        data/processed/hpa_gtex/HumanProteinCodingGenes_bytissue_onchromosomes.tsv
+
+    This final table contains mapped human protein-coding genes with tissue information, nTPM values, gene_length_bp and log10_gene_length_bp.
+    Only gene-tissue pairs with nTPM >= 1 were retained in the final tissue-expression table.
+    Therefore, the final table represents protein-coding genes expressed in each tissue according to the selected threshold.
+
+    Mapping QC showed that the HPA-GTEx file contained 718937 gene-tissue pairs and 20162 unique genes.
+    The Ensembl 115 protein-coding main-chromosome background contained 20084 genes.
+    Of the HPA-GTEx genes, 19701 mapped successfully to the Ensembl 115 background.
+    This corresponds to a mapping rate of 97.714%.
+    461 HPA-GTEx genes did not map to the Ensembl 115 background.
+    Conversely, 383 Ensembl 115 background genes had no HPA-GTEx expression entry.
+
+    After applying the expression threshold nTPM >= 1, 18331 unique genes were classified as expressed in at least one tissue.
+    In total, 481019 gene-tissue pairs fulfilled the nTPM >= 1 threshold.
+    All 36 GTEx tissues remained represented after mapping and filtering.
+
+    The 461 unmatched HPA-GTEx genes were further checked against the original unfiltered BioMart export biomart_export_HumanAllGenes_220526.tsv.
+    This unfiltered BioMart export contained 23262 protein-coding entries before the restriction to chromosomes 1–22, X and Y.
+    The goal of this QC step was to determine whether HPA-unmatched genes were lost because of the main-chromosome filter or because they were already absent from the unfiltered Ensembl 115 BioMart export.
+
+    Of the 461 unmatched HPA-GTEx genes, 37 were present in the unfiltered BioMart export but located on non-main chromosomes or scaffolds.
+    These genes were therefore excluded by the predefined main-chromosome-only filter.
+    The remaining 424 unmatched HPA-GTEx genes were absent from the unfiltered BioMart export.
+    These genes are therefore not explained by the chromosome filter.
+    Plausible explanations include differences between HPA/GTEx and Ensembl release 115, retired or changed Ensembl gene IDs, different gene biotype annotations, and special loci such as immunoglobulin genes or transcript-level-only entries.
+
+    Manual spot checks supported this interpretation.
+    One unmatched HPA entry, ENSG00000283886, showed transcript-level evidence but no associated protein entry in HPA, making it plausible that it is not part of the Ensembl 115 protein-coding background.
+    Another unmatched entry, ENSG00000243264 / IGKV2D-29, was an immunoglobulin gene with protein-level evidence.
+    This suggests that not all unmatched genes are non-protein-coding; some are likely affected by complex immunoglobulin locus annotation, release differences or filtering differences.
+
+    The QC also showed that no HPA-unmatched gene was present in the unfiltered BioMart export on a main chromosome.
+    This indicates that the final main-chromosome filtering step was internally consistent.
+
+    The current analysis therefore uses the intersection of:
+        HPA-GTEx gene-level tissue-expression data
+        and
+        Ensembl release 115 human protein-coding genes on chromosomes 1–22, X and Y.
+
+    The next analysis step is to use HumanProteinCodingGenes_bytissue_onchromosomes.tsv for tissue-wise gene-length statistics and plotting.
+    For each tissue, gene_length_bp and log10_gene_length_bp can be analyzed among genes with nTPM >= 1.
+    Planned summaries include number of expressed genes per tissue, mean gene length, median gene length, variance, standard deviation and distribution plots.
+    The same conceptual workflow can later be extended to protein length after mapping the expressed genes to UniProt/reference-proteome protein lengths.
