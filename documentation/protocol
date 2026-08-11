@@ -384,3 +384,16 @@ Because HPA-GTEx is based on Ensembl 109, I performed a robustness check using a
 
     Therefore, the annotation-release mismatch between HPA-GTEx and the Ensembl-115 background had only a negligible effect on mapping.
     The main analysis was therefore continued with the predefined Ensembl-115 protein-coding main-chromosome background.
+
+The full Ensembl 115 HRT Atlas background contained 2172 HK genes and 17912 non-HK genes.
+	All 2172 HK genes were successfully mapped to the HPA-GTEx expression dataset.
+    All 2172 HK genes also reached the expression threshold nTPM >= 1 in at least one GTEx tissue.
+    Thus, no HRT-HK genes were lost during HPA-GTEx mapping or expression filtering.
+
+    Of the 17912 non-HK genes, 17529 were successfully mapped to HPA-GTEx.
+    383 non-HK genes were not mapped to HPA-GTEx.
+    After applying the expression threshold nTPM >= 1, 16159 non-HK genes remained expressed in at least one tissue.
+    Therefore, 1370 non-HK genes were mapped to HPA-GTEx but did not reach nTPM >= 1 in any of the 36 GTEx tissues.
+
+    The HPA-GTEx HK vs non-HK expression analysis is therefore based on 2172 HK genes and 16159 non-HK genes.
+    The absence of HK gene loss supports the expectation that HRT Atlas HK genes are broadly or at least detectably expressed in normal human tissues, whereas a subset of non-HK genes is not detectably expressed above the selected threshold in the GTEx tissue dataset.
