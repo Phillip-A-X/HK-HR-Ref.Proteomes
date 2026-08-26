@@ -1,0 +1,14 @@
+metric	value
+all_gene_rows_in_chr_gtf	31373
+unique_all_gene_ids_in_chr_gtf	31373
+protein_coding_gene_rows	21879
+unique_protein_coding_gene_ids	21879
+unique_hk_ids_in_input_list	3534
+mapped_hk_gene_ids	3033
+unmapped_hk_gene_ids	501
+hk_mapping_rate_percent	85.8234
+output_HK_rows	3033
+output_non_HK_rows	18846
+missing_gene_id_rows	0
+missing_gene_name_rows	7750
+missing_gene_biotype_rows	0

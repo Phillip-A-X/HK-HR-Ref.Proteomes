@@ -1,0 +1,51 @@
+comparison	variable	test	p_value
+HK vs broad non-HK	log10_gene_length_bp	Wilcoxon rank-sum	1.54805062632388e-63
+HK vs broad non-HK	log10_gene_length_bp	Welch t-test	6.71188142648939e-71
+HK vs broad non-HK	gene_length_bp	Wilcoxon rank-sum	1.54805062632388e-63
+HK vs broad non-HK	gene_length_bp	Welch t-test	7.01072448022228e-85
+HK vs broad non-HK	n_tissues_expressed	Wilcoxon rank-sum	1.71637668053676e-15
+HK vs broad non-HK	n_tissues_expressed	Welch t-test	0.0244738144340768
+HK vs broad non-HK	sd_log10_nTPM_plus1	Wilcoxon rank-sum	4.00666287793101e-65
+HK vs broad non-HK	sd_log10_nTPM_plus1	Welch t-test	4.83065005045422e-154
+HK vs broad non-HK	mean_nTPM_across_expressed_tissues	Wilcoxon rank-sum	0
+HK vs broad non-HK	mean_nTPM_across_expressed_tissues	Welch t-test	2.19664365049227e-32
+HK vs restricted non-HK	log10_gene_length_bp	Wilcoxon rank-sum	0.000360476542517088
+HK vs restricted non-HK	log10_gene_length_bp	Welch t-test	0.0004587381909949
+HK vs restricted non-HK	gene_length_bp	Wilcoxon rank-sum	0.000360476542517088
+HK vs restricted non-HK	gene_length_bp	Welch t-test	1.6229557784104e-23
+HK vs restricted non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+HK vs restricted non-HK	n_tissues_expressed	Welch t-test	0
+HK vs restricted non-HK	sd_log10_nTPM_plus1	Wilcoxon rank-sum	0.000292733328831071
+HK vs restricted non-HK	sd_log10_nTPM_plus1	Welch t-test	2.49697188123257e-105
+HK vs restricted non-HK	mean_nTPM_across_expressed_tissues	Wilcoxon rank-sum	0
+HK vs restricted non-HK	mean_nTPM_across_expressed_tissues	Welch t-test	9.96026429446442e-30
+broad non-HK vs restricted non-HK	log10_gene_length_bp	Wilcoxon rank-sum	6.68268521488583e-110
+broad non-HK vs restricted non-HK	log10_gene_length_bp	Welch t-test	1.26948033640313e-107
+broad non-HK vs restricted non-HK	gene_length_bp	Wilcoxon rank-sum	6.68268521488583e-110
+broad non-HK vs restricted non-HK	gene_length_bp	Welch t-test	0.00218798318877094
+broad non-HK vs restricted non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+broad non-HK vs restricted non-HK	n_tissues_expressed	Welch t-test	0
+broad non-HK vs restricted non-HK	sd_log10_nTPM_plus1	Wilcoxon rank-sum	1.09046313312029e-06
+broad non-HK vs restricted non-HK	sd_log10_nTPM_plus1	Welch t-test	2.0586544735733e-35
+broad non-HK vs restricted non-HK	mean_nTPM_across_expressed_tissues	Wilcoxon rank-sum	3.06715085172383e-231
+broad non-HK vs restricted non-HK	mean_nTPM_across_expressed_tissues	Welch t-test	0.416378096225861
+broad non-HK vs intermediate non-HK	log10_gene_length_bp	Wilcoxon rank-sum	0.0083227219997966
+broad non-HK vs intermediate non-HK	log10_gene_length_bp	Welch t-test	0.0231696326159111
+broad non-HK vs intermediate non-HK	gene_length_bp	Wilcoxon rank-sum	0.0083227219997966
+broad non-HK vs intermediate non-HK	gene_length_bp	Welch t-test	7.53468765595792e-16
+broad non-HK vs intermediate non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+broad non-HK vs intermediate non-HK	n_tissues_expressed	Welch t-test	0
+broad non-HK vs intermediate non-HK	sd_log10_nTPM_plus1	Wilcoxon rank-sum	0
+broad non-HK vs intermediate non-HK	sd_log10_nTPM_plus1	Welch t-test	0
+broad non-HK vs intermediate non-HK	mean_nTPM_across_expressed_tissues	Wilcoxon rank-sum	1.81757281356541e-287
+broad non-HK vs intermediate non-HK	mean_nTPM_across_expressed_tissues	Welch t-test	0.372071761373681
+restricted non-HK vs intermediate non-HK	log10_gene_length_bp	Wilcoxon rank-sum	2.31137822900944e-63
+restricted non-HK vs intermediate non-HK	log10_gene_length_bp	Welch t-test	6.56955861041289e-69
+restricted non-HK vs intermediate non-HK	gene_length_bp	Wilcoxon rank-sum	2.31137822900944e-63
+restricted non-HK vs intermediate non-HK	gene_length_bp	Welch t-test	1.21871577885528e-19
+restricted non-HK vs intermediate non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+restricted non-HK vs intermediate non-HK	n_tissues_expressed	Welch t-test	0
+restricted non-HK vs intermediate non-HK	sd_log10_nTPM_plus1	Wilcoxon rank-sum	1.48401563288836e-123
+restricted non-HK vs intermediate non-HK	sd_log10_nTPM_plus1	Welch t-test	4.05235402972937e-25
+restricted non-HK vs intermediate non-HK	mean_nTPM_across_expressed_tissues	Wilcoxon rank-sum	3.84574371039949e-10
+restricted non-HK vs intermediate non-HK	mean_nTPM_across_expressed_tissues	Welch t-test	0.821549033694069

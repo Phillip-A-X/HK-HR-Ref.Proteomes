@@ -1,0 +1,12 @@
+metric	value
+reference_proteome_proteins	20659.0
+unique_reference_proteome_accessions	20659.0
+uniprot_to_ensg_mapping_rows_after_ensg_filter	22637.0
+unique_uniprot_accessions_with_ensg_mapping	19678.0
+unique_ensg_ids_in_mapping	22378.0
+hpa_gtex_expressed_genes	18331.0
+protein_entries_mapped_to_hpa_gtex_genes	18214.0
+unique_genes_with_protein_and_hpa_gtex_breadth	18110.0
+longest_protein_per_gene_rows	18110.0
+nonHK_expression_breadth_Q1	11.0
+nonHK_expression_breadth_Q3	36.0

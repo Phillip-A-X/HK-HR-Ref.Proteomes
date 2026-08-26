@@ -1,0 +1,6 @@
+metric	value
+input_rows	18110
+unique_genes	18110
+unique_uniprot_accessions	17950
+min_protein_length_aa	25
+max_protein_length_aa	34350

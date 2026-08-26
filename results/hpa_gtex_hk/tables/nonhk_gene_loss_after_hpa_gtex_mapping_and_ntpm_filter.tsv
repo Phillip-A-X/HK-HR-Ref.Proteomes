@@ -1,0 +1,6 @@
+category	n_genes
+non-HK in full Ensembl115-HRT background	17912
+non-HK successfully mapped to HPA-GTEx	17529
+non-HK expressed in at least one tissue nTPM >= 1	16159
+non-HK not mapped to HPA-GTEx	383
+non-HK mapped but never nTPM >= 1	1370

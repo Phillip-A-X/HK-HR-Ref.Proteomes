@@ -1,0 +1,7 @@
+step	hk_status	n_genes
+full_ensembl115_hrt_background	HK	2172
+full_ensembl115_hrt_background	non-HK	17912
+successfully_mapped_to_hpa_gtex	HK	2172
+successfully_mapped_to_hpa_gtex	non-HK	17529
+expressed_in_at_least_one_tissue_ntpm_ge_1	HK	2172
+expressed_in_at_least_one_tissue_ntpm_ge_1	non-HK	16159

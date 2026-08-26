@@ -1,0 +1,7379 @@
+{
+  "ENSPTRG00000000011": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000011",
+      "is_current": "",
+      "latest": "ENSPTRG00000000011.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000012": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000012",
+      "is_current": "",
+      "latest": "ENSPTRG00000000012.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000023": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000023",
+      "is_current": "",
+      "latest": "ENSPTRG00000000023.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000036": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000036",
+      "is_current": "",
+      "latest": "ENSPTRG00000000036.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000117": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000117",
+      "is_current": "",
+      "latest": "ENSPTRG00000000117.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000326": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000326",
+      "is_current": "",
+      "latest": "ENSPTRG00000000326.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000328": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000328",
+      "is_current": "",
+      "latest": "ENSPTRG00000000328.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000359": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000359",
+      "is_current": "",
+      "latest": "ENSPTRG00000000359.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000379": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000379",
+      "is_current": "",
+      "latest": "ENSPTRG00000000379.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000398": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000398",
+      "is_current": "",
+      "latest": "ENSPTRG00000000398.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000467": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000467",
+      "is_current": "",
+      "latest": "ENSPTRG00000000467.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000477": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000477",
+      "is_current": "",
+      "latest": "ENSPTRG00000000477.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000487": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000487",
+      "is_current": "",
+      "latest": "ENSPTRG00000000487.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000569": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000569",
+      "is_current": "",
+      "latest": "ENSPTRG00000000569.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000574": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000574",
+      "is_current": "",
+      "latest": "ENSPTRG00000000574.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000595": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000595",
+      "is_current": "",
+      "latest": "ENSPTRG00000000595.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000612": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000000612",
+      "is_current": "1",
+      "latest": "ENSPTRG00000000612.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000696": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000696",
+      "is_current": "",
+      "latest": "ENSPTRG00000000696.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000699": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000000699",
+      "is_current": "",
+      "latest": "ENSPTRG00000000699.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000926": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000926",
+      "is_current": "",
+      "latest": "ENSPTRG00000000926.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000000933": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000000933",
+      "is_current": "",
+      "latest": "ENSPTRG00000000933.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001146": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000001146",
+      "is_current": "",
+      "latest": "ENSPTRG00000001146.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001182": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000001182",
+      "is_current": "",
+      "latest": "ENSPTRG00000001182.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001585": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000001585",
+      "is_current": "",
+      "latest": "ENSPTRG00000001585.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001627": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000001627",
+      "is_current": "",
+      "latest": "ENSPTRG00000001627.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001693": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000001693",
+      "is_current": "",
+      "latest": "ENSPTRG00000001693.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001706": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000001706",
+      "is_current": "",
+      "latest": "ENSPTRG00000001706.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001904": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000001904",
+      "is_current": "",
+      "latest": "ENSPTRG00000001904.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000001991": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000001991",
+      "is_current": "",
+      "latest": "ENSPTRG00000001991.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002020": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002020",
+      "is_current": "",
+      "latest": "ENSPTRG00000002020.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002156": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000002156",
+      "is_current": "",
+      "latest": "ENSPTRG00000002156.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002237": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002237",
+      "is_current": "",
+      "latest": "ENSPTRG00000002237.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002361": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002361",
+      "is_current": "",
+      "latest": "ENSPTRG00000002361.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002455": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002455",
+      "is_current": "",
+      "latest": "ENSPTRG00000002455.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002470": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002470",
+      "is_current": "",
+      "latest": "ENSPTRG00000002470.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002510": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002510",
+      "is_current": "",
+      "latest": "ENSPTRG00000002510.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002610": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002610",
+      "is_current": "",
+      "latest": "ENSPTRG00000002610.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002622": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000002622",
+      "is_current": "",
+      "latest": "ENSPTRG00000002622.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002657": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000002657",
+      "is_current": "",
+      "latest": "ENSPTRG00000002657.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002699": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000002699",
+      "is_current": "1",
+      "latest": "ENSPTRG00000002699.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002817": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000002817",
+      "is_current": "",
+      "latest": "ENSPTRG00000002817.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002844": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000002844",
+      "is_current": "",
+      "latest": "ENSPTRG00000002844.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000002872": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000002872",
+      "is_current": "",
+      "latest": "ENSPTRG00000002872.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003105": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003105",
+      "is_current": "",
+      "latest": "ENSPTRG00000003105.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003136": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003136",
+      "is_current": "",
+      "latest": "ENSPTRG00000003136.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003141": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000003141",
+      "is_current": "",
+      "latest": "ENSPTRG00000003141.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003159": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000003159",
+      "is_current": "",
+      "latest": "ENSPTRG00000003159.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003301": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000003301",
+      "is_current": "",
+      "latest": "ENSPTRG00000003301.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003395": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003395",
+      "is_current": "",
+      "latest": "ENSPTRG00000003395.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003475": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003475",
+      "is_current": "",
+      "latest": "ENSPTRG00000003475.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003508": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000003508",
+      "is_current": "",
+      "latest": "ENSPTRG00000003508.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003730": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003730",
+      "is_current": "",
+      "latest": "ENSPTRG00000003730.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003778": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003778",
+      "is_current": "",
+      "latest": "ENSPTRG00000003778.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003786": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000003786",
+      "is_current": "",
+      "latest": "ENSPTRG00000003786.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003793": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003793",
+      "is_current": "",
+      "latest": "ENSPTRG00000003793.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003810": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003810",
+      "is_current": "",
+      "latest": "ENSPTRG00000003810.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003862": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003862",
+      "is_current": "",
+      "latest": "ENSPTRG00000003862.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003875": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003875",
+      "is_current": "",
+      "latest": "ENSPTRG00000003875.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003906": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003906",
+      "is_current": "",
+      "latest": "ENSPTRG00000003906.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000003952": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000003952",
+      "is_current": "",
+      "latest": "ENSPTRG00000003952.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004006": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004006",
+      "is_current": "",
+      "latest": "ENSPTRG00000004006.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004026": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004026",
+      "is_current": "",
+      "latest": "ENSPTRG00000004026.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004050": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004050",
+      "is_current": "",
+      "latest": "ENSPTRG00000004050.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004070": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004070",
+      "is_current": "",
+      "latest": "ENSPTRG00000004070.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004104": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004104",
+      "is_current": "",
+      "latest": "ENSPTRG00000004104.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004111": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004111",
+      "is_current": "",
+      "latest": "ENSPTRG00000004111.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004150": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004150",
+      "is_current": "",
+      "latest": "ENSPTRG00000004150.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004282": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004282",
+      "is_current": "",
+      "latest": "ENSPTRG00000004282.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004331": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004331",
+      "is_current": "",
+      "latest": "ENSPTRG00000004331.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004366": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004366",
+      "is_current": "",
+      "latest": "ENSPTRG00000004366.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004600": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004600",
+      "is_current": "",
+      "latest": "ENSPTRG00000004600.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004603": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004603",
+      "is_current": "",
+      "latest": "ENSPTRG00000004603.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004670": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004670",
+      "is_current": "",
+      "latest": "ENSPTRG00000004670.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004679": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004679",
+      "is_current": "",
+      "latest": "ENSPTRG00000004679.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004926": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000004926",
+      "is_current": "",
+      "latest": "ENSPTRG00000004926.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000004997": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000004997",
+      "is_current": "",
+      "latest": "ENSPTRG00000004997.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005091": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005091",
+      "is_current": "",
+      "latest": "ENSPTRG00000005091.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005110": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005110",
+      "is_current": "",
+      "latest": "ENSPTRG00000005110.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005127": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005127",
+      "is_current": "",
+      "latest": "ENSPTRG00000005127.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005191": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005191",
+      "is_current": "",
+      "latest": "ENSPTRG00000005191.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005373": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005373",
+      "is_current": "",
+      "latest": "ENSPTRG00000005373.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005376": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005376",
+      "is_current": "",
+      "latest": "ENSPTRG00000005376.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005424": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005424",
+      "is_current": "",
+      "latest": "ENSPTRG00000005424.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005474": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005474",
+      "is_current": "",
+      "latest": "ENSPTRG00000005474.5",
+      "peptide": null,
+      "possible_replacement": [
+        {
+          "score": 0.998267,
+          "stable_id": "ENSPTRG00000051592"
+        },
+        {
+          "score": 0.998267,
+          "stable_id": "ENSPTRG00000047767"
+        }
+      ],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005475": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005475",
+      "is_current": "",
+      "latest": "ENSPTRG00000005475.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005598": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005598",
+      "is_current": "",
+      "latest": "ENSPTRG00000005598.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005600": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005600",
+      "is_current": "",
+      "latest": "ENSPTRG00000005600.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005619": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005619",
+      "is_current": "",
+      "latest": "ENSPTRG00000005619.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005648": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005648",
+      "is_current": "",
+      "latest": "ENSPTRG00000005648.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005694": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005694",
+      "is_current": "",
+      "latest": "ENSPTRG00000005694.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005755": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005755",
+      "is_current": "",
+      "latest": "ENSPTRG00000005755.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005796": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000005796",
+      "is_current": "",
+      "latest": "ENSPTRG00000005796.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005803": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005803",
+      "is_current": "",
+      "latest": "ENSPTRG00000005803.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005810": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005810",
+      "is_current": "",
+      "latest": "ENSPTRG00000005810.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000005831": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000005831",
+      "is_current": "",
+      "latest": "ENSPTRG00000005831.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006026": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006026",
+      "is_current": "",
+      "latest": "ENSPTRG00000006026.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006035": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006035",
+      "is_current": "",
+      "latest": "ENSPTRG00000006035.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006066": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006066",
+      "is_current": "",
+      "latest": "ENSPTRG00000006066.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006168": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006168",
+      "is_current": "",
+      "latest": "ENSPTRG00000006168.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006205": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006205",
+      "is_current": "",
+      "latest": "ENSPTRG00000006205.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006206": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006206",
+      "is_current": "",
+      "latest": "ENSPTRG00000006206.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006324": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006324",
+      "is_current": "",
+      "latest": "ENSPTRG00000006324.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006369": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006369",
+      "is_current": "",
+      "latest": "ENSPTRG00000006369.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006444": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006444",
+      "is_current": "",
+      "latest": "ENSPTRG00000006444.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006494": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006494",
+      "is_current": "",
+      "latest": "ENSPTRG00000006494.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006552": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006552",
+      "is_current": "",
+      "latest": "ENSPTRG00000006552.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006759": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006759",
+      "is_current": "",
+      "latest": "ENSPTRG00000006759.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006788": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006788",
+      "is_current": "",
+      "latest": "ENSPTRG00000006788.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006819": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006819",
+      "is_current": "",
+      "latest": "ENSPTRG00000006819.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006844": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000006844",
+      "is_current": "",
+      "latest": "ENSPTRG00000006844.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000006848": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000006848",
+      "is_current": "",
+      "latest": "ENSPTRG00000006848.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007014": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000007014",
+      "is_current": "",
+      "latest": "ENSPTRG00000007014.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007303": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007303",
+      "is_current": "",
+      "latest": "ENSPTRG00000007303.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007399": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000007399",
+      "is_current": "",
+      "latest": "ENSPTRG00000007399.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007511": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007511",
+      "is_current": "",
+      "latest": "ENSPTRG00000007511.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007539": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000007539",
+      "is_current": "",
+      "latest": "ENSPTRG00000007539.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007541": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007541",
+      "is_current": "",
+      "latest": "ENSPTRG00000007541.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007623": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007623",
+      "is_current": "",
+      "latest": "ENSPTRG00000007623.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007697": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000007697",
+      "is_current": "",
+      "latest": "ENSPTRG00000007697.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007715": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007715",
+      "is_current": "",
+      "latest": "ENSPTRG00000007715.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007727": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007727",
+      "is_current": "",
+      "latest": "ENSPTRG00000007727.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007891": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007891",
+      "is_current": "",
+      "latest": "ENSPTRG00000007891.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007946": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007946",
+      "is_current": "",
+      "latest": "ENSPTRG00000007946.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000007991": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000007991",
+      "is_current": "",
+      "latest": "ENSPTRG00000007991.6",
+      "peptide": null,
+      "possible_replacement": [
+        {
+          "score": 0.787397,
+          "stable_id": "ENSPTRG00000051496"
+        }
+      ],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008006": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008006",
+      "is_current": "",
+      "latest": "ENSPTRG00000008006.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008027": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008027",
+      "is_current": "",
+      "latest": "ENSPTRG00000008027.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008193": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008193",
+      "is_current": "",
+      "latest": "ENSPTRG00000008193.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008213": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008213",
+      "is_current": "",
+      "latest": "ENSPTRG00000008213.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008247": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008247",
+      "is_current": "",
+      "latest": "ENSPTRG00000008247.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008485": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008485",
+      "is_current": "",
+      "latest": "ENSPTRG00000008485.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008498": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008498",
+      "is_current": "",
+      "latest": "ENSPTRG00000008498.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008522": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008522",
+      "is_current": "",
+      "latest": "ENSPTRG00000008522.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008589": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008589",
+      "is_current": "",
+      "latest": "ENSPTRG00000008589.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008622": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008622",
+      "is_current": "",
+      "latest": "ENSPTRG00000008622.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008654": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008654",
+      "is_current": "",
+      "latest": "ENSPTRG00000008654.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008813": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008813",
+      "is_current": "",
+      "latest": "ENSPTRG00000008813.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008835": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008835",
+      "is_current": "",
+      "latest": "ENSPTRG00000008835.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008913": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000008913",
+      "is_current": "",
+      "latest": "ENSPTRG00000008913.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000008928": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000008928",
+      "is_current": "",
+      "latest": "ENSPTRG00000008928.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009075": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009075",
+      "is_current": "",
+      "latest": "ENSPTRG00000009075.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009218": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000009218",
+      "is_current": "",
+      "latest": "ENSPTRG00000009218.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009250": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009250",
+      "is_current": "",
+      "latest": "ENSPTRG00000009250.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009298": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009298",
+      "is_current": "",
+      "latest": "ENSPTRG00000009298.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009366": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009366",
+      "is_current": "",
+      "latest": "ENSPTRG00000009366.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009415": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000009415",
+      "is_current": "",
+      "latest": "ENSPTRG00000009415.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009426": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000009426",
+      "is_current": "",
+      "latest": "ENSPTRG00000009426.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009585": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009585",
+      "is_current": "",
+      "latest": "ENSPTRG00000009585.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009599": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000009599",
+      "is_current": "",
+      "latest": "ENSPTRG00000009599.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009703": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009703",
+      "is_current": "",
+      "latest": "ENSPTRG00000009703.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009720": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009720",
+      "is_current": "",
+      "latest": "ENSPTRG00000009720.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009749": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009749",
+      "is_current": "",
+      "latest": "ENSPTRG00000009749.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009769": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000009769",
+      "is_current": "",
+      "latest": "ENSPTRG00000009769.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009840": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000009840",
+      "is_current": "",
+      "latest": "ENSPTRG00000009840.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000009864": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000009864",
+      "is_current": "",
+      "latest": "ENSPTRG00000009864.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010005": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010005",
+      "is_current": "",
+      "latest": "ENSPTRG00000010005.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010119": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010119",
+      "is_current": "",
+      "latest": "ENSPTRG00000010119.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010136": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010136",
+      "is_current": "",
+      "latest": "ENSPTRG00000010136.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010400": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010400",
+      "is_current": "",
+      "latest": "ENSPTRG00000010400.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010432": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010432",
+      "is_current": "",
+      "latest": "ENSPTRG00000010432.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010663": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010663",
+      "is_current": "",
+      "latest": "ENSPTRG00000010663.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010772": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010772",
+      "is_current": "",
+      "latest": "ENSPTRG00000010772.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010808": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010808",
+      "is_current": "",
+      "latest": "ENSPTRG00000010808.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000010891": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000010891",
+      "is_current": "",
+      "latest": "ENSPTRG00000010891.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011138": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000011138",
+      "is_current": "",
+      "latest": "ENSPTRG00000011138.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011158": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000011158",
+      "is_current": "",
+      "latest": "ENSPTRG00000011158.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011159": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000011159",
+      "is_current": "",
+      "latest": "ENSPTRG00000011159.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011193": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000011193",
+      "is_current": "",
+      "latest": "ENSPTRG00000011193.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011311": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000011311",
+      "is_current": "",
+      "latest": "ENSPTRG00000011311.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011353": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000011353",
+      "is_current": "",
+      "latest": "ENSPTRG00000011353.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011729": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000011729",
+      "is_current": "",
+      "latest": "ENSPTRG00000011729.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000011921": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000011921",
+      "is_current": "",
+      "latest": "ENSPTRG00000011921.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012030": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012030",
+      "is_current": "",
+      "latest": "ENSPTRG00000012030.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012163": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012163",
+      "is_current": "",
+      "latest": "ENSPTRG00000012163.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012214": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012214",
+      "is_current": "",
+      "latest": "ENSPTRG00000012214.2",
+      "peptide": null,
+      "possible_replacement": [
+        {
+          "score": 0.949944,
+          "stable_id": "ENSPTRG00000050697"
+        }
+      ],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012347": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012347",
+      "is_current": "",
+      "latest": "ENSPTRG00000012347.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012385": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012385",
+      "is_current": "",
+      "latest": "ENSPTRG00000012385.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012388": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012388",
+      "is_current": "",
+      "latest": "ENSPTRG00000012388.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012405": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012405",
+      "is_current": "",
+      "latest": "ENSPTRG00000012405.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012410": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012410",
+      "is_current": "",
+      "latest": "ENSPTRG00000012410.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012426": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012426",
+      "is_current": "",
+      "latest": "ENSPTRG00000012426.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012468": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012468",
+      "is_current": "",
+      "latest": "ENSPTRG00000012468.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012623": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012623",
+      "is_current": "",
+      "latest": "ENSPTRG00000012623.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012661": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012661",
+      "is_current": "",
+      "latest": "ENSPTRG00000012661.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012699": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000012699",
+      "is_current": "",
+      "latest": "ENSPTRG00000012699.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012843": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012843",
+      "is_current": "",
+      "latest": "ENSPTRG00000012843.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012874": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012874",
+      "is_current": "",
+      "latest": "ENSPTRG00000012874.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000012968": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000012968",
+      "is_current": "",
+      "latest": "ENSPTRG00000012968.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013014": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013014",
+      "is_current": "",
+      "latest": "ENSPTRG00000013014.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013094": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013094",
+      "is_current": "",
+      "latest": "ENSPTRG00000013094.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013106": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013106",
+      "is_current": "",
+      "latest": "ENSPTRG00000013106.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013449": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013449",
+      "is_current": "",
+      "latest": "ENSPTRG00000013449.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013475": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013475",
+      "is_current": "",
+      "latest": "ENSPTRG00000013475.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013487": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013487",
+      "is_current": "",
+      "latest": "ENSPTRG00000013487.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013521": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013521",
+      "is_current": "",
+      "latest": "ENSPTRG00000013521.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013604": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013604",
+      "is_current": "",
+      "latest": "ENSPTRG00000013604.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013671": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013671",
+      "is_current": "",
+      "latest": "ENSPTRG00000013671.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013688": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013688",
+      "is_current": "",
+      "latest": "ENSPTRG00000013688.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013822": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013822",
+      "is_current": "",
+      "latest": "ENSPTRG00000013822.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013949": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013949",
+      "is_current": "",
+      "latest": "ENSPTRG00000013949.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013959": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013959",
+      "is_current": "",
+      "latest": "ENSPTRG00000013959.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013961": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013961",
+      "is_current": "",
+      "latest": "ENSPTRG00000013961.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013964": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013964",
+      "is_current": "",
+      "latest": "ENSPTRG00000013964.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013970": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000013970",
+      "is_current": "",
+      "latest": "ENSPTRG00000013970.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000013991": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000013991",
+      "is_current": "",
+      "latest": "ENSPTRG00000013991.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014039": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014039",
+      "is_current": "",
+      "latest": "ENSPTRG00000014039.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014062": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000014062",
+      "is_current": "",
+      "latest": "ENSPTRG00000014062.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014063": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014063",
+      "is_current": "",
+      "latest": "ENSPTRG00000014063.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014152": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014152",
+      "is_current": "",
+      "latest": "ENSPTRG00000014152.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014230": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000014230",
+      "is_current": "",
+      "latest": "ENSPTRG00000014230.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014314": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014314",
+      "is_current": "",
+      "latest": "ENSPTRG00000014314.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014414": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014414",
+      "is_current": "",
+      "latest": "ENSPTRG00000014414.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014430": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000014430",
+      "is_current": "",
+      "latest": "ENSPTRG00000014430.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014447": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000014447",
+      "is_current": "",
+      "latest": "ENSPTRG00000014447.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014457": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014457",
+      "is_current": "",
+      "latest": "ENSPTRG00000014457.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014567": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014567",
+      "is_current": "",
+      "latest": "ENSPTRG00000014567.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014671": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000014671",
+      "is_current": "",
+      "latest": "ENSPTRG00000014671.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014692": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014692",
+      "is_current": "",
+      "latest": "ENSPTRG00000014692.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014906": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014906",
+      "is_current": "",
+      "latest": "ENSPTRG00000014906.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014930": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014930",
+      "is_current": "",
+      "latest": "ENSPTRG00000014930.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014958": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000014958",
+      "is_current": "",
+      "latest": "ENSPTRG00000014958.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000014987": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000014987",
+      "is_current": "",
+      "latest": "ENSPTRG00000014987.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015025": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015025",
+      "is_current": "",
+      "latest": "ENSPTRG00000015025.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015057": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015057",
+      "is_current": "",
+      "latest": "ENSPTRG00000015057.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015131": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015131",
+      "is_current": "",
+      "latest": "ENSPTRG00000015131.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015233": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015233",
+      "is_current": "",
+      "latest": "ENSPTRG00000015233.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015260": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015260",
+      "is_current": "",
+      "latest": "ENSPTRG00000015260.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015291": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015291",
+      "is_current": "",
+      "latest": "ENSPTRG00000015291.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015395": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015395",
+      "is_current": "",
+      "latest": "ENSPTRG00000015395.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015473": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015473",
+      "is_current": "",
+      "latest": "ENSPTRG00000015473.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015529": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015529",
+      "is_current": "",
+      "latest": "ENSPTRG00000015529.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015544": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015544",
+      "is_current": "",
+      "latest": "ENSPTRG00000015544.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015560": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015560",
+      "is_current": "",
+      "latest": "ENSPTRG00000015560.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015816": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015816",
+      "is_current": "",
+      "latest": "ENSPTRG00000015816.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015828": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015828",
+      "is_current": "",
+      "latest": "ENSPTRG00000015828.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015846": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015846",
+      "is_current": "",
+      "latest": "ENSPTRG00000015846.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015862": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015862",
+      "is_current": "",
+      "latest": "ENSPTRG00000015862.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015882": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015882",
+      "is_current": "",
+      "latest": "ENSPTRG00000015882.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015884": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015884",
+      "is_current": "",
+      "latest": "ENSPTRG00000015884.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015885": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015885",
+      "is_current": "",
+      "latest": "ENSPTRG00000015885.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015889": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015889",
+      "is_current": "",
+      "latest": "ENSPTRG00000015889.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015939": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000015939",
+      "is_current": "",
+      "latest": "ENSPTRG00000015939.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000015997": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000015997",
+      "is_current": "",
+      "latest": "ENSPTRG00000015997.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016019": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000016019",
+      "is_current": "",
+      "latest": "ENSPTRG00000016019.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016147": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000016147",
+      "is_current": "",
+      "latest": "ENSPTRG00000016147.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016324": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000016324",
+      "is_current": "",
+      "latest": "ENSPTRG00000016324.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016362": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000016362",
+      "is_current": "",
+      "latest": "ENSPTRG00000016362.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016421": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000016421",
+      "is_current": "",
+      "latest": "ENSPTRG00000016421.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016452": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000016452",
+      "is_current": "",
+      "latest": "ENSPTRG00000016452.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016456": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000016456",
+      "is_current": "",
+      "latest": "ENSPTRG00000016456.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016508": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000016508",
+      "is_current": "",
+      "latest": "ENSPTRG00000016508.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016639": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000016639",
+      "is_current": "",
+      "latest": "ENSPTRG00000016639.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016772": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000016772",
+      "is_current": "",
+      "latest": "ENSPTRG00000016772.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000016822": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000016822",
+      "is_current": "",
+      "latest": "ENSPTRG00000016822.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017178": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017178",
+      "is_current": "",
+      "latest": "ENSPTRG00000017178.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017226": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000017226",
+      "is_current": "",
+      "latest": "ENSPTRG00000017226.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017237": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017237",
+      "is_current": "",
+      "latest": "ENSPTRG00000017237.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017345": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000017345",
+      "is_current": "1",
+      "latest": "ENSPTRG00000017345.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017410": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017410",
+      "is_current": "",
+      "latest": "ENSPTRG00000017410.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017453": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000017453",
+      "is_current": "",
+      "latest": "ENSPTRG00000017453.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017475": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017475",
+      "is_current": "",
+      "latest": "ENSPTRG00000017475.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017562": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017562",
+      "is_current": "",
+      "latest": "ENSPTRG00000017562.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017599": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017599",
+      "is_current": "",
+      "latest": "ENSPTRG00000017599.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017628": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017628",
+      "is_current": "",
+      "latest": "ENSPTRG00000017628.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017650": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017650",
+      "is_current": "",
+      "latest": "ENSPTRG00000017650.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017744": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000017744",
+      "is_current": "",
+      "latest": "ENSPTRG00000017744.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017837": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000017837",
+      "is_current": "",
+      "latest": "ENSPTRG00000017837.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017915": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000017915",
+      "is_current": "",
+      "latest": "ENSPTRG00000017915.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017924": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000017924",
+      "is_current": "",
+      "latest": "ENSPTRG00000017924.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000017939": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000017939",
+      "is_current": "",
+      "latest": "ENSPTRG00000017939.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018314": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000018314",
+      "is_current": "",
+      "latest": "ENSPTRG00000018314.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018735": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000018735",
+      "is_current": "",
+      "latest": "ENSPTRG00000018735.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018742": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000018742",
+      "is_current": "",
+      "latest": "ENSPTRG00000018742.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018832": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000018832",
+      "is_current": "",
+      "latest": "ENSPTRG00000018832.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018837": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000018837",
+      "is_current": "",
+      "latest": "ENSPTRG00000018837.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018844": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000018844",
+      "is_current": "",
+      "latest": "ENSPTRG00000018844.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018845": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000018845",
+      "is_current": "",
+      "latest": "ENSPTRG00000018845.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018853": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000018853",
+      "is_current": "",
+      "latest": "ENSPTRG00000018853.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018897": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000018897",
+      "is_current": "",
+      "latest": "ENSPTRG00000018897.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018911": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000018911",
+      "is_current": "",
+      "latest": "ENSPTRG00000018911.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000018934": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000018934",
+      "is_current": "",
+      "latest": "ENSPTRG00000018934.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019126": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000019126",
+      "is_current": "",
+      "latest": "ENSPTRG00000019126.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019130": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000019130",
+      "is_current": "",
+      "latest": "ENSPTRG00000019130.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019243": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019243",
+      "is_current": "",
+      "latest": "ENSPTRG00000019243.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019305": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000019305",
+      "is_current": "",
+      "latest": "ENSPTRG00000019305.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019385": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019385",
+      "is_current": "",
+      "latest": "ENSPTRG00000019385.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019408": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019408",
+      "is_current": "",
+      "latest": "ENSPTRG00000019408.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019454": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000019454",
+      "is_current": "",
+      "latest": "ENSPTRG00000019454.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019468": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019468",
+      "is_current": "",
+      "latest": "ENSPTRG00000019468.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019605": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019605",
+      "is_current": "",
+      "latest": "ENSPTRG00000019605.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019621": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019621",
+      "is_current": "",
+      "latest": "ENSPTRG00000019621.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019754": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000019754",
+      "is_current": "",
+      "latest": "ENSPTRG00000019754.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019888": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000019888",
+      "is_current": "",
+      "latest": "ENSPTRG00000019888.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000019926": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000019926",
+      "is_current": "",
+      "latest": "ENSPTRG00000019926.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020037": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020037",
+      "is_current": "",
+      "latest": "ENSPTRG00000020037.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020132": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020132",
+      "is_current": "",
+      "latest": "ENSPTRG00000020132.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020141": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020141",
+      "is_current": "",
+      "latest": "ENSPTRG00000020141.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020181": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020181",
+      "is_current": "",
+      "latest": "ENSPTRG00000020181.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020214": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020214",
+      "is_current": "",
+      "latest": "ENSPTRG00000020214.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020225": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020225",
+      "is_current": "",
+      "latest": "ENSPTRG00000020225.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020345": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020345",
+      "is_current": "",
+      "latest": "ENSPTRG00000020345.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020350": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000020350",
+      "is_current": "",
+      "latest": "ENSPTRG00000020350.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020365": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000020365",
+      "is_current": "",
+      "latest": "ENSPTRG00000020365.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020566": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000020566",
+      "is_current": "",
+      "latest": "ENSPTRG00000020566.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020621": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000020621",
+      "is_current": "",
+      "latest": "ENSPTRG00000020621.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020649": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000020649",
+      "is_current": "",
+      "latest": "ENSPTRG00000020649.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020929": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000020929",
+      "is_current": "",
+      "latest": "ENSPTRG00000020929.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000020996": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000020996",
+      "is_current": "",
+      "latest": "ENSPTRG00000020996.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021004": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021004",
+      "is_current": "",
+      "latest": "ENSPTRG00000021004.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021021": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021021",
+      "is_current": "",
+      "latest": "ENSPTRG00000021021.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021126": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021126",
+      "is_current": "",
+      "latest": "ENSPTRG00000021126.6",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 6
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021199": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021199",
+      "is_current": "",
+      "latest": "ENSPTRG00000021199.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021528": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021528",
+      "is_current": "",
+      "latest": "ENSPTRG00000021528.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021558": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021558",
+      "is_current": "",
+      "latest": "ENSPTRG00000021558.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021677": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021677",
+      "is_current": "",
+      "latest": "ENSPTRG00000021677.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021723": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021723",
+      "is_current": "",
+      "latest": "ENSPTRG00000021723.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021729": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021729",
+      "is_current": "",
+      "latest": "ENSPTRG00000021729.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021745": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021745",
+      "is_current": "",
+      "latest": "ENSPTRG00000021745.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021786": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021786",
+      "is_current": "",
+      "latest": "ENSPTRG00000021786.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021801": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021801",
+      "is_current": "",
+      "latest": "ENSPTRG00000021801.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021808": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021808",
+      "is_current": "",
+      "latest": "ENSPTRG00000021808.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021821": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021821",
+      "is_current": "",
+      "latest": "ENSPTRG00000021821.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021838": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000021838",
+      "is_current": "",
+      "latest": "ENSPTRG00000021838.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000021981": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000021981",
+      "is_current": "",
+      "latest": "ENSPTRG00000021981.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022019": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022019",
+      "is_current": "",
+      "latest": "ENSPTRG00000022019.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022022": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022022",
+      "is_current": "",
+      "latest": "ENSPTRG00000022022.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022028": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022028",
+      "is_current": "",
+      "latest": "ENSPTRG00000022028.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022039": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022039",
+      "is_current": "",
+      "latest": "ENSPTRG00000022039.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022105": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022105",
+      "is_current": "",
+      "latest": "ENSPTRG00000022105.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022109": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000022109",
+      "is_current": "1",
+      "latest": "ENSPTRG00000022109.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022112": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000022112",
+      "is_current": "",
+      "latest": "ENSPTRG00000022112.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022117": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022117",
+      "is_current": "",
+      "latest": "ENSPTRG00000022117.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022123": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022123",
+      "is_current": "",
+      "latest": "ENSPTRG00000022123.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022131": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000022131",
+      "is_current": "",
+      "latest": "ENSPTRG00000022131.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022239": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022239",
+      "is_current": "",
+      "latest": "ENSPTRG00000022239.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022261": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022261",
+      "is_current": "",
+      "latest": "ENSPTRG00000022261.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022400": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022400",
+      "is_current": "",
+      "latest": "ENSPTRG00000022400.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022431": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000022431",
+      "is_current": "",
+      "latest": "ENSPTRG00000022431.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022432": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022432",
+      "is_current": "",
+      "latest": "ENSPTRG00000022432.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022441": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022441",
+      "is_current": "",
+      "latest": "ENSPTRG00000022441.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022458": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000022458",
+      "is_current": "",
+      "latest": "ENSPTRG00000022458.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022467": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000022467",
+      "is_current": "",
+      "latest": "ENSPTRG00000022467.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022744": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000022744",
+      "is_current": "",
+      "latest": "ENSPTRG00000022744.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022752": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000022752",
+      "is_current": "",
+      "latest": "ENSPTRG00000022752.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000022982": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000022982",
+      "is_current": "1",
+      "latest": "ENSPTRG00000022982.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023020": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023020",
+      "is_current": "",
+      "latest": "ENSPTRG00000023020.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023064": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023064",
+      "is_current": "",
+      "latest": "ENSPTRG00000023064.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023172": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023172",
+      "is_current": "",
+      "latest": "ENSPTRG00000023172.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023259": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023259",
+      "is_current": "",
+      "latest": "ENSPTRG00000023259.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023423": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023423",
+      "is_current": "",
+      "latest": "ENSPTRG00000023423.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023474": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023474",
+      "is_current": "",
+      "latest": "ENSPTRG00000023474.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023475": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023475",
+      "is_current": "",
+      "latest": "ENSPTRG00000023475.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023480": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023480",
+      "is_current": "",
+      "latest": "ENSPTRG00000023480.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023661": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023661",
+      "is_current": "",
+      "latest": "ENSPTRG00000023661.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023799": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023799",
+      "is_current": "",
+      "latest": "ENSPTRG00000023799.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023826": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023826",
+      "is_current": "",
+      "latest": "ENSPTRG00000023826.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023841": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023841",
+      "is_current": "",
+      "latest": "ENSPTRG00000023841.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023867": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023867",
+      "is_current": "",
+      "latest": "ENSPTRG00000023867.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023887": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023887",
+      "is_current": "",
+      "latest": "ENSPTRG00000023887.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023949": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000023949",
+      "is_current": "",
+      "latest": "ENSPTRG00000023949.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000023983": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000023983",
+      "is_current": "",
+      "latest": "ENSPTRG00000023983.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000024131": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000024131",
+      "is_current": "",
+      "latest": "ENSPTRG00000024131.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000024145": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000024145",
+      "is_current": "1",
+      "latest": "ENSPTRG00000024145.5",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 5
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000024148": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000024148",
+      "is_current": "",
+      "latest": "ENSPTRG00000024148.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000024258": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000024258",
+      "is_current": "",
+      "latest": "ENSPTRG00000024258.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000024289": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000024289",
+      "is_current": "",
+      "latest": "ENSPTRG00000024289.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000024418": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000024418",
+      "is_current": "1",
+      "latest": "ENSPTRG00000024418.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000025652": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000025652",
+      "is_current": "1",
+      "latest": "ENSPTRG00000025652.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000025761": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000025761",
+      "is_current": "",
+      "latest": "ENSPTRG00000025761.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000025795": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000025795",
+      "is_current": "1",
+      "latest": "ENSPTRG00000025795.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000025837": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000025837",
+      "is_current": "",
+      "latest": "ENSPTRG00000025837.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000026086": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000026086",
+      "is_current": "1",
+      "latest": "ENSPTRG00000026086.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000026112": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000026112",
+      "is_current": "",
+      "latest": "ENSPTRG00000026112.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000026273": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000026273",
+      "is_current": "1",
+      "latest": "ENSPTRG00000026273.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000026567": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000026567",
+      "is_current": "",
+      "latest": "ENSPTRG00000026567.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000026744": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000026744",
+      "is_current": "",
+      "latest": "ENSPTRG00000026744.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000027152": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000027152",
+      "is_current": "1",
+      "latest": "ENSPTRG00000027152.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028025": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000028025",
+      "is_current": "",
+      "latest": "ENSPTRG00000028025.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028129": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028129",
+      "is_current": "",
+      "latest": "ENSPTRG00000028129.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028131": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028131",
+      "is_current": "",
+      "latest": "ENSPTRG00000028131.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028132": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028132",
+      "is_current": "",
+      "latest": "ENSPTRG00000028132.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028133": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028133",
+      "is_current": "",
+      "latest": "ENSPTRG00000028133.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028134": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028134",
+      "is_current": "",
+      "latest": "ENSPTRG00000028134.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028136": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028136",
+      "is_current": "",
+      "latest": "ENSPTRG00000028136.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028137": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028137",
+      "is_current": "",
+      "latest": "ENSPTRG00000028137.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028138": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028138",
+      "is_current": "",
+      "latest": "ENSPTRG00000028138.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028139": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028139",
+      "is_current": "",
+      "latest": "ENSPTRG00000028139.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028140": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028140",
+      "is_current": "",
+      "latest": "ENSPTRG00000028140.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028141": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028141",
+      "is_current": "",
+      "latest": "ENSPTRG00000028141.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028142": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028142",
+      "is_current": "",
+      "latest": "ENSPTRG00000028142.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028158": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028158",
+      "is_current": "",
+      "latest": "ENSPTRG00000028158.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028160": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028160",
+      "is_current": "",
+      "latest": "ENSPTRG00000028160.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028162": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028162",
+      "is_current": "",
+      "latest": "ENSPTRG00000028162.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028165": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000028165",
+      "is_current": "",
+      "latest": "ENSPTRG00000028165.3",
+      "peptide": null,
+      "possible_replacement": [
+        {
+          "score": 0.797278,
+          "stable_id": "ENSPTRG00000046305"
+        },
+        {
+          "score": 0.797278,
+          "stable_id": "ENSPTRG00000052307"
+        }
+      ],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028174": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028174",
+      "is_current": "",
+      "latest": "ENSPTRG00000028174.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028245": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000028245",
+      "is_current": "1",
+      "latest": "ENSPTRG00000028245.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028323": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028323",
+      "is_current": "",
+      "latest": "ENSPTRG00000028323.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028326": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028326",
+      "is_current": "",
+      "latest": "ENSPTRG00000028326.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028479": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028479",
+      "is_current": "",
+      "latest": "ENSPTRG00000028479.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028548": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000028548",
+      "is_current": "",
+      "latest": "ENSPTRG00000028548.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028689": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028689",
+      "is_current": "",
+      "latest": "ENSPTRG00000028689.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028693": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028693",
+      "is_current": "",
+      "latest": "ENSPTRG00000028693.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028723": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028723",
+      "is_current": "",
+      "latest": "ENSPTRG00000028723.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028740": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028740",
+      "is_current": "",
+      "latest": "ENSPTRG00000028740.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028902": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000028902",
+      "is_current": "",
+      "latest": "ENSPTRG00000028902.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000028919": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000028919",
+      "is_current": "",
+      "latest": "ENSPTRG00000028919.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029024": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000029024",
+      "is_current": "",
+      "latest": "ENSPTRG00000029024.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029029": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029029",
+      "is_current": "",
+      "latest": "ENSPTRG00000029029.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029113": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000029113",
+      "is_current": "1",
+      "latest": "ENSPTRG00000029113.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029115": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000029115",
+      "is_current": "",
+      "latest": "ENSPTRG00000029115.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029147": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000029147",
+      "is_current": "",
+      "latest": "ENSPTRG00000029147.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029240": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000029240",
+      "is_current": "",
+      "latest": "ENSPTRG00000029240.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029390": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000029390",
+      "is_current": "",
+      "latest": "ENSPTRG00000029390.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029487": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029487",
+      "is_current": "",
+      "latest": "ENSPTRG00000029487.4",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 4
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029526": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000029526",
+      "is_current": "",
+      "latest": "ENSPTRG00000029526.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029534": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029534",
+      "is_current": "",
+      "latest": "ENSPTRG00000029534.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029773": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029773",
+      "is_current": "",
+      "latest": "ENSPTRG00000029773.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029813": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029813",
+      "is_current": "",
+      "latest": "ENSPTRG00000029813.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029820": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029820",
+      "is_current": "",
+      "latest": "ENSPTRG00000029820.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029878": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000029878",
+      "is_current": "1",
+      "latest": "ENSPTRG00000029878.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000029930": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000029930",
+      "is_current": "",
+      "latest": "ENSPTRG00000029930.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030086": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000030086",
+      "is_current": "",
+      "latest": "ENSPTRG00000030086.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030137": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000030137",
+      "is_current": "",
+      "latest": "ENSPTRG00000030137.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030224": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000030224",
+      "is_current": "",
+      "latest": "ENSPTRG00000030224.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030303": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000030303",
+      "is_current": "",
+      "latest": "ENSPTRG00000030303.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030309": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000030309",
+      "is_current": "",
+      "latest": "ENSPTRG00000030309.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030724": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000030724",
+      "is_current": "",
+      "latest": "ENSPTRG00000030724.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030738": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000030738",
+      "is_current": "",
+      "latest": "ENSPTRG00000030738.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000030896": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000030896",
+      "is_current": "",
+      "latest": "ENSPTRG00000030896.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031076": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000031076",
+      "is_current": "",
+      "latest": "ENSPTRG00000031076.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031106": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000031106",
+      "is_current": "1",
+      "latest": "ENSPTRG00000031106.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031149": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000031149",
+      "is_current": "",
+      "latest": "ENSPTRG00000031149.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031188": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000031188",
+      "is_current": "1",
+      "latest": "ENSPTRG00000031188.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031198": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000031198",
+      "is_current": "",
+      "latest": "ENSPTRG00000031198.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031309": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000031309",
+      "is_current": "",
+      "latest": "ENSPTRG00000031309.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031337": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000031337",
+      "is_current": "",
+      "latest": "ENSPTRG00000031337.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031344": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000031344",
+      "is_current": "",
+      "latest": "ENSPTRG00000031344.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031432": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000031432",
+      "is_current": "",
+      "latest": "ENSPTRG00000031432.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031488": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000031488",
+      "is_current": "",
+      "latest": "ENSPTRG00000031488.3",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 3
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031502": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000031502",
+      "is_current": "",
+      "latest": "ENSPTRG00000031502.1",
+      "peptide": null,
+      "possible_replacement": [
+        {
+          "score": 1,
+          "stable_id": "ENSPTRG00000040209"
+        }
+      ],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000031669": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000031669",
+      "is_current": "",
+      "latest": "ENSPTRG00000031669.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000032479": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000032479",
+      "is_current": "",
+      "latest": "ENSPTRG00000032479.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000032498": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000032498",
+      "is_current": "",
+      "latest": "ENSPTRG00000032498.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000032507": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000032507",
+      "is_current": "",
+      "latest": "ENSPTRG00000032507.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000032706": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000032706",
+      "is_current": "1",
+      "latest": "ENSPTRG00000032706.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000032916": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000032916",
+      "is_current": "",
+      "latest": "ENSPTRG00000032916.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033099": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033099",
+      "is_current": "",
+      "latest": "ENSPTRG00000033099.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033518": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000033518",
+      "is_current": "1",
+      "latest": "ENSPTRG00000033518.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033674": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033674",
+      "is_current": "",
+      "latest": "ENSPTRG00000033674.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033699": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000033699",
+      "is_current": "",
+      "latest": "ENSPTRG00000033699.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033709": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033709",
+      "is_current": "",
+      "latest": "ENSPTRG00000033709.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033722": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000033722",
+      "is_current": "",
+      "latest": "ENSPTRG00000033722.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033769": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000033769",
+      "is_current": "",
+      "latest": "ENSPTRG00000033769.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033828": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000033828",
+      "is_current": "",
+      "latest": "ENSPTRG00000033828.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033852": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033852",
+      "is_current": "",
+      "latest": "ENSPTRG00000033852.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033865": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033865",
+      "is_current": "",
+      "latest": "ENSPTRG00000033865.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033939": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033939",
+      "is_current": "",
+      "latest": "ENSPTRG00000033939.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033943": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033943",
+      "is_current": "",
+      "latest": "ENSPTRG00000033943.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033947": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033947",
+      "is_current": "",
+      "latest": "ENSPTRG00000033947.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033967": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033967",
+      "is_current": "",
+      "latest": "ENSPTRG00000033967.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000033986": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000033986",
+      "is_current": "",
+      "latest": "ENSPTRG00000033986.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034020": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000034020",
+      "is_current": "",
+      "latest": "ENSPTRG00000034020.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034047": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034047",
+      "is_current": "",
+      "latest": "ENSPTRG00000034047.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034057": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034057",
+      "is_current": "",
+      "latest": "ENSPTRG00000034057.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034094": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034094",
+      "is_current": "",
+      "latest": "ENSPTRG00000034094.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034112": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034112",
+      "is_current": "",
+      "latest": "ENSPTRG00000034112.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034121": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034121",
+      "is_current": "",
+      "latest": "ENSPTRG00000034121.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034150": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034150",
+      "is_current": "",
+      "latest": "ENSPTRG00000034150.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034165": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034165",
+      "is_current": "",
+      "latest": "ENSPTRG00000034165.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034174": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000034174",
+      "is_current": "",
+      "latest": "ENSPTRG00000034174.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034197": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034197",
+      "is_current": "",
+      "latest": "ENSPTRG00000034197.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034217": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034217",
+      "is_current": "",
+      "latest": "ENSPTRG00000034217.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034271": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034271",
+      "is_current": "",
+      "latest": "ENSPTRG00000034271.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034299": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034299",
+      "is_current": "",
+      "latest": "ENSPTRG00000034299.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034327": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034327",
+      "is_current": "",
+      "latest": "ENSPTRG00000034327.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034380": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000034380",
+      "is_current": "",
+      "latest": "ENSPTRG00000034380.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034391": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034391",
+      "is_current": "",
+      "latest": "ENSPTRG00000034391.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034403": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034403",
+      "is_current": "",
+      "latest": "ENSPTRG00000034403.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034422": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000034422",
+      "is_current": "",
+      "latest": "ENSPTRG00000034422.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034429": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034429",
+      "is_current": "",
+      "latest": "ENSPTRG00000034429.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034447": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000034447",
+      "is_current": "",
+      "latest": "ENSPTRG00000034447.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "90",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034450": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034450",
+      "is_current": "",
+      "latest": "ENSPTRG00000034450.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034457": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034457",
+      "is_current": "",
+      "latest": "ENSPTRG00000034457.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034545": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034545",
+      "is_current": "",
+      "latest": "ENSPTRG00000034545.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034629": {
+    "data": {
+      "assembly": "Pan_tro_3.0",
+      "id": "ENSPTRG00000034629",
+      "is_current": "1",
+      "latest": "ENSPTRG00000034629.2",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "116",
+      "type": "Gene",
+      "version": 2
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000034734": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000034734",
+      "is_current": "",
+      "latest": "ENSPTRG00000034734.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "64",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000035024": {
+    "data": {
+      "assembly": "CHIMP2.1.4",
+      "id": "ENSPTRG00000035024",
+      "is_current": "",
+      "latest": "ENSPTRG00000035024.1",
+      "peptide": null,
+      "possible_replacement": [
+        {
+          "score": 1,
+          "stable_id": "ENSPTRG00000051909"
+        },
+        {
+          "score": 1,
+          "stable_id": "ENSPTRG00000043121"
+        }
+      ],
+      "release": "90",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000035985": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000035985",
+      "is_current": "",
+      "latest": "ENSPTRG00000035985.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000036006": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000036006",
+      "is_current": "",
+      "latest": "ENSPTRG00000036006.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  },
+  "ENSPTRG00000036255": {
+    "data": {
+      "assembly": "CHIMP2.1",
+      "id": "ENSPTRG00000036255",
+      "is_current": "",
+      "latest": "ENSPTRG00000036255.1",
+      "peptide": null,
+      "possible_replacement": [],
+      "release": "52",
+      "type": "Gene",
+      "version": 1
+    },
+    "http_status": 200,
+    "request_status": "success"
+  }
+}

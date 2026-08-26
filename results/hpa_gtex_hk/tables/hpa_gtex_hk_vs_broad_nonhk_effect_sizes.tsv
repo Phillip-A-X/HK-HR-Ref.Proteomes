@@ -1,0 +1,11 @@
+comparison	variable	HK	broad_nonHK	difference_HK_minus_broad_nonHK	ratio_HK_div_broad_nonHK
+HK vs broad non-HK	mean_gene_length_bp	39014.135359116	71814.9459197787	-32800.8105606627	0.543259273671208
+HK vs broad non-HK	median_gene_length_bp	22800.5	36971.5	-14171	0.616704759071177
+HK vs broad non-HK	mean_log10_gene_length_bp	4.33246551895337	4.55672498254579	-0.224259463592419	0.950784946545726
+HK vs broad non-HK	median_log10_gene_length_bp	4.35794412017262	4.56786706432393	-0.20992294415131	0.95404355223232
+HK vs broad non-HK	mean_expression_breadth	35.9387661141805	36	-0.0612338858195187	0.998299058727236
+HK vs broad non-HK	median_expression_breadth	36	36	0	1
+HK vs broad non-HK	mean_sd_log10_nTPM_plus1	0.158690570912777	0.209508739630946	-0.0508181687181692	0.757441294297859
+HK vs broad non-HK	median_sd_log10_nTPM_plus1	0.149093809742761	0.176498859877459	-0.0274050501346973	0.844729591150196
+HK vs broad non-HK	mean_nTPM_across_expressed_tissues	129.483798589502	34.8882119256186	94.5955866638835	3.71139108147934
+HK vs broad non-HK	median_nTPM_across_expressed_tissues	34.325	11.4	22.925	3.0109649122807

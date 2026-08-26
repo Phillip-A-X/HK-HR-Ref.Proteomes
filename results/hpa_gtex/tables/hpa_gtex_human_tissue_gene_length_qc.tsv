@@ -1,0 +1,8 @@
+metric	value
+rows_gene_tissue_pairs	481019
+unique_genes	18331
+number_of_tissues	36
+min_nTPM	1
+max_nTPM	229146.3
+min_gene_length_bp	84
+max_gene_length_bp	2473539

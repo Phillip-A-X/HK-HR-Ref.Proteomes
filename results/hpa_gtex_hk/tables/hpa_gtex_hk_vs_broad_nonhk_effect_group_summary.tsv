@@ -1,0 +1,3 @@
+effect_group	n_genes	mean_gene_length_bp	median_gene_length_bp	mean_log10_gene_length_bp	median_log10_gene_length_bp	mean_expression_breadth	median_expression_breadth	mean_sd_log10_nTPM_plus1	median_sd_log10_nTPM_plus1	mean_nTPM_across_expressed_tissues	median_nTPM_across_expressed_tissues
+HK	2172	39014.135359116	22800.5	4.33246551895337	4.35794412017262	35.9387661141805	36	0.158690570912777	0.149093809742761	129.483798589502	34.325
+broad non-HK	7230	71814.9459197787	36971.5	4.55672498254579	4.56786706432393	36	36	0.209508739630946	0.176498859877459	34.8882119256186	11.4

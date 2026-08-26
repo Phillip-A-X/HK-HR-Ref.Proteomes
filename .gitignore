@@ -233,3 +233,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.RData
+.RDataTmp
+.Rhistory
+*:Zone.Identifier

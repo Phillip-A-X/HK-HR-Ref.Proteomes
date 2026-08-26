@@ -1,0 +1,12 @@
+metric	value
+reference_proteome_total_accessions	20659.0
+mapped_to_ensg_accessions	19678.0
+not_mapped_to_ensg_accessions	981.0
+not_mapped_to_ensg_percent	4.748535747132
+unmapped_hk_status_non-HK	981.0
+unmapped_review_status_Swiss-Prot reviewed	963.0
+unmapped_review_status_TrEMBL unreviewed	18.0
+unmapped_mean_protein_length_aa	306.0183486238532
+unmapped_median_protein_length_aa	174.0
+unmapped_min_protein_length_aa	15.0
+unmapped_max_protein_length_aa	13477.0

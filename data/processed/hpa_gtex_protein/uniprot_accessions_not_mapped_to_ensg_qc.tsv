@@ -1,0 +1,982 @@
+uniprot_accession	entry_name	description	protein_length_aa	hk_status	hk_source	ensg_mapping_status	uniprot_db_prefix	entry_name_from_fasta	review_status_from_fasta
+A6NGW2	STRCL_HUMAN	Putative stereocilin-like protein OS=Homo sapiens OX=9606 GN=STRCP1 PE=5 SV=1	1772	non-HK		not_mapped_to_ensg	sp	STRCL_HUMAN	Swiss-Prot reviewed
+C4AMC7	WASH3_HUMAN	Putative WAS protein family homolog 3 OS=Homo sapiens OX=9606 GN=WASH3P PE=1 SV=2	463	non-HK		not_mapped_to_ensg	sp	WASH3_HUMAN	Swiss-Prot reviewed
+P0C7T7	FMAS1_HUMAN	Putative uncharacterized protein FRMD6-AS1 OS=Homo sapiens OX=9606 GN=FRMD6-AS1 PE=5 SV=1	363	non-HK		not_mapped_to_ensg	sp	FMAS1_HUMAN	Swiss-Prot reviewed
+P0DSO3	GAGE4_HUMAN	G antigen 4 OS=Homo sapiens OX=9606 GN=GAGE4 PE=5 SV=1	117	non-HK		not_mapped_to_ensg	sp	GAGE4_HUMAN	Swiss-Prot reviewed
+Q6NXN4	D19P1_HUMAN	Putative C-mannosyltransferase DPY19L2P1 OS=Homo sapiens OX=9606 GN=DPY19L2P1 PE=2 SV=1	242	non-HK		not_mapped_to_ensg	sp	D19P1_HUMAN	Swiss-Prot reviewed
+Q75LS8	FKB9L_HUMAN	Putative FK506-binding protein 9-like protein OS=Homo sapiens OX=9606 GN=FKBP9P1 PE=5 SV=1	142	non-HK		not_mapped_to_ensg	sp	FKB9L_HUMAN	Swiss-Prot reviewed
+A0A0A0MTA4	TJB25_HUMAN	T cell receptor beta joining 2-5 OS=Homo sapiens OX=9606 GN=TRBJ2-5 PE=4 SV=2	15	non-HK		not_mapped_to_ensg	sp	TJB25_HUMAN	Swiss-Prot reviewed
+P54792	DVLP1_HUMAN	Putative segment polarity protein dishevelled homolog DVL1P1 OS=Homo sapiens OX=9606 GN=DVL1P1 PE=5 SV=1	670	non-HK		not_mapped_to_ensg	sp	DVLP1_HUMAN	Swiss-Prot reviewed
+P60509	ERB1_HUMAN	Endogenous retrovirus group PABLB member 1 Env polyprotein OS=Homo sapiens OX=9606 GN=ERVPABLB-1 PE=2 SV=1	514	non-HK		not_mapped_to_ensg	sp	ERB1_HUMAN	Swiss-Prot reviewed
+A8MVZ5	BTNLA_HUMAN	Putative butyrophilin-like protein 10 OS=Homo sapiens OX=9606 GN=BTNL10P PE=5 SV=2	291	non-HK		not_mapped_to_ensg	sp	BTNLA_HUMAN	Swiss-Prot reviewed
+Q2TV78	MST1L_HUMAN	Putative macrophage stimulating 1-like protein OS=Homo sapiens OX=9606 GN=MST1L PE=1 SV=2	715	non-HK		not_mapped_to_ensg	sp	MST1L_HUMAN	Swiss-Prot reviewed
+Q8N8G6	CO054_HUMAN	Putative uncharacterized protein encoded by LINC02915 OS=Homo sapiens OX=9606 GN=LINC02915 PE=1 SV=1	183	non-HK		not_mapped_to_ensg	sp	CO054_HUMAN	Swiss-Prot reviewed
+Q96LS8	CB048_HUMAN	Putative uncharacterized protein C2orf48 OS=Homo sapiens OX=9606 GN=C2orf48 PE=5 SV=1	159	non-HK		not_mapped_to_ensg	sp	CB048_HUMAN	Swiss-Prot reviewed
+Q5SQ80	A20A2_HUMAN	Putative ankyrin repeat domain-containing protein 20A2 OS=Homo sapiens OX=9606 GN=ANKRD20A2P PE=5 SV=1	823	non-HK		not_mapped_to_ensg	sp	A20A2_HUMAN	Swiss-Prot reviewed
+Q6UXQ4	CB066_HUMAN	Uncharacterized protein C2orf66 OS=Homo sapiens OX=9606 GN=C2orf66 PE=3 SV=1	117	non-HK		not_mapped_to_ensg	sp	CB066_HUMAN	Swiss-Prot reviewed
+Q7RTT3	SSX9_HUMAN	Putative protein SSX9 OS=Homo sapiens OX=9606 GN=SSX9P PE=5 SV=1	188	non-HK		not_mapped_to_ensg	sp	SSX9_HUMAN	Swiss-Prot reviewed
+Q9H6N6	MYH16_HUMAN	Putative uncharacterized protein MYH16 OS=Homo sapiens OX=9606 GN=MYH16 PE=1 SV=2	1097	non-HK		not_mapped_to_ensg	sp	MYH16_HUMAN	Swiss-Prot reviewed
+A6NCF6	MA13P_HUMAN	Putative MAGE domain-containing protein MAGEA13P OS=Homo sapiens OX=9606 GN=MAGEA13P PE=5 SV=1	341	non-HK		not_mapped_to_ensg	sp	MA13P_HUMAN	Swiss-Prot reviewed
+Q49AS3	L37A5_HUMAN	Putative protein LRRC37A5P OS=Homo sapiens OX=9606 GN=LRRC37A5P PE=5 SV=3	106	non-HK		not_mapped_to_ensg	sp	L37A5_HUMAN	Swiss-Prot reviewed
+Q8IWN6	F223A_HUMAN	Protein FAM223A OS=Homo sapiens OX=9606 GN=FAM223A PE=2 SV=1	122	non-HK		not_mapped_to_ensg	sp	F223A_HUMAN	Swiss-Prot reviewed
+Q9P2X8	CI027_HUMAN	Putative uncharacterized protein encoded by LINC00474 OS=Homo sapiens OX=9606 GN=LINC00474 PE=5 SV=2	69	non-HK		not_mapped_to_ensg	sp	CI027_HUMAN	Swiss-Prot reviewed
+Q9UN81	LORF1_HUMAN	LINE-1 retrotransposable element ORF1 protein OS=Homo sapiens OX=9606 GN=L1RE1 PE=1 SV=1	338	non-HK		not_mapped_to_ensg	sp	LORF1_HUMAN	Swiss-Prot reviewed
+P0DP07	HV431_HUMAN	Immunoglobulin heavy variable 4-31 OS=Homo sapiens OX=9606 GN=IGHV4-31 PE=1 SV=1	118	non-HK		not_mapped_to_ensg	sp	HV431_HUMAN	Swiss-Prot reviewed
+Q8MH63	LAT1N_HUMAN	Putative L-type amino acid transporter 1-like protein MLAS OS=Homo sapiens OX=9606 GN=SLC7A5P1 PE=5 SV=1	180	non-HK		not_mapped_to_ensg	sp	LAT1N_HUMAN	Swiss-Prot reviewed
+Q9BZS9	YG041_HUMAN	Putative uncharacterized protein PNAS-138 OS=Homo sapiens OX=9606 GN=PNAS-138 PE=5 SV=1	49	non-HK		not_mapped_to_ensg	sp	YG041_HUMAN	Swiss-Prot reviewed
+Q9P1D8	YP008_HUMAN	Putative uncharacterized protein PRO2289 OS=Homo sapiens OX=9606 GN=PRO2289 PE=5 SV=1	64	non-HK		not_mapped_to_ensg	sp	YP008_HUMAN	Swiss-Prot reviewed
+A6NIE6	RN3P2_HUMAN	Putative RRN3-like protein RRN3P2 OS=Homo sapiens OX=9606 GN=RRN3P2 PE=5 SV=3	340	non-HK		not_mapped_to_ensg	sp	RN3P2_HUMAN	Swiss-Prot reviewed
+P0DN81	O13C7_HUMAN	Olfactory receptor 13C7 OS=Homo sapiens OX=9606 GN=OR13C7 PE=3 SV=1	318	non-HK		not_mapped_to_ensg	sp	O13C7_HUMAN	Swiss-Prot reviewed
+Q58FF8	H90B2_HUMAN	Putative heat shock protein HSP 90-beta 2 OS=Homo sapiens OX=9606 GN=HSP90AB2P PE=1 SV=2	381	non-HK		not_mapped_to_ensg	sp	H90B2_HUMAN	Swiss-Prot reviewed
+Q6ZRV3	CC074_HUMAN	Putative uncharacterized protein encoded by LINC00696 OS=Homo sapiens OX=9606 GN=LINC00696 PE=5 SV=1	163	non-HK		not_mapped_to_ensg	sp	CC074_HUMAN	Swiss-Prot reviewed
+Q9BZA0	TTY10_HUMAN	Putative transcript Y 10 protein OS=Homo sapiens OX=9606 GN=TTTY10 PE=5 SV=1	68	non-HK		not_mapped_to_ensg	sp	TTY10_HUMAN	Swiss-Prot reviewed
+Q6JHZ5	Q6JHZ5_HUMAN	NS5ATP13TP1 OS=Homo sapiens OX=9606 PE=2 SV=1	121	non-HK		not_mapped_to_ensg	tr	Q6JHZ5_HUMAN	TrEMBL unreviewed
+Q96R72	OR4K3_HUMAN	Olfactory receptor 4K3 OS=Homo sapiens OX=9606 GN=OR4K3 PE=3 SV=3	315	non-HK		not_mapped_to_ensg	sp	OR4K3_HUMAN	Swiss-Prot reviewed
+P0DY57	ARTEL_HUMAN	Putative protein encoded by LncRNA PSR OS=Homo sapiens OX=9606 GN=RASAL2-AS1 PE=5 SV=1	106	non-HK		not_mapped_to_ensg	sp	ARTEL_HUMAN	Swiss-Prot reviewed
+Q9BTD1	SHAS3_HUMAN	Putative uncharacterized protein SHANK2-AS3 OS=Homo sapiens OX=9606 GN=SHANK2-AS3 PE=5 SV=2	123	non-HK		not_mapped_to_ensg	sp	SHAS3_HUMAN	Swiss-Prot reviewed
+Q9HBF5	ST20_HUMAN	Suppressor of tumorigenicity 20 protein OS=Homo sapiens OX=9606 GN=ST20 PE=2 SV=2	79	non-HK		not_mapped_to_ensg	sp	ST20_HUMAN	Swiss-Prot reviewed
+A0A5K1VDZ0	A0A5K1VDZ0_HUMAN	KIR2DL1 protein OS=Homo sapiens OX=9606 GN=KIR2DL1 PE=2 SV=1	331	non-HK		not_mapped_to_ensg	tr	A0A5K1VDZ0_HUMAN	TrEMBL unreviewed
+E5RJ46	CH087_HUMAN	Putative uncharacterized protein LINC02906 OS=Homo sapiens OX=9606 GN=LINC02906 PE=5 SV=1	101	non-HK		not_mapped_to_ensg	sp	CH087_HUMAN	Swiss-Prot reviewed
+P0C6P0	BCL8_HUMAN	Putative protein BCL8 OS=Homo sapiens OX=9606 GN=NBEAP1 PE=5 SV=1	100	non-HK		not_mapped_to_ensg	sp	BCL8_HUMAN	Swiss-Prot reviewed
+P0CJ87	DU4L4_HUMAN	Double homeobox protein 4-like protein 4 OS=Homo sapiens OX=9606 GN=DUX4L4 PE=3 SV=1	422	non-HK		not_mapped_to_ensg	sp	DU4L4_HUMAN	Swiss-Prot reviewed
+P0C7V9	ME15P_HUMAN	Putative methyltransferase-like protein 15P1 OS=Homo sapiens OX=9606 GN=METTL15P1 PE=5 SV=1	234	non-HK		not_mapped_to_ensg	sp	ME15P_HUMAN	Swiss-Prot reviewed
+Q14602	ID2B_HUMAN	Putative DNA-binding protein inhibitor ID-2B OS=Homo sapiens OX=9606 GN=ID2B PE=5 SV=1	36	non-HK		not_mapped_to_ensg	sp	ID2B_HUMAN	Swiss-Prot reviewed
+Q5VZR4	S71A3_HUMAN	Putative solute carrier family 71 member 3 OS=Homo sapiens OX=9606 GN=SLC71A3P PE=5 SV=2	150	non-HK		not_mapped_to_ensg	sp	S71A3_HUMAN	Swiss-Prot reviewed
+Q63HN1	S31F2_HUMAN	Putative protein SPATA31F2P OS=Homo sapiens OX=9606 GN=SPATA31F2P PE=5 SV=1	556	non-HK		not_mapped_to_ensg	sp	S31F2_HUMAN	Swiss-Prot reviewed
+Q99440	CD006_HUMAN	Uncharacterized protein encoded by LINC01587 OS=Homo sapiens OX=9606 GN=LINC01587 PE=1 SV=1	93	non-HK		not_mapped_to_ensg	sp	CD006_HUMAN	Swiss-Prot reviewed
+Q9Y442	CV024_HUMAN	Putative uncharacterized protein YWHAH-AS1 OS=Homo sapiens OX=9606 GN=YWHAH-AS1 PE=5 SV=1	160	non-HK		not_mapped_to_ensg	sp	CV024_HUMAN	Swiss-Prot reviewed
+P59020	DSCR9_HUMAN	Down syndrome critical region protein 9 OS=Homo sapiens OX=9606 GN=DSCR9 PE=2 SV=1	149	non-HK		not_mapped_to_ensg	sp	DSCR9_HUMAN	Swiss-Prot reviewed
+Q96PT3	DUX5_HUMAN	Double homeobox protein 5 OS=Homo sapiens OX=9606 GN=DUX5 PE=2 SV=1	197	non-HK		not_mapped_to_ensg	sp	DUX5_HUMAN	Swiss-Prot reviewed
+Q9Y4M8	CH071_HUMAN	Putative uncharacterized protein encoded by LINC00588 OS=Homo sapiens OX=9606 GN=LINC00588 PE=5 SV=1	146	non-HK		not_mapped_to_ensg	sp	CH071_HUMAN	Swiss-Prot reviewed
+P51861	CDR1_HUMAN	Cerebellar degeneration-related antigen 1 OS=Homo sapiens OX=9606 GN=CDR1 PE=1 SV=2	262	non-HK		not_mapped_to_ensg	sp	CDR1_HUMAN	Swiss-Prot reviewed
+Q6DN03	H2B2C_HUMAN	Putative histone H2B type 2-C OS=Homo sapiens OX=9606 GN=H2BC20P PE=5 SV=3	193	non-HK		not_mapped_to_ensg	sp	H2B2C_HUMAN	Swiss-Prot reviewed
+Q6ZS02	DMP46_HUMAN	Putative GED domain-containing protein DNM1P46 OS=Homo sapiens OX=9606 GN=DNM1P46 PE=5 SV=1	220	non-HK		not_mapped_to_ensg	sp	DMP46_HUMAN	Swiss-Prot reviewed
+Q8NGU1	OR9A1_HUMAN	Olfactory receptor 9A1 OS=Homo sapiens OX=9606 GN=OR9A1P PE=2 SV=3	314	non-HK		not_mapped_to_ensg	sp	OR9A1_HUMAN	Swiss-Prot reviewed
+Q9NQF3	SERHL_HUMAN	Serine hydrolase-like protein OS=Homo sapiens OX=9606 GN=SERHL PE=5 SV=1	203	non-HK		not_mapped_to_ensg	sp	SERHL_HUMAN	Swiss-Prot reviewed
+A3QJZ6	PRA22_HUMAN	PRAME family member 22 OS=Homo sapiens OX=9606 GN=PRAMEF22 PE=3 SV=3	481	non-HK		not_mapped_to_ensg	sp	PRA22_HUMAN	Swiss-Prot reviewed
+Q1RN00	N3AS1_HUMAN	Uncharacterized protein NECTIN3-AS1 OS=Homo sapiens OX=9606 GN=NECTIN3-AS1 PE=1 SV=1	199	non-HK		not_mapped_to_ensg	sp	N3AS1_HUMAN	Swiss-Prot reviewed
+Q495Z4	ASAS1_HUMAN	Putative uncharacterized protein ASB16-AS1 OS=Homo sapiens OX=9606 GN=ASB16-AS1 PE=5 SV=2	193	non-HK		not_mapped_to_ensg	sp	ASAS1_HUMAN	Swiss-Prot reviewed
+Q5T2Q4	CCYL2_HUMAN	Cyclin-Y-like protein 2 OS=Homo sapiens OX=9606 GN=CCNYL2 PE=3 SV=2	361	non-HK		not_mapped_to_ensg	sp	CCYL2_HUMAN	Swiss-Prot reviewed
+Q96NW7	LRRC7_HUMAN	Leucine-rich repeat-containing protein 7 OS=Homo sapiens OX=9606 GN=LRRC7 PE=1 SV=1	1537	non-HK		not_mapped_to_ensg	sp	LRRC7_HUMAN	Swiss-Prot reviewed
+A6NJY1	SL9P1_HUMAN	Putative SLC9B1-like protein SLC9B1P1 OS=Homo sapiens OX=9606 GN=SLC9B1P1 PE=5 SV=4	282	non-HK		not_mapped_to_ensg	sp	SL9P1_HUMAN	Swiss-Prot reviewed
+P0CJ71	HMN4_HUMAN	Humanin-like 4 OS=Homo sapiens OX=9606 GN=MTRNR2L4 PE=2 SV=1	28	non-HK		not_mapped_to_ensg	sp	HMN4_HUMAN	Swiss-Prot reviewed
+Q30KQ8	DB112_HUMAN	Beta-defensin 112 OS=Homo sapiens OX=9606 GN=DEFB112 PE=1 SV=1	113	non-HK		not_mapped_to_ensg	sp	DB112_HUMAN	Swiss-Prot reviewed
+Q6S8J7	POTEA_HUMAN	POTE ankyrin domain family member A OS=Homo sapiens OX=9606 GN=POTEA PE=2 SV=1	498	non-HK		not_mapped_to_ensg	sp	POTEA_HUMAN	Swiss-Prot reviewed
+Q6UXR8	YS001_HUMAN	Putative uncharacterized protein UNQ6493/PRO21345 OS=Homo sapiens OX=9606 GN=UNQ6493/PRO21345 PE=5 SV=1	122	non-HK		not_mapped_to_ensg	sp	YS001_HUMAN	Swiss-Prot reviewed
+Q86Y28	BAGE4_HUMAN	B melanoma antigen 4 OS=Homo sapiens OX=9606 GN=BAGE4 PE=2 SV=1	39	non-HK		not_mapped_to_ensg	sp	BAGE4_HUMAN	Swiss-Prot reviewed
+Q309B1	TR16L_HUMAN	Tripartite motif-containing protein 16-like protein OS=Homo sapiens OX=9606 GN=TRIM16L PE=1 SV=3	348	non-HK		not_mapped_to_ensg	sp	TR16L_HUMAN	Swiss-Prot reviewed
+Q86U02	CN165_HUMAN	Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens OX=9606 GN=LINC00596 PE=5 SV=1	117	non-HK		not_mapped_to_ensg	sp	CN165_HUMAN	Swiss-Prot reviewed
+Q8NHP1	ARK74_HUMAN	Aflatoxin B1 aldehyde reductase member 4 OS=Homo sapiens OX=9606 GN=AKR7L PE=1 SV=7	331	non-HK		not_mapped_to_ensg	sp	ARK74_HUMAN	Swiss-Prot reviewed
+Q96FQ7	CR018_HUMAN	Putative uncharacterized protein encoded by LINC00526 OS=Homo sapiens OX=9606 GN=LINC00526 PE=5 SV=1	95	non-HK		not_mapped_to_ensg	sp	CR018_HUMAN	Swiss-Prot reviewed
+Q9WJR5	POK19_HUMAN	Endogenous retrovirus group K member 19 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-19 PE=2 SV=2	959	non-HK		not_mapped_to_ensg	sp	POK19_HUMAN	Swiss-Prot reviewed
+P0C7U9	FA87A_HUMAN	Protein FAM87A OS=Homo sapiens OX=9606 GN=FAM87A PE=2 SV=1	286	non-HK		not_mapped_to_ensg	sp	FA87A_HUMAN	Swiss-Prot reviewed
+Q5SY68	S1A7B_HUMAN	Protein S100-A7-like 2 OS=Homo sapiens OX=9606 GN=S100A7L2 PE=1 SV=1	101	non-HK		not_mapped_to_ensg	sp	S1A7B_HUMAN	Swiss-Prot reviewed
+Q6UXR6	YI004_HUMAN	Putative uncharacterized protein UNQ6494/PRO21346 OS=Homo sapiens OX=9606 GN=UNQ6494/PRO21346 PE=5 SV=1	183	non-HK		not_mapped_to_ensg	sp	YI004_HUMAN	Swiss-Prot reviewed
+A4D2B8	PM2P1_HUMAN	Putative postmeiotic segregation increased 2-like protein 1 OS=Homo sapiens OX=9606 GN=PMS2P1 PE=5 SV=1	440	non-HK		not_mapped_to_ensg	sp	PM2P1_HUMAN	Swiss-Prot reviewed
+Q6UXP3	TM14E_HUMAN	Transmembrane protein 14EP OS=Homo sapiens OX=9606 GN=TMEM14EP PE=5 SV=1	125	non-HK		not_mapped_to_ensg	sp	TM14E_HUMAN	Swiss-Prot reviewed
+Q9UEU5	GGE2D_HUMAN	G antigen 2D OS=Homo sapiens OX=9606 GN=GAGE2D PE=1 SV=1	116	non-HK		not_mapped_to_ensg	sp	GGE2D_HUMAN	Swiss-Prot reviewed
+Q9UQG0	POK11_HUMAN	Endogenous retrovirus group K member 11 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-11 PE=1 SV=2	969	non-HK		not_mapped_to_ensg	sp	POK11_HUMAN	Swiss-Prot reviewed
+P0C7N1	OR8U8_HUMAN	Olfactory receptor 8U8 OS=Homo sapiens OX=9606 GN=OR8U8 PE=3 SV=1	319	non-HK		not_mapped_to_ensg	sp	OR8U8_HUMAN	Swiss-Prot reviewed
+Q92928	RAB1C_HUMAN	Putative Ras-related protein Rab-1C OS=Homo sapiens OX=9606 GN=RAB1C PE=5 SV=2	201	non-HK		not_mapped_to_ensg	sp	RAB1C_HUMAN	Swiss-Prot reviewed
+Q96IX9	A26L1_HUMAN	Putative ankyrin repeat domain-containing protein 26-like 1 OS=Homo sapiens OX=9606 GN=ANKRD36BP1 PE=5 SV=1	119	non-HK		not_mapped_to_ensg	sp	A26L1_HUMAN	Swiss-Prot reviewed
+A8MUL3	ADAS1_HUMAN	Putative uncharacterized protein ADARB2-AS1 OS=Homo sapiens OX=9606 GN=ADARB2-AS1 PE=5 SV=2	147	non-HK		not_mapped_to_ensg	sp	ADAS1_HUMAN	Swiss-Prot reviewed
+Q8N812	CL076_HUMAN	Uncharacterized protein C12orf76 OS=Homo sapiens OX=9606 GN=C12orf76 PE=2 SV=1	135	non-HK		not_mapped_to_ensg	sp	CL076_HUMAN	Swiss-Prot reviewed
+Q9NSQ0	RRP7B_HUMAN	Putative ribosomal RNA-processing protein 7 homolog B OS=Homo sapiens OX=9606 GN=RRP7BP PE=5 SV=1	103	non-HK		not_mapped_to_ensg	sp	RRP7B_HUMAN	Swiss-Prot reviewed
+A1A4F0	S66AL_HUMAN	Putative uncharacterized protein SLC66A1LP OS=Homo sapiens OX=9606 GN=SLC66A1LP PE=5 SV=2	135	non-HK		not_mapped_to_ensg	sp	S66AL_HUMAN	Swiss-Prot reviewed
+A6NHM9	MOXD2_HUMAN	Putative DBH-like monooxygenase protein 2 OS=Homo sapiens OX=9606 GN=MOXD2P PE=5 SV=1	499	non-HK		not_mapped_to_ensg	sp	MOXD2_HUMAN	Swiss-Prot reviewed
+O60756	BCE1_HUMAN	Putative protein BCE-1 OS=Homo sapiens OX=9606 GN=BCE1 PE=5 SV=1	84	non-HK		not_mapped_to_ensg	sp	BCE1_HUMAN	Swiss-Prot reviewed
+P0DPF2	NBPFK_HUMAN	NBPF family member NBPF20 OS=Homo sapiens OX=9606 GN=NBPF20 PE=1 SV=1	5207	non-HK		not_mapped_to_ensg	sp	NBPFK_HUMAN	Swiss-Prot reviewed
+Q8N8Z3	PRR26_HUMAN	Putative uncharacterized protein DIP2C-AS1 OS=Homo sapiens OX=9606 GN=DIP2C-AS1 PE=2 SV=1	221	non-HK		not_mapped_to_ensg	sp	PRR26_HUMAN	Swiss-Prot reviewed
+Q969H9	DIRC1_HUMAN	Disrupted in renal carcinoma protein 1 OS=Homo sapiens OX=9606 GN=DIRC1 PE=2 SV=1	104	non-HK		not_mapped_to_ensg	sp	DIRC1_HUMAN	Swiss-Prot reviewed
+Q96MC9	CA147_HUMAN	Putative uncharacterized protein IKBKE-AS1 OS=Homo sapiens OX=9606 GN=IKBKE-AS1 PE=5 SV=2	270	non-HK		not_mapped_to_ensg	sp	CA147_HUMAN	Swiss-Prot reviewed
+Q9H3A6	Q9H3A6_HUMAN	PRO2179 OS=Homo sapiens OX=9606 PE=2 SV=1	140	non-HK		not_mapped_to_ensg	tr	Q9H3A6_HUMAN	TrEMBL unreviewed
+E2RYF7	PBMU2_HUMAN	Protein PBMUCL2 OS=Homo sapiens OX=9606 GN=HCG22 PE=2 SV=1	251	non-HK		not_mapped_to_ensg	sp	PBMU2_HUMAN	Swiss-Prot reviewed
+P0DP01	HV108_HUMAN	Immunoglobulin heavy variable 1-8 OS=Homo sapiens OX=9606 GN=IGHV1-8 PE=1 SV=1	117	non-HK		not_mapped_to_ensg	sp	HV108_HUMAN	Swiss-Prot reviewed
+Q86TU6	CN070_HUMAN	Putative uncharacterized protein encoded by LINC00523 OS=Homo sapiens OX=9606 GN=LINC00523 PE=5 SV=1	105	non-HK		not_mapped_to_ensg	sp	CN070_HUMAN	Swiss-Prot reviewed
+A6NKF1	SAC31_HUMAN	SAC3 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SAC3D1 PE=1 SV=2	404	non-HK		not_mapped_to_ensg	sp	SAC31_HUMAN	Swiss-Prot reviewed
+Q6UXT6	OR9H1_HUMAN	Olfactory receptor OR9H1 OS=Homo sapiens OX=9606 GN=OR9H1 PE=2 SV=1	308	non-HK		not_mapped_to_ensg	sp	OR9H1_HUMAN	Swiss-Prot reviewed
+A0A5B9	TRBC2_HUMAN	T cell receptor beta constant 2 OS=Homo sapiens OX=9606 GN=TRBC2 PE=1 SV=2	178	non-HK		not_mapped_to_ensg	sp	TRBC2_HUMAN	Swiss-Prot reviewed
+O43261	LEU1_HUMAN	Leukemia-associated protein 1 OS=Homo sapiens OX=9606 GN=DLEU1 PE=1 SV=2	78	non-HK		not_mapped_to_ensg	sp	LEU1_HUMAN	Swiss-Prot reviewed
+P59539	T2R45_HUMAN	Taste receptor type 2 member 45 OS=Homo sapiens OX=9606 GN=TAS2R45 PE=2 SV=1	299	non-HK		not_mapped_to_ensg	sp	T2R45_HUMAN	Swiss-Prot reviewed
+Q0P140	YA037_HUMAN	Putative uncharacterized protein HSD52 OS=Homo sapiens OX=9606 GN=HSD52 PE=5 SV=1	79	non-HK		not_mapped_to_ensg	sp	YA037_HUMAN	Swiss-Prot reviewed
+Q538Z0	LUZP6_HUMAN	Leucine zipper protein 6 OS=Homo sapiens OX=9606 GN=LUZP6 PE=1 SV=1	58	non-HK		not_mapped_to_ensg	sp	LUZP6_HUMAN	Swiss-Prot reviewed
+Q6ZS62	COLC1_HUMAN	Colorectal cancer-associated protein 1 OS=Homo sapiens OX=9606 GN=COLCA1 PE=2 SV=1	124	non-HK		not_mapped_to_ensg	sp	COLC1_HUMAN	Swiss-Prot reviewed
+A0A0A0MT94	TJB22_HUMAN	T cell receptor beta joining 2-2 OS=Homo sapiens OX=9606 GN=TRBJ2-2 PE=4 SV=2	16	non-HK		not_mapped_to_ensg	sp	TJB22_HUMAN	Swiss-Prot reviewed
+A6NJR5	SPDL3_HUMAN	Putative speedy protein-like protein 3 OS=Homo sapiens OX=9606 PE=5 SV=3	290	non-HK		not_mapped_to_ensg	sp	SPDL3_HUMAN	Swiss-Prot reviewed
+A6NL46	YF016_HUMAN	Putative UPF0607 protein ENSP00000332738 OS=Homo sapiens OX=9606 PE=3 SV=3	340	non-HK		not_mapped_to_ensg	sp	YF016_HUMAN	Swiss-Prot reviewed
+A6NNC1	P12LL_HUMAN	Putative POM121-like protein 1-like OS=Homo sapiens OX=9606 PE=5 SV=3	897	non-HK		not_mapped_to_ensg	sp	P12LL_HUMAN	Swiss-Prot reviewed
+A8MV72	YH009_HUMAN	Putative UPF0607 protein ENSP00000382826 OS=Homo sapiens OX=9606 PE=5 SV=2	311	non-HK		not_mapped_to_ensg	sp	YH009_HUMAN	Swiss-Prot reviewed
+A8MVM7	YD021_HUMAN	Putative uncharacterized protein ENSP00000382790 OS=Homo sapiens OX=9606 PE=5 SV=3	634	non-HK		not_mapped_to_ensg	sp	YD021_HUMAN	Swiss-Prot reviewed
+F2Z398	LMO7D_HUMAN	LMO7 downstream neighbor protein OS=Homo sapiens OX=9606 GN=LMO7DN PE=2 SV=1	122	non-HK		not_mapped_to_ensg	sp	LMO7D_HUMAN	Swiss-Prot reviewed
+Q5W150	YT011_HUMAN	Putative uncharacterized protein MGC163334 OS=Homo sapiens OX=9606 PE=1 SV=1	140	non-HK		not_mapped_to_ensg	sp	YT011_HUMAN	Swiss-Prot reviewed
+Q6ZS92	YD022_HUMAN	Putative uncharacterized protein FLJ45721 OS=Homo sapiens OX=9606 PE=5 SV=2	163	non-HK		not_mapped_to_ensg	sp	YD022_HUMAN	Swiss-Prot reviewed
+Q6ZSR6	YP007_HUMAN	Putative uncharacterized protein FLJ45256 OS=Homo sapiens OX=9606 PE=2 SV=3	202	non-HK		not_mapped_to_ensg	sp	YP007_HUMAN	Swiss-Prot reviewed
+Q7Z5A4	PRS42_HUMAN	Putative serine protease 42 OS=Homo sapiens OX=9606 GN=PRSS42P PE=5 SV=1	293	non-HK		not_mapped_to_ensg	sp	PRS42_HUMAN	Swiss-Prot reviewed
+Q86UQ8	NFE4_HUMAN	Transcription factor NF-E4 OS=Homo sapiens OX=9606 GN=NFE4 PE=1 SV=1	179	non-HK		not_mapped_to_ensg	sp	NFE4_HUMAN	Swiss-Prot reviewed
+Q8N7R0	NANG2_HUMAN	Putative homeobox protein NANOG2 OS=Homo sapiens OX=9606 GN=NANOGP1 PE=5 SV=1	232	non-HK		not_mapped_to_ensg	sp	NANG2_HUMAN	Swiss-Prot reviewed
+Q8N814	YG045_HUMAN	Putative uncharacterized protein FLJ40140 OS=Homo sapiens OX=9606 PE=5 SV=1	137	non-HK		not_mapped_to_ensg	sp	YG045_HUMAN	Swiss-Prot reviewed
+Q8N976	YG039_HUMAN	Putative uncharacterized protein FLJ38264 OS=Homo sapiens OX=9606 PE=5 SV=1	141	non-HK		not_mapped_to_ensg	sp	YG039_HUMAN	Swiss-Prot reviewed
+Q8N9P0	YF006_HUMAN	Putative uncharacterized protein FLJ36797 OS=Homo sapiens OX=9606 PE=5 SV=1	234	non-HK		not_mapped_to_ensg	sp	YF006_HUMAN	Swiss-Prot reviewed
+Q8NF67	A2012_HUMAN	Putative ankyrin repeat domain-containing protein 20A12 OS=Homo sapiens OX=9606 GN=ANKRD20A12P PE=5 SV=3	263	non-HK		not_mapped_to_ensg	sp	A2012_HUMAN	Swiss-Prot reviewed
+Q96M78	FEAS2_HUMAN	Putative uncharacterized protein encoded by FER1L6-AS2 OS=Homo sapiens OX=9606 GN=FER1L6-AS2 PE=2 SV=2	137	non-HK		not_mapped_to_ensg	sp	FEAS2_HUMAN	Swiss-Prot reviewed
+Q9H521	YM006_HUMAN	Putative uncharacterized protein LOC645739 OS=Homo sapiens OX=9606 PE=5 SV=1	79	non-HK		not_mapped_to_ensg	sp	YM006_HUMAN	Swiss-Prot reviewed
+Q16473	TENXA_HUMAN	Putative tenascin-XA OS=Homo sapiens OX=9606 GN=TNXA PE=5 SV=2	311	non-HK		not_mapped_to_ensg	sp	TENXA_HUMAN	Swiss-Prot reviewed
+Q32M92	CO032_HUMAN	Uncharacterized protein C15orf32 OS=Homo sapiens OX=9606 GN=C15orf32 PE=1 SV=2	178	non-HK		not_mapped_to_ensg	sp	CO032_HUMAN	Swiss-Prot reviewed
+A0A0A0MT70	TJB26_HUMAN	T cell receptor beta joining 2-6 OS=Homo sapiens OX=9606 GN=TRBJ2-6 PE=4 SV=2	17	non-HK		not_mapped_to_ensg	sp	TJB26_HUMAN	Swiss-Prot reviewed
+P0DSN6	T2R33_HUMAN	Putative taste receptor type 2 member 33 OS=Homo sapiens OX=9606 GN=TAS2R33 PE=5 SV=1	309	non-HK		not_mapped_to_ensg	sp	T2R33_HUMAN	Swiss-Prot reviewed
+P63136	POK25_HUMAN	Endogenous retrovirus group K member 25 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-25 PE=3 SV=1	954	non-HK		not_mapped_to_ensg	sp	POK25_HUMAN	Swiss-Prot reviewed
+Q6RVD6	SPAT8_HUMAN	Spermatogenesis-associated protein 8 OS=Homo sapiens OX=9606 GN=SPATA8 PE=1 SV=1	105	non-HK		not_mapped_to_ensg	sp	SPAT8_HUMAN	Swiss-Prot reviewed
+Q86YQ2	LATH_HUMAN	Putative BPIFA4P protein OS=Homo sapiens OX=9606 GN=BPIFA4P PE=5 SV=1	179	non-HK		not_mapped_to_ensg	sp	LATH_HUMAN	Swiss-Prot reviewed
+Q8N816	TMM99_HUMAN	Uncharacterized protein KRT10-AS1 OS=Homo sapiens OX=9606 GN=KRT10-AS1 PE=2 SV=2	258	non-HK		not_mapped_to_ensg	sp	TMM99_HUMAN	Swiss-Prot reviewed
+Q9BY60	GBRL3_HUMAN	Gamma-aminobutyric acid receptor-associated protein-like 3 OS=Homo sapiens OX=9606 GN=GABARAPL3 PE=2 SV=1	117	non-HK		not_mapped_to_ensg	sp	GBRL3_HUMAN	Swiss-Prot reviewed
+A2VEC9	SSPO_HUMAN	SCO-spondin OS=Homo sapiens OX=9606 GN=SSPOP PE=2 SV=2	5150	non-HK		not_mapped_to_ensg	sp	SSPO_HUMAN	Swiss-Prot reviewed
+P58513	CU042_HUMAN	Putative uncharacterized protein encoded by LINC00158 OS=Homo sapiens OX=9606 GN=LINC00158 PE=5 SV=1	81	non-HK		not_mapped_to_ensg	sp	CU042_HUMAN	Swiss-Prot reviewed
+Q8WZ26	YS006_HUMAN	Putative uncharacterized protein PP6455 OS=Homo sapiens OX=9606 GN=PP6455 PE=2 SV=2	134	non-HK		not_mapped_to_ensg	sp	YS006_HUMAN	Swiss-Prot reviewed
+Q96P09	BIRC8_HUMAN	Baculoviral IAP repeat-containing protein 8 OS=Homo sapiens OX=9606 GN=BIRC8 PE=1 SV=2	236	non-HK		not_mapped_to_ensg	sp	BIRC8_HUMAN	Swiss-Prot reviewed
+Q9UI54	YT001_HUMAN	Putative uncharacterized protein PRO0628 OS=Homo sapiens OX=9606 GN=PRO0628 PE=5 SV=1	55	non-HK		not_mapped_to_ensg	sp	YT001_HUMAN	Swiss-Prot reviewed
+A6NFF2	NP1L6_HUMAN	Putative nucleosome assembly protein 1-like 6 OS=Homo sapiens OX=9606 GN=NAP1L6P PE=5 SV=1	107	non-HK		not_mapped_to_ensg	sp	NP1L6_HUMAN	Swiss-Prot reviewed
+C9JG80	NPIB4_HUMAN	Nuclear pore complex-interacting protein family member B4 OS=Homo sapiens OX=9606 GN=NPIPB4 PE=3 SV=2	1138	non-HK		not_mapped_to_ensg	sp	NPIB4_HUMAN	Swiss-Prot reviewed
+O60397	COX7S_HUMAN	Putative cytochrome c oxidase subunit 7A3, mitochondrial OS=Homo sapiens OX=9606 GN=COX7A2P2 PE=5 SV=1	106	non-HK		not_mapped_to_ensg	sp	COX7S_HUMAN	Swiss-Prot reviewed
+P0DXC1	SRSP_HUMAN	Splicing regulatory small protein OS=Homo sapiens OX=9606 GN=SRSP PE=1 SV=1	130	non-HK		not_mapped_to_ensg	sp	SRSP_HUMAN	Swiss-Prot reviewed
+Q59FN2	Q59FN2_HUMAN	non-specific serine/threonine protein kinase (Fragment) OS=Homo sapiens OX=9606 PE=1 SV=1	279	non-HK		not_mapped_to_ensg	tr	Q59FN2_HUMAN	TrEMBL unreviewed
+Q8N6U2	CL033_HUMAN	Putative uncharacterized protein encoded by LINC00612 OS=Homo sapiens OX=9606 GN=LINC00612 PE=5 SV=1	182	non-HK		not_mapped_to_ensg	sp	CL033_HUMAN	Swiss-Prot reviewed
+Q8NH07	O11H2_HUMAN	Olfactory receptor 11H2 OS=Homo sapiens OX=9606 GN=OR11H2 PE=3 SV=1	326	non-HK		not_mapped_to_ensg	sp	O11H2_HUMAN	Swiss-Prot reviewed
+P0CB48	UBFL6_HUMAN	Putative upstream-binding factor 1-like protein 6 OS=Homo sapiens OX=9606 GN=UBTFL6 PE=5 SV=1	400	non-HK		not_mapped_to_ensg	sp	UBFL6_HUMAN	Swiss-Prot reviewed
+Q6NSI1	AR26L_HUMAN	Putative ankyrin repeat domain-containing protein 26-like protein OS=Homo sapiens OX=9606 GN=ANKRD26P1 PE=5 SV=2	321	non-HK		not_mapped_to_ensg	sp	AR26L_HUMAN	Swiss-Prot reviewed
+Q7Z4B0	CR020_HUMAN	Putative uncharacterized protein encoded by LINC00305 OS=Homo sapiens OX=9606 GN=LINC00305 PE=5 SV=1	112	non-HK		not_mapped_to_ensg	sp	CR020_HUMAN	Swiss-Prot reviewed
+Q8NAJ2	CI106_HUMAN	Putative uncharacterized protein encoded by LINC02913 OS=Homo sapiens OX=9606 GN=LINC02913 PE=5 SV=2	232	non-HK		not_mapped_to_ensg	sp	CI106_HUMAN	Swiss-Prot reviewed
+A6NM66	CU054_HUMAN	Uncharacterized protein encoded by LINC01548 OS=Homo sapiens OX=9606 GN=LINC01548 PE=4 SV=1	108	non-HK		not_mapped_to_ensg	sp	CU054_HUMAN	Swiss-Prot reviewed
+P63121	VP113_HUMAN	Endogenous retrovirus group K member 113 Pro protein OS=Homo sapiens OX=9606 GN=HERVK_113 PE=3 SV=2	156	non-HK		not_mapped_to_ensg	sp	VP113_HUMAN	Swiss-Prot reviewed
+Q2M2E5	CE064_HUMAN	Uncharacterized protein encoded by LINC03122 OS=Homo sapiens OX=9606 GN=LINC03122 PE=5 SV=2	130	non-HK		not_mapped_to_ensg	sp	CE064_HUMAN	Swiss-Prot reviewed
+Q8IWP9	CC28A_HUMAN	Coiled-coil domain-containing protein 28A OS=Homo sapiens OX=9606 GN=CCDC28A PE=1 SV=1	274	non-HK		not_mapped_to_ensg	sp	CC28A_HUMAN	Swiss-Prot reviewed
+Q8N7Y1	KIAS3_HUMAN	Putative uncharacterized protein KIRREL3-AS3 OS=Homo sapiens OX=9606 GN=KIRREL3-AS3 PE=5 SV=1	241	non-HK		not_mapped_to_ensg	sp	KIAS3_HUMAN	Swiss-Prot reviewed
+P0CL85	ST3L3_HUMAN	STAG3-like protein 3 OS=Homo sapiens OX=9606 GN=STAG3L3 PE=2 SV=1	134	non-HK		not_mapped_to_ensg	sp	ST3L3_HUMAN	Swiss-Prot reviewed
+Q5JNZ5	RS26L_HUMAN	Putative ribosomal protein eS26-like OS=Homo sapiens OX=9606 GN=RPS26P11 PE=5 SV=1	115	non-HK		not_mapped_to_ensg	sp	RS26L_HUMAN	Swiss-Prot reviewed
+Q8N535	CB052_HUMAN	Putative uncharacterized protein encoded by LINC00471 OS=Homo sapiens OX=9606 GN=LINC00471 PE=5 SV=1	108	non-HK		not_mapped_to_ensg	sp	CB052_HUMAN	Swiss-Prot reviewed
+Q8NH67	O52I2_HUMAN	Olfactory receptor 52I2 OS=Homo sapiens OX=9606 GN=OR52I2 PE=2 SV=3	350	non-HK		not_mapped_to_ensg	sp	O52I2_HUMAN	Swiss-Prot reviewed
+Q9BXR3	POK6_HUMAN	Endogenous retrovirus group K member 6 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-6 PE=2 SV=2	956	non-HK		not_mapped_to_ensg	sp	POK6_HUMAN	Swiss-Prot reviewed
+Q58FG0	HS905_HUMAN	Putative heat shock protein HSP 90-alpha A5 OS=Homo sapiens OX=9606 GN=HSP90AA5P PE=1 SV=1	334	non-HK		not_mapped_to_ensg	sp	HS905_HUMAN	Swiss-Prot reviewed
+Q8NH09	OR8S1_HUMAN	Olfactory receptor 8S1 OS=Homo sapiens OX=9606 GN=OR8S1 PE=3 SV=2	359	non-HK		not_mapped_to_ensg	sp	OR8S1_HUMAN	Swiss-Prot reviewed
+A6NHR8	FA47D_HUMAN	Putative protein FAM47D OS=Homo sapiens OX=9606 GN=FAM47DP PE=5 SV=3	397	non-HK		not_mapped_to_ensg	sp	FA47D_HUMAN	Swiss-Prot reviewed
+Q1A5X7	WHAL1_HUMAN	Putative WASP homolog-associated protein with actin, membranes and microtubules-like protein 1 OS=Homo sapiens OX=9606 GN=WHAMMP3 PE=5 SV=1	153	non-HK		not_mapped_to_ensg	sp	WHAL1_HUMAN	Swiss-Prot reviewed
+Q96N68	CR015_HUMAN	Putative uncharacterized protein C18orf15 OS=Homo sapiens OX=9606 GN=C18orf15 PE=5 SV=1	181	non-HK		not_mapped_to_ensg	sp	CR015_HUMAN	Swiss-Prot reviewed
+Q9P1Z9	CC180_HUMAN	Coiled-coil domain-containing protein 180 OS=Homo sapiens OX=9606 GN=CCDC180 PE=1 SV=3	1701	non-HK		not_mapped_to_ensg	sp	CC180_HUMAN	Swiss-Prot reviewed
+Q9Y4D8	HECD4_HUMAN	Probable E3 ubiquitin-protein ligase HECTD4 OS=Homo sapiens OX=9606 GN=HECTD4 PE=1 SV=5	3996	non-HK		not_mapped_to_ensg	sp	HECD4_HUMAN	Swiss-Prot reviewed
+P0C7M3	SFTA3_HUMAN	Surfactant-associated protein 3 OS=Homo sapiens OX=9606 GN=SFTA3 PE=1 SV=1	94	non-HK		not_mapped_to_ensg	sp	SFTA3_HUMAN	Swiss-Prot reviewed
+P0C7P4	UCRIL_HUMAN	Putative cytochrome b-c1 complex subunit Rieske-like protein 1 OS=Homo sapiens OX=9606 GN=UQCRFS1P1 PE=5 SV=1	283	non-HK		not_mapped_to_ensg	sp	UCRIL_HUMAN	Swiss-Prot reviewed
+Q5K130	CLU1O_HUMAN	Putative uncharacterized protein CLLU1-AS1 OS=Homo sapiens OX=9606 GN=CLLU1-AS1 PE=5 SV=1	101	non-HK		not_mapped_to_ensg	sp	CLU1O_HUMAN	Swiss-Prot reviewed
+Q8N1L1	CV037_HUMAN	Putative uncharacterized protein encoded by LINC00528 OS=Homo sapiens OX=9606 GN=LINC00528 PE=5 SV=1	170	non-HK		not_mapped_to_ensg	sp	CV037_HUMAN	Swiss-Prot reviewed
+Q9Y6J3	SMA5O_HUMAN	SMAD5 antisense gene protein 1 OS=Homo sapiens OX=9606 GN=SMAD5-AS1 PE=2 SV=1	95	non-HK		not_mapped_to_ensg	sp	SMA5O_HUMAN	Swiss-Prot reviewed
+P01782	HV309_HUMAN	Immunoglobulin heavy variable 3-9 OS=Homo sapiens OX=9606 GN=IGHV3-9 PE=1 SV=2	118	non-HK		not_mapped_to_ensg	sp	HV309_HUMAN	Swiss-Prot reviewed
+Q8N8A8	F169B_HUMAN	Protein FAM169BP OS=Homo sapiens OX=9606 GN=FAM169BP PE=2 SV=3	192	non-HK		not_mapped_to_ensg	sp	F169B_HUMAN	Swiss-Prot reviewed
+Q495D7	CL036_HUMAN	Putative uncharacterized protein encoded by LINC01559 OS=Homo sapiens OX=9606 GN=LINC01559 PE=2 SV=1	138	non-HK		not_mapped_to_ensg	sp	CL036_HUMAN	Swiss-Prot reviewed
+Q658T7	F90A2_HUMAN	Putative protein FAM90A2P OS=Homo sapiens OX=9606 GN=FAM90A2P PE=5 SV=2	463	non-HK		not_mapped_to_ensg	sp	F90A2_HUMAN	Swiss-Prot reviewed
+Q7RTT6	SSX6_HUMAN	Putative protein SSX6 OS=Homo sapiens OX=9606 GN=SSX6P PE=5 SV=1	188	non-HK		not_mapped_to_ensg	sp	SSX6_HUMAN	Swiss-Prot reviewed
+Q8N8I6	CQ055_HUMAN	Putative uncharacterized protein encoded by LINC00482 OS=Homo sapiens OX=9606 GN=LINC00482 PE=5 SV=1	264	non-HK		not_mapped_to_ensg	sp	CQ055_HUMAN	Swiss-Prot reviewed
+A6NCN2	KR87P_HUMAN	Putative keratin-87 protein OS=Homo sapiens OX=9606 GN=KRT87P PE=5 SV=4	255	non-HK		not_mapped_to_ensg	sp	KR87P_HUMAN	Swiss-Prot reviewed
+O43812	DUX1_HUMAN	Double homeobox protein 1 OS=Homo sapiens OX=9606 GN=DUX1 PE=1 SV=1	170	non-HK		not_mapped_to_ensg	sp	DUX1_HUMAN	Swiss-Prot reviewed
+Q8N6C7	PGSF1_HUMAN	Putative uncharacterized protein encoded by MIR7-3HG OS=Homo sapiens OX=9606 GN=MIR7-3HG PE=5 SV=1	128	non-HK		not_mapped_to_ensg	sp	PGSF1_HUMAN	Swiss-Prot reviewed
+Q8NA97	FEAS1_HUMAN	Putative uncharacterized protein FER1L6-AS1 OS=Homo sapiens OX=9606 GN=FER1L6-AS1 PE=2 SV=1	138	non-HK		not_mapped_to_ensg	sp	FEAS1_HUMAN	Swiss-Prot reviewed
+Q9H052	Q9H052_HUMAN	Uncharacterized protein DKFZp547L112 (Fragment) OS=Homo sapiens OX=9606 GN=DKFZp547L112 PE=2 SV=1	226	non-HK		not_mapped_to_ensg	tr	Q9H052_HUMAN	TrEMBL unreviewed
+Q9NRJ2	GSAS1_HUMAN	Putative uncharacterized protein GSN-AS1 OS=Homo sapiens OX=9606 GN=GSN-AS1 PE=5 SV=1	163	non-HK		not_mapped_to_ensg	sp	GSAS1_HUMAN	Swiss-Prot reviewed
+A8MPP1	D11L8_HUMAN	Putative ATP-dependent DNA helicase DDX11-like protein 8 OS=Homo sapiens OX=9606 GN=DDX11L8 PE=1 SV=1	907	non-HK		not_mapped_to_ensg	sp	D11L8_HUMAN	Swiss-Prot reviewed
+P0C628	O5AC1_HUMAN	Olfactory receptor 5AC1 OS=Homo sapiens OX=9606 GN=OR5AC1 PE=3 SV=1	307	non-HK		not_mapped_to_ensg	sp	O5AC1_HUMAN	Swiss-Prot reviewed
+Q9HBQ8	GGA2B_HUMAN	Putative golgin subfamily A member 2B OS=Homo sapiens OX=9606 GN=GOLGA2P5 PE=5 SV=1	144	non-HK		not_mapped_to_ensg	sp	GGA2B_HUMAN	Swiss-Prot reviewed
+A8K010	CF176_HUMAN	Putative transcriptional regulator encoded by LINC00473 OS=Homo sapiens OX=9606 GN=LINC00473 PE=5 SV=2	186	non-HK		not_mapped_to_ensg	sp	CF176_HUMAN	Swiss-Prot reviewed
+O14609	XKRY_HUMAN	Testis-specific XK-related protein, Y-linked OS=Homo sapiens OX=9606 GN=XKRY PE=2 SV=1	159	non-HK		not_mapped_to_ensg	sp	XKRY_HUMAN	Swiss-Prot reviewed
+Q9H2J1	CI037_HUMAN	Uncharacterized protein ARRDC1-AS1 OS=Homo sapiens OX=9606 GN=ARRDC1-AS1 PE=1 SV=2	176	non-HK		not_mapped_to_ensg	sp	CI037_HUMAN	Swiss-Prot reviewed
+P0C2Y1	NBPF7_HUMAN	Putative NBPF family member NBPF7 OS=Homo sapiens OX=9606 GN=NBPF7P PE=5 SV=1	421	non-HK		not_mapped_to_ensg	sp	NBPF7_HUMAN	Swiss-Prot reviewed
+Q58G82	SY14L_HUMAN	Putative synaptotagmin-14-like protein OS=Homo sapiens OX=9606 GN=SYT14P1 PE=5 SV=2	188	non-HK		not_mapped_to_ensg	sp	SY14L_HUMAN	Swiss-Prot reviewed
+Q6ZTB9	ZN833_HUMAN	Putative zinc finger protein 833 OS=Homo sapiens OX=9606 GN=ZNF833P PE=5 SV=1	187	non-HK		not_mapped_to_ensg	sp	ZN833_HUMAN	Swiss-Prot reviewed
+Q96NR7	WWAS2_HUMAN	Putative uncharacterized protein WWC2-AS2 OS=Homo sapiens OX=9606 GN=WWC2-AS2 PE=5 SV=1	200	non-HK		not_mapped_to_ensg	sp	WWAS2_HUMAN	Swiss-Prot reviewed
+P0DTE1	HV383_HUMAN	Probable non-functional immunoglobulin heavy variable 3-38-3 OS=Homo sapiens OX=9606 GN=IGHV3-38-3 PE=1 SV=1	115	non-HK		not_mapped_to_ensg	sp	HV383_HUMAN	Swiss-Prot reviewed
+P56555	DSCR4_HUMAN	Down syndrome critical region protein 4 OS=Homo sapiens OX=9606 GN=DSCR4 PE=1 SV=1	118	non-HK		not_mapped_to_ensg	sp	DSCR4_HUMAN	Swiss-Prot reviewed
+Q6IE37	OVOS1_HUMAN	Ovostatin homolog 1 OS=Homo sapiens OX=9606 GN=OVOS1 PE=2 SV=2	1185	non-HK		not_mapped_to_ensg	sp	OVOS1_HUMAN	Swiss-Prot reviewed
+Q6IQ22	RAB12_HUMAN	Ras-related protein Rab-12 OS=Homo sapiens OX=9606 GN=RAB12 PE=1 SV=3	244	non-HK		not_mapped_to_ensg	sp	RAB12_HUMAN	Swiss-Prot reviewed
+Q6UXR4	SPA13_HUMAN	Putative serpin A13 OS=Homo sapiens OX=9606 GN=SERPINA13P PE=5 SV=1	307	non-HK		not_mapped_to_ensg	sp	SPA13_HUMAN	Swiss-Prot reviewed
+Q86UK7	ZN598_HUMAN	E3 ubiquitin-protein ligase ZNF598 OS=Homo sapiens OX=9606 GN=ZNF598 PE=1 SV=1	904	non-HK		not_mapped_to_ensg	sp	ZN598_HUMAN	Swiss-Prot reviewed
+A6NJ88	SGE2P_HUMAN	Putative SAGE1-like protein OS=Homo sapiens OX=9606 GN=SAGE2P PE=5 SV=4	616	non-HK		not_mapped_to_ensg	sp	SGE2P_HUMAN	Swiss-Prot reviewed
+O15016	TRI66_HUMAN	Tripartite motif-containing protein 66 OS=Homo sapiens OX=9606 GN=TRIM66 PE=1 SV=5	1351	non-HK		not_mapped_to_ensg	sp	TRI66_HUMAN	Swiss-Prot reviewed
+Q9BZ97	TTY13_HUMAN	Putative transcript Y 13 protein OS=Homo sapiens OX=9606 GN=TTTY13 PE=5 SV=1	58	non-HK		not_mapped_to_ensg	sp	TTY13_HUMAN	Swiss-Prot reviewed
+Q9NSJ1	Z355P_HUMAN	Putative zinc finger protein 355P OS=Homo sapiens OX=9606 GN=ZNF355P PE=5 SV=2	428	non-HK		not_mapped_to_ensg	sp	Z355P_HUMAN	Swiss-Prot reviewed
+B1AK76	SNUFL_HUMAN	Putative SNURF-like protein OS=Homo sapiens OX=9606 GN=SNURFL PE=5 SV=2	121	non-HK		not_mapped_to_ensg	sp	SNUFL_HUMAN	Swiss-Prot reviewed
+P40205	NCYM_HUMAN	N-cym protein OS=Homo sapiens OX=9606 GN=MYCNOS PE=1 SV=2	109	non-HK		not_mapped_to_ensg	sp	NCYM_HUMAN	Swiss-Prot reviewed
+Q13434	MKRN4_HUMAN	Putative E3 ubiquitin-protein ligase makorin-4 OS=Homo sapiens OX=9606 GN=MKRN4P PE=5 SV=1	485	non-HK		not_mapped_to_ensg	sp	MKRN4_HUMAN	Swiss-Prot reviewed
+Q66K41	Z385C_HUMAN	Zinc finger protein 385C OS=Homo sapiens OX=9606 GN=ZNF385C PE=1 SV=4	422	non-HK		not_mapped_to_ensg	sp	Z385C_HUMAN	Swiss-Prot reviewed
+Q86SY8	KTAS1_HUMAN	Putative uncharacterized protein KTN1-AS1 OS=Homo sapiens OX=9606 GN=KTN1-AS1 PE=5 SV=2	53	non-HK		not_mapped_to_ensg	sp	KTAS1_HUMAN	Swiss-Prot reviewed
+Q8N1L4	CP4Z2_HUMAN	Putative inactive cytochrome P450 family member 4Z2 OS=Homo sapiens OX=9606 GN=CYP4Z2P PE=5 SV=2	340	non-HK		not_mapped_to_ensg	sp	CP4Z2_HUMAN	Swiss-Prot reviewed
+A6NMU1	O52A4_HUMAN	Olfactory receptor 52A4 OS=Homo sapiens OX=9606 GN=OR52A4P PE=2 SV=1	304	non-HK		not_mapped_to_ensg	sp	O52A4_HUMAN	Swiss-Prot reviewed
+Q2M238	RN3P1_HUMAN	Putative RRN3-like protein RRN3P1 OS=Homo sapiens OX=9606 GN=RRN3P1 PE=5 SV=1	152	non-HK		not_mapped_to_ensg	sp	RN3P1_HUMAN	Swiss-Prot reviewed
+Q8NGH5	O56A1_HUMAN	Olfactory receptor 56A1 OS=Homo sapiens OX=9606 GN=OR56A1 PE=2 SV=3	318	non-HK		not_mapped_to_ensg	sp	O56A1_HUMAN	Swiss-Prot reviewed
+K7EIQ3	CS082_HUMAN	Uncharacterized protein ZNF561-AS1 OS=Homo sapiens OX=9606 GN=ZNF561-AS1 PE=4 SV=1	104	non-HK		not_mapped_to_ensg	sp	CS082_HUMAN	Swiss-Prot reviewed
+P59922	OR2B8_HUMAN	Olfactory receptor 2B8 OS=Homo sapiens OX=9606 GN=OR2B8 PE=3 SV=1	312	non-HK		not_mapped_to_ensg	sp	OR2B8_HUMAN	Swiss-Prot reviewed
+Q59GN2	R39L5_HUMAN	Putative ribosomal protein eL39-like 5 OS=Homo sapiens OX=9606 GN=RPL39P5 PE=5 SV=2	51	non-HK		not_mapped_to_ensg	sp	R39L5_HUMAN	Swiss-Prot reviewed
+Q5VUR7	A20A3_HUMAN	Putative ankyrin repeat domain-containing protein 20A3 OS=Homo sapiens OX=9606 GN=ANKRD20A3P PE=5 SV=1	823	non-HK		not_mapped_to_ensg	sp	A20A3_HUMAN	Swiss-Prot reviewed
+B2RD01	CENP1_HUMAN	Putative CENPB DNA-binding domain-containing protein 1 OS=Homo sapiens OX=9606 GN=CENPBD1P PE=5 SV=1	187	non-HK		not_mapped_to_ensg	sp	CENP1_HUMAN	Swiss-Prot reviewed
+Q8TBR5	CSAS1_HUMAN	Putative uncharacterized protein CIRBP-AS1 OS=Homo sapiens OX=9606 GN=CIRBP-AS1 PE=5 SV=1	109	non-HK		not_mapped_to_ensg	sp	CSAS1_HUMAN	Swiss-Prot reviewed
+Q96N53	CK037_HUMAN	Putative uncharacterized protein encoded by LINC00167 OS=Homo sapiens OX=9606 GN=PRDM10-DT PE=5 SV=1	147	non-HK		not_mapped_to_ensg	sp	CK037_HUMAN	Swiss-Prot reviewed
+Q96PT4	DUX3_HUMAN	Putative double homeobox protein 3 OS=Homo sapiens OX=9606 GN=DUX3 PE=2 SV=1	197	non-HK		not_mapped_to_ensg	sp	DUX3_HUMAN	Swiss-Prot reviewed
+Q8NGA2	OR7A2_HUMAN	Putative olfactory receptor 7A2 OS=Homo sapiens OX=9606 GN=OR7A2P PE=5 SV=1	310	non-HK		not_mapped_to_ensg	sp	OR7A2_HUMAN	Swiss-Prot reviewed
+Q99463	NPY6R_HUMAN	Putative neuropeptide Y receptor type 6 OS=Homo sapiens OX=9606 GN=NPY6R PE=5 SV=1	290	non-HK		not_mapped_to_ensg	sp	NPY6R_HUMAN	Swiss-Prot reviewed
+Q13069	GAGE5_HUMAN	G antigen 5 OS=Homo sapiens OX=9606 GN=GAGE5 PE=1 SV=1	117	non-HK		not_mapped_to_ensg	sp	GAGE5_HUMAN	Swiss-Prot reviewed
+Q6Q795	VBPC1_HUMAN	Putative viral protein-binding protein C1 OS=Homo sapiens OX=9606 PE=5 SV=1	121	non-HK		not_mapped_to_ensg	sp	VBPC1_HUMAN	Swiss-Prot reviewed
+Q8N1Y9	YI025_HUMAN	Putative uncharacterized protein FLJ37218 OS=Homo sapiens OX=9606 PE=5 SV=2	231	non-HK		not_mapped_to_ensg	sp	YI025_HUMAN	Swiss-Prot reviewed
+Q8N377	YJ004_HUMAN	Putative uncharacterized protein LOC387726 OS=Homo sapiens OX=9606 PE=5 SV=2	158	non-HK		not_mapped_to_ensg	sp	YJ004_HUMAN	Swiss-Prot reviewed
+Q8WTZ4	CA5BL_HUMAN	Putative inactive carbonic anhydrase 5B-like protein OS=Homo sapiens OX=9606 GN=CA5BP1 PE=5 SV=2	195	non-HK		not_mapped_to_ensg	sp	CA5BL_HUMAN	Swiss-Prot reviewed
+Q96M66	YP010_HUMAN	Putative uncharacterized protein FLJ32790 OS=Homo sapiens OX=9606 PE=2 SV=2	194	non-HK		not_mapped_to_ensg	sp	YP010_HUMAN	Swiss-Prot reviewed
+Q9BTK2	YX002_HUMAN	Putative uncharacterized protein LOC642776 OS=Homo sapiens OX=9606 PE=5 SV=2	45	non-HK		not_mapped_to_ensg	sp	YX002_HUMAN	Swiss-Prot reviewed
+Q9Y3F1	TA6P_HUMAN	Putative TAP2-associated 6.5 kDa polypeptide OS=Homo sapiens OX=9606 PE=5 SV=1	56	non-HK		not_mapped_to_ensg	sp	TA6P_HUMAN	Swiss-Prot reviewed
+A8MUA0	YB057_HUMAN	Putative UPF0607 protein ENSP00000381514 OS=Homo sapiens OX=9606 PE=3 SV=1	341	non-HK		not_mapped_to_ensg	sp	YB057_HUMAN	Swiss-Prot reviewed
+Q0VFX4	YL016_HUMAN	Putative uncharacterized protein LOC100128554 OS=Homo sapiens OX=9606 PE=2 SV=1	171	non-HK		not_mapped_to_ensg	sp	YL016_HUMAN	Swiss-Prot reviewed
+Q6ZPA2	YS039_HUMAN	Putative uncharacterized protein FLJ26174 OS=Homo sapiens OX=9606 PE=2 SV=1	131	non-HK		not_mapped_to_ensg	sp	YS039_HUMAN	Swiss-Prot reviewed
+Q6ZSA8	YS025_HUMAN	Putative uncharacterized protein FLJ45684 OS=Homo sapiens OX=9606 PE=5 SV=2	131	non-HK		not_mapped_to_ensg	sp	YS025_HUMAN	Swiss-Prot reviewed
+Q6ZVL8	YP033_HUMAN	Putative uncharacterized protein FLJ42384 OS=Homo sapiens OX=9606 PE=2 SV=1	140	non-HK		not_mapped_to_ensg	sp	YP033_HUMAN	Swiss-Prot reviewed
+Q6ZVQ6	YS045_HUMAN	Putative uncharacterized protein FLJ42213 OS=Homo sapiens OX=9606 PE=2 SV=1	151	non-HK		not_mapped_to_ensg	sp	YS045_HUMAN	Swiss-Prot reviewed
+P62684	GA113_HUMAN	Endogenous retrovirus group K member 113 Gag polyprotein OS=Homo sapiens OX=9606 GN=HERVK_113 PE=1 SV=3	666	non-HK		not_mapped_to_ensg	sp	GA113_HUMAN	Swiss-Prot reviewed
+Q5T6M2	CF122_HUMAN	Putative uncharacterized protein encoded by LINC00242 OS=Homo sapiens OX=9606 GN=LINC00242 PE=5 SV=1	205	non-HK		not_mapped_to_ensg	sp	CF122_HUMAN	Swiss-Prot reviewed
+Q8N910	CO056_HUMAN	Putative uncharacterized protein PAK6-AS1 OS=Homo sapiens OX=9606 GN=PAK6-AS1 PE=5 SV=1	161	non-HK		not_mapped_to_ensg	sp	CO056_HUMAN	Swiss-Prot reviewed
+O75343	GCYB2_HUMAN	Guanylate cyclase soluble subunit beta-2 OS=Homo sapiens OX=9606 GN=GUCY1B2 PE=5 SV=2	617	non-HK		not_mapped_to_ensg	sp	GCYB2_HUMAN	Swiss-Prot reviewed
+P0C864	DANCR_HUMAN	Putative uncharacterized protein DANCR OS=Homo sapiens OX=9606 GN=DANCR PE=5 SV=1	163	non-HK		not_mapped_to_ensg	sp	DANCR_HUMAN	Swiss-Prot reviewed
+Q86U37	CN023_HUMAN	Uncharacterized protein encoded by LINC01551 OS=Homo sapiens OX=9606 GN=LINC01551 PE=2 SV=2	167	non-HK		not_mapped_to_ensg	sp	CN023_HUMAN	Swiss-Prot reviewed
+Q8N2X6	EXAS1_HUMAN	Uncharacterized protein EXOC3-AS1 OS=Homo sapiens OX=9606 GN=EXOC3-AS1 PE=1 SV=1	119	non-HK		not_mapped_to_ensg	sp	EXAS1_HUMAN	Swiss-Prot reviewed
+A6NDX5	ZN840_HUMAN	Zinc finger protein 840 OS=Homo sapiens OX=9606 GN=ZNF840P PE=1 SV=5	716	non-HK		not_mapped_to_ensg	sp	ZN840_HUMAN	Swiss-Prot reviewed
+S4R3P1	HMN13_HUMAN	Humanin-like 13 OS=Homo sapiens OX=9606 GN=MTRNR2L13 PE=3 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN13_HUMAN	Swiss-Prot reviewed
+O15172	PSPHL_HUMAN	Putative phosphoserine phosphatase-like protein OS=Homo sapiens OX=9606 GN=PSPHP1 PE=5 SV=1	72	non-HK		not_mapped_to_ensg	sp	PSPHL_HUMAN	Swiss-Prot reviewed
+P0DP06	HVD34_HUMAN	Immunoglobulin heavy variable 4-30-4 OS=Homo sapiens OX=9606 GN=IGHV4-30-4 PE=1 SV=1	118	non-HK		not_mapped_to_ensg	sp	HVD34_HUMAN	Swiss-Prot reviewed
+P36268	GGT2_HUMAN	Inactive glutathione hydrolase 2 OS=Homo sapiens OX=9606 GN=GGT2P PE=1 SV=3	569	non-HK		not_mapped_to_ensg	sp	GGT2_HUMAN	Swiss-Prot reviewed
+Q5VT33	CX031_HUMAN	Putative uncharacterized protein encoded by LINC01545 OS=Homo sapiens OX=9606 GN=LINC01545 PE=4 SV=1	79	non-HK		not_mapped_to_ensg	sp	CX031_HUMAN	Swiss-Prot reviewed
+Q68D20	PMS2L_HUMAN	Protein PMS2CL OS=Homo sapiens OX=9606 GN=PMS2CL PE=1 SV=1	193	non-HK		not_mapped_to_ensg	sp	PMS2L_HUMAN	Swiss-Prot reviewed
+Q6A1A2	PDPK2_HUMAN	Putative 3-phosphoinositide-dependent protein kinase 2 OS=Homo sapiens OX=9606 GN=PDPK2P PE=5 SV=1	396	non-HK		not_mapped_to_ensg	sp	PDPK2_HUMAN	Swiss-Prot reviewed
+Q86Y29	BAGE3_HUMAN	B melanoma antigen 3 OS=Homo sapiens OX=9606 GN=BAGE3 PE=2 SV=1	109	non-HK		not_mapped_to_ensg	sp	BAGE3_HUMAN	Swiss-Prot reviewed
+Q9NX77	ENK13_HUMAN	Endogenous retrovirus group K member 13-1 Env polyprotein OS=Homo sapiens OX=9606 GN=ERVK13-1 PE=2 SV=2	482	non-HK		not_mapped_to_ensg	sp	ENK13_HUMAN	Swiss-Prot reviewed
+B1ANH7	IBADT_HUMAN	Putative uncharacterized protein IBA57-DT OS=Homo sapiens OX=9606 GN=IBA57-DT PE=5 SV=1	110	non-HK		not_mapped_to_ensg	sp	IBADT_HUMAN	Swiss-Prot reviewed
+F2Z3F1	CE067_HUMAN	Uncharacterized protein C5orf67 OS=Homo sapiens OX=9606 GN=C5orf67 PE=4 SV=1	127	non-HK		not_mapped_to_ensg	sp	CE067_HUMAN	Swiss-Prot reviewed
+Q107X0	KRIP1_HUMAN	Putative protein KRIP1 OS=Homo sapiens OX=9606 GN=KLKP1 PE=5 SV=1	134	non-HK		not_mapped_to_ensg	sp	KRIP1_HUMAN	Swiss-Prot reviewed
+Q8NGH6	O52L2_HUMAN	Putative olfactory receptor 52L2 OS=Homo sapiens OX=9606 GN=OR52L2P PE=5 SV=3	319	non-HK		not_mapped_to_ensg	sp	O52L2_HUMAN	Swiss-Prot reviewed
+Q9BV90	SNR25_HUMAN	U11/U12 small nuclear ribonucleoprotein 25 kDa protein OS=Homo sapiens OX=9606 GN=SNRNP25 PE=1 SV=1	132	non-HK		not_mapped_to_ensg	sp	SNR25_HUMAN	Swiss-Prot reviewed
+Q0IIN9	ZNFS1_HUMAN	Putative uncharacterized protein ZNF252P-AS1 OS=Homo sapiens OX=9606 GN=ZNF252P-AS1 PE=5 SV=1	211	non-HK		not_mapped_to_ensg	sp	ZNFS1_HUMAN	Swiss-Prot reviewed
+Q6ZV77	CI139_HUMAN	Putative uncharacterized protein LINC02908 OS=Homo sapiens OX=9606 GN=LINC02908 PE=5 SV=1	190	non-HK		not_mapped_to_ensg	sp	CI139_HUMAN	Swiss-Prot reviewed
+Q8N328	PGBD3_HUMAN	PiggyBac transposable element-derived protein 3 OS=Homo sapiens OX=9606 GN=PGBD3 PE=1 SV=3	593	non-HK		not_mapped_to_ensg	sp	PGBD3_HUMAN	Swiss-Prot reviewed
+Q8NBR9	CK072_HUMAN	Uncharacterized protein NDUFV1-DT OS=Homo sapiens OX=9606 GN=NDUFV1-DT PE=2 SV=1	251	non-HK		not_mapped_to_ensg	sp	CK072_HUMAN	Swiss-Prot reviewed
+A6NIU2	CU037_HUMAN	Putative uncharacterized protein encoded by LINC01549 OS=Homo sapiens OX=9606 GN=LINC01549 PE=5 SV=1	74	non-HK		not_mapped_to_ensg	sp	CU037_HUMAN	Swiss-Prot reviewed
+P60507	EFC1_HUMAN	Endogenous retrovirus group FC1 Env polyprotein OS=Homo sapiens OX=9606 GN=ERVFC1 PE=1 SV=1	584	non-HK		not_mapped_to_ensg	sp	EFC1_HUMAN	Swiss-Prot reviewed
+P63133	POK8_HUMAN	Endogenous retrovirus group K member 8 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-8 PE=3 SV=1	956	non-HK		not_mapped_to_ensg	sp	POK8_HUMAN	Swiss-Prot reviewed
+Q13536	CROC4_HUMAN	Protein CROC-4 OS=Homo sapiens OX=9606 GN=MIR9-1HG PE=1 SV=1	156	non-HK		not_mapped_to_ensg	sp	CROC4_HUMAN	Swiss-Prot reviewed
+Q156A1	ATX8_HUMAN	Ataxin-8 OS=Homo sapiens OX=9606 GN=ATXN8 PE=1 SV=1	80	non-HK		not_mapped_to_ensg	sp	ATX8_HUMAN	Swiss-Prot reviewed
+Q8N9P6	CI163_HUMAN	Uncharacterized protein C9orf163 OS=Homo sapiens OX=9606 GN=C9orf163 PE=2 SV=1	203	non-HK		not_mapped_to_ensg	sp	CI163_HUMAN	Swiss-Prot reviewed
+Q9XRX5	HHLA3_HUMAN	Putative uncharacterized protein ANKRD13C-DT OS=Homo sapiens OX=9606 GN=ANKRD13C-DT PE=5 SV=3	114	non-HK		not_mapped_to_ensg	sp	HHLA3_HUMAN	Swiss-Prot reviewed
+P08842	STS_HUMAN	Steryl-sulfatase OS=Homo sapiens OX=9606 GN=STS PE=1 SV=2	583	non-HK		not_mapped_to_ensg	sp	STS_HUMAN	Swiss-Prot reviewed
+Q58FG1	HS904_HUMAN	Putative heat shock protein HSP 90-alpha A4 OS=Homo sapiens OX=9606 GN=HSP90AA4P PE=5 SV=1	418	non-HK		not_mapped_to_ensg	sp	HS904_HUMAN	Swiss-Prot reviewed
+Q86UX2	ITIH5_HUMAN	Inter-alpha-trypsin inhibitor heavy chain H5 OS=Homo sapiens OX=9606 GN=ITIH5 PE=1 SV=2	942	non-HK		not_mapped_to_ensg	sp	ITIH5_HUMAN	Swiss-Prot reviewed
+Q8N9X3	YA026_HUMAN	Putative uncharacterized protein encoded by LINC01356 OS=Homo sapiens OX=9606 GN=LINC01356 PE=5 SV=1	169	non-HK		not_mapped_to_ensg	sp	YA026_HUMAN	Swiss-Prot reviewed
+Q4V348	Z658B_HUMAN	Zinc finger protein 658B OS=Homo sapiens OX=9606 GN=ZNF658B PE=2 SV=1	819	non-HK		not_mapped_to_ensg	sp	Z658B_HUMAN	Swiss-Prot reviewed
+Q5TC04	ATAS1_HUMAN	Putative uncharacterized protein ATP1A1-AS1 OS=Homo sapiens OX=9606 GN=ATP1A1-AS1 PE=5 SV=1	95	non-HK		not_mapped_to_ensg	sp	ATAS1_HUMAN	Swiss-Prot reviewed
+Q6QN14	U17L6_HUMAN	Ubiquitin carboxyl-terminal hydrolase 17-like protein 6 OS=Homo sapiens OX=9606 GN=USP17L6P PE=1 SV=2	398	non-HK		not_mapped_to_ensg	sp	U17L6_HUMAN	Swiss-Prot reviewed
+Q96MF4	CC140_HUMAN	Coiled-coil domain-containing protein 140 OS=Homo sapiens OX=9606 GN=CCDC140 PE=1 SV=1	163	non-HK		not_mapped_to_ensg	sp	CC140_HUMAN	Swiss-Prot reviewed
+P0CAT3	TLXNB_HUMAN	Putative TLX1 neighbor protein OS=Homo sapiens OX=9606 GN=TLX1NB PE=5 SV=1	122	non-HK		not_mapped_to_ensg	sp	TLXNB_HUMAN	Swiss-Prot reviewed
+P59022	DSC10_HUMAN	Down syndrome critical region protein 10 OS=Homo sapiens OX=9606 GN=DSCR10 PE=5 SV=1	87	non-HK		not_mapped_to_ensg	sp	DSC10_HUMAN	Swiss-Prot reviewed
+Q5VSP4	LC1L1_HUMAN	Putative lipocalin 1-like protein 1 OS=Homo sapiens OX=9606 GN=LCN1P1 PE=5 SV=1	162	non-HK		not_mapped_to_ensg	sp	LC1L1_HUMAN	Swiss-Prot reviewed
+Q96PQ5	IPP2L_HUMAN	Putative protein phosphatase inhibitor 2-like protein 1 OS=Homo sapiens OX=9606 GN=PPP1R2P1 PE=5 SV=1	205	non-HK		not_mapped_to_ensg	sp	IPP2L_HUMAN	Swiss-Prot reviewed
+Q9BXE9	VN1R3_HUMAN	Vomeronasal type-1 receptor 3 OS=Homo sapiens OX=9606 GN=VN1R3 PE=2 SV=1	311	non-HK		not_mapped_to_ensg	sp	VN1R3_HUMAN	Swiss-Prot reviewed
+P0C7N8	OR9G9_HUMAN	Olfactory receptor 9G9 OS=Homo sapiens OX=9606 GN=OR9G9 PE=3 SV=1	305	non-HK		not_mapped_to_ensg	sp	OR9G9_HUMAN	Swiss-Prot reviewed
+P0C841	FA66E_HUMAN	Putative protein FAM66E OS=Homo sapiens OX=9606 GN=FAM66E PE=5 SV=1	47	non-HK		not_mapped_to_ensg	sp	FA66E_HUMAN	Swiss-Prot reviewed
+P0CJ68	HMN1_HUMAN	Humanin-like 1 OS=Homo sapiens OX=9606 GN=MTRNR2L1 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN1_HUMAN	Swiss-Prot reviewed
+P0CJ86	DU4L3_HUMAN	Double homeobox protein 4-like protein 3 OS=Homo sapiens OX=9606 GN=DUX4L3 PE=3 SV=1	424	non-HK		not_mapped_to_ensg	sp	DU4L3_HUMAN	Swiss-Prot reviewed
+P63128	POK9_HUMAN	Endogenous retrovirus group K member 9 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-9 PE=1 SV=3	1117	non-HK		not_mapped_to_ensg	sp	POK9_HUMAN	Swiss-Prot reviewed
+Q6ZV60	YL023_HUMAN	Putative uncharacterized protein encoded by LINC00173 OS=Homo sapiens OX=9606 GN=LINC00173 PE=5 SV=1	143	non-HK		not_mapped_to_ensg	sp	YL023_HUMAN	Swiss-Prot reviewed
+Q7Z5P9	MUC19_HUMAN	Mucin-19 OS=Homo sapiens OX=9606 GN=MUC19 PE=1 SV=3	8384	non-HK		not_mapped_to_ensg	sp	MUC19_HUMAN	Swiss-Prot reviewed
+Q9NZY2	FA30A_HUMAN	Putative uncharacterized protein FAM30A OS=Homo sapiens OX=9606 GN=FAM30A PE=5 SV=2	134	non-HK		not_mapped_to_ensg	sp	FA30A_HUMAN	Swiss-Prot reviewed
+P02746	C1QB_HUMAN	Complement C1q subcomponent subunit B OS=Homo sapiens OX=9606 GN=C1QB PE=1 SV=3	253	non-HK		not_mapped_to_ensg	sp	C1QB_HUMAN	Swiss-Prot reviewed
+P0CJ74	HMN7_HUMAN	Humanin-like 7 OS=Homo sapiens OX=9606 GN=MTRNR2L7 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN7_HUMAN	Swiss-Prot reviewed
+P0CJ89	DU4L6_HUMAN	Double homeobox protein 4-like protein 6 OS=Homo sapiens OX=9606 GN=DUX4L6 PE=3 SV=1	424	non-HK		not_mapped_to_ensg	sp	DU4L6_HUMAN	Swiss-Prot reviewed
+P0CJ90	DU4L7_HUMAN	Double homeobox protein 4-like protein 7 OS=Homo sapiens OX=9606 GN=DUX4L7 PE=3 SV=1	424	non-HK		not_mapped_to_ensg	sp	DU4L7_HUMAN	Swiss-Prot reviewed
+Q8IX06	GOR_HUMAN	Putative exonuclease GOR OS=Homo sapiens OX=9606 GN=REXO1L1P PE=5 SV=2	675	non-HK		not_mapped_to_ensg	sp	GOR_HUMAN	Swiss-Prot reviewed
+Q8IZP2	ST134_HUMAN	Putative protein FAM10A4 OS=Homo sapiens OX=9606 GN=ST13P4 PE=5 SV=1	240	non-HK		not_mapped_to_ensg	sp	ST134_HUMAN	Swiss-Prot reviewed
+Q9NRI7	PPY2_HUMAN	Putative pancreatic polypeptide 2 OS=Homo sapiens OX=9606 GN=PPY2P PE=5 SV=1	21	non-HK		not_mapped_to_ensg	sp	PPY2_HUMAN	Swiss-Prot reviewed
+P0CK97	S35E2_HUMAN	Solute carrier family 35 member E2A OS=Homo sapiens OX=9606 GN=SLC35E2A PE=1 SV=1	266	non-HK		not_mapped_to_ensg	sp	S35E2_HUMAN	Swiss-Prot reviewed
+Q6ZTR6	ZNFDT_HUMAN	Putative uncharacterized protein ZNF516-DT OS=Homo sapiens OX=9606 GN=ZNF516-DT PE=5 SV=1	163	non-HK		not_mapped_to_ensg	sp	ZNFDT_HUMAN	Swiss-Prot reviewed
+Q96P20	NLRP3_HUMAN	NACHT, LRR and PYD domains-containing protein 3 OS=Homo sapiens OX=9606 GN=NLRP3 PE=1 SV=3	1036	non-HK		not_mapped_to_ensg	sp	NLRP3_HUMAN	Swiss-Prot reviewed
+Q9H2U6	CO005_HUMAN	Putative uncharacterized protein encoded by LINC00597 OS=Homo sapiens OX=9606 GN=LINC00597 PE=5 SV=1	94	non-HK		not_mapped_to_ensg	sp	CO005_HUMAN	Swiss-Prot reviewed
+A8MWA4	Z705E_HUMAN	Putative zinc finger protein 705EP OS=Homo sapiens OX=9606 GN=ZNF705EP PE=5 SV=2	300	non-HK		not_mapped_to_ensg	sp	Z705E_HUMAN	Swiss-Prot reviewed
+B0L3A2	DESPR_HUMAN	Dual endothelin-1/VEGF signal peptide receptor OS=Homo sapiens OX=9606 GN=FBXW7-AS1 PE=1 SV=1	85	non-HK		not_mapped_to_ensg	sp	DESPR_HUMAN	Swiss-Prot reviewed
+P49335	PO3F4_HUMAN	POU domain, class 3, transcription factor 4 OS=Homo sapiens OX=9606 GN=POU3F4 PE=1 SV=2	361	non-HK		not_mapped_to_ensg	sp	PO3F4_HUMAN	Swiss-Prot reviewed
+Q8N326	CJ111_HUMAN	Putative uncharacterized protein RPP38-DT OS=Homo sapiens OX=9606 GN=RPP38-DT PE=5 SV=1	155	non-HK		not_mapped_to_ensg	sp	CJ111_HUMAN	Swiss-Prot reviewed
+Q8TCZ7	CU074_HUMAN	Putative uncharacterized protein encoded by LINC00308 OS=Homo sapiens OX=9606 GN=LINC00308 PE=5 SV=2	52	non-HK		not_mapped_to_ensg	sp	CU074_HUMAN	Swiss-Prot reviewed
+P0DTE2	HV511_HUMAN	Probable non-functional immunoglobulin heavy variable 8-51-1 OS=Homo sapiens OX=9606 GN=IGHV8-51-1 PE=1 SV=1	115	non-HK		not_mapped_to_ensg	sp	HV511_HUMAN	Swiss-Prot reviewed
+Q75NE6	MIRH1_HUMAN	Putative microRNA 17 host gene protein OS=Homo sapiens OX=9606 GN=MIR17HG PE=5 SV=1	70	non-HK		not_mapped_to_ensg	sp	MIRH1_HUMAN	Swiss-Prot reviewed
+Q8NG04	S2610_HUMAN	Putative solute carrier family 26 member 10P OS=Homo sapiens OX=9606 GN=SLC26A10P PE=5 SV=1	563	non-HK		not_mapped_to_ensg	sp	S2610_HUMAN	Swiss-Prot reviewed
+Q8TF27	AGA11_HUMAN	Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 11 OS=Homo sapiens OX=9606 GN=AGAP11 PE=2 SV=2	550	non-HK		not_mapped_to_ensg	sp	AGA11_HUMAN	Swiss-Prot reviewed
+P0CE67	CC079_HUMAN	Putative uncharacterized protein encoded by LINC02877 OS=Homo sapiens OX=9606 GN=LINC02877 PE=5 SV=1	100	non-HK		not_mapped_to_ensg	sp	CC079_HUMAN	Swiss-Prot reviewed
+Q13066	GAG2B_HUMAN	G antigen 2B/2C OS=Homo sapiens OX=9606 GN=GAGE2B PE=1 SV=1	116	non-HK		not_mapped_to_ensg	sp	GAG2B_HUMAN	Swiss-Prot reviewed
+Q6ZPB5	SDIM1_HUMAN	Stress-responsive DNAJB4-interacting membrane protein 1 OS=Homo sapiens OX=9606 GN=SDIM1 PE=1 SV=2	146	non-HK		not_mapped_to_ensg	sp	SDIM1_HUMAN	Swiss-Prot reviewed
+Q7Z7M1	AGRD2_HUMAN	Adhesion G protein-coupled receptor D2 OS=Homo sapiens OX=9606 GN=ADGRD2 PE=2 SV=1	963	non-HK		not_mapped_to_ensg	sp	AGRD2_HUMAN	Swiss-Prot reviewed
+A6NC78	GOG8I_HUMAN	Putative golgin subfamily A member 8I OS=Homo sapiens OX=9606 GN=GOLGA8IP PE=5 SV=2	632	non-HK		not_mapped_to_ensg	sp	GOG8I_HUMAN	Swiss-Prot reviewed
+P0DY26	D109D_HUMAN	Beta-defensin 109D OS=Homo sapiens OX=9606 GN=DEFB109D PE=3 SV=1	87	non-HK		not_mapped_to_ensg	sp	D109D_HUMAN	Swiss-Prot reviewed
+Q96EL1	INKA1_HUMAN	PAK4-inhibitor INKA1 OS=Homo sapiens OX=9606 GN=INKA1 PE=1 SV=2	287	non-HK		not_mapped_to_ensg	sp	INKA1_HUMAN	Swiss-Prot reviewed
+Q96TA0	PCDBI_HUMAN	Putative protocadherin beta-18 OS=Homo sapiens OX=9606 GN=PCDHB18P PE=5 SV=2	734	non-HK		not_mapped_to_ensg	sp	PCDBI_HUMAN	Swiss-Prot reviewed
+Q9H3B2	Q9H3B2_HUMAN	PRO1477 OS=Homo sapiens OX=9606 PE=2 SV=1	83	non-HK		not_mapped_to_ensg	tr	Q9H3B2_HUMAN	TrEMBL unreviewed
+Q9NQ39	RS10L_HUMAN	Putative ribosomal protein eS10-like OS=Homo sapiens OX=9606 GN=RPS10P5 PE=5 SV=1	176	non-HK		not_mapped_to_ensg	sp	RS10L_HUMAN	Swiss-Prot reviewed
+A1L3X4	MT1DP_HUMAN	Putative metallothionein MT1DP OS=Homo sapiens OX=9606 GN=MT1DP PE=5 SV=1	49	non-HK		not_mapped_to_ensg	sp	MT1DP_HUMAN	Swiss-Prot reviewed
+P0C853	BAAS2_HUMAN	Putative uncharacterized protein BAALC-AS2 OS=Homo sapiens OX=9606 GN=BAALC-AS2 PE=5 SV=1	105	non-HK		not_mapped_to_ensg	sp	BAAS2_HUMAN	Swiss-Prot reviewed
+I3L0S3	PYAS1_HUMAN	Putative uncharacterized protein PYCARD-AS1 OS=Homo sapiens OX=9606 GN=PYCARD-AS1 PE=5 SV=1	204	non-HK		not_mapped_to_ensg	sp	PYAS1_HUMAN	Swiss-Prot reviewed
+P63132	PO113_HUMAN	Endogenous retrovirus group K member 113 Pol protein OS=Homo sapiens OX=9606 GN=HERVK_113 PE=3 SV=2	959	non-HK		not_mapped_to_ensg	sp	PO113_HUMAN	Swiss-Prot reviewed
+Q13166	CATR1_HUMAN	CATR tumorigenic conversion 1 protein OS=Homo sapiens OX=9606 GN=CATR1 PE=2 SV=1	79	non-HK		not_mapped_to_ensg	sp	CATR1_HUMAN	Swiss-Prot reviewed
+Q6ZSB3	CB046_HUMAN	Putative uncharacterized protein encoded by LINC00299 OS=Homo sapiens OX=9606 GN=LINC00299 PE=5 SV=1	139	non-HK		not_mapped_to_ensg	sp	CB046_HUMAN	Swiss-Prot reviewed
+Q8NGW6	OR6K6_HUMAN	Olfactory receptor 6K6 OS=Homo sapiens OX=9606 GN=OR6K6 PE=2 SV=2	343	non-HK		not_mapped_to_ensg	sp	OR6K6_HUMAN	Swiss-Prot reviewed
+Q96MU5	CQ077_HUMAN	Uncharacterized protein CD300LD-AS1 OS=Homo sapiens OX=9606 GN=CD300LD-AS1 PE=2 SV=2	243	non-HK		not_mapped_to_ensg	sp	CQ077_HUMAN	Swiss-Prot reviewed
+Q9BVR0	HRC23_HUMAN	Putative HERC2-like protein 3 OS=Homo sapiens OX=9606 GN=HERC2P3 PE=5 SV=2	1158	non-HK		not_mapped_to_ensg	sp	HRC23_HUMAN	Swiss-Prot reviewed
+Q9NV39	PRR34_HUMAN	Proline-rich protein 34 OS=Homo sapiens OX=9606 GN=PRR34 PE=1 SV=1	138	non-HK		not_mapped_to_ensg	sp	PRR34_HUMAN	Swiss-Prot reviewed
+A4D0Y5	CG077_HUMAN	Uncharacterized protein encoded by LINC03043 OS=Homo sapiens OX=9606 GN=LINC03043 PE=4 SV=1	90	non-HK		not_mapped_to_ensg	sp	CG077_HUMAN	Swiss-Prot reviewed
+Q5T035	CI129_HUMAN	Putative uncharacterized protein FAM120A2P OS=Homo sapiens OX=9606 GN=FAM120A2P PE=4 SV=1	196	non-HK		not_mapped_to_ensg	sp	CI129_HUMAN	Swiss-Prot reviewed
+Q68DN1	S31H1_HUMAN	Spermatogenesis-associated protein 31H1 OS=Homo sapiens OX=9606 GN=SPATA31H1 PE=1 SV=3	1984	non-HK		not_mapped_to_ensg	sp	S31H1_HUMAN	Swiss-Prot reviewed
+Q8IVE0	CROL2_HUMAN	Putative ciliary rootlet coiled-coil protein-like 2 protein OS=Homo sapiens OX=9606 GN=CROCCP3 PE=5 SV=1	287	non-HK		not_mapped_to_ensg	sp	CROL2_HUMAN	Swiss-Prot reviewed
+Q8N1I8	CAAS1_HUMAN	Putative uncharacterized protein encoded by CACTIN-AS1 OS=Homo sapiens OX=9606 GN=CACTIN-AS1 PE=2 SV=1	211	non-HK		not_mapped_to_ensg	sp	CAAS1_HUMAN	Swiss-Prot reviewed
+Q8NH21	OR4F5_HUMAN	Olfactory receptor 4F5 OS=Homo sapiens OX=9606 GN=OR4F5 PE=3 SV=1	305	non-HK		not_mapped_to_ensg	sp	OR4F5_HUMAN	Swiss-Prot reviewed
+Q96KT6	CH014_HUMAN	Putative uncharacterized protein encoded by LINC00208 OS=Homo sapiens OX=9606 GN=LINC00208 PE=5 SV=1	92	non-HK		not_mapped_to_ensg	sp	CH014_HUMAN	Swiss-Prot reviewed
+Q9BZC5	Q9BZC5_HUMAN	FKSG35 OS=Homo sapiens OX=9606 GN=FKSG35 PE=2 SV=1	98	non-HK		not_mapped_to_ensg	tr	Q9BZC5_HUMAN	TrEMBL unreviewed
+P59091	CU093_HUMAN	Putative uncharacterized protein encoded by LINC00315 OS=Homo sapiens OX=9606 GN=LINC00315 PE=5 SV=1	139	non-HK		not_mapped_to_ensg	sp	CU093_HUMAN	Swiss-Prot reviewed
+Q6NUI1	C144L_HUMAN	Putative coiled-coil domain-containing protein 144 N-terminal-like OS=Homo sapiens OX=9606 GN=CCDC144NL PE=5 SV=1	221	non-HK		not_mapped_to_ensg	sp	C144L_HUMAN	Swiss-Prot reviewed
+Q9GIP4	LAT1L_HUMAN	Putative L-type amino acid transporter 1-like protein IMAA OS=Homo sapiens OX=9606 GN=SLC7A5P2 PE=5 SV=2	190	non-HK		not_mapped_to_ensg	sp	LAT1L_HUMAN	Swiss-Prot reviewed
+A0PJZ0	A20A5_HUMAN	Putative ankyrin repeat domain-containing protein 20A5 OS=Homo sapiens OX=9606 GN=ANKRD20A5P PE=5 SV=1	165	non-HK		not_mapped_to_ensg	sp	A20A5_HUMAN	Swiss-Prot reviewed
+A6NDX4	YO011_HUMAN	Putative transmembrane protein ENSP00000320207 OS=Homo sapiens OX=9606 PE=5 SV=1	124	non-HK		not_mapped_to_ensg	sp	YO011_HUMAN	Swiss-Prot reviewed
+A6NHS1	YK042_HUMAN	Putative uncharacterized protein ENSP00000347057 OS=Homo sapiens OX=9606 PE=5 SV=3	94	non-HK		not_mapped_to_ensg	sp	YK042_HUMAN	Swiss-Prot reviewed
+A8MT66	YU005_HUMAN	Putative uncharacterized protein ENSP00000383407 OS=Homo sapiens OX=9606 PE=5 SV=1	165	non-HK		not_mapped_to_ensg	sp	YU005_HUMAN	Swiss-Prot reviewed
+A8MUN3	YQ048_HUMAN	Putative uncharacterized protein ENSP00000381830 OS=Homo sapiens OX=9606 PE=5 SV=1	132	non-HK		not_mapped_to_ensg	sp	YQ048_HUMAN	Swiss-Prot reviewed
+P0CL84	ST3L2_HUMAN	Putative STAG3-like protein 2 OS=Homo sapiens OX=9606 GN=STAG3L2 PE=5 SV=1	134	non-HK		not_mapped_to_ensg	sp	ST3L2_HUMAN	Swiss-Prot reviewed
+P59036	CU082_HUMAN	Putative uncharacterized protein encoded by LINC00310 OS=Homo sapiens OX=9606 GN=LINC00310 PE=5 SV=1	64	non-HK		not_mapped_to_ensg	sp	CU082_HUMAN	Swiss-Prot reviewed
+Q6UXV3	YV010_HUMAN	Uncharacterized protein UNQ6126/PRO20091 OS=Homo sapiens OX=9606 GN=UNQ6126/PRO20091 PE=2 SV=1	157	non-HK		not_mapped_to_ensg	sp	YV010_HUMAN	Swiss-Prot reviewed
+Q6ZRU5	YQ032_HUMAN	Putative uncharacterized protein FLJ46089 OS=Homo sapiens OX=9606 PE=5 SV=2	148	non-HK		not_mapped_to_ensg	sp	YQ032_HUMAN	Swiss-Prot reviewed
+Q6ZSR3	YO027_HUMAN	Putative uncharacterized protein FLJ45275, mitochondrial OS=Homo sapiens OX=9606 PE=5 SV=1	168	non-HK		not_mapped_to_ensg	sp	YO027_HUMAN	Swiss-Prot reviewed
+Q6ZSR9	YJ005_HUMAN	Uncharacterized protein FLJ45252 OS=Homo sapiens OX=9606 PE=1 SV=2	355	non-HK		not_mapped_to_ensg	sp	YJ005_HUMAN	Swiss-Prot reviewed
+Q96MT0	YJ006_HUMAN	Putative uncharacterized protein FLJ31958 OS=Homo sapiens OX=9606 PE=1 SV=1	163	non-HK		not_mapped_to_ensg	sp	YJ006_HUMAN	Swiss-Prot reviewed
+A8MUI8	YA034_HUMAN	Putative UPF0607 protein ENSP00000383783 OS=Homo sapiens OX=9606 PE=3 SV=2	341	non-HK		not_mapped_to_ensg	sp	YA034_HUMAN	Swiss-Prot reviewed
+A8MWP4	YU008_HUMAN	Putative uncharacterized protein ENSP00000401716 OS=Homo sapiens OX=9606 PE=5 SV=1	228	non-HK		not_mapped_to_ensg	sp	YU008_HUMAN	Swiss-Prot reviewed
+P0DP04	HV43D_HUMAN	Immunoglobulin heavy variable 3-43D OS=Homo sapiens OX=9606 GN=IGHV3-43D PE=3 SV=1	118	non-HK		not_mapped_to_ensg	sp	HV43D_HUMAN	Swiss-Prot reviewed
+Q02817	MUC2_HUMAN	Mucin-2 OS=Homo sapiens OX=9606 GN=MUC2 PE=1 SV=3	5289	non-HK		not_mapped_to_ensg	sp	MUC2_HUMAN	Swiss-Prot reviewed
+Q5QFB9	PAPAS_HUMAN	Protein PAPPAS OS=Homo sapiens OX=9606 GN=PAPPA-AS1 PE=5 SV=1	102	non-HK		not_mapped_to_ensg	sp	PAPAS_HUMAN	Swiss-Prot reviewed
+Q6ZS46	YF009_HUMAN	Putative uncharacterized protein FLJ45840 OS=Homo sapiens OX=9606 PE=5 SV=2	218	non-HK		not_mapped_to_ensg	sp	YF009_HUMAN	Swiss-Prot reviewed
+Q86TA4	YB049_HUMAN	Putative uncharacterized protein FLJ44553 OS=Homo sapiens OX=9606 PE=5 SV=2	180	non-HK		not_mapped_to_ensg	sp	YB049_HUMAN	Swiss-Prot reviewed
+Q8N2B8	YB035_HUMAN	Putative uncharacterized protein FLJ33534 OS=Homo sapiens OX=9606 PE=2 SV=1	174	non-HK		not_mapped_to_ensg	sp	YB035_HUMAN	Swiss-Prot reviewed
+Q8NA96	YE027_HUMAN	Putative uncharacterized protein FLJ35723 OS=Homo sapiens OX=9606 PE=5 SV=2	180	non-HK		not_mapped_to_ensg	sp	YE027_HUMAN	Swiss-Prot reviewed
+A6NNH2	F90AR_HUMAN	Protein FAM90A27P OS=Homo sapiens OX=9606 GN=FAM90A27P PE=1 SV=2	459	non-HK		not_mapped_to_ensg	sp	F90AR_HUMAN	Swiss-Prot reviewed
+Q9H8W2	CF155_HUMAN	Putative uncharacterized protein encoded by LINC00472 OS=Homo sapiens OX=9606 GN=LINC00472 PE=5 SV=2	130	non-HK		not_mapped_to_ensg	sp	CF155_HUMAN	Swiss-Prot reviewed
+Q3SYA9	P12L1_HUMAN	Putative POM121-like protein 1 OS=Homo sapiens OX=9606 GN=POM121L1P PE=5 SV=2	428	non-HK		not_mapped_to_ensg	sp	P12L1_HUMAN	Swiss-Prot reviewed
+Q6ZT77	ZN826_HUMAN	Putative zinc finger protein 826 OS=Homo sapiens OX=9606 GN=ZNF826P PE=5 SV=2	177	non-HK		not_mapped_to_ensg	sp	ZN826_HUMAN	Swiss-Prot reviewed
+Q8N7H1	CL061_HUMAN	Putative uncharacterized protein encoded by LINC01465 OS=Homo sapiens OX=9606 GN=LINC01465 PE=1 SV=1	131	non-HK		not_mapped_to_ensg	sp	CL061_HUMAN	Swiss-Prot reviewed
+Q96P88	GNRR2_HUMAN	Putative gonadotropin-releasing hormone II receptor OS=Homo sapiens OX=9606 GN=GNRHR2 PE=5 SV=4	292	non-HK		not_mapped_to_ensg	sp	GNRR2_HUMAN	Swiss-Prot reviewed
+A6NGU5	GGT3_HUMAN	Putative glutathione hydrolase 3 proenzyme OS=Homo sapiens OX=9606 GN=GGT3P PE=5 SV=2	568	non-HK		not_mapped_to_ensg	sp	GGT3_HUMAN	Swiss-Prot reviewed
+B3KNS4	B3KNS4_HUMAN	Endogenous retrovirus group K3 member 1 OS=Homo sapiens OX=9606 GN=ERVK3-1 PE=1 SV=1	109	non-HK		not_mapped_to_ensg	tr	B3KNS4_HUMAN	TrEMBL unreviewed
+O15197	EPHB6_HUMAN	Ephrin type-B receptor 6 OS=Homo sapiens OX=9606 GN=EPHB6 PE=1 SV=4	1021	non-HK		not_mapped_to_ensg	sp	EPHB6_HUMAN	Swiss-Prot reviewed
+O43423	AN32C_HUMAN	Putative uncharacterized protein ANP32CP OS=Homo sapiens OX=9606 GN=ANP32CP PE=5 SV=1	234	non-HK		not_mapped_to_ensg	sp	AN32C_HUMAN	Swiss-Prot reviewed
+P47884	OR1D4_HUMAN	Olfactory receptor 1D4 OS=Homo sapiens OX=9606 GN=OR1D4 PE=3 SV=3	311	non-HK		not_mapped_to_ensg	sp	OR1D4_HUMAN	Swiss-Prot reviewed
+P47893	OR3A2_HUMAN	Olfactory receptor 3A2 OS=Homo sapiens OX=9606 GN=OR3A2 PE=2 SV=3	321	non-HK		not_mapped_to_ensg	sp	OR3A2_HUMAN	Swiss-Prot reviewed
+Q15486	GUSP1_HUMAN	Putative inactive beta-glucuronidase-like protein SMA3 OS=Homo sapiens OX=9606 GN=GUSBP1 PE=5 SV=3	140	non-HK		not_mapped_to_ensg	sp	GUSP1_HUMAN	Swiss-Prot reviewed
+Q86UC2	RSPH3_HUMAN	Radial spoke head protein 3 homolog OS=Homo sapiens OX=9606 GN=RSPH3 PE=1 SV=1	560	non-HK		not_mapped_to_ensg	sp	RSPH3_HUMAN	Swiss-Prot reviewed
+Q8NGL6	O4A15_HUMAN	Olfactory receptor 4A15 OS=Homo sapiens OX=9606 GN=OR4A15 PE=3 SV=3	344	non-HK		not_mapped_to_ensg	sp	O4A15_HUMAN	Swiss-Prot reviewed
+A0A087X1C5	CP2D7_HUMAN	Cytochrome P450 2D7 OS=Homo sapiens OX=9606 GN=CYP2D7 PE=1 SV=1	515	non-HK		not_mapped_to_ensg	sp	CP2D7_HUMAN	Swiss-Prot reviewed
+P0CJ77	HMN10_HUMAN	Humanin-like 10 OS=Homo sapiens OX=9606 GN=MTRNR2L10 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN10_HUMAN	Swiss-Prot reviewed
+Q16048	MCHL1_HUMAN	Putative pro-MCH-like protein 1 OS=Homo sapiens OX=9606 GN=PMCHL1 PE=5 SV=2	86	non-HK		not_mapped_to_ensg	sp	MCHL1_HUMAN	Swiss-Prot reviewed
+Q6MZN7	HCP5_HUMAN	HLA class I histocompatibility antigen protein P5 OS=Homo sapiens OX=9606 GN=HCP5 PE=1 SV=1	132	non-HK		not_mapped_to_ensg	sp	HCP5_HUMAN	Swiss-Prot reviewed
+Q6UY13	YB003_HUMAN	Putative uncharacterized protein UNQ5830/PRO19650/PRO19816 OS=Homo sapiens OX=9606 GN=UNQ5830/PRO19650/PRO19816 PE=3 SV=1	95	non-HK		not_mapped_to_ensg	sp	YB003_HUMAN	Swiss-Prot reviewed
+Q8NGC1	O11G2_HUMAN	Olfactory receptor 11G2 OS=Homo sapiens OX=9606 GN=OR11G2 PE=3 SV=2	345	non-HK		not_mapped_to_ensg	sp	O11G2_HUMAN	Swiss-Prot reviewed
+A2RUQ5	CQ102_HUMAN	Uncharacterized protein TMEM132E-DT OS=Homo sapiens OX=9606 GN=TMEM132E-DT PE=1 SV=1	167	non-HK		not_mapped_to_ensg	sp	CQ102_HUMAN	Swiss-Prot reviewed
+P0CJ85	DU4L2_HUMAN	Double homeobox protein 4-like protein 2 OS=Homo sapiens OX=9606 GN=DUX4L2 PE=1 SV=1	424	non-HK		not_mapped_to_ensg	sp	DU4L2_HUMAN	Swiss-Prot reviewed
+P0DO92	ENOL_HUMAN	Putative protein T-ENOL OS=Homo sapiens OX=9606 GN=CDIPTOSP PE=1 SV=1	83	non-HK		not_mapped_to_ensg	sp	ENOL_HUMAN	Swiss-Prot reviewed
+Q53S99	CB083_HUMAN	Putative solute carrier family 19 member 4 OS=Homo sapiens OX=9606 GN=SLC19A4P PE=1 SV=1	150	non-HK		not_mapped_to_ensg	sp	CB083_HUMAN	Swiss-Prot reviewed
+Q63ZY6	NSN5C_HUMAN	Putative methyltransferase NSUN5C OS=Homo sapiens OX=9606 GN=NSUN5P2 PE=5 SV=2	315	non-HK		not_mapped_to_ensg	sp	NSN5C_HUMAN	Swiss-Prot reviewed
+Q6VEQ5	WASH2_HUMAN	WAS protein family homolog 2 OS=Homo sapiens OX=9606 GN=WASH2P PE=2 SV=2	465	non-HK		not_mapped_to_ensg	sp	WASH2_HUMAN	Swiss-Prot reviewed
+Q9BZ98	TTY12_HUMAN	Putative transcript Y 12 protein OS=Homo sapiens OX=9606 GN=TTTY12 PE=5 SV=1	90	non-HK		not_mapped_to_ensg	sp	TTY12_HUMAN	Swiss-Prot reviewed
+Q9HBX3	SNIT1_HUMAN	Uncharacterized protein encoded by SND1-IT1 OS=Homo sapiens OX=9606 GN=SND1-IT1 PE=4 SV=1	110	non-HK		not_mapped_to_ensg	sp	SNIT1_HUMAN	Swiss-Prot reviewed
+P0CJ75	HMN8_HUMAN	Humanin-like 8 OS=Homo sapiens OX=9606 GN=MTRNR2L8 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN8_HUMAN	Swiss-Prot reviewed
+Q68DW6	Q68DW6_HUMAN	Uncharacterized protein DKFZp781C0719 OS=Homo sapiens OX=9606 GN=DKFZp781C0719 PE=2 SV=1	58	non-HK		not_mapped_to_ensg	tr	Q68DW6_HUMAN	TrEMBL unreviewed
+Q7RTY9	PRS41_HUMAN	Serine protease 41 OS=Homo sapiens OX=9606 GN=PRSS41 PE=1 SV=1	318	non-HK		not_mapped_to_ensg	sp	PRS41_HUMAN	Swiss-Prot reviewed
+Q86SG4	DPCA2_HUMAN	Putative Dresden prostate carcinoma protein 2 OS=Homo sapiens OX=9606 GN=HMGN2P46 PE=5 SV=1	172	non-HK		not_mapped_to_ensg	sp	DPCA2_HUMAN	Swiss-Prot reviewed
+Q8NCQ3	NC301_HUMAN	Putative uncharacterized protein encoded by LINC00301 OS=Homo sapiens OX=9606 GN=LINC00301 PE=5 SV=1	95	non-HK		not_mapped_to_ensg	sp	NC301_HUMAN	Swiss-Prot reviewed
+Q8NGC2	OR4E2_HUMAN	Olfactory receptor 4E2 OS=Homo sapiens OX=9606 GN=OR4E2 PE=3 SV=1	313	non-HK		not_mapped_to_ensg	sp	OR4E2_HUMAN	Swiss-Prot reviewed
+Q8WY50	PLAC4_HUMAN	Placenta-specific protein 4 OS=Homo sapiens OX=9606 GN=PLAC4 PE=2 SV=2	150	non-HK		not_mapped_to_ensg	sp	PLAC4_HUMAN	Swiss-Prot reviewed
+Q9H0P7	AGIT1_HUMAN	Putative uncharacterized protein encoded by AGPAT4-IT1 OS=Homo sapiens OX=9606 GN=AGPAT4-IT1 PE=5 SV=1	198	non-HK		not_mapped_to_ensg	sp	AGIT1_HUMAN	Swiss-Prot reviewed
+Q9UFV1	TBC29_HUMAN	Putative TBC1 domain family member 29 OS=Homo sapiens OX=9606 GN=TBC1D29P PE=5 SV=1	150	non-HK		not_mapped_to_ensg	sp	TBC29_HUMAN	Swiss-Prot reviewed
+Q8TDU5	VNRL4_HUMAN	Putative vomeronasal receptor-like protein 4 OS=Homo sapiens OX=9606 GN=VN1R17P PE=5 SV=1	208	non-HK		not_mapped_to_ensg	sp	VNRL4_HUMAN	Swiss-Prot reviewed
+Q96T75	DSCR8_HUMAN	Down syndrome critical region protein 8 OS=Homo sapiens OX=9606 GN=DSCR8 PE=1 SV=2	97	non-HK		not_mapped_to_ensg	sp	DSCR8_HUMAN	Swiss-Prot reviewed
+Q9GZW5	SCND2_HUMAN	Putative SCAN domain-containing protein SCAND2P OS=Homo sapiens OX=9606 GN=SCAND2P PE=5 SV=2	306	non-HK		not_mapped_to_ensg	sp	SCND2_HUMAN	Swiss-Prot reviewed
+Q9H4G8	DPH3B_HUMAN	Putative DPH3 homolog B OS=Homo sapiens OX=9606 GN=DPH3P1 PE=5 SV=1	78	non-HK		not_mapped_to_ensg	sp	DPH3B_HUMAN	Swiss-Prot reviewed
+A4QN01	CJ040_HUMAN	Putative uncharacterized protein encoded by LINC01553 OS=Homo sapiens OX=9606 GN=LINC01553 PE=2 SV=1	128	non-HK		not_mapped_to_ensg	sp	CJ040_HUMAN	Swiss-Prot reviewed
+A8MXU0	DB108_HUMAN	Putative beta-defensin 108A OS=Homo sapiens OX=9606 GN=DEFB108A PE=5 SV=2	73	non-HK		not_mapped_to_ensg	sp	DB108_HUMAN	Swiss-Prot reviewed
+Q17RH7	TPRXL_HUMAN	Tetra-peptide repeat homeobox-like protein OS=Homo sapiens OX=9606 GN=TPRXL PE=1 SV=3	139	non-HK		not_mapped_to_ensg	sp	TPRXL_HUMAN	Swiss-Prot reviewed
+Q71RC1	Q71RC1_HUMAN	PP13850 OS=Homo sapiens OX=9606 PE=2 SV=1	249	non-HK		not_mapped_to_ensg	tr	Q71RC1_HUMAN	TrEMBL unreviewed
+A0A1B0GWI6	CX49C_HUMAN	Uncharacterized protein CXorf49C OS=Homo sapiens OX=9606 GN=CXorf49C PE=4 SV=2	518	non-HK		not_mapped_to_ensg	sp	CX49C_HUMAN	Swiss-Prot reviewed
+A0AVG0	A0AVG0_HUMAN	LOC440570 OS=Homo sapiens OX=9606 GN=LOC440570 PE=2 SV=1	176	non-HK		not_mapped_to_ensg	tr	A0AVG0_HUMAN	TrEMBL unreviewed
+O60774	FMO6_HUMAN	Putative dimethylaniline monooxygenase [N-oxide-forming] 6 OS=Homo sapiens OX=9606 GN=FMO6P PE=5 SV=1	539	non-HK		not_mapped_to_ensg	sp	FMO6_HUMAN	Swiss-Prot reviewed
+P0CL83	ST3L1_HUMAN	Putative STAG3-like protein 1 OS=Homo sapiens OX=9606 GN=STAG3L1 PE=5 SV=1	205	non-HK		not_mapped_to_ensg	sp	ST3L1_HUMAN	Swiss-Prot reviewed
+Q13072	BAGE1_HUMAN	B melanoma antigen 1 OS=Homo sapiens OX=9606 GN=BAGE PE=1 SV=1	43	non-HK		not_mapped_to_ensg	sp	BAGE1_HUMAN	Swiss-Prot reviewed
+Q5T8R8	DOAS1_HUMAN	Uncharacterized protein DOCK8-AS1 OS=Homo sapiens OX=9606 GN=DOCK8-AS1 PE=5 SV=1	295	non-HK		not_mapped_to_ensg	sp	DOAS1_HUMAN	Swiss-Prot reviewed
+Q8IWF7	U2D2L_HUMAN	Putative ubiquitin-conjugating enzyme E2 D2-like protein OS=Homo sapiens OX=9606 GN=UBE2DNL PE=5 SV=1	75	non-HK		not_mapped_to_ensg	sp	U2D2L_HUMAN	Swiss-Prot reviewed
+Q8NI28	R32DT_HUMAN	Putative transmembrane protein RNF32-DT OS=Homo sapiens OX=9606 GN=RNF32-DT PE=5 SV=1	216	non-HK		not_mapped_to_ensg	sp	R32DT_HUMAN	Swiss-Prot reviewed
+Q8WZ69	CK040_HUMAN	Putative uncharacterized protein C11orf40 OS=Homo sapiens OX=9606 GN=C11orf40 PE=2 SV=1	217	non-HK		not_mapped_to_ensg	sp	CK040_HUMAN	Swiss-Prot reviewed
+A0A3G1DJQ2	SHLP3_HUMAN	Small humanin-like peptide 3 OS=Homo sapiens OX=9606 GN=MT-RNR2 PE=4 SV=1	38	non-HK		not_mapped_to_ensg	sp	SHLP3_HUMAN	Swiss-Prot reviewed
+P0CG01	GKN3_HUMAN	Gastrokine-3 OS=Homo sapiens OX=9606 GN=GKN3P PE=3 SV=1	181	non-HK		not_mapped_to_ensg	sp	GKN3_HUMAN	Swiss-Prot reviewed
+Q5TG53	SEAS1_HUMAN	Putative uncharacterized protein SERTAD4-AS1 OS=Homo sapiens OX=9606 GN=SERTAD4-AS1 PE=5 SV=2	156	non-HK		not_mapped_to_ensg	sp	SEAS1_HUMAN	Swiss-Prot reviewed
+Q6YL49	Q6YL49_HUMAN	Uncharacterized protein OS=Homo sapiens OX=9606 PE=2 SV=1	198	non-HK		not_mapped_to_ensg	tr	Q6YL49_HUMAN	TrEMBL unreviewed
+Q9BRK5	CAB45_HUMAN	45 kDa calcium-binding protein OS=Homo sapiens OX=9606 GN=SDF4 PE=1 SV=1	362	non-HK		not_mapped_to_ensg	sp	CAB45_HUMAN	Swiss-Prot reviewed
+Q50KZ9	TA2R2_HUMAN	Taste receptor type 2 member 2 OS=Homo sapiens OX=9606 GN=TAS2R2 PE=3 SV=2	303	non-HK		not_mapped_to_ensg	sp	TA2R2_HUMAN	Swiss-Prot reviewed
+Q58A44	PCOTH_HUMAN	Prostate collagen triple helix protein OS=Homo sapiens OX=9606 GN=PCOTH PE=1 SV=2	107	non-HK		not_mapped_to_ensg	sp	PCOTH_HUMAN	Swiss-Prot reviewed
+Q8N1D0	BWR1B_HUMAN	Uncharacterized protein SLC67A1-AS OS=Homo sapiens OX=9606 GN=SLC67A1-AS PE=1 SV=3	253	non-HK		not_mapped_to_ensg	sp	BWR1B_HUMAN	Swiss-Prot reviewed
+G2XKQ0	SUMO5_HUMAN	Small ubiquitin-related modifier 5 OS=Homo sapiens OX=9606 GN=SUMO1P1 PE=1 SV=2	101	non-HK		not_mapped_to_ensg	sp	SUMO5_HUMAN	Swiss-Prot reviewed
+Q8NH63	O51H1_HUMAN	Olfactory receptor 51H1 OS=Homo sapiens OX=9606 GN=OR51H1 PE=3 SV=1	302	non-HK		not_mapped_to_ensg	sp	O51H1_HUMAN	Swiss-Prot reviewed
+B3EWF7	EP2A2_HUMAN	Laforin, isoform 9 OS=Homo sapiens OX=9606 GN=EPM2A PE=1 SV=1	344	non-HK		not_mapped_to_ensg	sp	EP2A2_HUMAN	Swiss-Prot reviewed
+Q5JQD4	PYY3_HUMAN	Putative peptide YY-3 OS=Homo sapiens OX=9606 GN=PYY3 PE=5 SV=1	70	non-HK		not_mapped_to_ensg	sp	PYY3_HUMAN	Swiss-Prot reviewed
+Q8IVK1	GLCM1_HUMAN	Putative glycosylation-dependent cell adhesion molecule 1 OS=Homo sapiens OX=9606 GN=GLYCAM1 PE=5 SV=1	47	non-HK		not_mapped_to_ensg	sp	GLCM1_HUMAN	Swiss-Prot reviewed
+Q9H2C8	O51V1_HUMAN	Olfactory receptor 51V1 OS=Homo sapiens OX=9606 GN=OR51V1 PE=3 SV=2	321	non-HK		not_mapped_to_ensg	sp	O51V1_HUMAN	Swiss-Prot reviewed
+B7ZLF3	B7ZLF3_HUMAN	C2H2-type domain-containing protein OS=Homo sapiens OX=9606 GN=LOC728743 PE=1 SV=1	203	non-HK		not_mapped_to_ensg	tr	B7ZLF3_HUMAN	TrEMBL unreviewed
+Q3KNS1	PTHD3_HUMAN	Patched domain-containing protein 3 OS=Homo sapiens OX=9606 GN=PTCHD3 PE=1 SV=4	954	non-HK		not_mapped_to_ensg	sp	PTHD3_HUMAN	Swiss-Prot reviewed
+Q6ZMU1	C3P1_HUMAN	Putative protein C3P1 OS=Homo sapiens OX=9606 GN=C3P1 PE=5 SV=3	363	non-HK		not_mapped_to_ensg	sp	C3P1_HUMAN	Swiss-Prot reviewed
+Q96MR7	OBAS1_HUMAN	Putative uncharacterized protein OBSCN-AS1 OS=Homo sapiens OX=9606 GN=OBSCN-AS1 PE=5 SV=1	158	non-HK		not_mapped_to_ensg	sp	OBAS1_HUMAN	Swiss-Prot reviewed
+P0C7V7	SC11B_HUMAN	Putative signal peptidase complex catalytic subunit SEC11B OS=Homo sapiens OX=9606 GN=SEC11B PE=5 SV=1	166	non-HK		not_mapped_to_ensg	sp	SC11B_HUMAN	Swiss-Prot reviewed
+A2RU37	CI170_HUMAN	Uncharacterized protein encoded by LINC02872 OS=Homo sapiens OX=9606 GN=LINC02872 PE=5 SV=1	121	non-HK		not_mapped_to_ensg	sp	CI170_HUMAN	Swiss-Prot reviewed
+P0CZ25	D10OS_HUMAN	Uncharacterized protein DNAH10OS OS=Homo sapiens OX=9606 GN=DNAH10OS PE=2 SV=1	163	non-HK		not_mapped_to_ensg	sp	D10OS_HUMAN	Swiss-Prot reviewed
+P61574	RE113_HUMAN	Endogenous retrovirus group K member 113 Rec protein OS=Homo sapiens OX=9606 GN=HERVK_113 PE=1 SV=2	105	non-HK		not_mapped_to_ensg	sp	RE113_HUMAN	Swiss-Prot reviewed
+P63124	VPK04_HUMAN	Endogenous retrovirus group K member 104 Pro protein OS=Homo sapiens OX=9606 GN=HERV-K104 PE=3 SV=1	156	non-HK		not_mapped_to_ensg	sp	VPK04_HUMAN	Swiss-Prot reviewed
+Q05BU3	F86JP_HUMAN	Putative protein FAM86JP OS=Homo sapiens OX=9606 GN=FAM86JP PE=5 SV=1	40	non-HK		not_mapped_to_ensg	sp	F86JP_HUMAN	Swiss-Prot reviewed
+Q8NGA4	G32P1_HUMAN	Putative G-protein coupled receptor GPR32P1 OS=Homo sapiens OX=9606 GN=GPR32P1 PE=5 SV=2	272	non-HK		not_mapped_to_ensg	sp	G32P1_HUMAN	Swiss-Prot reviewed
+Q96KV6	BT2A3_HUMAN	Putative butyrophilin subfamily 2 member A3 OS=Homo sapiens OX=9606 GN=BTN2A3P PE=5 SV=2	586	non-HK		not_mapped_to_ensg	sp	BT2A3_HUMAN	Swiss-Prot reviewed
+Q9NRI6	PYY2_HUMAN	Putative peptide YY-2 OS=Homo sapiens OX=9606 GN=PYY2 PE=5 SV=1	33	non-HK		not_mapped_to_ensg	sp	PYY2_HUMAN	Swiss-Prot reviewed
+A6NGG3	CI092_HUMAN	Putative uncharacterized protein encoded by LINC03041 OS=Homo sapiens OX=9606 GN=LINC03041 PE=4 SV=1	77	non-HK		not_mapped_to_ensg	sp	CI092_HUMAN	Swiss-Prot reviewed
+P0DJD4	RBY1C_HUMAN	RNA-binding motif protein, Y chromosome, family 1 member C OS=Homo sapiens OX=9606 GN=RBMY1C PE=1 SV=1	496	non-HK		not_mapped_to_ensg	sp	RBY1C_HUMAN	Swiss-Prot reviewed
+P0DMP1	HMN12_HUMAN	Humanin-like 12 OS=Homo sapiens OX=9606 GN=MTRNR2L12 PE=3 SV=2	24	non-HK		not_mapped_to_ensg	sp	HMN12_HUMAN	Swiss-Prot reviewed
+Q6ZMM2	ATL5_HUMAN	ADAMTS-like protein 5 OS=Homo sapiens OX=9606 GN=ADAMTSL5 PE=1 SV=3	481	non-HK		not_mapped_to_ensg	sp	ATL5_HUMAN	Swiss-Prot reviewed
+Q8NHM4	TRY6_HUMAN	Putative trypsin-6 OS=Homo sapiens OX=9606 GN=PRSS3P2 PE=5 SV=2	247	non-HK		not_mapped_to_ensg	sp	TRY6_HUMAN	Swiss-Prot reviewed
+Q92670	ZN75C_HUMAN	Putative zinc finger protein 75C OS=Homo sapiens OX=9606 GN=ZNF75CP PE=5 SV=2	426	non-HK		not_mapped_to_ensg	sp	ZN75C_HUMAN	Swiss-Prot reviewed
+Q9BZ68	FR8P1_HUMAN	Putative FERM domain-containing protein FRMD8P1 OS=Homo sapiens OX=9606 GN=FRMD8P1 PE=5 SV=2	369	non-HK		not_mapped_to_ensg	sp	FR8P1_HUMAN	Swiss-Prot reviewed
+A0A0A0MT87	TJB24_HUMAN	T cell receptor beta joining 2-4 OS=Homo sapiens OX=9606 GN=TRBJ2-4 PE=4 SV=2	16	non-HK		not_mapped_to_ensg	sp	TJB24_HUMAN	Swiss-Prot reviewed
+A4QPH2	PI4P2_HUMAN	Putative phosphatidylinositol 4-kinase alpha-like protein P2 OS=Homo sapiens OX=9606 GN=PI4KAP2 PE=5 SV=3	592	non-HK		not_mapped_to_ensg	sp	PI4P2_HUMAN	Swiss-Prot reviewed
+Q0VG73	RDUR_HUMAN	Putative protein RDUR OS=Homo sapiens OX=9606 GN=RDUR PE=5 SV=1	95	non-HK		not_mapped_to_ensg	sp	RDUR_HUMAN	Swiss-Prot reviewed
+Q96M42	CU129_HUMAN	Putative uncharacterized protein encoded by LINC00479 OS=Homo sapiens OX=9606 GN=LINC00479 PE=5 SV=2	142	non-HK		not_mapped_to_ensg	sp	CU129_HUMAN	Swiss-Prot reviewed
+A8MUH7	PDZ1P_HUMAN	Putative PDZ domain-containing protein PDZK1P1 OS=Homo sapiens OX=9606 GN=PDZK1P1 PE=5 SV=2	402	non-HK		not_mapped_to_ensg	sp	PDZ1P_HUMAN	Swiss-Prot reviewed
+A8MWL7	TM14D_HUMAN	Transmembrane protein 14DP OS=Homo sapiens OX=9606 GN=TMEM14DP PE=5 SV=2	114	non-HK		not_mapped_to_ensg	sp	TM14D_HUMAN	Swiss-Prot reviewed
+H0UI37	TSTD3_HUMAN	Thiosulfate sulfurtransferase/rhodanese-like domain-containing protein 3 OS=Homo sapiens OX=9606 GN=TSTD3 PE=3 SV=1	97	non-HK		not_mapped_to_ensg	sp	TSTD3_HUMAN	Swiss-Prot reviewed
+P0C7P2	RFL3S_HUMAN	Putative protein RFPL3S OS=Homo sapiens OX=9606 GN=RFPL3S PE=2 SV=1	107	non-HK		not_mapped_to_ensg	sp	RFL3S_HUMAN	Swiss-Prot reviewed
+P12525	MYCP1_HUMAN	Putative myc-like protein MYCLP1 OS=Homo sapiens OX=9606 GN=MYCLP1 PE=5 SV=2	358	non-HK		not_mapped_to_ensg	sp	MYCP1_HUMAN	Swiss-Prot reviewed
+Q1ZZU3	SWI5_HUMAN	DNA repair protein SWI5 homolog OS=Homo sapiens OX=9606 GN=SWI5 PE=1 SV=1	235	non-HK		not_mapped_to_ensg	sp	SWI5_HUMAN	Swiss-Prot reviewed
+Q8N7S6	ARI2O_HUMAN	Uncharacterized protein ARIH2OS OS=Homo sapiens OX=9606 GN=ARIH2OS PE=2 SV=1	290	non-HK		not_mapped_to_ensg	sp	ARI2O_HUMAN	Swiss-Prot reviewed
+Q9UHU1	YK039_HUMAN	Putative uncharacterized protein PRO1716 OS=Homo sapiens OX=9606 GN=PRO1716 PE=5 SV=1	43	non-HK		not_mapped_to_ensg	sp	YK039_HUMAN	Swiss-Prot reviewed
+P59052	B3AS1_HUMAN	Putative uncharacterized protein B3GALT5-AS1 OS=Homo sapiens OX=9606 GN=B3GALT5-AS1 PE=5 SV=2	145	non-HK		not_mapped_to_ensg	sp	B3AS1_HUMAN	Swiss-Prot reviewed
+Q3Y452	TDRG1_HUMAN	Testis development-related protein 1 OS=Homo sapiens OX=9606 GN=TDRG1 PE=1 SV=1	100	non-HK		not_mapped_to_ensg	sp	TDRG1_HUMAN	Swiss-Prot reviewed
+Q8NGN2	O10S1_HUMAN	Olfactory receptor 10S1 OS=Homo sapiens OX=9606 GN=OR10S1 PE=2 SV=2	331	non-HK		not_mapped_to_ensg	sp	O10S1_HUMAN	Swiss-Prot reviewed
+Q5TEZ4	CF164_HUMAN	Putative uncharacterized protein encoded by LINC01590 OS=Homo sapiens OX=9606 GN=LINC01590 PE=5 SV=2	76	non-HK		not_mapped_to_ensg	sp	CF164_HUMAN	Swiss-Prot reviewed
+A1L4Q6	YK033_HUMAN	Putative uncharacterized protein FLJ41423 OS=Homo sapiens OX=9606 PE=5 SV=1	167	non-HK		not_mapped_to_ensg	sp	YK033_HUMAN	Swiss-Prot reviewed
+A4D1N5	YG018_HUMAN	Putative uncharacterized protein FLJ40288 OS=Homo sapiens OX=9606 PE=2 SV=1	150	non-HK		not_mapped_to_ensg	sp	YG018_HUMAN	Swiss-Prot reviewed
+A8MWL6	SNG2L_HUMAN	Putative synaptogyrin-2 like protein OS=Homo sapiens OX=9606 PE=5 SV=1	223	non-HK		not_mapped_to_ensg	sp	SNG2L_HUMAN	Swiss-Prot reviewed
+C0HME6	ALT36_HUMAN	RPL36 alternative reading frame protein OS=Homo sapiens OX=9606 GN=RPL36 PE=1 SV=1	148	non-HK		not_mapped_to_ensg	sp	ALT36_HUMAN	Swiss-Prot reviewed
+P0C880	YT014_HUMAN	Putative uncharacterized protein FLJ40606 OS=Homo sapiens OX=9606 PE=5 SV=1	135	non-HK		not_mapped_to_ensg	sp	YT014_HUMAN	Swiss-Prot reviewed
+Q56UQ5	TPT1L_HUMAN	TPT1-like protein OS=Homo sapiens OX=9606 PE=1 SV=2	140	non-HK		not_mapped_to_ensg	sp	TPT1L_HUMAN	Swiss-Prot reviewed
+Q6ZQT0	YD023_HUMAN	Putative uncharacterized protein FLJ45035 OS=Homo sapiens OX=9606 PE=5 SV=1	140	non-HK		not_mapped_to_ensg	sp	YD023_HUMAN	Swiss-Prot reviewed
+Q6ZRG5	YQ015_HUMAN	Putative uncharacterized protein FLJ43944 OS=Homo sapiens OX=9606 PE=5 SV=1	221	non-HK		not_mapped_to_ensg	sp	YQ015_HUMAN	Swiss-Prot reviewed
+Q6ZRN7	YP029_HUMAN	Putative uncharacterized protein FLJ46214 OS=Homo sapiens OX=9606 PE=2 SV=1	208	non-HK		not_mapped_to_ensg	sp	YP029_HUMAN	Swiss-Prot reviewed
+Q6ZRX8	YL004_HUMAN	Putative uncharacterized protein FLJ45999 OS=Homo sapiens OX=9606 PE=5 SV=1	168	non-HK		not_mapped_to_ensg	sp	YL004_HUMAN	Swiss-Prot reviewed
+Q6ZTI0	YK032_HUMAN	Putative uncharacterized protein FLJ44636 OS=Homo sapiens OX=9606 PE=5 SV=1	123	non-HK		not_mapped_to_ensg	sp	YK032_HUMAN	Swiss-Prot reviewed
+Q86T23	CROL1_HUMAN	Putative ciliary rootlet coiled-coil protein-like 1 protein OS=Homo sapiens OX=9606 GN=CROCCP2 PE=5 SV=1	111	non-HK		not_mapped_to_ensg	sp	CROL1_HUMAN	Swiss-Prot reviewed
+Q86UQ5	GTSC1_HUMAN	Gilles de la Tourette syndrome chromosomal region candidate gene 1 protein OS=Homo sapiens OX=9606 GN=GTSCR1 PE=5 SV=2	136	non-HK		not_mapped_to_ensg	sp	GTSC1_HUMAN	Swiss-Prot reviewed
+Q8N1X5	YF001_HUMAN	Uncharacterized protein FLJ37310 OS=Homo sapiens OX=9606 PE=1 SV=1	172	non-HK		not_mapped_to_ensg	sp	YF001_HUMAN	Swiss-Prot reviewed
+Q8N3U1	YS014_HUMAN	Putative uncharacterized protein LOC400692 OS=Homo sapiens OX=9606 PE=2 SV=2	123	non-HK		not_mapped_to_ensg	sp	YS014_HUMAN	Swiss-Prot reviewed
+Q8NFD4	YI018_HUMAN	Uncharacterized protein FLJ76381 OS=Homo sapiens OX=9606 PE=2 SV=1	153	non-HK		not_mapped_to_ensg	sp	YI018_HUMAN	Swiss-Prot reviewed
+Q8TAT8	YK045_HUMAN	Putative uncharacterized protein LOC644613 OS=Homo sapiens OX=9606 PE=5 SV=2	98	non-HK		not_mapped_to_ensg	sp	YK045_HUMAN	Swiss-Prot reviewed
+Q96MF0	YO028_HUMAN	Putative uncharacterized protein LOC100506887 OS=Homo sapiens OX=9606 PE=5 SV=2	132	non-HK		not_mapped_to_ensg	sp	YO028_HUMAN	Swiss-Prot reviewed
+A6NC97	ARB2P_HUMAN	Putative protein ARB2BP OS=Homo sapiens OX=9606 GN=ARB2BP PE=5 SV=3	362	non-HK		not_mapped_to_ensg	sp	ARB2P_HUMAN	Swiss-Prot reviewed
+O76042	ERIT1_HUMAN	Putative uncharacterized protein encoded by ERC2-IT1 OS=Homo sapiens OX=9606 GN=ERC2-IT1 PE=5 SV=2	136	non-HK		not_mapped_to_ensg	sp	ERIT1_HUMAN	Swiss-Prot reviewed
+P01850	TRBC1_HUMAN	T cell receptor beta constant 1 OS=Homo sapiens OX=9606 GN=TRBC1 PE=1 SV=4	176	non-HK		not_mapped_to_ensg	sp	TRBC1_HUMAN	Swiss-Prot reviewed
+P0CJ72	HMN5_HUMAN	Humanin-like 5 OS=Homo sapiens OX=9606 GN=MTRNR2L5 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN5_HUMAN	Swiss-Prot reviewed
+Q8NGV5	O13D1_HUMAN	Olfactory receptor 13D1 OS=Homo sapiens OX=9606 GN=OR13D1 PE=2 SV=3	346	non-HK		not_mapped_to_ensg	sp	O13D1_HUMAN	Swiss-Prot reviewed
+Q9H1L0	MI1HG_HUMAN	Uncharacterized protein MIR1-1HG OS=Homo sapiens OX=9606 GN=MIR1-1HG PE=4 SV=1	117	non-HK		not_mapped_to_ensg	sp	MI1HG_HUMAN	Swiss-Prot reviewed
+P01860	IGHG3_HUMAN	Immunoglobulin heavy constant gamma 3 OS=Homo sapiens OX=9606 GN=IGHG3 PE=1 SV=3	446	non-HK		not_mapped_to_ensg	sp	IGHG3_HUMAN	Swiss-Prot reviewed
+Q8N2C9	UMAS1_HUMAN	Uncharacterized protein UMODL1-AS1 OS=Homo sapiens OX=9606 GN=UMODL1-AS1 PE=1 SV=3	162	non-HK		not_mapped_to_ensg	sp	UMAS1_HUMAN	Swiss-Prot reviewed
+Q8NG78	OR8G5_HUMAN	Olfactory receptor 8G5 OS=Homo sapiens OX=9606 GN=OR8G5 PE=2 SV=2	346	non-HK		not_mapped_to_ensg	sp	OR8G5_HUMAN	Swiss-Prot reviewed
+Q8NG94	O11H1_HUMAN	Olfactory receptor 11H1 OS=Homo sapiens OX=9606 GN=OR11H1 PE=3 SV=3	326	non-HK		not_mapped_to_ensg	sp	O11H1_HUMAN	Swiss-Prot reviewed
+Q9H1B4	NXF5_HUMAN	Nuclear RNA export factor 5 OS=Homo sapiens OX=9606 GN=NXF5 PE=2 SV=1	397	non-HK		not_mapped_to_ensg	sp	NXF5_HUMAN	Swiss-Prot reviewed
+P61576	REC04_HUMAN	Endogenous retrovirus group K member 104 Rec protein OS=Homo sapiens OX=9606 GN=HERV-K104 PE=1 SV=1	105	non-HK		not_mapped_to_ensg	sp	REC04_HUMAN	Swiss-Prot reviewed
+Q6P474	PDXD2_HUMAN	Putative pyridoxal-dependent decarboxylase domain-containing protein 2 OS=Homo sapiens OX=9606 GN=PDXDC2P PE=5 SV=3	469	non-HK		not_mapped_to_ensg	sp	PDXD2_HUMAN	Swiss-Prot reviewed
+Q9QC07	POK18_HUMAN	Endogenous retrovirus group K member 18 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-18 PE=3 SV=2	812	non-HK		not_mapped_to_ensg	sp	POK18_HUMAN	Swiss-Prot reviewed
+O96002	CX001_HUMAN	Putative transmembrane protein CXorf1 OS=Homo sapiens OX=9606 GN=CXorf1 PE=5 SV=1	111	non-HK		not_mapped_to_ensg	sp	CX001_HUMAN	Swiss-Prot reviewed
+Q96M19	CL067_HUMAN	Putative transmembrane protein encoded by LINC00477 OS=Homo sapiens OX=9606 GN=LINC00477 PE=5 SV=1	166	non-HK		not_mapped_to_ensg	sp	CL067_HUMAN	Swiss-Prot reviewed
+Q9H195	MUC3B_HUMAN	Mucin-3B OS=Homo sapiens OX=9606 GN=MUC3B PE=1 SV=3	13477	non-HK		not_mapped_to_ensg	sp	MUC3B_HUMAN	Swiss-Prot reviewed
+Q9P1A2	PP4RL_HUMAN	Putative serine/threonine-protein phosphatase 4 regulatory subunit 1-like OS=Homo sapiens OX=9606 GN=PPP4R1L PE=5 SV=3	415	non-HK		not_mapped_to_ensg	sp	PP4RL_HUMAN	Swiss-Prot reviewed
+A6NI72	NCF1B_HUMAN	Putative neutrophil cytosol factor 1B OS=Homo sapiens OX=9606 GN=NCF1B PE=5 SV=2	391	non-HK		not_mapped_to_ensg	sp	NCF1B_HUMAN	Swiss-Prot reviewed
+O43930	PRKY_HUMAN	Putative serine/threonine-protein kinase PRKY OS=Homo sapiens OX=9606 GN=PRKY PE=5 SV=1	277	non-HK		not_mapped_to_ensg	sp	PRKY_HUMAN	Swiss-Prot reviewed
+Q14695	K0087_HUMAN	Uncharacterized protein KIAA0087 OS=Homo sapiens OX=9606 GN=KIAA0087 PE=2 SV=1	138	non-HK		not_mapped_to_ensg	sp	K0087_HUMAN	Swiss-Prot reviewed
+Q15695	U2AFL_HUMAN	U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 1 OS=Homo sapiens OX=9606 GN=ZRSR2P1 PE=1 SV=2	479	non-HK		not_mapped_to_ensg	sp	U2AFL_HUMAN	Swiss-Prot reviewed
+Q52M58	CN177_HUMAN	Testis-specific protein LINC02914 OS=Homo sapiens OX=9606 GN=LINC02914 PE=1 SV=1	125	non-HK		not_mapped_to_ensg	sp	CN177_HUMAN	Swiss-Prot reviewed
+Q7RTY3	PRS45_HUMAN	Putative serine protease 45 OS=Homo sapiens OX=9606 GN=PRSS45P PE=5 SV=1	260	non-HK		not_mapped_to_ensg	sp	PRS45_HUMAN	Swiss-Prot reviewed
+Q8NH08	O10AC_HUMAN	Olfactory receptor 10AC1 OS=Homo sapiens OX=9606 GN=OR10AC1 PE=3 SV=2	325	non-HK		not_mapped_to_ensg	sp	O10AC_HUMAN	Swiss-Prot reviewed
+Q8NH57	O52P1_HUMAN	Olfactory receptor 52P1 OS=Homo sapiens OX=9606 GN=OR52P1 PE=3 SV=2	321	non-HK		not_mapped_to_ensg	sp	O52P1_HUMAN	Swiss-Prot reviewed
+Q8WWF6	DNJB3_HUMAN	DnaJ homolog subfamily B member 3 OS=Homo sapiens OX=9606 GN=DNAJB3 PE=1 SV=1	145	non-HK		not_mapped_to_ensg	sp	DNJB3_HUMAN	Swiss-Prot reviewed
+Q9UI72	YE014_HUMAN	Putative uncharacterized protein PRO0255 OS=Homo sapiens OX=9606 GN=PRO0255 PE=5 SV=1	69	non-HK		not_mapped_to_ensg	sp	YE014_HUMAN	Swiss-Prot reviewed
+Q9Y471	CMAH_HUMAN	Inactive cytidine monophosphate-N-acetylneuraminic acid hydroxylase OS=Homo sapiens OX=9606 GN=CMAHP PE=1 SV=4	501	non-HK		not_mapped_to_ensg	sp	CMAH_HUMAN	Swiss-Prot reviewed
+P0DTU3	TRAR2_HUMAN	T cell receptor alpha chain MC.7.G5 OS=Homo sapiens OX=9606 GN=TRA PE=1 SV=1	275	non-HK		not_mapped_to_ensg	sp	TRAR2_HUMAN	Swiss-Prot reviewed
+Q0D2K5	EGFEM_HUMAN	Putative EGF-like and EMI domain-containing protein 1 OS=Homo sapiens OX=9606 GN=EGFEM1P PE=5 SV=1	195	non-HK		not_mapped_to_ensg	sp	EGFEM_HUMAN	Swiss-Prot reviewed
+Q3SY05	CA157_HUMAN	Putative uncharacterized protein encoded by LINC00303 OS=Homo sapiens OX=9606 GN=LINC00303 PE=5 SV=2	128	non-HK		not_mapped_to_ensg	sp	CA157_HUMAN	Swiss-Prot reviewed
+Q5VT28	FAM27_HUMAN	Protein FAM27A/B/C OS=Homo sapiens OX=9606 GN=FAM27B PE=3 SV=1	67	non-HK		not_mapped_to_ensg	sp	FAM27_HUMAN	Swiss-Prot reviewed
+Q7RTT4	SSX8_HUMAN	Putative protein SSX8 OS=Homo sapiens OX=9606 GN=SSX8P PE=5 SV=2	187	non-HK		not_mapped_to_ensg	sp	SSX8_HUMAN	Swiss-Prot reviewed
+A6PVC2	TTLL8_HUMAN	Protein monoglycylase TTLL8 OS=Homo sapiens OX=9606 GN=TTLL8 PE=2 SV=4	850	non-HK		not_mapped_to_ensg	sp	TTLL8_HUMAN	Swiss-Prot reviewed
+P0CF74	IGLC6_HUMAN	Immunoglobulin lambda constant 6 OS=Homo sapiens OX=9606 GN=IGLC6 PE=1 SV=1	106	non-HK		not_mapped_to_ensg	sp	IGLC6_HUMAN	Swiss-Prot reviewed
+C0HMA1	P155_HUMAN	HSPA8-interacting micropeptide miPEP155 OS=Homo sapiens OX=9606 GN=MIR155HG PE=1 SV=1	17	non-HK		not_mapped_to_ensg	sp	P155_HUMAN	Swiss-Prot reviewed
+P01834	IGKC_HUMAN	Immunoglobulin kappa constant OS=Homo sapiens OX=9606 GN=IGKC PE=1 SV=2	107	non-HK		not_mapped_to_ensg	sp	IGKC_HUMAN	Swiss-Prot reviewed
+P0DN80	OR5H8_HUMAN	Olfactory receptor 5H8 OS=Homo sapiens OX=9606 GN=OR5H8 PE=3 SV=1	308	non-HK		not_mapped_to_ensg	sp	OR5H8_HUMAN	Swiss-Prot reviewed
+Q6ZQV5	ZN788_HUMAN	Putative KRAB domain-containing protein ZNF788 OS=Homo sapiens OX=9606 GN=ZNF788P PE=5 SV=3	82	non-HK		not_mapped_to_ensg	sp	ZN788_HUMAN	Swiss-Prot reviewed
+Q8N1V8	CJ085_HUMAN	Uncharacterized protein encoded by LINC01561 OS=Homo sapiens OX=9606 GN=LINC01561 PE=5 SV=1	128	non-HK		not_mapped_to_ensg	sp	CJ085_HUMAN	Swiss-Prot reviewed
+A6NM43	TCPQL_HUMAN	Putative T-complex protein 1 subunit theta-like 1 OS=Homo sapiens OX=9606 GN=CCT8L1P PE=5 SV=1	557	non-HK		not_mapped_to_ensg	sp	TCPQL_HUMAN	Swiss-Prot reviewed
+P47883	OR3A4_HUMAN	Putative olfactory receptor 3A4 OS=Homo sapiens OX=9606 GN=OR3A4P PE=5 SV=4	348	non-HK		not_mapped_to_ensg	sp	OR3A4_HUMAN	Swiss-Prot reviewed
+Q06250	WIT1_HUMAN	Putative Wilms tumor upstream neighbor 1 gene protein OS=Homo sapiens OX=9606 GN=WT1-AS PE=5 SV=2	92	non-HK		not_mapped_to_ensg	sp	WIT1_HUMAN	Swiss-Prot reviewed
+A6NMB1	SIG16_HUMAN	Sialic acid-binding Ig-like lectin 16 OS=Homo sapiens OX=9606 GN=SIGLEC16 PE=2 SV=3	481	non-HK		not_mapped_to_ensg	sp	SIG16_HUMAN	Swiss-Prot reviewed
+A8MTI9	PRS47_HUMAN	Putative serine protease 47 OS=Homo sapiens OX=9606 GN=PRSS47P PE=5 SV=2	375	non-HK		not_mapped_to_ensg	sp	PRS47_HUMAN	Swiss-Prot reviewed
+Q6NVV9	ADAM5_HUMAN	Putative disintegrin and metalloproteinase domain-containing protein 5 OS=Homo sapiens OX=9606 GN=ADAM5 PE=5 SV=2	412	non-HK		not_mapped_to_ensg	sp	ADAM5_HUMAN	Swiss-Prot reviewed
+Q9UH64	NSGX_HUMAN	Putative uncharacterized protein CDKN2A-AS1 OS=Homo sapiens OX=9606 GN=CDKN2A-AS1 PE=5 SV=1	79	non-HK		not_mapped_to_ensg	sp	NSGX_HUMAN	Swiss-Prot reviewed
+P0DMR3	AT8OS_HUMAN	Putative protein ATXN8OS OS=Homo sapiens OX=9606 GN=ATXN8OS PE=5 SV=1	200	non-HK		not_mapped_to_ensg	sp	AT8OS_HUMAN	Swiss-Prot reviewed
+P0DTU4	TRBR2_HUMAN	T cell receptor beta chain MC.7.G5 OS=Homo sapiens OX=9606 GN=TRB PE=1 SV=1	315	non-HK		not_mapped_to_ensg	sp	TRBR2_HUMAN	Swiss-Prot reviewed
+Q96KT0	FAAS1_HUMAN	Uncharacterized protein FAM167A-AS1 OS=Homo sapiens OX=9606 GN=FAM167A-AS1 PE=4 SV=1	104	non-HK		not_mapped_to_ensg	sp	FAAS1_HUMAN	Swiss-Prot reviewed
+Q96R84	OR1F2_HUMAN	Putative olfactory receptor 1F2 OS=Homo sapiens OX=9606 GN=OR1F2P PE=5 SV=2	312	non-HK		not_mapped_to_ensg	sp	OR1F2_HUMAN	Swiss-Prot reviewed
+A0A0C5B5G6	MOTSC_HUMAN	Mitochondrial-derived peptide MOTS-c OS=Homo sapiens OX=9606 GN=MT-RNR1 PE=1 SV=1	16	non-HK		not_mapped_to_ensg	sp	MOTSC_HUMAN	Swiss-Prot reviewed
+Q8IZF7	AGRF2_HUMAN	Putative adhesion G protein-coupled receptor F2P OS=Homo sapiens OX=9606 GN=ADGRF2P PE=5 SV=1	708	non-HK		not_mapped_to_ensg	sp	AGRF2_HUMAN	Swiss-Prot reviewed
+Q8N0U6	CF218_HUMAN	Putative uncharacterized protein encoded by LINC00518 OS=Homo sapiens OX=9606 GN=LINC00518 PE=5 SV=1	118	non-HK		not_mapped_to_ensg	sp	CF218_HUMAN	Swiss-Prot reviewed
+Q8NGE7	OR9K2_HUMAN	Olfactory receptor 9K2 OS=Homo sapiens OX=9606 GN=OR9K2 PE=2 SV=2	335	non-HK		not_mapped_to_ensg	sp	OR9K2_HUMAN	Swiss-Prot reviewed
+Q8NGY7	O10J6_HUMAN	Putative olfactory receptor 10J6 OS=Homo sapiens OX=9606 GN=OR10J6P PE=5 SV=1	276	non-HK		not_mapped_to_ensg	sp	O10J6_HUMAN	Swiss-Prot reviewed
+Q8WXQ3	CN183_HUMAN	Putative uncharacterized protein encoded by LINC01599 OS=Homo sapiens OX=9606 GN=LINC01599 PE=2 SV=1	324	non-HK		not_mapped_to_ensg	sp	CN183_HUMAN	Swiss-Prot reviewed
+P0CJ88	DU4L5_HUMAN	Double homeobox protein 4-like protein 5 OS=Homo sapiens OX=9606 GN=DUX4L5 PE=3 SV=1	424	non-HK		not_mapped_to_ensg	sp	DU4L5_HUMAN	Swiss-Prot reviewed
+Q5T6R2	TPT2L_HUMAN	Putative phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2P1 OS=Homo sapiens OX=9606 GN=TPTE2P1 PE=5 SV=1	138	non-HK		not_mapped_to_ensg	sp	TPT2L_HUMAN	Swiss-Prot reviewed
+O95744	PM2P2_HUMAN	Putative postmeiotic segregation increased 2-like protein 2 OS=Homo sapiens OX=9606 GN=PMS2P2 PE=5 SV=1	297	non-HK		not_mapped_to_ensg	sp	PM2P2_HUMAN	Swiss-Prot reviewed
+Q13670	PM2PB_HUMAN	Putative postmeiotic segregation increased 2-like protein 11 OS=Homo sapiens OX=9606 GN=PMS2P11 PE=5 SV=1	270	non-HK		not_mapped_to_ensg	sp	PM2PB_HUMAN	Swiss-Prot reviewed
+Q9P1J3	DHAS1_HUMAN	Putative uncharacterized protein DHRS4-AS1 OS=Homo sapiens OX=9606 GN=DHRS4-AS1 PE=5 SV=1	65	non-HK		not_mapped_to_ensg	sp	DHAS1_HUMAN	Swiss-Prot reviewed
+P13985	HRES1_HUMAN	Putative HTLV-1-related endogenous sequence OS=Homo sapiens OX=9606 GN=HRES1 PE=5 SV=1	223	non-HK		not_mapped_to_ensg	sp	HRES1_HUMAN	Swiss-Prot reviewed
+P58512	CU067_HUMAN	Uncharacterized protein encoded by LINC01547 OS=Homo sapiens OX=9606 GN=LINC01547 PE=2 SV=1	204	non-HK		not_mapped_to_ensg	sp	CU067_HUMAN	Swiss-Prot reviewed
+Q6DRA6	H2B2D_HUMAN	Putative histone H2B type 2-D OS=Homo sapiens OX=9606 GN=H2BC19P PE=5 SV=3	164	non-HK		not_mapped_to_ensg	sp	H2B2D_HUMAN	Swiss-Prot reviewed
+Q6XLA1	CSC2A_HUMAN	Protein CASC2, isoform 3 OS=Homo sapiens OX=9606 GN=CASC2 PE=2 SV=1	102	non-HK		not_mapped_to_ensg	sp	CSC2A_HUMAN	Swiss-Prot reviewed
+Q6ZN68	D19P2_HUMAN	Putative C-mannosyltransferase DPY19L2P2 OS=Homo sapiens OX=9606 GN=DPY19L2P2 PE=5 SV=2	376	non-HK		not_mapped_to_ensg	sp	D19P2_HUMAN	Swiss-Prot reviewed
+Q8NCQ2	CNAS1_HUMAN	Uncharacterized protein CSNK1G2-AS1 OS=Homo sapiens OX=9606 GN=CSNK1G2-AS1 PE=2 SV=2	148	non-HK		not_mapped_to_ensg	sp	CNAS1_HUMAN	Swiss-Prot reviewed
+Q8NG84	O2AK2_HUMAN	Olfactory receptor 2AK2 OS=Homo sapiens OX=9606 GN=OR2AK2 PE=2 SV=2	335	non-HK		not_mapped_to_ensg	sp	O2AK2_HUMAN	Swiss-Prot reviewed
+A6NFC9	OR2W5_HUMAN	Putative olfactory receptor 2W5 OS=Homo sapiens OX=9606 GN=OR2W5P PE=5 SV=1	320	non-HK		not_mapped_to_ensg	sp	OR2W5_HUMAN	Swiss-Prot reviewed
+P47888	OR3A3_HUMAN	Olfactory receptor 3A3 OS=Homo sapiens OX=9606 GN=OR3A3 PE=2 SV=3	321	non-HK		not_mapped_to_ensg	sp	OR3A3_HUMAN	Swiss-Prot reviewed
+Q0VDD5	CQ091_HUMAN	Putative uncharacterized protein encoded by MIR22HG OS=Homo sapiens OX=9606 GN=MIR22HG PE=5 SV=1	57	non-HK		not_mapped_to_ensg	sp	CQ091_HUMAN	Swiss-Prot reviewed
+Q52LC2	VAS1L_HUMAN	V-type proton ATPase subunit S1-like protein OS=Homo sapiens OX=9606 GN=ATP6AP1L PE=2 SV=1	224	non-HK		not_mapped_to_ensg	sp	VAS1L_HUMAN	Swiss-Prot reviewed
+Q6IEE8	SN12L_HUMAN	Schlafen family member 12-like OS=Homo sapiens OX=9606 GN=SLFN12L PE=2 SV=4	588	non-HK		not_mapped_to_ensg	sp	SN12L_HUMAN	Swiss-Prot reviewed
+Q6W349	CD011_HUMAN	Putative uncharacterized protein encoded by LINC00575 OS=Homo sapiens OX=9606 GN=LINC00575 PE=5 SV=1	94	non-HK		not_mapped_to_ensg	sp	CD011_HUMAN	Swiss-Prot reviewed
+Q9H4R4	CT191_HUMAN	Putative nuclear receptor corepressor 1-like protein NCOR1P1 OS=Homo sapiens OX=9606 GN=NCOR1P1 PE=5 SV=1	102	non-HK		not_mapped_to_ensg	sp	CT191_HUMAN	Swiss-Prot reviewed
+A8MVU1	NCF1C_HUMAN	Putative neutrophil cytosol factor 1C OS=Homo sapiens OX=9606 GN=NCF1C PE=5 SV=1	366	non-HK		not_mapped_to_ensg	sp	NCF1C_HUMAN	Swiss-Prot reviewed
+Q2M3A8	MRAS1_HUMAN	Putative uncharacterized protein MRGPRG-AS1 OS=Homo sapiens OX=9606 GN=MRGPRG-AS1 PE=5 SV=1	158	non-HK		not_mapped_to_ensg	sp	MRAS1_HUMAN	Swiss-Prot reviewed
+Q3ZLR7	SP201_HUMAN	Transcription factor SPT20 homolog-like 1 OS=Homo sapiens OX=9606 GN=SUPT20HL1 PE=1 SV=2	823	non-HK		not_mapped_to_ensg	sp	SP201_HUMAN	Swiss-Prot reviewed
+Q5T1J5	CHCH9_HUMAN	Putative coiled-coil-helix-coiled-coil-helix domain-containing protein CHCHD2P9, mitochondrial OS=Homo sapiens OX=9606 GN=CHCHD2P9 PE=5 SV=1	151	non-HK		not_mapped_to_ensg	sp	CHCH9_HUMAN	Swiss-Prot reviewed
+Q6IF36	O8G2P_HUMAN	Olfactory receptor 8G2 OS=Homo sapiens OX=9606 GN=OR8G2P PE=2 SV=1	304	non-HK		not_mapped_to_ensg	sp	O8G2P_HUMAN	Swiss-Prot reviewed
+Q8IUI4	S29P2_HUMAN	Putative protein SNX29P2 OS=Homo sapiens OX=9606 GN=SNX29P2 PE=5 SV=2	249	non-HK		not_mapped_to_ensg	sp	S29P2_HUMAN	Swiss-Prot reviewed
+Q8NDY4	MDS2_HUMAN	Myelodysplastic syndrome 2 translocation-associated protein OS=Homo sapiens OX=9606 GN=MDS2 PE=2 SV=1	140	non-HK		not_mapped_to_ensg	sp	MDS2_HUMAN	Swiss-Prot reviewed
+P0CJ69	HMN2_HUMAN	Humanin-like 2 OS=Homo sapiens OX=9606 GN=MTRNR2L2 PE=2 SV=1	28	non-HK		not_mapped_to_ensg	sp	HMN2_HUMAN	Swiss-Prot reviewed
+Q71RG6	YH006_HUMAN	Putative chemokine-related protein FP248 OS=Homo sapiens OX=9606 GN=FP248 PE=5 SV=1	208	non-HK		not_mapped_to_ensg	sp	YH006_HUMAN	Swiss-Prot reviewed
+Q8NGG1	OR8J2_HUMAN	Olfactory receptor 8J2 OS=Homo sapiens OX=9606 GN=OR8J2 PE=3 SV=2	315	non-HK		not_mapped_to_ensg	sp	OR8J2_HUMAN	Swiss-Prot reviewed
+O14603	PRY_HUMAN	PTPN13-like protein, Y-linked OS=Homo sapiens OX=9606 GN=PRY PE=1 SV=2	147	non-HK		not_mapped_to_ensg	sp	PRY_HUMAN	Swiss-Prot reviewed
+P52743	ZN137_HUMAN	Putative zinc finger protein 137 OS=Homo sapiens OX=9606 GN=ZNF137P PE=5 SV=1	207	non-HK		not_mapped_to_ensg	sp	ZN137_HUMAN	Swiss-Prot reviewed
+Q14397	GCKR_HUMAN	Glucokinase regulatory protein OS=Homo sapiens OX=9606 GN=GCKR PE=1 SV=6	625	non-HK		not_mapped_to_ensg	sp	GCKR_HUMAN	Swiss-Prot reviewed
+Q96MT4	CF195_HUMAN	Uncharacterized protein encoded by LINC01600 OS=Homo sapiens OX=9606 GN=LINC01600 PE=2 SV=2	127	non-HK		not_mapped_to_ensg	sp	CF195_HUMAN	Swiss-Prot reviewed
+A6NF01	P121B_HUMAN	Putative nuclear envelope pore membrane protein POM 121B OS=Homo sapiens OX=9606 GN=POM121B PE=5 SV=2	834	non-HK		not_mapped_to_ensg	sp	P121B_HUMAN	Swiss-Prot reviewed
+Q8TBR4	ST3L4_HUMAN	Putative STAG3-like protein 4 OS=Homo sapiens OX=9606 GN=STAG3L4 PE=5 SV=1	150	non-HK		not_mapped_to_ensg	sp	ST3L4_HUMAN	Swiss-Prot reviewed
+Q9BWJ2	RHAS1_HUMAN	Putative uncharacterized protein encoded by RHPN1-AS1 OS=Homo sapiens OX=9606 GN=RHPN1-AS1 PE=5 SV=1	59	non-HK		not_mapped_to_ensg	sp	RHAS1_HUMAN	Swiss-Prot reviewed
+P0DTW3	HV384_HUMAN	Probable non-functional immunoglobulin heavy variable 1-38-4 OS=Homo sapiens OX=9606 GN=IGHV1-38-4 PE=1 SV=1	117	non-HK		not_mapped_to_ensg	sp	HV384_HUMAN	Swiss-Prot reviewed
+Q16609	LPAL2_HUMAN	Putative apolipoprotein(a)-like protein 2 OS=Homo sapiens OX=9606 GN=LPAL2 PE=5 SV=1	132	non-HK		not_mapped_to_ensg	sp	LPAL2_HUMAN	Swiss-Prot reviewed
+Q5T7N8	F27D1_HUMAN	Protein FAM27D1 OS=Homo sapiens OX=9606 GN=FAM27D1 PE=3 SV=2	215	non-HK		not_mapped_to_ensg	sp	F27D1_HUMAN	Swiss-Prot reviewed
+Q3KNT7	NSN5B_HUMAN	Putative NOL1/NOP2/Sun domain family member 5B OS=Homo sapiens OX=9606 GN=NSUN5P1 PE=5 SV=1	163	non-HK		not_mapped_to_ensg	sp	NSN5B_HUMAN	Swiss-Prot reviewed
+Q4KMX7	F106A_HUMAN	Protein FAM106A OS=Homo sapiens OX=9606 GN=FAM106A PE=2 SV=2	169	non-HK		not_mapped_to_ensg	sp	F106A_HUMAN	Swiss-Prot reviewed
+Q8N7U9	CQ054_HUMAN	Putative uncharacterized protein encoded by LINC00469 OS=Homo sapiens OX=9606 GN=LINC00469 PE=5 SV=1	141	non-HK		not_mapped_to_ensg	sp	CQ054_HUMAN	Swiss-Prot reviewed
+A8MT19	RHN2P_HUMAN	Putative rhophilin-2-like protein RHPN2P1 OS=Homo sapiens OX=9606 GN=RHPN2P1 PE=5 SV=2	583	non-HK		not_mapped_to_ensg	sp	RHN2P_HUMAN	Swiss-Prot reviewed
+O00370	LORF2_HUMAN	LINE-1 retrotransposable element ORF2 protein OS=Homo sapiens OX=9606 PE=1 SV=1	1275	non-HK		not_mapped_to_ensg	sp	LORF2_HUMAN	Swiss-Prot reviewed
+P43359	MAGA5_HUMAN	Putative melanoma-associated antigen 5P OS=Homo sapiens OX=9606 GN=MAGEA5P PE=5 SV=1	124	non-HK		not_mapped_to_ensg	sp	MAGA5_HUMAN	Swiss-Prot reviewed
+P63135	POK7_HUMAN	Endogenous retrovirus group K member 7 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-7 PE=1 SV=1	1459	non-HK		not_mapped_to_ensg	sp	POK7_HUMAN	Swiss-Prot reviewed
+Q3C1V9	YK041_HUMAN	Putative uncharacterized protein ENSP00000334305 OS=Homo sapiens OX=9606 PE=5 SV=2	767	non-HK		not_mapped_to_ensg	sp	YK041_HUMAN	Swiss-Prot reviewed
+Q499Y3	YJ016_HUMAN	Putative uncharacterized protein C10orf88-like OS=Homo sapiens OX=9606 PE=2 SV=2	187	non-HK		not_mapped_to_ensg	sp	YJ016_HUMAN	Swiss-Prot reviewed
+Q5BKY6	YV018_HUMAN	Putative uncharacterized protein DKFZp434K191 OS=Homo sapiens OX=9606 PE=1 SV=1	102	non-HK		not_mapped_to_ensg	sp	YV018_HUMAN	Swiss-Prot reviewed
+Q5VTU8	AT5EL_HUMAN	ATP synthase subunit epsilon-like protein, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5F1EP2 PE=1 SV=1	51	non-HK		not_mapped_to_ensg	sp	AT5EL_HUMAN	Swiss-Prot reviewed
+Q6ZQY7	YO026_HUMAN	Putative uncharacterized protein FLJ46792 OS=Homo sapiens OX=9606 PE=2 SV=1	126	non-HK		not_mapped_to_ensg	sp	YO026_HUMAN	Swiss-Prot reviewed
+Q6ZR54	YN009_HUMAN	Putative uncharacterized protein FLJ46641 OS=Homo sapiens OX=9606 PE=5 SV=1	194	non-HK		not_mapped_to_ensg	sp	YN009_HUMAN	Swiss-Prot reviewed
+Q6ZS49	YQ050_HUMAN	Putative uncharacterized protein FLJ45831 OS=Homo sapiens OX=9606 PE=5 SV=1	121	non-HK		not_mapped_to_ensg	sp	YQ050_HUMAN	Swiss-Prot reviewed
+Q6ZUT4	YL014_HUMAN	Putative uncharacterized protein FLJ43343 OS=Homo sapiens OX=9606 PE=5 SV=1	128	non-HK		not_mapped_to_ensg	sp	YL014_HUMAN	Swiss-Prot reviewed
+Q6ZVU0	YK022_HUMAN	Putative uncharacterized protein FLJ42102 OS=Homo sapiens OX=9606 PE=5 SV=1	165	non-HK		not_mapped_to_ensg	sp	YK022_HUMAN	Swiss-Prot reviewed
+Q7RTZ1	OVCH2_HUMAN	Ovochymase-2 OS=Homo sapiens OX=9606 GN=OVCH2 PE=1 SV=2	564	non-HK		not_mapped_to_ensg	sp	OVCH2_HUMAN	Swiss-Prot reviewed
+Q8N6K4	YP021_HUMAN	Putative uncharacterized protein MGC34800 OS=Homo sapiens OX=9606 PE=2 SV=1	173	non-HK		not_mapped_to_ensg	sp	YP021_HUMAN	Swiss-Prot reviewed
+Q8N9L7	YV006_HUMAN	Putative uncharacterized protein FLJ36925 OS=Homo sapiens OX=9606 PE=5 SV=1	120	non-HK		not_mapped_to_ensg	sp	YV006_HUMAN	Swiss-Prot reviewed
+Q8NBF4	YG006_HUMAN	Putative uncharacterized protein FLJ33307 OS=Homo sapiens OX=9606 PE=5 SV=1	154	non-HK		not_mapped_to_ensg	sp	YG006_HUMAN	Swiss-Prot reviewed
+Q8TCH9	YV004_HUMAN	Putative uncharacterized protein FLJ23865 OS=Homo sapiens OX=9606 PE=2 SV=1	128	non-HK		not_mapped_to_ensg	sp	YV004_HUMAN	Swiss-Prot reviewed
+Q96IR3	YV007_HUMAN	Putative uncharacterized protein MGC15705 OS=Homo sapiens OX=9606 PE=5 SV=1	41	non-HK		not_mapped_to_ensg	sp	YV007_HUMAN	Swiss-Prot reviewed
+Q9BRP9	YK016_HUMAN	Putative uncharacterized protein MGC13053 OS=Homo sapiens OX=9606 PE=5 SV=2	147	non-HK		not_mapped_to_ensg	sp	YK016_HUMAN	Swiss-Prot reviewed
+C0HM01	RBRP_HUMAN	Putative RNA-binding regulatory peptide OS=Homo sapiens OX=9606 GN=SEPTIN14P20 PE=5 SV=1	71	non-HK		not_mapped_to_ensg	sp	RBRP_HUMAN	Swiss-Prot reviewed
+P0C5K7	CT62_HUMAN	Cancer/testis antigen 62 OS=Homo sapiens OX=9606 GN=CT62 PE=2 SV=1	136	non-HK		not_mapped_to_ensg	sp	CT62_HUMAN	Swiss-Prot reviewed
+P54317	LIPR2_HUMAN	Pancreatic lipase-related protein 2 OS=Homo sapiens OX=9606 GN=PNLIPRP2 PE=1 SV=2	469	non-HK		not_mapped_to_ensg	sp	LIPR2_HUMAN	Swiss-Prot reviewed
+Q5CZ79	AN20B_HUMAN	Ankyrin repeat domain-containing protein 20B OS=Homo sapiens OX=9606 GN=ANKRD20A8P PE=1 SV=2	823	non-HK		not_mapped_to_ensg	sp	AN20B_HUMAN	Swiss-Prot reviewed
+Q5VUJ5	AGAP7_HUMAN	Putative Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 7 OS=Homo sapiens OX=9606 GN=AGAP7P PE=5 SV=1	663	non-HK		not_mapped_to_ensg	sp	AGAP7_HUMAN	Swiss-Prot reviewed
+Q8TB33	CX024_HUMAN	Putative uncharacterized protein encoded by LINC01560 OS=Homo sapiens OX=9606 GN=LINC01560 PE=4 SV=2	94	non-HK		not_mapped_to_ensg	sp	CX024_HUMAN	Swiss-Prot reviewed
+Q9BZK3	NACP4_HUMAN	Putative nascent polypeptide-associated complex subunit alpha-like protein OS=Homo sapiens OX=9606 GN=NACA4P PE=5 SV=1	213	non-HK		not_mapped_to_ensg	sp	NACP4_HUMAN	Swiss-Prot reviewed
+P0CG43	F157C_HUMAN	Putative protein FAM157C OS=Homo sapiens OX=9606 GN=FAM157C PE=3 SV=1	387	non-HK		not_mapped_to_ensg	sp	F157C_HUMAN	Swiss-Prot reviewed
+Q5T4H9	CSC10_HUMAN	Putative uncharacterized protein encoded by MIR1915-HG OS=Homo sapiens OX=9606 GN=MIR1915HG PE=5 SV=1	136	non-HK		not_mapped_to_ensg	sp	CSC10_HUMAN	Swiss-Prot reviewed
+Q6XCG6	YA011_HUMAN	Putative uncharacterized protein PP632 OS=Homo sapiens OX=9606 GN=PP632 PE=4 SV=1	107	non-HK		not_mapped_to_ensg	sp	YA011_HUMAN	Swiss-Prot reviewed
+Q6ZTU2	E400N_HUMAN	Putative chromatin regulator EP400P1 OS=Homo sapiens OX=9606 GN=EP400P1 PE=1 SV=2	488	non-HK		not_mapped_to_ensg	sp	E400N_HUMAN	Swiss-Prot reviewed
+Q8NBB2	STAS1_HUMAN	Putative uncharacterized protein ST20-AS1 OS=Homo sapiens OX=9606 GN=ST20-AS1 PE=5 SV=1	130	non-HK		not_mapped_to_ensg	sp	STAS1_HUMAN	Swiss-Prot reviewed
+Q9UHT4	YG001_HUMAN	Putative uncharacterized protein PRO1854 OS=Homo sapiens OX=9606 GN=PRO1854 PE=5 SV=1	67	non-HK		not_mapped_to_ensg	sp	YG001_HUMAN	Swiss-Prot reviewed
+Q15195	PLGA_HUMAN	Plasminogen-like protein A OS=Homo sapiens OX=9606 GN=PLGLA PE=1 SV=1	96	non-HK		not_mapped_to_ensg	sp	PLGA_HUMAN	Swiss-Prot reviewed
+Q6NVV1	R13P3_HUMAN	Putative ribosomal protein uL13-like OS=Homo sapiens OX=9606 GN=RPL13AP3 PE=5 SV=1	102	non-HK		not_mapped_to_ensg	sp	R13P3_HUMAN	Swiss-Prot reviewed
+Q8N9R0	CP081_HUMAN	Putative uncharacterized protein encoded by LINC00304 OS=Homo sapiens OX=9606 GN=LINC00304 PE=5 SV=2	145	non-HK		not_mapped_to_ensg	sp	CP081_HUMAN	Swiss-Prot reviewed
+Q8TEV8	SMCR5_HUMAN	Smith-Magenis syndrome chromosomal region candidate gene 5 protein OS=Homo sapiens OX=9606 GN=SMCR5 PE=2 SV=1	140	non-HK		not_mapped_to_ensg	sp	SMCR5_HUMAN	Swiss-Prot reviewed
+Q9BZA5	TXNG2_HUMAN	Putative gamma-taxilin 2 OS=Homo sapiens OX=9606 GN=TXLNGY PE=5 SV=3	131	non-HK		not_mapped_to_ensg	sp	TXNG2_HUMAN	Swiss-Prot reviewed
+Q9GZL8	BPEC1_HUMAN	Putative BPES syndrome breakpoint region protein OS=Homo sapiens OX=9606 GN=BPESC1 PE=1 SV=1	116	non-HK		not_mapped_to_ensg	sp	BPEC1_HUMAN	Swiss-Prot reviewed
+P0C623	OR4Q2_HUMAN	Olfactory receptor 4Q2 OS=Homo sapiens OX=9606 GN=OR4Q2 PE=3 SV=3	314	non-HK		not_mapped_to_ensg	sp	OR4Q2_HUMAN	Swiss-Prot reviewed
+Q49A33	Z876P_HUMAN	Putative zinc finger protein 876 OS=Homo sapiens OX=9606 GN=ZNF876P PE=5 SV=3	203	non-HK		not_mapped_to_ensg	sp	Z876P_HUMAN	Swiss-Prot reviewed
+Q7Z2R9	SSAS1_HUMAN	Putative uncharacterized protein SSBP3-AS1 OS=Homo sapiens OX=9606 GN=SSBP3-AS1 PE=5 SV=1	100	non-HK		not_mapped_to_ensg	sp	SSAS1_HUMAN	Swiss-Prot reviewed
+Q8NH92	OR1S1_HUMAN	Olfactory receptor 1S1 OS=Homo sapiens OX=9606 GN=OR1S1 PE=3 SV=2	325	non-HK		not_mapped_to_ensg	sp	OR1S1_HUMAN	Swiss-Prot reviewed
+A6NMY6	AXA2L_HUMAN	Putative annexin A2-like protein OS=Homo sapiens OX=9606 GN=ANXA2P2 PE=5 SV=2	339	non-HK		not_mapped_to_ensg	sp	AXA2L_HUMAN	Swiss-Prot reviewed
+J3KSC0	CR064_HUMAN	Putative uncharacterized protein encoded by LINC01387 OS=Homo sapiens OX=9606 GN=LINC01387 PE=5 SV=1	135	non-HK		not_mapped_to_ensg	sp	CR064_HUMAN	Swiss-Prot reviewed
+P59037	CU084_HUMAN	Putative uncharacterized protein encoded by LINC00313 OS=Homo sapiens OX=9606 GN=LINC00313 PE=5 SV=1	77	non-HK		not_mapped_to_ensg	sp	CU084_HUMAN	Swiss-Prot reviewed
+Q9H560	ANR19_HUMAN	Putative ankyrin repeat domain-containing protein 19 OS=Homo sapiens OX=9606 GN=ANKRD19P PE=5 SV=1	264	non-HK		not_mapped_to_ensg	sp	ANR19_HUMAN	Swiss-Prot reviewed
+Q5H9B9	BM2KL_HUMAN	Putative BMP-2-inducible kinase-like protein OS=Homo sapiens OX=9606 GN=BMP2KL PE=5 SV=2	411	non-HK		not_mapped_to_ensg	sp	BM2KL_HUMAN	Swiss-Prot reviewed
+Q6IN97	FRP2L_HUMAN	Putative protein FRMPD2-like OS=Homo sapiens OX=9606 GN=FRMPD2B PE=5 SV=1	320	non-HK		not_mapped_to_ensg	sp	FRP2L_HUMAN	Swiss-Prot reviewed
+Q8NFI4	F10A5_HUMAN	Putative protein FAM10A5 OS=Homo sapiens OX=9606 GN=ST13P5 PE=5 SV=1	369	non-HK		not_mapped_to_ensg	sp	F10A5_HUMAN	Swiss-Prot reviewed
+Q8WZA6	OR1E3_HUMAN	Olfactory receptor 1E3 OS=Homo sapiens OX=9606 GN=OR1E3 PE=3 SV=2	343	non-HK		not_mapped_to_ensg	sp	OR1E3_HUMAN	Swiss-Prot reviewed
+Q96LM1	CL037_HUMAN	Putative uncharacterized protein encoded by LINC00615 OS=Homo sapiens OX=9606 GN=LINC00615 PE=5 SV=1	132	non-HK		not_mapped_to_ensg	sp	CL037_HUMAN	Swiss-Prot reviewed
+Q96N35	TMM83_HUMAN	Putative uncharacterized protein encoded by LINC00052 OS=Homo sapiens OX=9606 GN=LINC00052 PE=5 SV=1	136	non-HK		not_mapped_to_ensg	sp	TMM83_HUMAN	Swiss-Prot reviewed
+P0C646	O52Z1_HUMAN	Olfactory receptor 52Z1P OS=Homo sapiens OX=9606 GN=OR52Z1P PE=3 SV=2	298	non-HK		not_mapped_to_ensg	sp	O52Z1_HUMAN	Swiss-Prot reviewed
+Q5SR53	CA200_HUMAN	Putative uncharacterized protein PIK3CD-AS1 OS=Homo sapiens OX=9606 GN=PIK3CD-AS1 PE=5 SV=1	167	non-HK		not_mapped_to_ensg	sp	CA200_HUMAN	Swiss-Prot reviewed
+Q6ZP68	ATPUN_HUMAN	Putative protein ATP11AUN OS=Homo sapiens OX=9606 GN=ATP11AUN PE=2 SV=1	121	non-HK		not_mapped_to_ensg	sp	ATPUN_HUMAN	Swiss-Prot reviewed
+Q8N4M7	CJ126_HUMAN	Putative uncharacterized protein C10orf126 OS=Homo sapiens OX=9606 GN=C10orf126 PE=2 SV=2	172	non-HK		not_mapped_to_ensg	sp	CJ126_HUMAN	Swiss-Prot reviewed
+Q9UKY3	CES1P_HUMAN	Putative inactive carboxylesterase 4 OS=Homo sapiens OX=9606 GN=CES1P1 PE=5 SV=2	287	non-HK		not_mapped_to_ensg	sp	CES1P_HUMAN	Swiss-Prot reviewed
+A6NEL3	F86C2_HUMAN	Putative protein FAM86C2P OS=Homo sapiens OX=9606 GN=FAM86C2P PE=5 SV=1	165	non-HK		not_mapped_to_ensg	sp	F86C2_HUMAN	Swiss-Prot reviewed
+A8MYB1	TMC5B_HUMAN	Transmembrane and coiled-coil domain-containing protein 5B OS=Homo sapiens OX=9606 GN=TMCO5B PE=3 SV=1	307	non-HK		not_mapped_to_ensg	sp	TMC5B_HUMAN	Swiss-Prot reviewed
+P0CG42	F157B_HUMAN	Putative protein FAM157B OS=Homo sapiens OX=9606 GN=FAM157B PE=3 SV=1	384	non-HK		not_mapped_to_ensg	sp	F157B_HUMAN	Swiss-Prot reviewed
+Q13070	GAGE6_HUMAN	G antigen 6 OS=Homo sapiens OX=9606 GN=GAGE6 PE=1 SV=1	117	non-HK		not_mapped_to_ensg	sp	GAGE6_HUMAN	Swiss-Prot reviewed
+Q495Y7	SPDE7_HUMAN	Putative speedy protein E7 OS=Homo sapiens OX=9606 GN=SPDYE7P PE=5 SV=1	208	non-HK		not_mapped_to_ensg	sp	SPDE7_HUMAN	Swiss-Prot reviewed
+Q5T7P6	TMM78_HUMAN	Transmembrane protein 78 OS=Homo sapiens OX=9606 GN=TMEM78 PE=2 SV=1	136	non-HK		not_mapped_to_ensg	sp	TMM78_HUMAN	Swiss-Prot reviewed
+Q658K8	EF1DL_HUMAN	Putative elongation factor 1-delta-like protein OS=Homo sapiens OX=9606 GN=EEF1DP3 PE=5 SV=1	133	non-HK		not_mapped_to_ensg	sp	EF1DL_HUMAN	Swiss-Prot reviewed
+Q92637	FCGRB_HUMAN	Putative high affinity immunoglobulin gamma Fc receptor IB OS=Homo sapiens OX=9606 GN=FCGR1BP PE=5 SV=1	280	non-HK		not_mapped_to_ensg	sp	FCGRB_HUMAN	Swiss-Prot reviewed
+Q9H354	YJ001_HUMAN	Putative uncharacterized protein PRO1933 OS=Homo sapiens OX=9606 GN=PRO1933 PE=5 SV=1	126	non-HK		not_mapped_to_ensg	sp	YJ001_HUMAN	Swiss-Prot reviewed
+Q9H8X3	CF208_HUMAN	Putative uncharacterized protein LINC00574 OS=Homo sapiens OX=9606 GN=LINC00574 PE=5 SV=1	128	non-HK		not_mapped_to_ensg	sp	CF208_HUMAN	Swiss-Prot reviewed
+P0C5K6	CT18_HUMAN	Putative tumor antigen NA88-A OS=Homo sapiens OX=9606 GN=VENTXP1 PE=5 SV=1	33	non-HK		not_mapped_to_ensg	sp	CT18_HUMAN	Swiss-Prot reviewed
+Q0VF49	K2012_HUMAN	Uncharacterized protein KIAA2012 OS=Homo sapiens OX=9606 GN=KIAA2012 PE=1 SV=2	1180	non-HK		not_mapped_to_ensg	sp	K2012_HUMAN	Swiss-Prot reviewed
+G3V0H7	SO1B7_HUMAN	Putative solute carrier organic anion transporter family member 1B7 OS=Homo sapiens OX=9606 GN=SLCO1B7 PE=5 SV=1	640	non-HK		not_mapped_to_ensg	sp	SO1B7_HUMAN	Swiss-Prot reviewed
+P0C604	OR4A8_HUMAN	Olfactory receptor 4A8 OS=Homo sapiens OX=9606 GN=OR4A8 PE=3 SV=1	315	non-HK		not_mapped_to_ensg	sp	OR4A8_HUMAN	Swiss-Prot reviewed
+P48741	HSP77_HUMAN	Putative heat shock 70 kDa protein 7 OS=Homo sapiens OX=9606 GN=HSPA7 PE=5 SV=2	367	non-HK		not_mapped_to_ensg	sp	HSP77_HUMAN	Swiss-Prot reviewed
+Q9BZP3	CR002_HUMAN	Putative uncharacterized protein encoded by LINC00470 OS=Homo sapiens OX=9606 GN=LINC00470 PE=5 SV=1	86	non-HK		not_mapped_to_ensg	sp	CR002_HUMAN	Swiss-Prot reviewed
+P0CJ76	HMN9_HUMAN	Humanin-like 9 OS=Homo sapiens OX=9606 GN=MTRNR2L9 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN9_HUMAN	Swiss-Prot reviewed
+Q9BVW6	SMIM2_HUMAN	Small integral membrane protein 2 OS=Homo sapiens OX=9606 GN=SMIM2 PE=1 SV=1	85	non-HK		not_mapped_to_ensg	sp	SMIM2_HUMAN	Swiss-Prot reviewed
+A0A7L8Y648	MIAC_HUMAN	Micropeptide inhibiting actin cytoskeleton OS=Homo sapiens OX=9606 GN=AQP5-AS1 PE=1 SV=1	51	non-HK		not_mapped_to_ensg	sp	MIAC_HUMAN	Swiss-Prot reviewed
+A4D250	BLACE_HUMAN	B-cell acute lymphoblastic leukemia-expressed protein OS=Homo sapiens OX=9606 GN=BLACE PE=2 SV=2	179	non-HK		not_mapped_to_ensg	sp	BLACE_HUMAN	Swiss-Prot reviewed
+P61568	ENK11_HUMAN	Putative endogenous retrovirus group K member 11-1 Env polyprotein OS=Homo sapiens OX=9606 GN=ERVK11-1 PE=5 SV=1	191	non-HK		not_mapped_to_ensg	sp	ENK11_HUMAN	Swiss-Prot reviewed
+Q5VX52	SPAT1_HUMAN	Spermatogenesis-associated protein 1 OS=Homo sapiens OX=9606 GN=SPATA1 PE=1 SV=4	459	non-HK		not_mapped_to_ensg	sp	SPAT1_HUMAN	Swiss-Prot reviewed
+A6NEH8	ZNAS2_HUMAN	Putative uncharacterized protein encoded by ZNF503-AS2 OS=Homo sapiens OX=9606 GN=ZNF503-AS2 PE=5 SV=1	195	non-HK		not_mapped_to_ensg	sp	ZNAS2_HUMAN	Swiss-Prot reviewed
+Q8N954	GPT11_HUMAN	G patch domain-containing protein 11 OS=Homo sapiens OX=9606 GN=GPATCH11 PE=1 SV=4	285	non-HK		not_mapped_to_ensg	sp	GPT11_HUMAN	Swiss-Prot reviewed
+Q902F9	EN113_HUMAN	Endogenous retrovirus group K member 113 Env polyprotein OS=Homo sapiens OX=9606 GN=HERVK_113 PE=1 SV=2	699	non-HK		not_mapped_to_ensg	sp	EN113_HUMAN	Swiss-Prot reviewed
+Q9BXW3	SNH12_HUMAN	Putative uncharacterized protein SNHG12 OS=Homo sapiens OX=9606 GN=SNHG12 PE=5 SV=1	62	non-HK		not_mapped_to_ensg	sp	SNH12_HUMAN	Swiss-Prot reviewed
+Q9H963	ZN702_HUMAN	Putative zinc finger protein 702 OS=Homo sapiens OX=9606 GN=ZNF702P PE=5 SV=2	129	non-HK		not_mapped_to_ensg	sp	ZN702_HUMAN	Swiss-Prot reviewed
+P63145	GAK24_HUMAN	Endogenous retrovirus group K member 24 Gag polyprotein OS=Homo sapiens OX=9606 GN=ERVK-24 PE=1 SV=2	666	non-HK		not_mapped_to_ensg	sp	GAK24_HUMAN	Swiss-Prot reviewed
+Q8NGC9	O11H4_HUMAN	Olfactory receptor 11H4 OS=Homo sapiens OX=9606 GN=OR11H4 PE=2 SV=1	324	non-HK		not_mapped_to_ensg	sp	O11H4_HUMAN	Swiss-Prot reviewed
+Q8NGQ3	OR1S2_HUMAN	Olfactory receptor 1S2 OS=Homo sapiens OX=9606 GN=OR1S2 PE=3 SV=2	325	non-HK		not_mapped_to_ensg	sp	OR1S2_HUMAN	Swiss-Prot reviewed
+Q9H8Q6	HEAS1_HUMAN	Putative uncharacterized protein encoded by HEXA-AS1 OS=Homo sapiens OX=9606 GN=HEXA-AS1 PE=5 SV=1	139	non-HK		not_mapped_to_ensg	sp	HEAS1_HUMAN	Swiss-Prot reviewed
+A6NCI5	SIM16_HUMAN	Putative transmembrane protein encoded by LINC00862 OS=Homo sapiens OX=9606 GN=LINC00862 PE=5 SV=1	91	non-HK		not_mapped_to_ensg	sp	SIM16_HUMAN	Swiss-Prot reviewed
+Q9H478	KCQ1D_HUMAN	KCNQ1 downstream neighbor protein OS=Homo sapiens OX=9606 GN=KCNQ1DN PE=2 SV=1	68	non-HK		not_mapped_to_ensg	sp	KCQ1D_HUMAN	Swiss-Prot reviewed
+Q8IYA2	C144C_HUMAN	Putative coiled-coil domain-containing protein 144C OS=Homo sapiens OX=9606 GN=CCDC144CP PE=5 SV=3	1237	non-HK		not_mapped_to_ensg	sp	C144C_HUMAN	Swiss-Prot reviewed
+P0DW81	PACMP_HUMAN	Poly-ADP-ribosylation-amplifying and CtIP-maintaining micropeptide OS=Homo sapiens OX=9606 GN=MARCHF6-DT PE=1 SV=1	44	non-HK		not_mapped_to_ensg	sp	PACMP_HUMAN	Swiss-Prot reviewed
+Q5K131	CLLU1_HUMAN	Chronic lymphocytic leukemia up-regulated protein 1 OS=Homo sapiens OX=9606 GN=CLLU1 PE=2 SV=1	121	non-HK		not_mapped_to_ensg	sp	CLLU1_HUMAN	Swiss-Prot reviewed
+Q8NC38	CA213_HUMAN	Putative uncharacterized protein ZNF436-AS1 OS=Homo sapiens OX=9606 GN=ZNF436-AS1 PE=1 SV=2	126	non-HK		not_mapped_to_ensg	sp	CA213_HUMAN	Swiss-Prot reviewed
+P0C854	CECR9_HUMAN	Putative cat eye syndrome critical region protein 9 OS=Homo sapiens OX=9606 GN=CECR9 PE=5 SV=1	216	non-HK		not_mapped_to_ensg	sp	CECR9_HUMAN	Swiss-Prot reviewed
+Q15940	ZNF67_HUMAN	Putative zinc finger protein 726P1 OS=Homo sapiens OX=9606 GN=ZNF726P1 PE=5 SV=2	193	non-HK		not_mapped_to_ensg	sp	ZNF67_HUMAN	Swiss-Prot reviewed
+Q6NSW5	DE10B_HUMAN	Putative DENN domain-containing protein 10 B OS=Homo sapiens OX=9606 GN=DENND10P1 PE=5 SV=1	357	non-HK		not_mapped_to_ensg	sp	DE10B_HUMAN	Swiss-Prot reviewed
+Q6RFH8	DUX4C_HUMAN	Double homeobox protein 4C OS=Homo sapiens OX=9606 GN=DUX4L9 PE=1 SV=1	374	non-HK		not_mapped_to_ensg	sp	DUX4C_HUMAN	Swiss-Prot reviewed
+Q86XG9	NBPF5_HUMAN	Putative NBPF family member NBPF5 OS=Homo sapiens OX=9606 GN=NBPF5P PE=5 SV=2	351	non-HK		not_mapped_to_ensg	sp	NBPF5_HUMAN	Swiss-Prot reviewed
+Q9HD87	CF050_HUMAN	Putative uncharacterized protein C6orf50 OS=Homo sapiens OX=9606 GN=C6orf50 PE=5 SV=1	102	non-HK		not_mapped_to_ensg	sp	CF050_HUMAN	Swiss-Prot reviewed
+P0DSO1	F246C_HUMAN	Protein FAM246C OS=Homo sapiens OX=9606 GN=FAM246C PE=3 SV=1	240	non-HK		not_mapped_to_ensg	sp	F246C_HUMAN	Swiss-Prot reviewed
+Q8IY67	RAVR1_HUMAN	Ribonucleoprotein PTB-binding 1 OS=Homo sapiens OX=9606 GN=RAVER1 PE=1 SV=1	606	non-HK		not_mapped_to_ensg	sp	RAVR1_HUMAN	Swiss-Prot reviewed
+Q9H342	O51J1_HUMAN	Olfactory receptor 51J1 OS=Homo sapiens OX=9606 GN=OR51J1 PE=3 SV=2	316	non-HK		not_mapped_to_ensg	sp	O51J1_HUMAN	Swiss-Prot reviewed
+A0A455ZAR2	PNT87_HUMAN	Transcriptional regulator PINT87aa OS=Homo sapiens OX=9606 GN=LINC-PINT PE=1 SV=1	87	non-HK		not_mapped_to_ensg	sp	PNT87_HUMAN	Swiss-Prot reviewed
+A0A494C1I1	SIM48_HUMAN	Small integral membrane protein 48 OS=Homo sapiens OX=9606 GN=SMIM48 PE=1 SV=1	119	non-HK		not_mapped_to_ensg	sp	SIM48_HUMAN	Swiss-Prot reviewed
+A8MQB3	CQ051_HUMAN	Putative uncharacterized protein LINC02693 OS=Homo sapiens OX=9606 GN=LINC02693 PE=5 SV=1	221	non-HK		not_mapped_to_ensg	sp	CQ051_HUMAN	Swiss-Prot reviewed
+P0C7X4	FHL19_HUMAN	Putative ferritin heavy polypeptide-like 19 OS=Homo sapiens OX=9606 GN=FTH1P19 PE=5 SV=1	201	non-HK		not_mapped_to_ensg	sp	FHL19_HUMAN	Swiss-Prot reviewed
+Q8TAV5	KC5S1_HUMAN	Uncharacterized protein KCNJ5-AS1 OS=Homo sapiens OX=9606 GN=KCNJ5-AS1 PE=1 SV=1	145	non-HK		not_mapped_to_ensg	sp	KC5S1_HUMAN	Swiss-Prot reviewed
+Q96R69	OR4F4_HUMAN	Olfactory receptor 4F4 OS=Homo sapiens OX=9606 GN=OR4F4 PE=2 SV=2	305	non-HK		not_mapped_to_ensg	sp	OR4F4_HUMAN	Swiss-Prot reviewed
+Q9H0A3	T191A_HUMAN	Transmembrane protein 191A OS=Homo sapiens OX=9606 GN=TMEM191A PE=2 SV=1	160	non-HK		not_mapped_to_ensg	sp	T191A_HUMAN	Swiss-Prot reviewed
+B1AMM8	CI107_HUMAN	Putative uncharacterized protein encoded by LINC00587 OS=Homo sapiens OX=9606 GN=LINC00587 PE=5 SV=1	73	non-HK		not_mapped_to_ensg	sp	CI107_HUMAN	Swiss-Prot reviewed
+P00736	C1R_HUMAN	Complement C1r subcomponent OS=Homo sapiens OX=9606 GN=C1R PE=1 SV=2	705	non-HK		not_mapped_to_ensg	sp	C1R_HUMAN	Swiss-Prot reviewed
+Q5T742	ZFAS1_HUMAN	Uncharacterized protein ZNF22-AS1 OS=Homo sapiens OX=9606 GN=ZNF22-AS1 PE=5 SV=3	122	non-HK		not_mapped_to_ensg	sp	ZFAS1_HUMAN	Swiss-Prot reviewed
+B7ZC32	KIF28_HUMAN	Kinesin-like protein KIF28P OS=Homo sapiens OX=9606 GN=KIF28P PE=3 SV=2	967	non-HK		not_mapped_to_ensg	sp	KIF28_HUMAN	Swiss-Prot reviewed
+C0HM98	DDUP_HUMAN	DNA damage up-regulated protein OS=Homo sapiens OX=9606 GN=CTBP1-DT PE=1 SV=1	186	non-HK		not_mapped_to_ensg	sp	DDUP_HUMAN	Swiss-Prot reviewed
+P0CG00	ZSA5D_HUMAN	Putative zinc finger and SCAN domain-containing protein 5D OS=Homo sapiens OX=9606 GN=ZSCAN5DP PE=5 SV=1	497	non-HK		not_mapped_to_ensg	sp	ZSA5D_HUMAN	Swiss-Prot reviewed
+Q4VX62	CF099_HUMAN	Putative uncharacterized protein LINC02901 OS=Homo sapiens OX=9606 GN=LINC02901 PE=5 SV=2	156	non-HK		not_mapped_to_ensg	sp	CF099_HUMAN	Swiss-Prot reviewed
+Q9UMZ3	PTPRQ_HUMAN	Phosphatidylinositol phosphatase PTPRQ OS=Homo sapiens OX=9606 GN=PTPRQ PE=1 SV=2	2332	non-HK		not_mapped_to_ensg	sp	PTPRQ_HUMAN	Swiss-Prot reviewed
+S4R3Y5	HMN11_HUMAN	Humanin-like 11 OS=Homo sapiens OX=9606 GN=MTRNR2L11 PE=3 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN11_HUMAN	Swiss-Prot reviewed
+A8MWD9	RUXGL_HUMAN	Putative small nuclear ribonucleoprotein G-like protein 15 OS=Homo sapiens OX=9606 GN=SNRPGP15 PE=5 SV=2	76	non-HK		not_mapped_to_ensg	sp	RUXGL_HUMAN	Swiss-Prot reviewed
+A8MZF0	PRR33_HUMAN	Proline-rich protein 33 OS=Homo sapiens OX=9606 GN=PRR33 PE=1 SV=2	331	non-HK		not_mapped_to_ensg	sp	PRR33_HUMAN	Swiss-Prot reviewed
+Q0D2H9	GOG8D_HUMAN	Putative golgin subfamily A member 8D OS=Homo sapiens OX=9606 GN=GOLGA8DP PE=5 SV=1	430	non-HK		not_mapped_to_ensg	sp	GOG8D_HUMAN	Swiss-Prot reviewed
+Q6ZSU1	C2G1P_HUMAN	Putative inactive cytochrome P450 2G1 OS=Homo sapiens OX=9606 GN=CYP2G1P PE=5 SV=1	146	non-HK		not_mapped_to_ensg	sp	C2G1P_HUMAN	Swiss-Prot reviewed
+Q8N8V8	TM105_HUMAN	Transmembrane protein 105 OS=Homo sapiens OX=9606 GN=TMEM105 PE=2 SV=1	129	non-HK		not_mapped_to_ensg	sp	TM105_HUMAN	Swiss-Prot reviewed
+P31995	FCG2C_HUMAN	Low affinity immunoglobulin gamma Fc region receptor II-c OS=Homo sapiens OX=9606 GN=FCGR2C PE=1 SV=1	323	non-HK		not_mapped_to_ensg	sp	FCG2C_HUMAN	Swiss-Prot reviewed
+Q8NH95	O13C6_HUMAN	Putative olfactory receptor 13C6 OS=Homo sapiens OX=9606 GN=OR13C6P PE=5 SV=2	151	non-HK		not_mapped_to_ensg	sp	O13C6_HUMAN	Swiss-Prot reviewed
+A8MU10	YQ047_HUMAN	Putative uncharacterized protein ENSP00000381562 OS=Homo sapiens OX=9606 PE=4 SV=1	97	non-HK		not_mapped_to_ensg	sp	YQ047_HUMAN	Swiss-Prot reviewed
+C0HM83	SHMOS_HUMAN	Protein SHMOOSE OS=Homo sapiens OX=9606 PE=1 SV=1	58	non-HK		not_mapped_to_ensg	sp	SHMOS_HUMAN	Swiss-Prot reviewed
+Q1T7F1	CCB42_HUMAN	Putative chemokine-related protein B42 OS=Homo sapiens OX=9606 PE=5 SV=1	81	non-HK		not_mapped_to_ensg	sp	CCB42_HUMAN	Swiss-Prot reviewed
+Q1W209	ESRG_HUMAN	Embryonic stem cell-related gene protein OS=Homo sapiens OX=9606 GN=ESRG PE=2 SV=2	222	non-HK		not_mapped_to_ensg	sp	ESRG_HUMAN	Swiss-Prot reviewed
+Q6AWC8	YK026_HUMAN	Putative uncharacterized protein LOC100129027 OS=Homo sapiens OX=9606 PE=5 SV=1	147	non-HK		not_mapped_to_ensg	sp	YK026_HUMAN	Swiss-Prot reviewed
+Q6P435	SMG1L_HUMAN	Putative uncharacterized SMG1-like protein OS=Homo sapiens OX=9606 PE=5 SV=1	159	non-HK		not_mapped_to_ensg	sp	SMG1L_HUMAN	Swiss-Prot reviewed
+Q6ZN92	DUTL_HUMAN	Putative inactive deoxyuridine 5'-triphosphate nucleotidohydrolase-like protein FLJ16323 OS=Homo sapiens OX=9606 PE=5 SV=1	141	non-HK		not_mapped_to_ensg	sp	DUTL_HUMAN	Swiss-Prot reviewed
+Q6ZR03	YU004_HUMAN	Uncharacterized protein FLJ46757 OS=Homo sapiens OX=9606 PE=2 SV=1	302	non-HK		not_mapped_to_ensg	sp	YU004_HUMAN	Swiss-Prot reviewed
+Q6ZVH6	YK004_HUMAN	Putative uncharacterized protein FLJ42569 OS=Homo sapiens OX=9606 PE=2 SV=1	145	non-HK		not_mapped_to_ensg	sp	YK004_HUMAN	Swiss-Prot reviewed
+Q8IYB0	YK038_HUMAN	Putative uncharacterized protein MGC39545 OS=Homo sapiens OX=9606 PE=5 SV=2	196	non-HK		not_mapped_to_ensg	sp	YK038_HUMAN	Swiss-Prot reviewed
+Q8N9G6	YJ012_HUMAN	Putative UPF0607 protein FLJ37424 OS=Homo sapiens OX=9606 PE=2 SV=1	341	non-HK		not_mapped_to_ensg	sp	YJ012_HUMAN	Swiss-Prot reviewed
+Q9H379	YI012_HUMAN	Putative uncharacterized protein PRO3102 OS=Homo sapiens OX=9606 GN=PRO3102 PE=5 SV=1	93	non-HK		not_mapped_to_ensg	sp	YI012_HUMAN	Swiss-Prot reviewed
+Q9H8V8	YD018_HUMAN	Putative uncharacterized protein FLJ13197 OS=Homo sapiens OX=9606 PE=5 SV=1	135	non-HK		not_mapped_to_ensg	sp	YD018_HUMAN	Swiss-Prot reviewed
+Q9HAA7	YG046_HUMAN	Putative uncharacterized protein FLJ11871 OS=Homo sapiens OX=9606 PE=5 SV=1	133	non-HK		not_mapped_to_ensg	sp	YG046_HUMAN	Swiss-Prot reviewed
+Q9N2J8	ENH3_HUMAN	HERV-H_2q24.1 provirus ancestral Env polyprotein OS=Homo sapiens OX=9606 PE=2 SV=1	555	non-HK		not_mapped_to_ensg	sp	ENH3_HUMAN	Swiss-Prot reviewed
+Q9UF83	YM012_HUMAN	Uncharacterized protein DKFZp434B061 OS=Homo sapiens OX=9606 PE=1 SV=2	564	non-HK		not_mapped_to_ensg	sp	YM012_HUMAN	Swiss-Prot reviewed
+Q9UFV3	YO007_HUMAN	Putative uncharacterized protein DKFZp434L187 OS=Homo sapiens OX=9606 PE=5 SV=2	132	non-HK		not_mapped_to_ensg	sp	YO007_HUMAN	Swiss-Prot reviewed
+P01848	TRAC_HUMAN	T cell receptor alpha chain constant OS=Homo sapiens OX=9606 GN=TRAC PE=1 SV=2	140	non-HK		not_mapped_to_ensg	sp	TRAC_HUMAN	Swiss-Prot reviewed
+Q13278	RIG_HUMAN	Putative protein RIG OS=Homo sapiens OX=9606 GN=RIG PE=5 SV=1	110	non-HK		not_mapped_to_ensg	sp	RIG_HUMAN	Swiss-Prot reviewed
+Q66K80	RUAS1_HUMAN	Putative uncharacterized protein RUSC1-AS1 OS=Homo sapiens OX=9606 GN=RUSC1-AS1 PE=5 SV=1	236	non-HK		not_mapped_to_ensg	sp	RUAS1_HUMAN	Swiss-Prot reviewed
+Q86V81	THOC4_HUMAN	THO complex subunit 4 OS=Homo sapiens OX=9606 GN=ALYREF PE=1 SV=3	257	non-HK		not_mapped_to_ensg	sp	THOC4_HUMAN	Swiss-Prot reviewed
+Q8N616	TM148_HUMAN	Putative uncharacterized protein encoded by LINC00311 OS=Homo sapiens OX=9606 GN=LINC00311 PE=5 SV=1	119	non-HK		not_mapped_to_ensg	sp	TM148_HUMAN	Swiss-Prot reviewed
+Q9P1P4	TAAR3_HUMAN	Putative trace amine-associated receptor 3 OS=Homo sapiens OX=9606 GN=TAAR3P PE=5 SV=1	343	non-HK		not_mapped_to_ensg	sp	TAAR3_HUMAN	Swiss-Prot reviewed
+A0A096LPI5	GVQW2_HUMAN	Putative uncharacterized protein CCDC28A-AS1 OS=Homo sapiens OX=9606 GN=CCDC28A-AS1 PE=4 SV=1	108	non-HK		not_mapped_to_ensg	sp	GVQW2_HUMAN	Swiss-Prot reviewed
+E5RG02	PRS46_HUMAN	Putative serine protease 46 OS=Homo sapiens OX=9606 GN=PRSS46P PE=3 SV=1	174	non-HK		not_mapped_to_ensg	sp	PRS46_HUMAN	Swiss-Prot reviewed
+Q6ZV80	CB091_HUMAN	Putative uncharacterized protein LINC02898 OS=Homo sapiens OX=9606 GN=LINC02898 PE=5 SV=1	131	non-HK		not_mapped_to_ensg	sp	CB091_HUMAN	Swiss-Prot reviewed
+Q86X59	CQ082_HUMAN	Putative uncharacterized protein LINC02875 OS=Homo sapiens OX=9606 GN=LINC02875 PE=5 SV=2	251	non-HK		not_mapped_to_ensg	sp	CQ082_HUMAN	Swiss-Prot reviewed
+Q8N1T3	MYO1H_HUMAN	Unconventional myosin-Ih OS=Homo sapiens OX=9606 GN=MYO1H PE=1 SV=2	1032	non-HK		not_mapped_to_ensg	sp	MYO1H_HUMAN	Swiss-Prot reviewed
+Q8N769	CN178_HUMAN	Putative uncharacterized protein SLIRP-OT1 OS=Homo sapiens OX=9606 GN=SLIRP-OT1 PE=5 SV=1	122	non-HK		not_mapped_to_ensg	sp	CN178_HUMAN	Swiss-Prot reviewed
+Q9BQD1	MCHL2_HUMAN	Putative pro-MCH-like protein 2 OS=Homo sapiens OX=9606 GN=PMCHL2 PE=5 SV=1	86	non-HK		not_mapped_to_ensg	sp	MCHL2_HUMAN	Swiss-Prot reviewed
+A6NIE9	PRS29_HUMAN	Putative serine protease 29 OS=Homo sapiens OX=9606 GN=PRSS29P PE=5 SV=3	313	non-HK		not_mapped_to_ensg	sp	PRS29_HUMAN	Swiss-Prot reviewed
+P0DPF4	TVA35_HUMAN	T cell receptor alpha variable 35 OS=Homo sapiens OX=9606 GN=TRAV35 PE=3 SV=1	110	non-HK		not_mapped_to_ensg	sp	TVA35_HUMAN	Swiss-Prot reviewed
+P10163	PRB4_HUMAN	Basic salivary proline-rich protein 4 OS=Homo sapiens OX=9606 GN=PRB4 PE=1 SV=4	310	non-HK		not_mapped_to_ensg	sp	PRB4_HUMAN	Swiss-Prot reviewed
+Q3MJ40	C144B_HUMAN	Putative coiled-coil domain-containing protein 144B OS=Homo sapiens OX=9606 GN=CCDC144BP PE=5 SV=1	725	non-HK		not_mapped_to_ensg	sp	C144B_HUMAN	Swiss-Prot reviewed
+Q8IZS5	OFCC1_HUMAN	Orofacial cleft 1 candidate gene 1 protein OS=Homo sapiens OX=9606 GN=OFCC1 PE=1 SV=1	231	non-HK		not_mapped_to_ensg	sp	OFCC1_HUMAN	Swiss-Prot reviewed
+Q8IZS7	CLCL1_HUMAN	C-type lectin-like domain family 1 OS=Homo sapiens OX=9606 GN=CLECL1 PE=1 SV=1	167	non-HK		not_mapped_to_ensg	sp	CLCL1_HUMAN	Swiss-Prot reviewed
+Q8NGX6	O10R2_HUMAN	Olfactory receptor 10R2 OS=Homo sapiens OX=9606 GN=OR10R2 PE=3 SV=3	335	non-HK		not_mapped_to_ensg	sp	O10R2_HUMAN	Swiss-Prot reviewed
+Q8NHA6	OR2W6_HUMAN	Putative olfactory receptor 2W6 OS=Homo sapiens OX=9606 GN=OR2W6P PE=5 SV=1	318	non-HK		not_mapped_to_ensg	sp	OR2W6_HUMAN	Swiss-Prot reviewed
+Q9BZK8	OCR1_HUMAN	Ovarian cancer-related protein 1 OS=Homo sapiens OX=9606 GN=OCR1 PE=4 SV=1	76	non-HK		not_mapped_to_ensg	sp	OCR1_HUMAN	Swiss-Prot reviewed
+A4QPB2	LRP5L_HUMAN	Low-density lipoprotein receptor-related protein 5-like protein OS=Homo sapiens OX=9606 GN=LRP5L PE=2 SV=2	252	non-HK		not_mapped_to_ensg	sp	LRP5L_HUMAN	Swiss-Prot reviewed
+O15225	INE1_HUMAN	Putative inactivation escape 1 protein OS=Homo sapiens OX=9606 GN=INE1 PE=5 SV=5	51	non-HK		not_mapped_to_ensg	sp	INE1_HUMAN	Swiss-Prot reviewed
+P0CJ70	HMN3_HUMAN	Humanin-like 3 OS=Homo sapiens OX=9606 GN=MTRNR2L3 PE=2 SV=1	24	non-HK		not_mapped_to_ensg	sp	HMN3_HUMAN	Swiss-Prot reviewed
+Q14236	EPAG_HUMAN	Early lymphoid activation gene protein OS=Homo sapiens OX=9606 GN=DIAPH2-AS1 PE=2 SV=2	149	non-HK		not_mapped_to_ensg	sp	EPAG_HUMAN	Swiss-Prot reviewed
+Q6XXX2	CU024_HUMAN	Putative uncharacterized protein encoded by LINC00114 OS=Homo sapiens OX=9606 GN=LINC00114 PE=5 SV=1	140	non-HK		not_mapped_to_ensg	sp	CU024_HUMAN	Swiss-Prot reviewed
+Q8NH05	OR4Q3_HUMAN	Olfactory receptor 4Q3 OS=Homo sapiens OX=9606 GN=OR4Q3 PE=3 SV=1	313	non-HK		not_mapped_to_ensg	sp	OR4Q3_HUMAN	Swiss-Prot reviewed
+Q9H606	PRORY_HUMAN	Proline-rich protein, Y-linked OS=Homo sapiens OX=9606 GN=PRORY PE=2 SV=1	182	non-HK		not_mapped_to_ensg	sp	PRORY_HUMAN	Swiss-Prot reviewed
+P0C866	F91A2_HUMAN	Putative uncharacterized protein encoded by LINC00869 OS=Homo sapiens OX=9606 GN=LINC00869 PE=5 SV=1	280	non-HK		not_mapped_to_ensg	sp	F91A2_HUMAN	Swiss-Prot reviewed
+Q6UXU0	YS002_HUMAN	Putative uncharacterized protein UNQ9165/PRO28630 OS=Homo sapiens OX=9606 GN=UNQ9165/PRO28630 PE=2 SV=1	137	non-HK		not_mapped_to_ensg	sp	YS002_HUMAN	Swiss-Prot reviewed
+P0DJD0	RGPD1_HUMAN	RANBP2-like and GRIP domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RGPD1 PE=2 SV=1	1748	non-HK		not_mapped_to_ensg	sp	RGPD1_HUMAN	Swiss-Prot reviewed
+P60608	EFC2_HUMAN	Endogenous retrovirus group FC1 member 1 Env polyprotein OS=Homo sapiens OX=9606 GN=ERVFC1-1 PE=1 SV=1	527	non-HK		not_mapped_to_ensg	sp	EFC2_HUMAN	Swiss-Prot reviewed
+Q8IZJ6	TDH_HUMAN	Inactive L-threonine 3-dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=TDH PE=2 SV=1	230	non-HK		not_mapped_to_ensg	sp	TDH_HUMAN	Swiss-Prot reviewed
+O15428	PINL_HUMAN	Putative PIN1-like protein OS=Homo sapiens OX=9606 GN=PIN1P1 PE=5 SV=1	100	non-HK		not_mapped_to_ensg	sp	PINL_HUMAN	Swiss-Prot reviewed
+P60008	HILS1_HUMAN	Putative histone H1.9 OS=Homo sapiens OX=9606 GN=H1-9P PE=5 SV=1	231	non-HK		not_mapped_to_ensg	sp	HILS1_HUMAN	Swiss-Prot reviewed
+Q2KHR3	QSER1_HUMAN	Glutamine and serine-rich protein 1 OS=Homo sapiens OX=9606 GN=QSER1 PE=1 SV=3	1735	non-HK		not_mapped_to_ensg	sp	QSER1_HUMAN	Swiss-Prot reviewed
+Q6U949	IG2AS_HUMAN	Putative insulin-like growth factor 2 antisense gene protein OS=Homo sapiens OX=9606 GN=IGF2-AS PE=1 SV=2	168	non-HK		not_mapped_to_ensg	sp	IG2AS_HUMAN	Swiss-Prot reviewed
+Q6ZN03	CU136_HUMAN	Putative uncharacterized protein encoded by LINC00322 OS=Homo sapiens OX=9606 GN=LINC00322 PE=5 SV=1	302	non-HK		not_mapped_to_ensg	sp	CU136_HUMAN	Swiss-Prot reviewed
+Q86SI9	CEI_HUMAN	Putative uncharacterized protein IRX2-DT OS=Homo sapiens OX=9606 GN=IRX2-DT PE=5 SV=1	138	non-HK		not_mapped_to_ensg	sp	CEI_HUMAN	Swiss-Prot reviewed
+Q9Y5M1	F215A_HUMAN	Uncharacterized protein FAM215A OS=Homo sapiens OX=9606 GN=FAM215A PE=5 SV=2	114	non-HK		not_mapped_to_ensg	sp	F215A_HUMAN	Swiss-Prot reviewed
+P01880	IGHD_HUMAN	Immunoglobulin heavy constant delta OS=Homo sapiens OX=9606 GN=IGHD PE=1 SV=4	430	non-HK		not_mapped_to_ensg	sp	IGHD_HUMAN	Swiss-Prot reviewed
+Q8IX95	CTGE3_HUMAN	Putative cTAGE family member 3 OS=Homo sapiens OX=9606 GN=CTAGE3P PE=5 SV=1	158	non-HK		not_mapped_to_ensg	sp	CTGE3_HUMAN	Swiss-Prot reviewed
+Q8NAP1	CAST3_HUMAN	Putative protein CASTOR3P OS=Homo sapiens OX=9606 GN=CASTOR3P PE=5 SV=1	163	non-HK		not_mapped_to_ensg	sp	CAST3_HUMAN	Swiss-Prot reviewed
+P0CW21	SPGOS_HUMAN	Putative uncharacterized protein SPART-AS1 OS=Homo sapiens OX=9606 GN=SPART-AS1 PE=5 SV=1	52	non-HK		not_mapped_to_ensg	sp	SPGOS_HUMAN	Swiss-Prot reviewed
+Q6UXP9	YO001_HUMAN	Putative uncharacterized protein UNQ9370/PRO34162 OS=Homo sapiens OX=9606 GN=UNQ9370/PRO34162 PE=5 SV=1	181	non-HK		not_mapped_to_ensg	sp	YO001_HUMAN	Swiss-Prot reviewed
+Q6ZUL3	CH086_HUMAN	Uncharacterized protein LINC03042 OS=Homo sapiens OX=9606 GN=LINC03042 PE=2 SV=1	223	non-HK		not_mapped_to_ensg	sp	CH086_HUMAN	Swiss-Prot reviewed
+Q8NGN7	O10D4_HUMAN	Putative olfactory receptor 10D4 OS=Homo sapiens OX=9606 GN=OR10D4P PE=5 SV=1	298	non-HK		not_mapped_to_ensg	sp	O10D4_HUMAN	Swiss-Prot reviewed
+Q93083	MT1L_HUMAN	Metallothionein-1L OS=Homo sapiens OX=9606 GN=MT1L PE=1 SV=1	61	non-HK		not_mapped_to_ensg	sp	MT1L_HUMAN	Swiss-Prot reviewed
+A6NGU7	CX028_HUMAN	Putative uncharacterized protein encoded by LINC01546 OS=Homo sapiens OX=9606 GN=LINC01546 PE=5 SV=1	62	non-HK		not_mapped_to_ensg	sp	CX028_HUMAN	Swiss-Prot reviewed
+Q9H2H0	CXXC4_HUMAN	CXXC-type zinc finger protein 4 OS=Homo sapiens OX=9606 GN=CXXC4 PE=1 SV=1	198	non-HK		not_mapped_to_ensg	sp	CXXC4_HUMAN	Swiss-Prot reviewed
+Q9UHF3	NAT8B_HUMAN	N-acetyltransferase 8B OS=Homo sapiens OX=9606 GN=NAT8B PE=1 SV=1	227	non-HK		not_mapped_to_ensg	sp	NAT8B_HUMAN	Swiss-Prot reviewed
+P0DPF6	CB27B_HUMAN	Putative uncharacterized protein CDRT15P3 OS=Homo sapiens OX=9606 GN=CDRT15P3 PE=5 SV=1	209	non-HK		not_mapped_to_ensg	sp	CB27B_HUMAN	Swiss-Prot reviewed
+Q96IT6	ARAS1_HUMAN	Putative uncharacterized protein ARHGAP5-AS1 OS=Homo sapiens OX=9606 GN=ARHGAP5-AS1 PE=5 SV=1	56	non-HK		not_mapped_to_ensg	sp	ARAS1_HUMAN	Swiss-Prot reviewed
+A6NEC2	PSAL_HUMAN	Puromycin-sensitive aminopeptidase-like protein OS=Homo sapiens OX=9606 GN=NPEPPSL1 PE=1 SV=3	478	non-HK		not_mapped_to_ensg	sp	PSAL_HUMAN	Swiss-Prot reviewed
+A8K554	ZN815_HUMAN	Putative protein ZNF815 OS=Homo sapiens OX=9606 GN=ZNF815P PE=5 SV=1	130	non-HK		not_mapped_to_ensg	sp	ZN815_HUMAN	Swiss-Prot reviewed
+B7Z8K6	TRDC_HUMAN	T cell receptor delta constant OS=Homo sapiens OX=9606 GN=TRDC PE=1 SV=2	153	non-HK		not_mapped_to_ensg	sp	TRDC_HUMAN	Swiss-Prot reviewed
+Q6UWF5	YF002_HUMAN	Putative uncharacterized protein UNQ5815/PRO19632 OS=Homo sapiens OX=9606 GN=UNQ5815/PRO19632 PE=4 SV=1	114	non-HK		not_mapped_to_ensg	sp	YF002_HUMAN	Swiss-Prot reviewed
+Q71F78	LCA10_HUMAN	Putative lung carcinoma-associated protein 10 OS=Homo sapiens OX=9606 GN=LCA10 PE=2 SV=1	164	non-HK		not_mapped_to_ensg	sp	LCA10_HUMAN	Swiss-Prot reviewed
+A2A3N6	PIPSL_HUMAN	Putative PIP5K1A and PSMD4-like protein OS=Homo sapiens OX=9606 GN=PIPSL PE=5 SV=1	862	non-HK		not_mapped_to_ensg	sp	PIPSL_HUMAN	Swiss-Prot reviewed
+P0CH98	F106C_HUMAN	Protein FAM106C OS=Homo sapiens OX=9606 GN=FAM106C PE=3 SV=1	169	non-HK		not_mapped_to_ensg	sp	F106C_HUMAN	Swiss-Prot reviewed
+C9JC47	F157A_HUMAN	Putative protein FAM157A OS=Homo sapiens OX=9606 GN=FAM157A PE=3 SV=1	383	non-HK		not_mapped_to_ensg	sp	F157A_HUMAN	Swiss-Prot reviewed
+P0DMU2	OR8G3_HUMAN	Olfactory receptor 8G3 OS=Homo sapiens OX=9606 GN=OR8G3 PE=3 SV=1	310	non-HK		not_mapped_to_ensg	sp	OR8G3_HUMAN	Swiss-Prot reviewed
+Q8NEE0	KLAS1_HUMAN	Putative uncharacterized protein KLHL30-AS1 OS=Homo sapiens OX=9606 GN=KLHL30-AS1 PE=5 SV=1	82	non-HK		not_mapped_to_ensg	sp	KLAS1_HUMAN	Swiss-Prot reviewed
+Q8NHW5	RLA0L_HUMAN	Putative ribosomal protein uL10-like OS=Homo sapiens OX=9606 GN=RPLP0P6 PE=5 SV=1	317	non-HK		not_mapped_to_ensg	sp	RLA0L_HUMAN	Swiss-Prot reviewed
+Q8TAI1	TYMOS_HUMAN	TYMS opposite strand protein OS=Homo sapiens OX=9606 GN=TYMSOS PE=5 SV=2	123	non-HK		not_mapped_to_ensg	sp	TYMOS_HUMAN	Swiss-Prot reviewed
+Q96MZ4	F218A_HUMAN	Protein FAM218A OS=Homo sapiens OX=9606 GN=FAM218A PE=1 SV=1	157	non-HK		not_mapped_to_ensg	sp	F218A_HUMAN	Swiss-Prot reviewed
+Q9NZH4	PTTG3_HUMAN	Putative pituitary tumor-transforming gene 3 protein OS=Homo sapiens OX=9606 GN=PTTG3P PE=5 SV=1	202	non-HK		not_mapped_to_ensg	sp	PTTG3_HUMAN	Swiss-Prot reviewed
+O60384	ZN861_HUMAN	Putative zinc finger protein 861 OS=Homo sapiens OX=9606 GN=ZNF861P PE=5 SV=1	105	non-HK		not_mapped_to_ensg	sp	ZN861_HUMAN	Swiss-Prot reviewed
+Q5XLA6	CAR17_HUMAN	Putative caspase recruitment domain-containing protein 17P OS=Homo sapiens OX=9606 GN=CARD17P PE=5 SV=1	110	non-HK		not_mapped_to_ensg	sp	CAR17_HUMAN	Swiss-Prot reviewed
+Q6ZST2	COLDT_HUMAN	Putative uncharacterized protein COL25A1-DT OS=Homo sapiens OX=9606 GN=COL25A1-DT PE=5 SV=1	131	non-HK		not_mapped_to_ensg	sp	COLDT_HUMAN	Swiss-Prot reviewed
+Q8IVJ8	APRG1_HUMAN	APRG1 tumor suppressor candidate OS=Homo sapiens OX=9606 GN=APRG1 PE=2 SV=2	170	non-HK		not_mapped_to_ensg	sp	APRG1_HUMAN	Swiss-Prot reviewed
+Q8WZA8	GC224_HUMAN	Putative gastric cancer-related gene 224 protein OS=Homo sapiens OX=9606 GN=GCRG224 PE=5 SV=1	35	non-HK		not_mapped_to_ensg	sp	GC224_HUMAN	Swiss-Prot reviewed
+Q8WZB0	CI130_HUMAN	Putative uncharacterized protein ERCC6L2-AS1 OS=Homo sapiens OX=9606 GN=ERCC6L2-AS1 PE=5 SV=1	136	non-HK		not_mapped_to_ensg	sp	CI130_HUMAN	Swiss-Prot reviewed
+Q96NS8	CLUP3_HUMAN	Putative protein CLUHP3 OS=Homo sapiens OX=9606 GN=CLUHP3 PE=5 SV=1	147	non-HK		not_mapped_to_ensg	sp	CLUP3_HUMAN	Swiss-Prot reviewed
+P0C7V0	CF217_HUMAN	Putative uncharacterized protein encoded by LINC00271 OS=Homo sapiens OX=9606 GN=AHI1-DT PE=5 SV=1	271	non-HK		not_mapped_to_ensg	sp	CF217_HUMAN	Swiss-Prot reviewed
+Q4G0G2	H1AS1_HUMAN	Putative uncharacterized protein H1-10-AS1 OS=Homo sapiens OX=9606 GN=H1-10-AS1 PE=5 SV=1	97	non-HK		not_mapped_to_ensg	sp	H1AS1_HUMAN	Swiss-Prot reviewed
+A6NNA2	SRRM3_HUMAN	Serine/arginine repetitive matrix protein 3 OS=Homo sapiens OX=9606 GN=SRRM3 PE=1 SV=4	597	non-HK		not_mapped_to_ensg	sp	SRRM3_HUMAN	Swiss-Prot reviewed
+Q5YKI7	GGNB1_HUMAN	Putative gametogenetin-binding protein 1 OS=Homo sapiens OX=9606 GN=GGNBP1 PE=5 SV=1	109	non-HK		not_mapped_to_ensg	sp	GGNB1_HUMAN	Swiss-Prot reviewed
+Q9BYX7	ACTBM_HUMAN	Putative beta-actin-like protein 3 OS=Homo sapiens OX=9606 GN=POTEKP PE=5 SV=1	375	non-HK		not_mapped_to_ensg	sp	ACTBM_HUMAN	Swiss-Prot reviewed
+C0HMD7	INS4G_HUMAN	Protein InSETG-4 OS=Homo sapiens OX=9606 GN=InSet4-G PE=1 SV=1	151	non-HK		not_mapped_to_ensg	sp	INS4G_HUMAN	Swiss-Prot reviewed
+P0CG22	DR4L1_HUMAN	Putative dehydrogenase/reductase SDR family member 4-like 1 OS=Homo sapiens OX=9606 GN=DHRS4L1 PE=5 SV=1	281	non-HK		not_mapped_to_ensg	sp	DR4L1_HUMAN	Swiss-Prot reviewed
+Q30KQ1	DB133_HUMAN	Beta-defensin 133 OS=Homo sapiens OX=9606 GN=DEFB133 PE=3 SV=1	61	non-HK		not_mapped_to_ensg	sp	DB133_HUMAN	Swiss-Prot reviewed
+Q719I0	AHSA2_HUMAN	Putative activator of 90 kDa heat shock protein ATPase homolog 2 OS=Homo sapiens OX=9606 GN=AHSA2P PE=5 SV=2	299	non-HK		not_mapped_to_ensg	sp	AHSA2_HUMAN	Swiss-Prot reviewed
+Q75MW2	ZN767_HUMAN	Protein ZNF767 OS=Homo sapiens OX=9606 GN=ZNF767P PE=5 SV=1	155	non-HK		not_mapped_to_ensg	sp	ZN767_HUMAN	Swiss-Prot reviewed
+Q8N9T2	CX042_HUMAN	Putative uncharacterized protein CXorf42 OS=Homo sapiens OX=9606 GN=NKAPP1 PE=5 SV=3	125	non-HK		not_mapped_to_ensg	sp	CX042_HUMAN	Swiss-Prot reviewed
+Q96G42	KLD7B_HUMAN	Kelch domain-containing protein 7B OS=Homo sapiens OX=9606 GN=KLHDC7B PE=1 SV=2	594	non-HK		not_mapped_to_ensg	sp	KLD7B_HUMAN	Swiss-Prot reviewed
+Q9P1G2	RBAS1_HUMAN	Putative uncharacterized protein encoded by RBM12B-AS1 OS=Homo sapiens OX=9606 GN=RBM12B-AS1 PE=5 SV=2	102	non-HK		not_mapped_to_ensg	sp	RBAS1_HUMAN	Swiss-Prot reviewed
+P0DP75	M14OS_HUMAN	Putative uncharacterized protein MED14OS OS=Homo sapiens OX=9606 GN=MED14OS PE=5 SV=1	135	non-HK		not_mapped_to_ensg	sp	M14OS_HUMAN	Swiss-Prot reviewed
+Q5NE16	CATL3_HUMAN	Putative inactive cathepsin L-like protein CTSL3P OS=Homo sapiens OX=9606 GN=CTSL3P PE=5 SV=1	218	non-HK		not_mapped_to_ensg	sp	CATL3_HUMAN	Swiss-Prot reviewed
+Q8N2A0	CX062_HUMAN	Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens OX=9606 GN=LINC00269 PE=5 SV=1	174	non-HK		not_mapped_to_ensg	sp	CX062_HUMAN	Swiss-Prot reviewed
+Q96FA7	ZB10P_HUMAN	Putative protein ZBED10P OS=Homo sapiens OX=9606 GN=ZBED10P PE=5 SV=1	236	non-HK		not_mapped_to_ensg	sp	ZB10P_HUMAN	Swiss-Prot reviewed
+Q9P2X7	DEC1_HUMAN	Deleted in esophageal cancer 1 OS=Homo sapiens OX=9606 GN=DELEC1 PE=2 SV=1	70	non-HK		not_mapped_to_ensg	sp	DEC1_HUMAN	Swiss-Prot reviewed
+Q17RA5	CMAS1_HUMAN	Putative uncharacterized protein EPCIP-AS1 OS=Homo sapiens OX=9606 GN=EPCIP-AS1 PE=5 SV=1	79	non-HK		not_mapped_to_ensg	sp	CMAS1_HUMAN	Swiss-Prot reviewed
+A0A376A8Z9	A0A376A8Z9_HUMAN	KIR2DS5 protein OS=Homo sapiens OX=9606 GN=KIR2DS5 PE=2 SV=1	235	non-HK		not_mapped_to_ensg	tr	A0A376A8Z9_HUMAN	TrEMBL unreviewed
+O95397	PKHA9_HUMAN	Putative protein PLEKHA9 OS=Homo sapiens OX=9606 GN=PLEKHA8P1 PE=5 SV=1	391	non-HK		not_mapped_to_ensg	sp	PKHA9_HUMAN	Swiss-Prot reviewed
+P03986	TRGC2_HUMAN	T cell receptor gamma constant 2 OS=Homo sapiens OX=9606 GN=TRGC2 PE=1 SV=2	189	non-HK		not_mapped_to_ensg	sp	TRGC2_HUMAN	Swiss-Prot reviewed
+P58550	FXYD8_HUMAN	Putative FXYD domain-containing ion transport regulator 8 OS=Homo sapiens OX=9606 GN=FXYD6P3 PE=5 SV=2	94	non-HK		not_mapped_to_ensg	sp	FXYD8_HUMAN	Swiss-Prot reviewed
+P61565	ENK21_HUMAN	Endogenous retrovirus group K member 21 Env polyprotein OS=Homo sapiens OX=9606 GN=ERVK-21 PE=1 SV=1	698	non-HK		not_mapped_to_ensg	sp	ENK21_HUMAN	Swiss-Prot reviewed
+Q5T5F5	A4AS1_HUMAN	Uncharacterized protein ADAMTSL4-AS1 OS=Homo sapiens OX=9606 GN=ADAMTSL4-AS1 PE=2 SV=1	129	non-HK		not_mapped_to_ensg	sp	A4AS1_HUMAN	Swiss-Prot reviewed
+Q9H7T3	CJ095_HUMAN	Uncharacterized protein C10orf95 OS=Homo sapiens OX=9606 GN=C10orf95 PE=1 SV=1	257	non-HK		not_mapped_to_ensg	sp	CJ095_HUMAN	Swiss-Prot reviewed
+Q9NVL1	F86C1_HUMAN	Putative protein FAM86C1P OS=Homo sapiens OX=9606 GN=FAM86C1P PE=5 SV=3	165	non-HK		not_mapped_to_ensg	sp	F86C1_HUMAN	Swiss-Prot reviewed
+B4DSL7	B4DSL7_HUMAN	HCG2040263, isoform CRA_b OS=Homo sapiens OX=9606 GN=hCG_2040263 PE=2 SV=1	198	non-HK		not_mapped_to_ensg	tr	B4DSL7_HUMAN	TrEMBL unreviewed
+P0DTE0	T2R36_HUMAN	Putative taste receptor type 2 member 36 OS=Homo sapiens OX=9606 GN=TAS2R36 PE=5 SV=1	309	non-HK		not_mapped_to_ensg	sp	T2R36_HUMAN	Swiss-Prot reviewed
+Q86SQ3	AGRE4_HUMAN	Putative adhesion G protein-coupled receptor E4P OS=Homo sapiens OX=9606 GN=ADGRE4P PE=5 SV=1	457	non-HK		not_mapped_to_ensg	sp	AGRE4_HUMAN	Swiss-Prot reviewed
+Q96CB5	CH044_HUMAN	Putative uncharacterized protein C8orf44 OS=Homo sapiens OX=9606 GN=C8orf44 PE=2 SV=2	159	non-HK		not_mapped_to_ensg	sp	CH044_HUMAN	Swiss-Prot reviewed
+Q96KJ4	MSLNL_HUMAN	Mesothelin-like protein OS=Homo sapiens OX=9606 GN=MSLNL PE=3 SV=3	702	non-HK		not_mapped_to_ensg	sp	MSLNL_HUMAN	Swiss-Prot reviewed
+Q9NZ38	IDAS1_HUMAN	Uncharacterized protein IDI2-AS1 OS=Homo sapiens OX=9606 GN=IDI2-AS1 PE=2 SV=1	188	non-HK		not_mapped_to_ensg	sp	IDAS1_HUMAN	Swiss-Prot reviewed
+A8MUU1	FB5L3_HUMAN	Putative fatty acid-binding protein 5-like protein 3 OS=Homo sapiens OX=9606 GN=FABP5P3 PE=5 SV=1	101	non-HK		not_mapped_to_ensg	sp	FB5L3_HUMAN	Swiss-Prot reviewed
+Q6ZSK4	NTAS1_HUMAN	Putative uncharacterized protein NTM-AS1 OS=Homo sapiens OX=9606 GN=NTM-AS1 PE=5 SV=1	140	non-HK		not_mapped_to_ensg	sp	NTAS1_HUMAN	Swiss-Prot reviewed
+Q6ZTY9	CG065_HUMAN	Putative uncharacterized protein LINC02902 OS=Homo sapiens OX=9606 GN=LINC02902 PE=5 SV=1	151	non-HK		not_mapped_to_ensg	sp	CG065_HUMAN	Swiss-Prot reviewed
+A6NDN8	UBIML_HUMAN	Putative ubiquitin-like protein FUBI-like protein ENSP00000310146 OS=Homo sapiens OX=9606 PE=4 SV=2	102	non-HK		not_mapped_to_ensg	sp	UBIML_HUMAN	Swiss-Prot reviewed
+A6NK97	S22AK_HUMAN	Solute carrier family 22 member 20 OS=Homo sapiens OX=9606 GN=SLC22A20P PE=2 SV=1	555	non-HK		not_mapped_to_ensg	sp	S22AK_HUMAN	Swiss-Prot reviewed
+A8MQ11	PM2P5_HUMAN	Postmeiotic segregation increased 2-like protein 5 OS=Homo sapiens OX=9606 GN=PMS2P5 PE=5 SV=2	134	non-HK		not_mapped_to_ensg	sp	PM2P5_HUMAN	Swiss-Prot reviewed
+A8MTW9	YB043_HUMAN	Putative uncharacterized protein ENSP00000380674 OS=Homo sapiens OX=9606 PE=5 SV=2	85	non-HK		not_mapped_to_ensg	sp	YB043_HUMAN	Swiss-Prot reviewed
+A8MWK0	FS2P1_HUMAN	Putative fatty acid desaturase 2-like protein FADS2B OS=Homo sapiens OX=9606 GN=FADS2B PE=5 SV=2	482	non-HK		not_mapped_to_ensg	sp	FS2P1_HUMAN	Swiss-Prot reviewed
+A8MX80	YM017_HUMAN	Putative UPF0607 protein ENSP00000383144 OS=Homo sapiens OX=9606 PE=3 SV=2	341	non-HK		not_mapped_to_ensg	sp	YM017_HUMAN	Swiss-Prot reviewed
+A8MZ25	YQ037_HUMAN	Putative uncharacterized protein FLJ38767 OS=Homo sapiens OX=9606 PE=5 SV=1	164	non-HK		not_mapped_to_ensg	sp	YQ037_HUMAN	Swiss-Prot reviewed
+B7Z368	CJ142_HUMAN	Uncharacterized protein encoded by LINC02881 OS=Homo sapiens OX=9606 GN=LINC02881 PE=5 SV=1	130	non-HK		not_mapped_to_ensg	sp	CJ142_HUMAN	Swiss-Prot reviewed
+Q5PR19	YI024_HUMAN	Putative UPF0607 protein LOC392364 OS=Homo sapiens OX=9606 PE=2 SV=3	223	non-HK		not_mapped_to_ensg	sp	YI024_HUMAN	Swiss-Prot reviewed
+Q5VSD8	YI029_HUMAN	Putative uncharacterized protein LOC401522 OS=Homo sapiens OX=9606 PE=4 SV=2	79	non-HK		not_mapped_to_ensg	sp	YI029_HUMAN	Swiss-Prot reviewed
+Q6UXQ8	YO002_HUMAN	Putative uncharacterized protein UNQ6190/PRO20217 OS=Homo sapiens OX=9606 GN=UNQ6190/PRO20217 PE=5 SV=1	127	non-HK		not_mapped_to_ensg	sp	YO002_HUMAN	Swiss-Prot reviewed
+Q6ZQT7	YJ013_HUMAN	Putative uncharacterized protein FLJ44672 OS=Homo sapiens OX=9606 PE=2 SV=1	251	non-HK		not_mapped_to_ensg	sp	YJ013_HUMAN	Swiss-Prot reviewed
+Q6ZRM9	YG024_HUMAN	Putative uncharacterized protein FLJ46235 OS=Homo sapiens OX=9606 PE=2 SV=1	215	non-HK		not_mapped_to_ensg	sp	YG024_HUMAN	Swiss-Prot reviewed
+Q6ZS52	YF013_HUMAN	Putative uncharacterized protein FLJ45825 OS=Homo sapiens OX=9606 PE=5 SV=1	159	non-HK		not_mapped_to_ensg	sp	YF013_HUMAN	Swiss-Prot reviewed
+Q6ZSV7	YF010_HUMAN	Putative uncharacterized protein FLJ45177 OS=Homo sapiens OX=9606 PE=2 SV=1	163	non-HK		not_mapped_to_ensg	sp	YF010_HUMAN	Swiss-Prot reviewed
+Q6ZTC4	YT009_HUMAN	Putative uncharacterized protein FLJ44790 OS=Homo sapiens OX=9606 PE=2 SV=1	211	non-HK		not_mapped_to_ensg	sp	YT009_HUMAN	Swiss-Prot reviewed
+Q6ZWC4	YS043_HUMAN	Putative uncharacterized protein LOC100128429 OS=Homo sapiens OX=9606 PE=5 SV=1	215	non-HK		not_mapped_to_ensg	sp	YS043_HUMAN	Swiss-Prot reviewed
+Q8IZM0	CNG1O_HUMAN	Putative CNGA1-overlapping antisense gene protein OS=Homo sapiens OX=9606 PE=5 SV=1	81	non-HK		not_mapped_to_ensg	sp	CNG1O_HUMAN	Swiss-Prot reviewed
+Q8N0V1	ZNAS1_HUMAN	Putative uncharacterized protein ZNF295-AS1 OS=Homo sapiens OX=9606 GN=ZNF295-AS1 PE=5 SV=2	137	non-HK		not_mapped_to_ensg	sp	ZNAS1_HUMAN	Swiss-Prot reviewed
+Q8N7P7	YH007_HUMAN	Uncharacterized protein FLJ40521 OS=Homo sapiens OX=9606 PE=1 SV=1	452	non-HK		not_mapped_to_ensg	sp	YH007_HUMAN	Swiss-Prot reviewed
+Q8N8P6	YX004_HUMAN	Putative uncharacterized protein FLJ39060 OS=Homo sapiens OX=9606 PE=2 SV=1	123	non-HK		not_mapped_to_ensg	sp	YX004_HUMAN	Swiss-Prot reviewed
+Q8N9W7	YO010_HUMAN	Putative transmembrane protein FLJ36131 OS=Homo sapiens OX=9606 PE=5 SV=1	124	non-HK		not_mapped_to_ensg	sp	YO010_HUMAN	Swiss-Prot reviewed
+Q8NAQ8	YP023_HUMAN	Putative uncharacterized protein FLJ34945 OS=Homo sapiens OX=9606 PE=2 SV=1	132	non-HK		not_mapped_to_ensg	sp	YP023_HUMAN	Swiss-Prot reviewed
+Q9HB66	Q9HB66_HUMAN	Alternative protein MKKS OS=Homo sapiens OX=9606 GN=MKKS PE=1 SV=1	63	non-HK		not_mapped_to_ensg	tr	Q9HB66_HUMAN	TrEMBL unreviewed
+B1ANY3	F220P_HUMAN	Putative protein FAM220BP OS=Homo sapiens OX=9606 GN=FAM220BP PE=5 SV=1	271	non-HK		not_mapped_to_ensg	sp	F220P_HUMAN	Swiss-Prot reviewed
+P0CG31	Z286B_HUMAN	Putative zinc finger protein 286B OS=Homo sapiens OX=9606 GN=ZNF286B PE=5 SV=1	522	non-HK		not_mapped_to_ensg	sp	Z286B_HUMAN	Swiss-Prot reviewed
+P10266	POK10_HUMAN	Endogenous retrovirus group K member 10 Pol protein OS=Homo sapiens OX=9606 GN=ERVK-10 PE=3 SV=2	1014	non-HK		not_mapped_to_ensg	sp	POK10_HUMAN	Swiss-Prot reviewed
+Q08E93	F27E3_HUMAN	Protein FAM27E3 OS=Homo sapiens OX=9606 GN=FAM27E3 PE=1 SV=1	113	non-HK		not_mapped_to_ensg	sp	F27E3_HUMAN	Swiss-Prot reviewed
+Q52M75	CE027_HUMAN	Putative uncharacterized protein encoded by LINC01554 OS=Homo sapiens OX=9606 GN=LINC01554 PE=4 SV=2	96	non-HK		not_mapped_to_ensg	sp	CE027_HUMAN	Swiss-Prot reviewed
+Q8N9X5	TMM75_HUMAN	Putative protein encoded by LINC02912 OS=Homo sapiens OX=9606 GN=LINC02912 PE=5 SV=1	138	non-HK		not_mapped_to_ensg	sp	TMM75_HUMAN	Swiss-Prot reviewed
+Q9UI25	YP002_HUMAN	Putative uncharacterized protein PRO0461 OS=Homo sapiens OX=9606 GN=PRO0461 PE=5 SV=1	63	non-HK		not_mapped_to_ensg	sp	YP002_HUMAN	Swiss-Prot reviewed
+Q8N888	BCOR2_HUMAN	Putative BCoR-like protein 2 OS=Homo sapiens OX=9606 GN=BCORP1 PE=5 SV=1	145	non-HK		not_mapped_to_ensg	sp	BCOR2_HUMAN	Swiss-Prot reviewed
+Q8NH06	OR1P1_HUMAN	Olfactory receptor 1P1 OS=Homo sapiens OX=9606 GN=OR1P1 PE=3 SV=3	330	non-HK		not_mapped_to_ensg	sp	OR1P1_HUMAN	Swiss-Prot reviewed
+P04280	PRP1_HUMAN	Basic salivary proline-rich protein 1 OS=Homo sapiens OX=9606 GN=PRB1 PE=1 SV=3	392	non-HK		not_mapped_to_ensg	sp	PRP1_HUMAN	Swiss-Prot reviewed
+Q14568	HS902_HUMAN	Heat shock protein HSP 90-alpha A2 OS=Homo sapiens OX=9606 GN=HSP90AA2P PE=1 SV=2	343	non-HK		not_mapped_to_ensg	sp	HS902_HUMAN	Swiss-Prot reviewed
+Q58FF7	H90B3_HUMAN	Putative heat shock protein HSP 90-beta-3 OS=Homo sapiens OX=9606 GN=HSP90AB3P PE=5 SV=1	597	non-HK		not_mapped_to_ensg	sp	H90B3_HUMAN	Swiss-Prot reviewed
+Q6ZVL6	K154L_HUMAN	UPF0606 protein KIAA1549L OS=Homo sapiens OX=9606 GN=KIAA1549L PE=1 SV=2	1849	non-HK		not_mapped_to_ensg	sp	K154L_HUMAN	Swiss-Prot reviewed
+Q8N8E1	MAAS1_HUMAN	Putative uncharacterized protein encoded by MAPKAPK5-AS1 OS=Homo sapiens OX=9606 GN=MAPKAPK5-AS1 PE=5 SV=1	139	non-HK		not_mapped_to_ensg	sp	MAAS1_HUMAN	Swiss-Prot reviewed
+Q9NRJ1	MOST1_HUMAN	Protein MOST-1 OS=Homo sapiens OX=9606 GN=C8orf17 PE=1 SV=1	99	non-HK		not_mapped_to_ensg	sp	MOST1_HUMAN	Swiss-Prot reviewed
+A8MZH6	OOSP1_HUMAN	Putative oocyte-secreted protein 1 homolog OS=Homo sapiens OX=9606 GN=OOSP1 PE=5 SV=1	123	non-HK		not_mapped_to_ensg	sp	OOSP1_HUMAN	Swiss-Prot reviewed
+P26927	HGFL_HUMAN	Hepatocyte growth factor-like protein OS=Homo sapiens OX=9606 GN=MST1 PE=1 SV=2	711	non-HK		not_mapped_to_ensg	sp	HGFL_HUMAN	Swiss-Prot reviewed
+Q8N7Q2	CEAS1_HUMAN	Putative uncharacterized protein CELF2-AS1 OS=Homo sapiens OX=9606 GN=CELF2-AS1 PE=5 SV=2	184	non-HK		not_mapped_to_ensg	sp	CEAS1_HUMAN	Swiss-Prot reviewed
+Q8NGS6	O13C3_HUMAN	Olfactory receptor 13C3 OS=Homo sapiens OX=9606 GN=OR13C3 PE=2 SV=2	347	non-HK		not_mapped_to_ensg	sp	O13C3_HUMAN	Swiss-Prot reviewed
+Q9NQA3	WASH6_HUMAN	WAS protein family homolog 6 OS=Homo sapiens OX=9606 GN=WASH6P PE=1 SV=3	447	non-HK		not_mapped_to_ensg	sp	WASH6_HUMAN	Swiss-Prot reviewed
+Q13401	PM2P3_HUMAN	Putative postmeiotic segregation increased 2-like protein 3 OS=Homo sapiens OX=9606 GN=PMS2P3 PE=5 SV=2	168	non-HK		not_mapped_to_ensg	sp	PM2P3_HUMAN	Swiss-Prot reviewed
+Q1AE95	T183B_HUMAN	Putative transmembrane protein 183BP OS=Homo sapiens OX=9606 GN=TMEM183BP PE=5 SV=1	376	non-HK		not_mapped_to_ensg	sp	T183B_HUMAN	Swiss-Prot reviewed
+P01893	HLAH_HUMAN	Putative HLA class I histocompatibility antigen, alpha chain H OS=Homo sapiens OX=9606 GN=HLA-H PE=5 SV=3	362	non-HK		not_mapped_to_ensg	sp	HLAH_HUMAN	Swiss-Prot reviewed
+P09565	IG2R_HUMAN	Putative insulin-like growth factor 2-associated protein OS=Homo sapiens OX=9606 GN=GIG44 PE=1 SV=2	113	non-HK		not_mapped_to_ensg	sp	IG2R_HUMAN	Swiss-Prot reviewed
+Q494R0	FBAS1_HUMAN	Putative uncharacterized protein FBXL19-AS1 OS=Homo sapiens OX=9606 GN=FBXL19-AS1 PE=5 SV=1	122	non-HK		not_mapped_to_ensg	sp	FBAS1_HUMAN	Swiss-Prot reviewed
+Q58FF6	H90B4_HUMAN	Putative heat shock protein HSP 90-beta 4 OS=Homo sapiens OX=9606 GN=HSP90AB4P PE=5 SV=1	505	non-HK		not_mapped_to_ensg	sp	H90B4_HUMAN	Swiss-Prot reviewed
+Q5T0J3	CA220_HUMAN	Putative uncharacterized protein C1orf220 OS=Homo sapiens OX=9606 GN=C1orf220 PE=2 SV=1	134	non-HK		not_mapped_to_ensg	sp	CA220_HUMAN	Swiss-Prot reviewed
+Q5SY85	F201A_HUMAN	Protein FAM201A OS=Homo sapiens OX=9606 GN=FAM201A PE=4 SV=1	155	non-HK		not_mapped_to_ensg	sp	F201A_HUMAN	Swiss-Prot reviewed
+Q8NCN2	ZBT34_HUMAN	Zinc finger and BTB domain-containing protein 34 OS=Homo sapiens OX=9606 GN=ZBTB34 PE=1 SV=4	500	non-HK		not_mapped_to_ensg	sp	ZBT34_HUMAN	Swiss-Prot reviewed
+Q4UJ75	A20A4_HUMAN	Putative ankyrin repeat domain-containing protein 20A4 OS=Homo sapiens OX=9606 GN=ANKRD20A4P PE=5 SV=1	823	non-HK		not_mapped_to_ensg	sp	A20A4_HUMAN	Swiss-Prot reviewed
+Q5EBM4	ZN542_HUMAN	Putative zinc finger protein 542 OS=Homo sapiens OX=9606 GN=ZNF542P PE=5 SV=2	170	non-HK		not_mapped_to_ensg	sp	ZN542_HUMAN	Swiss-Prot reviewed
+A6NKX1	F223B_HUMAN	Protein FAM223B OS=Homo sapiens OX=9606 GN=FAM223B PE=3 SV=1	122	non-HK		not_mapped_to_ensg	sp	F223B_HUMAN	Swiss-Prot reviewed
+Q5U4N7	GDAS1_HUMAN	Protein GDF5-AS1, mitochondrial OS=Homo sapiens OX=9606 GN=GDF5-AS1 PE=5 SV=2	250	non-HK		not_mapped_to_ensg	sp	GDAS1_HUMAN	Swiss-Prot reviewed
+Q6P2S7	TTC41_HUMAN	Putative tetratricopeptide repeat protein 41 OS=Homo sapiens OX=9606 GN=TTC41P PE=5 SV=3	1318	non-HK		not_mapped_to_ensg	sp	TTC41_HUMAN	Swiss-Prot reviewed
+Q8N8J0	PI4P1_HUMAN	Putative inactive phosphatidylinositol 4-kinase alpha-like protein P1 OS=Homo sapiens OX=9606 GN=PI4KAP1 PE=5 SV=1	262	non-HK		not_mapped_to_ensg	sp	PI4P1_HUMAN	Swiss-Prot reviewed
+Q96PS6	GAFA1_HUMAN	Putative uncharacterized protein GAFA-1 OS=Homo sapiens OX=9606 GN=GAFA1 PE=4 SV=1	74	non-HK		not_mapped_to_ensg	sp	GAFA1_HUMAN	Swiss-Prot reviewed
+Q9UBP8	KAAG1_HUMAN	Kidney-associated antigen 1 OS=Homo sapiens OX=9606 GN=KAAG1 PE=2 SV=1	84	non-HK		not_mapped_to_ensg	sp	KAAG1_HUMAN	Swiss-Prot reviewed
+Q9Y6C7	L3R2A_HUMAN	Putative uncharacterized protein encoded by LINC00312 OS=Homo sapiens OX=9606 GN=LINC00312 PE=5 SV=1	94	non-HK		not_mapped_to_ensg	sp	L3R2A_HUMAN	Swiss-Prot reviewed
+A6NDL7	MT21E_HUMAN	Methyltransferase-like protein 21E OS=Homo sapiens OX=9606 GN=METTL21EP PE=3 SV=3	214	non-HK		not_mapped_to_ensg	sp	MT21E_HUMAN	Swiss-Prot reviewed
+A6NEY8	PRXD1_HUMAN	Putative prolyl-tRNA synthetase associated domain-containing protein 1 OS=Homo sapiens OX=9606 GN=PRORSD1P PE=5 SV=3	169	non-HK		not_mapped_to_ensg	sp	PRXD1_HUMAN	Swiss-Prot reviewed
+A6NN73	GOG8C_HUMAN	Golgin subfamily A member 8C OS=Homo sapiens OX=9606 GN=GOLGA8CP PE=3 SV=2	597	non-HK		not_mapped_to_ensg	sp	GOG8C_HUMAN	Swiss-Prot reviewed
+Q5W188	CST9P_HUMAN	Putative cystatin-9-like protein CST9LP1 OS=Homo sapiens OX=9606 GN=CST9LP1 PE=5 SV=1	147	non-HK		not_mapped_to_ensg	sp	CST9P_HUMAN	Swiss-Prot reviewed
+O95177	GAAS1_HUMAN	Uncharacterized protein GAS8-AS1 OS=Homo sapiens OX=9606 GN=GAS8-AS1 PE=5 SV=1	125	non-HK		not_mapped_to_ensg	sp	GAAS1_HUMAN	Swiss-Prot reviewed
+Q6PK57	DMP34_HUMAN	Putative GED domain-containing protein DNM1P34 OS=Homo sapiens OX=9606 GN=DNM1P34 PE=5 SV=1	102	non-HK		not_mapped_to_ensg	sp	DMP34_HUMAN	Swiss-Prot reviewed
+Q8TAF5	LQK1_HUMAN	Putative uncharacterized protein LQK1 OS=Homo sapiens OX=9606 GN=FLVCR1-DT PE=5 SV=1	88	non-HK		not_mapped_to_ensg	sp	LQK1_HUMAN	Swiss-Prot reviewed
+Q9H0H9	C4F30_HUMAN	Putative cytochrome P450 family member 4F30 OS=Homo sapiens OX=9606 GN=CYP4F30P PE=5 SV=1	118	non-HK		not_mapped_to_ensg	sp	C4F30_HUMAN	Swiss-Prot reviewed
+Q9H579	MROH8_HUMAN	Protein MROH8 OS=Homo sapiens OX=9606 GN=MROH8 PE=1 SV=2	483	non-HK		not_mapped_to_ensg	sp	MROH8_HUMAN	Swiss-Prot reviewed
+A0ZSE6	CC50C_HUMAN	Cell cycle control protein 50C OS=Homo sapiens OX=9606 GN=TMEM30CP PE=2 SV=2	113	non-HK		not_mapped_to_ensg	sp	CC50C_HUMAN	Swiss-Prot reviewed
+P0DPA3	SNH28_HUMAN	Putative uncharacterized protein SNHG28 OS=Homo sapiens OX=9606 GN=SNHG28 PE=5 SV=1	235	non-HK		not_mapped_to_ensg	sp	SNH28_HUMAN	Swiss-Prot reviewed
+Q5VTE0	EF1A3_HUMAN	Putative elongation factor 1-alpha-like 3 OS=Homo sapiens OX=9606 GN=EEF1A1P5 PE=5 SV=1	462	non-HK		not_mapped_to_ensg	sp	EF1A3_HUMAN	Swiss-Prot reviewed
+Q6ZRF7	ZN818_HUMAN	Putative zinc finger protein 818 OS=Homo sapiens OX=9606 GN=ZNF818P PE=5 SV=1	136	non-HK		not_mapped_to_ensg	sp	ZN818_HUMAN	Swiss-Prot reviewed
+P16442	BGAT_HUMAN	Histo-blood group ABO system transferase OS=Homo sapiens OX=9606 GN=ABO PE=1 SV=2	354	non-HK		not_mapped_to_ensg	sp	BGAT_HUMAN	Swiss-Prot reviewed
+Q58FF3	ENPLL_HUMAN	Putative endoplasmin-like protein OS=Homo sapiens OX=9606 GN=HSP90B2P PE=5 SV=1	399	non-HK		not_mapped_to_ensg	sp	ENPLL_HUMAN	Swiss-Prot reviewed
+Q8NAE3	CA180_HUMAN	Putative uncharacterized protein encoded by LINC01555 OS=Homo sapiens OX=9606 GN=LINC01555 PE=2 SV=1	123	non-HK		not_mapped_to_ensg	sp	CA180_HUMAN	Swiss-Prot reviewed
+Q8NGN8	OR4A4_HUMAN	Putative olfactory receptor 4A4 OS=Homo sapiens OX=9606 GN=OR4A4P PE=5 SV=1	299	non-HK		not_mapped_to_ensg	sp	OR4A4_HUMAN	Swiss-Prot reviewed
+A6NH13	DAS1_HUMAN	Putative uncharacterized protein DNAJC9-AS1 OS=Homo sapiens OX=9606 GN=DNAJC9-AS1 PE=2 SV=2	148	non-HK		not_mapped_to_ensg	sp	DAS1_HUMAN	Swiss-Prot reviewed
+Q8NBZ9	NEAS1_HUMAN	Putative uncharacterized protein NEXN-AS1 OS=Homo sapiens OX=9606 GN=NEXN-AS1 PE=5 SV=1	246	non-HK		not_mapped_to_ensg	sp	NEAS1_HUMAN	Swiss-Prot reviewed
+A2NJV5	KV229_HUMAN	Immunoglobulin kappa variable 2-29 OS=Homo sapiens OX=9606 GN=IGKV2-29 PE=1 SV=2	120	non-HK		not_mapped_to_ensg	sp	KV229_HUMAN	Swiss-Prot reviewed
+A8MV57	MPTX_HUMAN	Putative mucosal pentraxin homolog OS=Homo sapiens OX=9606 GN=MPTX1 PE=5 SV=2	137	non-HK		not_mapped_to_ensg	sp	MPTX_HUMAN	Swiss-Prot reviewed
+P0C7X3	CCYL3_HUMAN	Putative cyclin-Y-like protein 3 OS=Homo sapiens OX=9606 GN=CCNYL3 PE=3 SV=1	344	non-HK		not_mapped_to_ensg	sp	CCYL3_HUMAN	Swiss-Prot reviewed
+Q5T3Y7	BVAS1_HUMAN	Putative uncharacterized protein POPDC1-AS1 OS=Homo sapiens OX=9606 GN=POPDC1-AS1 PE=5 SV=1	98	non-HK		not_mapped_to_ensg	sp	BVAS1_HUMAN	Swiss-Prot reviewed
+A6NKH3	RL37L_HUMAN	Putative ribosomal protein eL43-like OS=Homo sapiens OX=9606 GN=RPL37AP8 PE=5 SV=2	93	non-HK		not_mapped_to_ensg	sp	RL37L_HUMAN	Swiss-Prot reviewed
+O15544	GR6_HUMAN	Protein GR6 OS=Homo sapiens OX=9606 GN=LINC01565 PE=2 SV=1	149	non-HK		not_mapped_to_ensg	sp	GR6_HUMAN	Swiss-Prot reviewed
+P0DSO2	SCGR9_HUMAN	Small cysteine and glycine repeat-containing protein 9 OS=Homo sapiens OX=9606 GN=SCYGR9 PE=1 SV=1	92	non-HK		not_mapped_to_ensg	sp	SCGR9_HUMAN	Swiss-Prot reviewed
+P86434	AAS1_HUMAN	Putative uncharacterized protein ADORA2A-AS1 OS=Homo sapiens OX=9606 GN=ADORA2A-AS1 PE=5 SV=1	159	non-HK		not_mapped_to_ensg	sp	AAS1_HUMAN	Swiss-Prot reviewed
+Q5SY13	COAS1_HUMAN	Putative uncharacterized protein encoded by COL5A1-AS1 OS=Homo sapiens OX=9606 GN=COL5A1-AS1 PE=5 SV=1	56	non-HK		not_mapped_to_ensg	sp	COAS1_HUMAN	Swiss-Prot reviewed
+Q86SH4	PRNT_HUMAN	Putative testis-specific prion protein OS=Homo sapiens OX=9606 GN=PRNT PE=5 SV=1	94	non-HK		not_mapped_to_ensg	sp	PRNT_HUMAN	Swiss-Prot reviewed
+Q86Y30	BAGE2_HUMAN	B melanoma antigen 2 OS=Homo sapiens OX=9606 GN=BAGE2 PE=2 SV=1	109	non-HK		not_mapped_to_ensg	sp	BAGE2_HUMAN	Swiss-Prot reviewed
+Q8N8H1	ZN321_HUMAN	Putative protein ZNF321 OS=Homo sapiens OX=9606 GN=ZNF321P PE=5 SV=3	164	non-HK		not_mapped_to_ensg	sp	ZN321_HUMAN	Swiss-Prot reviewed
+Q9HBA9	FOH1B_HUMAN	Putative N-acetylated-alpha-linked acidic dipeptidase OS=Homo sapiens OX=9606 GN=FOLH1B PE=1 SV=1	442	non-HK		not_mapped_to_ensg	sp	FOH1B_HUMAN	Swiss-Prot reviewed
+Q9Y6Z4	KIAS1_HUMAN	Putative uncharacterized protein KIF25-AS1 OS=Homo sapiens OX=9606 GN=KIF25-AS1 PE=5 SV=2	181	non-HK		not_mapped_to_ensg	sp	KIAS1_HUMAN	Swiss-Prot reviewed
+P0C626	OR5G3_HUMAN	Olfactory receptor 5G3 OS=Homo sapiens OX=9606 GN=OR5G3 PE=3 SV=1	314	non-HK		not_mapped_to_ensg	sp	OR5G3_HUMAN	Swiss-Prot reviewed
+Q6ZW97	Q6ZW97_HUMAN	Hypothetical LOC389834 OS=Homo sapiens OX=9606 GN=LOC389834 PE=2 SV=1	243	non-HK		not_mapped_to_ensg	tr	Q6ZW97_HUMAN	TrEMBL unreviewed
+Q8NH89	O5AK3_HUMAN	Olfactory receptor 5AK3 OS=Homo sapiens OX=9606 GN=OR5AK3P PE=3 SV=1	298	non-HK		not_mapped_to_ensg	sp	O5AK3_HUMAN	Swiss-Prot reviewed
+A0M8Q6	IGLC7_HUMAN	Immunoglobulin lambda constant 7 OS=Homo sapiens OX=9606 GN=IGLC7 PE=1 SV=3	106	non-HK		not_mapped_to_ensg	sp	IGLC7_HUMAN	Swiss-Prot reviewed
+G3V211	CL079_HUMAN	Uncharacterized protein encoded by LINC01619 OS=Homo sapiens OX=9606 GN=LINC01619 PE=5 SV=1	115	non-HK		not_mapped_to_ensg	sp	CL079_HUMAN	Swiss-Prot reviewed
+O15255	CXX1_HUMAN	CAAX box protein 1 OS=Homo sapiens OX=9606 GN=RTL8C PE=2 SV=1	209	non-HK		not_mapped_to_ensg	sp	CXX1_HUMAN	Swiss-Prot reviewed
+Q8NAA6	CO053_HUMAN	Putative uncharacterized protein encoded by LINC02694 OS=Homo sapiens OX=9606 GN=LINC02694 PE=5 SV=1	179	non-HK		not_mapped_to_ensg	sp	CO053_HUMAN	Swiss-Prot reviewed
+Q92771	DDX12_HUMAN	Putative ATP-dependent DNA helicase DDX12 OS=Homo sapiens OX=9606 GN=DDX12P PE=5 SV=3	950	non-HK		not_mapped_to_ensg	sp	DDX12_HUMAN	Swiss-Prot reviewed
+Q9P1C3	YN010_HUMAN	Putative uncharacterized protein PRO2829 OS=Homo sapiens OX=9606 GN=PRO2829 PE=5 SV=1	46	non-HK		not_mapped_to_ensg	sp	YN010_HUMAN	Swiss-Prot reviewed
+A6NDR6	ME3L1_HUMAN	Putative homeobox protein Meis3-like 1 OS=Homo sapiens OX=9606 GN=MEIS3P1 PE=5 SV=2	274	non-HK		not_mapped_to_ensg	sp	ME3L1_HUMAN	Swiss-Prot reviewed
+A6NIZ1	RP1BL_HUMAN	Ras-related protein Rap-1b-like protein OS=Homo sapiens OX=9606 GN=RAP1BL PE=1 SV=1	184	non-HK		not_mapped_to_ensg	sp	RP1BL_HUMAN	Swiss-Prot reviewed
+P61578	REC16_HUMAN	Endogenous retrovirus group K member 16 Rec protein OS=Homo sapiens OX=9606 GN=ERVK-16 PE=1 SV=1	105	non-HK		not_mapped_to_ensg	sp	REC16_HUMAN	Swiss-Prot reviewed
+Q7Z2V1	TNT_HUMAN	Protein TNT OS=Homo sapiens OX=9606 GN=C16orf82 PE=1 SV=1	217	non-HK		not_mapped_to_ensg	sp	TNT_HUMAN	Swiss-Prot reviewed
+Q96PY0	K1908_HUMAN	Putative uncharacterized protein PSMG3-AS1 OS=Homo sapiens OX=9606 GN=PSMG3-AS1 PE=5 SV=2	264	non-HK		not_mapped_to_ensg	sp	K1908_HUMAN	Swiss-Prot reviewed
+A8MWX3	WASH4_HUMAN	Putative WAS protein family homolog 4 OS=Homo sapiens OX=9606 GN=WASH4P PE=5 SV=1	477	non-HK		not_mapped_to_ensg	sp	WASH4_HUMAN	Swiss-Prot reviewed
+P0CF51	TRGC1_HUMAN	T cell receptor gamma constant 1 OS=Homo sapiens OX=9606 GN=TRGC1 PE=1 SV=1	173	non-HK		not_mapped_to_ensg	sp	TRGC1_HUMAN	Swiss-Prot reviewed
+Q0P651	ABD18_HUMAN	Protein ABHD18 OS=Homo sapiens OX=9606 GN=ABHD18 PE=1 SV=1	414	non-HK		not_mapped_to_ensg	sp	ABD18_HUMAN	Swiss-Prot reviewed
+Q6NUR6	R216L_HUMAN	Putative protein RNF216-like OS=Homo sapiens OX=9606 GN=RNF216P1 PE=5 SV=2	42	non-HK		not_mapped_to_ensg	sp	R216L_HUMAN	Swiss-Prot reviewed
+Q6ZUV0	BACHL_HUMAN	Putative cytosolic acyl coenzyme A thioester hydrolase-like OS=Homo sapiens OX=9606 GN=ACOT7L PE=5 SV=1	252	non-HK		not_mapped_to_ensg	sp	BACHL_HUMAN	Swiss-Prot reviewed
+Q96N38	ZN714_HUMAN	Zinc finger protein 714 OS=Homo sapiens OX=9606 GN=ZNF714 PE=1 SV=3	554	non-HK		not_mapped_to_ensg	sp	ZN714_HUMAN	Swiss-Prot reviewed
+Q9UKT6	FXL21_HUMAN	Putative F-box/LRR-repeat protein 21 OS=Homo sapiens OX=9606 GN=FBXL21P PE=5 SV=1	434	non-HK		not_mapped_to_ensg	sp	FXL21_HUMAN	Swiss-Prot reviewed
+Q5VVS0	CA140_HUMAN	Putative uncharacterized protein C1orf140 OS=Homo sapiens OX=9606 GN=C1orf140 PE=5 SV=1	124	non-HK		not_mapped_to_ensg	sp	CA140_HUMAN	Swiss-Prot reviewed
+Q8N7U7	TPRX1_HUMAN	Tetra-peptide repeat homeobox protein 1 OS=Homo sapiens OX=9606 GN=TPRX1 PE=1 SV=3	411	non-HK		not_mapped_to_ensg	sp	TPRX1_HUMAN	Swiss-Prot reviewed
+Q8N9U9	SPOT1_HUMAN	Putative uncharacterized protein SPANXA2-OT1 OS=Homo sapiens OX=9606 GN=SPANXA2-OT1 PE=5 SV=1	137	non-HK		not_mapped_to_ensg	sp	SPOT1_HUMAN	Swiss-Prot reviewed
+Q96HZ7	URAS1_HUMAN	Putative uncharacterized protein URB1-AS1 OS=Homo sapiens OX=9606 GN=URB1-AS1 PE=5 SV=1	61	non-HK		not_mapped_to_ensg	sp	URAS1_HUMAN	Swiss-Prot reviewed
+P0CG04	IGLC1_HUMAN	Immunoglobulin lambda constant 1 OS=Homo sapiens OX=9606 GN=IGLC1 PE=1 SV=1	106	non-HK		not_mapped_to_ensg	sp	IGLC1_HUMAN	Swiss-Prot reviewed
+Q6NVV0	MKRN5_HUMAN	Putative makorin-5 OS=Homo sapiens OX=9606 GN=MKRN9P PE=5 SV=1	33	non-HK		not_mapped_to_ensg	sp	MKRN5_HUMAN	Swiss-Prot reviewed
+Q7Z2Y8	GVIN1_HUMAN	Interferon-induced very large GTPase 1 OS=Homo sapiens OX=9606 GN=GVINP1 PE=1 SV=2	2422	non-HK		not_mapped_to_ensg	sp	GVIN1_HUMAN	Swiss-Prot reviewed
+Q86Y27	BAGE5_HUMAN	B melanoma antigen 5 OS=Homo sapiens OX=9606 GN=BAGE5 PE=2 SV=1	43	non-HK		not_mapped_to_ensg	sp	BAGE5_HUMAN	Swiss-Prot reviewed
+Q8N8C0	ZN781_HUMAN	Zinc finger protein 781 OS=Homo sapiens OX=9606 GN=ZNF781 PE=2 SV=1	355	non-HK		not_mapped_to_ensg	sp	ZN781_HUMAN	Swiss-Prot reviewed
+Q9H7B7	CG069_HUMAN	Putative uncharacterized protein PKD1L1-AS1 OS=Homo sapiens OX=9606 GN=PKD1L1-AS1 PE=5 SV=3	122	non-HK		not_mapped_to_ensg	sp	CG069_HUMAN	Swiss-Prot reviewed
+C0HLZ6	HAS3P_HUMAN	HOXB-AS3 peptide OS=Homo sapiens OX=9606 GN=HOXB-AS3 PE=1 SV=1	53	non-HK		not_mapped_to_ensg	sp	HAS3P_HUMAN	Swiss-Prot reviewed
+Q6P575	BGP11_HUMAN	Putative inactive beta-glucuronidase protein GUSBP11 OS=Homo sapiens OX=9606 GN=GUSBP11 PE=5 SV=2	273	non-HK		not_mapped_to_ensg	sp	BGP11_HUMAN	Swiss-Prot reviewed
+Q6ZUF6	NC336_HUMAN	Putative uncharacterized protein encoded by LINC00336 OS=Homo sapiens OX=9606 GN=LINC00336 PE=5 SV=1	198	non-HK		not_mapped_to_ensg	sp	NC336_HUMAN	Swiss-Prot reviewed
+Q8ND77	Q8ND77_HUMAN	Uncharacterized protein DKFZp547E087 OS=Homo sapiens OX=9606 GN=DKFZp547E087 PE=2 SV=1	196	non-HK		not_mapped_to_ensg	tr	Q8ND77_HUMAN	TrEMBL unreviewed
+Q96L14	C170L_HUMAN	Cep170-like protein OS=Homo sapiens OX=9606 GN=CEP170P1 PE=5 SV=2	293	non-HK		not_mapped_to_ensg	sp	C170L_HUMAN	Swiss-Prot reviewed
+Q96M15	IFAS1_HUMAN	Putative uncharacterized protein IGF2BP2-AS1 OS=Homo sapiens OX=9606 GN=IGF2BP2-AS1 PE=2 SV=1	143	non-HK		not_mapped_to_ensg	sp	IFAS1_HUMAN	Swiss-Prot reviewed
+Q9BR46	SCAS1_HUMAN	Putative uncharacterized protein SCP2D1-AS1 OS=Homo sapiens OX=9606 GN=SCP2D1-AS1 PE=5 SV=1	151	non-HK		not_mapped_to_ensg	sp	SCAS1_HUMAN	Swiss-Prot reviewed
+Q9HAU6	TCTP8_HUMAN	Putative translationally-controlled tumor protein-like protein TPT1P8 OS=Homo sapiens OX=9606 GN=TPT1P8 PE=5 SV=2	139	non-HK		not_mapped_to_ensg	sp	TCTP8_HUMAN	Swiss-Prot reviewed
+A8MUU9	YV023_HUMAN	Putative uncharacterized protein ENSP00000383309 OS=Homo sapiens OX=9606 PE=5 SV=3	505	non-HK		not_mapped_to_ensg	sp	YV023_HUMAN	Swiss-Prot reviewed
+A8MVJ9	HPF1L_HUMAN	Putative histone PARylation factor 1-like OS=Homo sapiens OX=9606 PE=5 SV=1	347	non-HK		not_mapped_to_ensg	sp	HPF1L_HUMAN	Swiss-Prot reviewed
+P0C879	YJ018_HUMAN	Putative uncharacterized protein FLJ43185 OS=Homo sapiens OX=9606 PE=5 SV=1	139	non-HK		not_mapped_to_ensg	sp	YJ018_HUMAN	Swiss-Prot reviewed
+Q6ZRP5	YD019_HUMAN	Putative uncharacterized protein FLJ46204 OS=Homo sapiens OX=9606 PE=5 SV=2	223	non-HK		not_mapped_to_ensg	sp	YD019_HUMAN	Swiss-Prot reviewed
+Q6ZSN1	YI023_HUMAN	Putative uncharacterized protein FLJ45355 OS=Homo sapiens OX=9606 PE=2 SV=1	163	non-HK		not_mapped_to_ensg	sp	YI023_HUMAN	Swiss-Prot reviewed
+Q6ZUG5	YC006_HUMAN	Uncharacterized protein FLJ43738 OS=Homo sapiens OX=9606 PE=1 SV=1	572	non-HK		not_mapped_to_ensg	sp	YC006_HUMAN	Swiss-Prot reviewed
+Q8NHA8	OR1FC_HUMAN	Putative olfactory receptor 1F12P OS=Homo sapiens OX=9606 GN=OR1F12P PE=5 SV=1	337	non-HK		not_mapped_to_ensg	sp	OR1FC_HUMAN	Swiss-Prot reviewed
+Q96M85	YV008_HUMAN	Putative uncharacterized protein FLJ32756 OS=Homo sapiens OX=9606 PE=2 SV=1	177	non-HK		not_mapped_to_ensg	sp	YV008_HUMAN	Swiss-Prot reviewed
+Q96NJ1	YI001_HUMAN	Uncharacterized protein FLJ30774 OS=Homo sapiens OX=9606 PE=2 SV=1	140	non-HK		not_mapped_to_ensg	sp	YI001_HUMAN	Swiss-Prot reviewed
+Q9N2K0	ENH1_HUMAN	HERV-H_2q24.3 provirus ancestral Env polyprotein OS=Homo sapiens OX=9606 PE=2 SV=1	584	non-HK		not_mapped_to_ensg	sp	ENH1_HUMAN	Swiss-Prot reviewed

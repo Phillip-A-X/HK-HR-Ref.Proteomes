@@ -1,0 +1,9 @@
+comparison	test	p_value
+expression_breadth	Wilcoxon rank-sum	0
+gene_length_bp	Wilcoxon rank-sum	3.26880165764195e-28
+log10_gene_length_bp	Wilcoxon rank-sum	3.26880165764195e-28
+sd_log10_nTPM_plus1	Wilcoxon rank-sum	9.96321334823141e-133
+expression_breadth	Welch t-test	0
+gene_length_bp	Welch t-test	1.40902001803062e-122
+log10_gene_length_bp	Welch t-test	2.47409404554252e-34
+sd_log10_nTPM_plus1	Welch t-test	0

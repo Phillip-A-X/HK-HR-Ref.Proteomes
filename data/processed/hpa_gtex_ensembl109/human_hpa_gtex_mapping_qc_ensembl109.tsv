@@ -1,0 +1,16 @@
+metric	value
+hpa_rows_gene_tissue_pairs	718937.0
+hpa_unique_genes	20162.0
+ensembl109_raw_rows_with_header_removed	22907.0
+ensembl109_main_chromosome_background_genes	20011.0
+mapped_unique_genes	19715.0
+expressed_unique_genes_ntpm_ge_1	18339.0
+unmatched_hpa_genes	447.0
+ensembl109_genes_without_hpa_gtex	296.0
+mapping_rate_hpa_to_ensembl109_percent	97.783
+expression_threshold_nTPM	1.0
+mapped_rows_gene_tissue_pairs	703720.0
+expressed_rows_gene_tissue_pairs_ntpm_ge_1	481181.0
+number_of_tissues_hpa	36.0
+number_of_tissues_after_mapping	36.0
+number_of_tissues_after_ntpm_filter	36.0

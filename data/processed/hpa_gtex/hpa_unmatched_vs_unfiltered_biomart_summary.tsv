@@ -1,0 +1,4 @@
+qc_class	n_genes
+absent_from_unfiltered_biomart	424
+present_in_unfiltered_biomart_but_non_main_chromosome	37
+total_hpa_unmatched_genes	461

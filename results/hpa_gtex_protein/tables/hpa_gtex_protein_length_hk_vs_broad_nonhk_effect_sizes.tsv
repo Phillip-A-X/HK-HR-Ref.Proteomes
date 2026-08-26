@@ -1,0 +1,7 @@
+comparison	variable	HK	broad_nonHK	difference_HK_minus_broad_nonHK	ratio_HK_div_broad_nonHK
+HK vs broad non-HK	mean_protein_length_aa	457.381062355658	617.759833217512	-160.378770861854	0.740386534963686
+HK vs broad non-HK	median_protein_length_aa	341	481	-140	0.708939708939709
+HK vs broad non-HK	mean_log10_protein_length_aa	2.52793672891356	2.67901499968616	-0.1510782707726	0.943606784288144
+HK vs broad non-HK	median_log10_protein_length_aa	2.5327543789925	2.68214507637383	-0.149390697381334	0.944301783413108
+HK vs broad non-HK	mean_expression_breadth	35.9385681293303	36	-0.0614318706697432	0.998293559148063
+HK vs broad non-HK	median_expression_breadth	36	36	0	1

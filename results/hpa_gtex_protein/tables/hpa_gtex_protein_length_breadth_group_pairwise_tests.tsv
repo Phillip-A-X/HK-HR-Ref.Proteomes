@@ -1,0 +1,31 @@
+comparison	variable	test	p_value
+HK vs broad non-HK	protein_length_aa	Wilcoxon rank-sum	4.90980665925014e-79
+HK vs broad non-HK	protein_length_aa	Welch t-test	3.83870177350879e-42
+HK vs broad non-HK	log10_protein_length_aa	Wilcoxon rank-sum	4.90980665925014e-79
+HK vs broad non-HK	log10_protein_length_aa	Welch t-test	1.53684809693242e-75
+HK vs broad non-HK	n_tissues_expressed	Wilcoxon rank-sum	1.80789348356167e-15
+HK vs broad non-HK	n_tissues_expressed	Welch t-test	0.0244737045016491
+HK vs restricted non-HK	protein_length_aa	Wilcoxon rank-sum	2.28588060383576e-12
+HK vs restricted non-HK	protein_length_aa	Welch t-test	4.77599761466837e-09
+HK vs restricted non-HK	log10_protein_length_aa	Wilcoxon rank-sum	2.28588060383576e-12
+HK vs restricted non-HK	log10_protein_length_aa	Welch t-test	5.65087880782566e-13
+HK vs restricted non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+HK vs restricted non-HK	n_tissues_expressed	Welch t-test	0
+broad non-HK vs restricted non-HK	protein_length_aa	Wilcoxon rank-sum	1.78425777763669e-45
+broad non-HK vs restricted non-HK	protein_length_aa	Welch t-test	2.34165762716184e-06
+broad non-HK vs restricted non-HK	log10_protein_length_aa	Wilcoxon rank-sum	1.78425777763669e-45
+broad non-HK vs restricted non-HK	log10_protein_length_aa	Welch t-test	3.43167385441252e-40
+broad non-HK vs restricted non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+broad non-HK vs restricted non-HK	n_tissues_expressed	Welch t-test	0
+broad non-HK vs intermediate non-HK	protein_length_aa	Wilcoxon rank-sum	0.718637687025508
+broad non-HK vs intermediate non-HK	protein_length_aa	Welch t-test	0.0334455881706804
+broad non-HK vs intermediate non-HK	log10_protein_length_aa	Wilcoxon rank-sum	0.718637687025508
+broad non-HK vs intermediate non-HK	log10_protein_length_aa	Welch t-test	0.563972146522472
+broad non-HK vs intermediate non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+broad non-HK vs intermediate non-HK	n_tissues_expressed	Welch t-test	0
+restricted non-HK vs intermediate non-HK	protein_length_aa	Wilcoxon rank-sum	1.44136967944791e-39
+restricted non-HK vs intermediate non-HK	protein_length_aa	Welch t-test	7.0213803765946e-09
+restricted non-HK vs intermediate non-HK	log10_protein_length_aa	Wilcoxon rank-sum	1.44136967944791e-39
+restricted non-HK vs intermediate non-HK	log10_protein_length_aa	Welch t-test	4.05649669980688e-36
+restricted non-HK vs intermediate non-HK	n_tissues_expressed	Wilcoxon rank-sum	0
+restricted non-HK vs intermediate non-HK	n_tissues_expressed	Welch t-test	0
