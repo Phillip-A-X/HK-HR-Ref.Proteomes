@@ -1,0 +1,2 @@
+peak_log10_min	peak_log10_max	peak_bp_min	peak_bp_max	n_peak_genes	n_HPA_present	n_HPA_absent	n_expressed_in_at_least_one_tissue	n_never_ntpm_ge_1
+2.85	3.15	708	1413	529	526	3	251	275

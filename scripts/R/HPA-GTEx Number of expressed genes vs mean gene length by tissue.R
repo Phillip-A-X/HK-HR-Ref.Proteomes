@@ -130,10 +130,10 @@ p_gene_count <- ggplot(
   )
 ) +
   geom_point(size = 3) +
-  geom_smooth(
-    method = "lm",
-    se = TRUE
-  ) +
+  #geom_smooth(
+   # method = "lm",
+  #  se = TRUE
+#  ) +
   geom_text(
     aes(label = Tissue),
     vjust = -0.7,

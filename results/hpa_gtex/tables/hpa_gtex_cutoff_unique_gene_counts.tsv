@@ -1,0 +1,5 @@
+nTPM_cutoff	unique_expressed_genes	expressed_gene_tissue_pairs	tissues_retained
+1	18331	481019	36
+5	16624	342247	36
+10	14843	248143	36
+20	11880	151279	36
