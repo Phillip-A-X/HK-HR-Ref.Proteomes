@@ -397,3 +397,92 @@ The full Ensembl 115 HRT Atlas background contained 2172 HK genes and 17912 non-
 
     The HPA-GTEx HK vs non-HK expression analysis is therefore based on 2172 HK genes and 16159 non-HK genes.
     The absence of HK gene loss supports the expectation that HRT Atlas HK genes are broadly or at least detectably expressed in normal human tissues, whereas a subset of non-HK genes is not detectably expressed above the selected threshold in the GTEx tissue dataset.
+
+Generated tissue-level gene-length summaries from the mapped expressed gene sets.
+    For each tissue, calculated number of expressed genes, mean gene length, variance, SD and log10-transformed mean and variance.
+    These tissue summaries were then used for the mean gene length vs gene-length variance, CV and gene-count analyses.
+ Mean gene length by tissue was plotted to compare gene-length differences between the 36 tissues.
+    Number of expressed genes vs mean gene length was plotted to test whether tissue-specific mean gene length is explained by the number of expressed genes; no significant relationship was found.
+
+    Mean gene length vs gene-length variance was plotted to test whether tissues with longer mean gene length also show greater gene-length variability.
+    Raw-scale and log10-log10 plots showed a strong positive relationship.
+    Linear regression of log10(mean gene length) vs log10(variance) was used to quantify this relationship and obtain slope, y-intercept and R².
+
+    Mean gene length vs CV was plotted to test whether increasing variance is only caused by the larger absolute gene-length scale or whether relative gene-length variability also increases.
+    CV also increased strongly with mean gene length.
+
+    Tissue-specific log10 gene-length distributions were plotted to compare distribution shape between tissues and against corresponding theoretical normal distributions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Multitude of Edits (just so i remember what i changed - not too relevant for the final paper):
+
+Performed additional HPA-GTEx mean gene length vs gene-length variance regression analyses following feedback on the regression plots.
+    The log10-log10 regression was updated to report regression statistics instead of Pearson correlation.
+    log10(variance) = -4.601 + 3.046 × log10(mean).
+    Slope = 3.046, y-intercept = -4.601 and R² = 0.964.
+    This describes the strong linear relationship between log10 mean gene length and log10 gene-length variance across the 36 tissues.
+
+    A separate exponential regression was calculated using raw mean gene length and log-transformed variance.
+    ln(variance) = 20.497 + 4.12 × 10^-5 × mean.
+    Back-transformed fit: variance = 7.98 × 10^8 × exp(4.12 × 10^-5 × mean).
+    R² = 0.961 for the transformed regression.
+    The predicted exponential curve was plotted together with the observed raw mean and variance values.
+
+    An additional exploratory comparison of linear, power-law and exponential fits on the raw scale was performed.
+        Linear: R² = 0.967, AIC = -103.3.
+        Power law: R² = 0.963, AIC = -99.3.
+        Exponential: R² = 0.958, AIC = -94.5.
+    All three models described the restricted observed tissue range relatively well, with the linear model giving the lowest AIC.
+    This model comparison was an additional check and not part of the specific regression output requested.
+
+Updated the number of expressed genes vs mean gene length tissue analysis.
+    X-axis = number of expressed genes at nTPM >= 1, y-axis = mean gene length.
+    Pearson r = 0.251, p = 0.140; Spearman rho = 0.255, p = 0.134.
+    No significant relationship between number of expressed genes and mean gene length was detected.
+    The regression/trend line was therefore removed from the final figure.
+
+Reorganized the tissue-level HPA-GTEx plots using a common biologically interpretable tissue order.
+    Tissues were ordered by ascending mean gene length calculated at the standard nTPM >= 1 cutoff.
+    This nTPM >= 1 tissue order was then kept fixed for comparisons across higher expression cutoffs.
+
+  The previous four-panel cutoff mean-vs-variance figure was additionally split into four separate figures for readability.
+        nTPM >= 1: slope ~3.046, R² ~0.964.
+        nTPM >= 5: slope ~3.394, R² ~0.929.
+        nTPM >= 10: slope ~3.286, R² ~0.907.
+        nTPM >= 20: slope ~3.348, R² ~0.906.
+    The strong log10 mean vs log10 variance relationship therefore remains visible at every tested expression cutoff.
+
+Revised the tissue gene-length distribution visualization following feedback that density smoothing may hide small secondary peaks.
+    Previous plots used kernel density of log10-transformed gene length with a tissue-specific theoretical normal distribution.
+    The theoretical normal for each tissue uses the observed tissue-specific mean and SD of log10 gene length; mean and SD are not identical between tissues.
+
+    New histogram/distribution plots were generated using:
+        X-axis = log10 gene length in bp.
+        Y-axis = actual number of genes per histogram bin.
+        Dashed line = theoretical normal distribution scaled to histogram counts.
+    This avoids kernel-density smoothing and makes local deviations or secondary peaks easier to inspect.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Investigated the short-gene peak around log10 gene length ~3 (~1 kb).
+    In the previous HK vs non-HK distribution, the small peak was mainly visible in the non-HK genes.
+    The peak region was defined as log10 gene length 2.85-3.15, corresponding to approximately 708-1,413 bp.
+    529 protein-coding genes fall within this region.
+In the full background check (E115, protein coding, on chromosomes) the peak was clearly visible aswell.
+
+    Peak genes were checked against HPA-GTEx for presence, maximum nTPM, number of tissues with nTPM >= 1 and tissue of maximum expression.
+
+    220/529 peak genes belong to major sensory-receptor families:
+        196 olfactory receptors, 18 taste receptors, 4 TAAR and 2 vomeronasal receptors.
+    Sensory-receptor enrichment increases strongly towards the peak center and reaches >80% around log10 2.94-2.98.
+    The central ~1 kb peak is therefore mainly formed by sensory receptor genes, especially olfactory receptors.
+
+    Only 10/220 sensory-receptor genes reached nTPM >= 1 in at least one of the 36 tissues.
+    For olfactory receptors, only 8/196 reached nTPM >= 1.
+    This likely explains why the ~1 kb peak is strongly reduced in the tissue-specific nTPM-filtered distributions.
+
+    The peak-expression summary was corrected so tissue_with_max_expression is NA when max_nTPM_total < 1.
+
+Professor feedback suggested that the log10 gene-length distributions are biologically close to normal but not necessarily mathematically exact.
+    Skewness, kurtosis and D'Agostino's K-squared test were suggested for formal evaluation.
+    These tests have not yet been calculated.
