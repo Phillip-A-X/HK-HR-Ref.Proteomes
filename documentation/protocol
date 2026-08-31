@@ -492,3 +492,7 @@ Now i want to verify how the 36 tissues are defined and which anatomical/cellula
     Check whether olfactory epithelium, nasal mucosa, tongue/taste buds or related sensory tissues are absent from the dataset (they are, but whether they are included in the definition of another tissue).
     Review how GTEx RNA expression was measured (bulk tissue, sample composition, normalization).
     Use this to interpret why most sensory-receptor genes do not reach nTPM >= 1 and why some OR/TAS genes appear in non-sensory tissues.
+Only 8 olfactory receptor genes from the short-gene peak reached nTPM >= 1 in at least one of the 36 tissues.
+    Most showed expression in only one tissue and several values were close to the nTPM = 1 cutoff.
+    Testis contained the largest number of expressed OR genes (5)???. Check later - not necessarily wrong but i dont understand yet.
+    OR2W3 was the main exception, with low-to-moderate expression across several tissues.
