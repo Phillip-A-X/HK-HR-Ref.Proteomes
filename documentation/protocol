@@ -485,4 +485,10 @@ In the full background check (E115, protein coding, on chromosomes) the peak was
 
 Professor feedback suggested that the log10 gene-length distributions are biologically close to normal but not necessarily mathematically exact.
     Skewness, kurtosis and D'Agostino's K-squared test were suggested for formal evaluation.
-    These tests have not yet been calculated.
+    These tests have not yet been calculated. Also nTPM >=100 is to be checken. 
+	Check HPA-GTEx tissue definitions and data generation.
+
+Now i want to verify how the 36 tissues are defined and which anatomical/cellular compartments are included.
+    Check whether olfactory epithelium, nasal mucosa, tongue/taste buds or related sensory tissues are absent from the dataset (they are, but whether they are included in the definition of another tissue).
+    Review how GTEx RNA expression was measured (bulk tissue, sample composition, normalization).
+    Use this to interpret why most sensory-receptor genes do not reach nTPM >= 1 and why some OR/TAS genes appear in non-sensory tissues.
