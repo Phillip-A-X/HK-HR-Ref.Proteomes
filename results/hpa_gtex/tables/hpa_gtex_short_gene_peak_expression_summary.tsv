@@ -1,31 +1,31 @@
 gene_id	gene_name	gene_length_bp	log10_gene_length_bp	description	HPA_present	max_nTPM_total	number_expressed_tissues	tissue_with_max_expression
-ENSG00000241241	KRTAP4-16	708	2.85003325768977	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000241241	KRTAP4-16	708	2.85003325768977	NA	TRUE	0	0	NA
 ENSG00000238205	MPC1L	709	2.85064623518307	NA	TRUE	17.3	1	testis
 ENSG00000179085	DPM3	710	2.85125834871908	NA	TRUE	147	36	liver
 ENSG00000212900	KRTAP3-2	714	2.85369821177617	NA	TRUE	95.7	4	skin
 ENSG00000274749	KRTAP7-1	721	2.85793526471943	NA	TRUE	22.7	1	skin
 ENSG00000086506	HBQ1	721	2.85793526471943	NA	TRUE	13.5	9	amygdala
 ENSG00000187475	H1-6	724	2.85973856619715	NA	TRUE	1	1	testis
-ENSG00000289281	ENSG00000289281	728	2.86213137931304	NA	TRUE	0	0	retina
-ENSG00000163352	LENEP	730	2.86332286012046	NA	TRUE	0.2	0	kidney; thyroid gland
+ENSG00000289281	ENSG00000289281	728	2.86213137931304	NA	TRUE	0	0	NA
+ENSG00000163352	LENEP	730	2.86332286012046	NA	TRUE	0.2	0	NA
 ENSG00000250254	PTTG2	731	2.86391737695786	NA	TRUE	1.3	2	colon
 ENSG00000129862	VCY1B	732	2.86451108105839	NA	TRUE	64.3	1	testis
 ENSG00000214518	KRTAP2-2	733	2.86510397464113	NA	TRUE	49.4	1	skin
 ENSG00000212899	KRTAP3-3	735	2.86628733908419	NA	TRUE	120.5	2	skin
-ENSG00000169575	VPREB1	736	2.8668778143375	NA	TRUE	0.1	0	small intestine; testis
-ENSG00000214042	IFNA7	737	2.86746748785905	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000169575	VPREB1	736	2.8668778143375	NA	TRUE	0.1	0	NA
+ENSG00000214042	IFNA7	737	2.86746748785905	NA	TRUE	0	0	NA
 ENSG00000221864	KRTAP12-2	739	2.86864443839483	NA	TRUE	20.6	1	skin
 ENSG00000221916	C19orf73	742	2.87040390527903	NA	TRUE	7.1	30	cerebellum
-ENSG00000249467	H2AL1Q	745	2.87215627274829	NA	TRUE	0.1	0	retina
-ENSG00000240542	KRTAP9-1	753	2.8767949762007	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000236334	PPIAL4G	755	2.87794695162919	NA	TRUE	0.7	0	retina
-ENSG00000124610	H1-1	756	2.87852179550121	NA	TRUE	0.1	0	testis
+ENSG00000249467	H2AL1Q	745	2.87215627274829	NA	TRUE	0.1	0	NA
+ENSG00000240542	KRTAP9-1	753	2.8767949762007	NA	TRUE	0	0	NA
+ENSG00000236334	PPIAL4G	755	2.87794695162919	NA	TRUE	0.7	0	NA
+ENSG00000124610	H1-1	756	2.87852179550121	NA	TRUE	0.1	0	NA
 ENSG00000234776	C11orf94	760	2.88081359228079	NA	TRUE	54.9	1	testis
-ENSG00000263353	PPIAL4A	760	2.88081359228079	NA	TRUE	0.2	0	cerebellum
-ENSG00000288867	PPIAL4C	760	2.88081359228079	NA	TRUE	0.3	0	retina
-ENSG00000289549	PPIAL4D	760	2.88081359228079	NA	TRUE	0	0	retina
-ENSG00000271567	PPIAL4E	760	2.88081359228079	NA	TRUE	0.7	0	cerebellum
-ENSG00000279782	PPIAL4F	760	2.88081359228079	NA	TRUE	0.6	0	cerebellum
+ENSG00000263353	PPIAL4A	760	2.88081359228079	NA	TRUE	0.2	0	NA
+ENSG00000288867	PPIAL4C	760	2.88081359228079	NA	TRUE	0.3	0	NA
+ENSG00000289549	PPIAL4D	760	2.88081359228079	NA	TRUE	0	0	NA
+ENSG00000271567	PPIAL4E	760	2.88081359228079	NA	TRUE	0.7	0	NA
+ENSG00000279782	PPIAL4F	760	2.88081359228079	NA	TRUE	0.6	0	NA
 ENSG00000270339	PPIAL4H	760	2.88081359228079	NA	TRUE	2.3	1	cerebellum
 ENSG00000213417	KRTAP2-4	764	2.88309335857569	NA	TRUE	39.7	1	skin
 ENSG00000165496	RPL10L	772	2.88761730033574	NA	TRUE	91.6	2	testis
@@ -38,13 +38,13 @@ ENSG00000168298	H1-4	787	2.89597473235906	NA	TRUE	6	22	kidney
 ENSG00000198390	KRTAP13-1	792	2.89872518158949	NA	TRUE	8.9	1	skin
 ENSG00000268994	FAM236B	796	2.90091306773767	NA	TRUE	96.8	2	testis
 ENSG00000275520	FAM236A	796	2.90091306773767	NA	TRUE	144.8	2	testis
-ENSG00000184357	H1-5	797	2.90145832139611	NA	TRUE	0.7	0	small intestine
+ENSG00000184357	H1-5	797	2.90145832139611	NA	TRUE	0.7	0	NA
 ENSG00000102055	PPP1R2C	798	2.90200289135073	NA	TRUE	76.2	1	testis
-ENSG00000249222	ATP5MGL	799	2.90254677931399	NA	TRUE	0.5	0	retina
+ENSG00000249222	ATP5MGL	799	2.90254677931399	NA	TRUE	0.5	0	NA
 ENSG00000186860	KRTAP17-1	799	2.90254677931399	NA	TRUE	21.9	1	skin
 ENSG00000253506	NACA2	799	2.90254677931399	NA	TRUE	59.5	10	testis
 ENSG00000166329	CCDC182	805	2.90579588036787	NA	TRUE	26.7	1	testis
-ENSG00000186971	KRTAP13-4	807	2.90687353472207	NA	TRUE	0.2	0	adipose tissue
+ENSG00000186971	KRTAP13-4	807	2.90687353472207	NA	TRUE	0.2	0	NA
 ENSG00000139574	NPFF	808	2.90741136077459	NA	TRUE	3.2	1	spinal cord
 ENSG00000132446	FTHL17	809	2.90794852161227	NA	TRUE	3.8	1	testis
 ENSG00000198443	KRTAP4-1	812	2.90955602924118	NA	TRUE	19	1	skin
@@ -52,238 +52,238 @@ ENSG00000283536	ENSG00000283536	823	2.91539983521227	NA	TRUE	16.1	1	retina
 ENSG00000184895	SRY	828	2.91803033678488	NA	TRUE	2.3	2	testis
 ENSG00000188536	HBA2	835	2.9216864754836	NA	TRUE	9277.3	36	spleen
 ENSG00000124196	GTSF1L	839	2.9237619608287	NA	TRUE	210.9	1	testis
-ENSG00000171855	IFNB1	839	2.9237619608287	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000171855	IFNB1	839	2.9237619608287	NA	TRUE	0	0	NA
 ENSG00000122304	PRM2	842	2.92531209149965	NA	TRUE	11179.1	25	testis
 ENSG00000167644	C19orf33	843	2.92582757462474	NA	TRUE	689.2	34	esophagus
 ENSG00000206172	HBA1	843	2.92582757462474	NA	TRUE	5085.7	36	spleen
 ENSG00000204887	KRTAP1-4	845	2.92685670894969	NA	TRUE	1.4	1	skin
 ENSG00000258713	C20orf141	847	2.92788341033071	NA	TRUE	124.1	2	testis
-ENSG00000244057	LCE3C	853	2.93094903116752	NA	TRUE	0.1	0	esophagus; skin; testis
+ENSG00000244057	LCE3C	853	2.93094903116752	NA	TRUE	0.1	0	NA
 ENSG00000187969	ZCCHC13	855	2.93196611472817	NA	TRUE	21.4	1	testis
 ENSG00000240972	MIF	856	2.93247376467715	NA	TRUE	1198.5	36	kidney
 ENSG00000127774	EMC6	857	2.9329808219232	NA	TRUE	178.5	36	skeletal muscle
-ENSG00000289747	ENSG00000289747	867	2.93801909747621	NA	TRUE	0	0	retina
+ENSG00000289747	ENSG00000289747	867	2.93801909747621	NA	TRUE	0	0	NA
 ENSG00000189037	DUSP21	868	2.93851972517649	NA	TRUE	10.2	1	testis
-ENSG00000182170	MRGPRG	870	2.93951925261862	NA	TRUE	0.4	0	testis
+ENSG00000182170	MRGPRG	870	2.93951925261862	NA	TRUE	0.4	0	NA
 ENSG00000270170	NCBP2AS2	870	2.93951925261862	NA	TRUE	46.1	36	skeletal muscle
 ENSG00000189169	KRTAP10-12	873	2.94101424370557	NA	TRUE	9	1	skin
 ENSG00000070031	SCT	873	2.94101424370557	NA	TRUE	9.5	8	skeletal muscle
 ENSG00000178372	CALML5	874	2.9415114326344	NA	TRUE	2986.9	11	skin
 ENSG00000212724	KRTAP2-3	875	2.94200805302231	NA	TRUE	18.5	1	skin
 ENSG00000187766	KRTAP10-8	876	2.94250410616808	NA	TRUE	7	1	skin
-ENSG00000259571	BLID	876	2.94250410616808	NA	TRUE	0.2	0	blood vessel
-ENSG00000197919	IFNA1	878	2.9434945159061	NA	TRUE	0.2	0	cerebellum
-ENSG00000230667	SETSIP	879	2.94398887507377	NA	TRUE	0.2	0	cerebral cortex; testis
+ENSG00000259571	BLID	876	2.94250410616808	NA	TRUE	0.2	0	NA
+ENSG00000197919	IFNA1	878	2.9434945159061	NA	TRUE	0.2	0	NA
+ENSG00000230667	SETSIP	879	2.94398887507377	NA	TRUE	0.2	0	NA
 ENSG00000182816	KRTAP13-2	882	2.94546858513182	NA	TRUE	11.3	1	skin
 ENSG00000101405	OXT	898	2.9532763366673	NA	TRUE	2931.7	16	hypothalamus
 ENSG00000196224	KRTAP5-3	899	2.95375969173323	NA	TRUE	7.4	1	skin
 ENSG00000198271	KRTAP4-5	902	2.95520653754194	NA	TRUE	11.4	1	skin
 ENSG00000188581	KRTAP1-1	910	2.95904139232109	NA	TRUE	73.4	1	skin
-ENSG00000172208	OR4X2	912	2.95999483832842	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000172208	OR4X2	912	2.95999483832842	NA	TRUE	0	0	NA
 ENSG00000125148	MT2A	914	2.96094619573383	NA	TRUE	15847.5	36	liver
-ENSG00000255223	OR5M11	918	2.96284268120124	NA	TRUE	0.1	0	testis; urinary bladder
-ENSG00000176567	OR4X1	918	2.96284268120124	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000260811	OR4C45	921	2.96425963019685	NA	TRUE	0	0	retina
-ENSG00000181752	OR8K5	924	2.96567197122011	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000221855	TAS2R41	924	2.96567197122011	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000213439	OR5AC1	925	2.96614173273903	NA	TRUE	0	0	retina
-ENSG00000273085	OR52E1	926	2.96661098668193	NA	TRUE	0	0	retina
-ENSG00000171054	OR13H1	927	2.9670797341445	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000166368	OR2D2	927	2.9670797341445	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000255223	OR5M11	918	2.96284268120124	NA	TRUE	0.1	0	NA
+ENSG00000176567	OR4X1	918	2.96284268120124	NA	TRUE	0	0	NA
+ENSG00000260811	OR4C45	921	2.96425963019685	NA	TRUE	0	0	NA
+ENSG00000181752	OR8K5	924	2.96567197122011	NA	TRUE	0	0	NA
+ENSG00000221855	TAS2R41	924	2.96567197122011	NA	TRUE	0	0	NA
+ENSG00000213439	OR5AC1	925	2.96614173273903	NA	TRUE	0	0	NA
+ENSG00000273085	OR52E1	926	2.96661098668193	NA	TRUE	0	0	NA
+ENSG00000171054	OR13H1	927	2.9670797341445	NA	TRUE	0	0	NA
+ENSG00000166368	OR2D2	927	2.9670797341445	NA	TRUE	0	0	NA
 ENSG00000169877	AHSP	928	2.96754797621886	NA	TRUE	24.5	10	spleen
-ENSG00000185926	OR4C46	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000172199	OR8U1	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000280090	OR8B4	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181282	OR5AK3P	930	2.96848294855394	NA	TRUE	0	0	retina
+ENSG00000185926	OR4C46	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000172199	OR8U1	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000280090	OR8B4	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000181282	OR5AK3P	930	2.96848294855394	NA	TRUE	0	0	NA
 ENSG00000181273	OR5AK2	930	2.96848294855394	NA	TRUE	4.6	1	spleen
-ENSG00000226761	TAS2R46	930	2.96848294855394	NA	TRUE	0.2	0	cerebellum
-ENSG00000175619	OR4B1	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000237388	OR4A47	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000196578	OR5AC2	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000184155	OR10J5	930	2.96848294855394	NA	TRUE	0.1	0	liver
-ENSG00000176555	OR4S1	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000177476	OR2G3	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000172289	OR10V1	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000172150	OR1A2	930	2.96848294855394	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279514	OR4C16	933	2.9698816437465	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000187612	OR5W2	933	2.9698816437465	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000183251	OR51B4	933	2.9698816437465	NA	TRUE	0.1	0	ovary
-ENSG00000150269	OR5M9	933	2.9698816437465	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000172154	OR8I2	933	2.9698816437465	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000172459	OR5AR1	933	2.9698816437465	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000179468	OR9A2	933	2.9698816437465	NA	TRUE	0.3	0	spinal cord
+ENSG00000226761	TAS2R46	930	2.96848294855394	NA	TRUE	0.2	0	NA
+ENSG00000175619	OR4B1	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000237388	OR4A47	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000196578	OR5AC2	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000184155	OR10J5	930	2.96848294855394	NA	TRUE	0.1	0	NA
+ENSG00000176555	OR4S1	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000177476	OR2G3	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000172289	OR10V1	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000172150	OR1A2	930	2.96848294855394	NA	TRUE	0	0	NA
+ENSG00000279514	OR4C16	933	2.9698816437465	NA	TRUE	0	0	NA
+ENSG00000187612	OR5W2	933	2.9698816437465	NA	TRUE	0	0	NA
+ENSG00000183251	OR51B4	933	2.9698816437465	NA	TRUE	0.1	0	NA
+ENSG00000150269	OR5M9	933	2.9698816437465	NA	TRUE	0	0	NA
+ENSG00000172154	OR8I2	933	2.9698816437465	NA	TRUE	0	0	NA
+ENSG00000172459	OR5AR1	933	2.9698816437465	NA	TRUE	0	0	NA
+ENSG00000179468	OR9A2	933	2.9698816437465	NA	TRUE	0.3	0	NA
 ENSG00000196196	HRCT1	935	2.97081161087252	NA	TRUE	51.2	35	blood vessel
-ENSG00000181214	OR8G2P	935	2.97081161087252	NA	TRUE	0	0	retina
-ENSG00000249730	OR10J4	935	2.97081161087252	NA	TRUE	0	0	retina
-ENSG00000174339	OR2Y1	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000205030	OR5L2	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000171505	OR1N1	936	2.97127584873811	NA	TRUE	0.1	0	retina; testis
-ENSG00000136939	OR1L4	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000161807	OR7G1	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000205495	OR52J3	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000176200	OR4D11	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000236981	OR10G9	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279116	OR8D2	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181371	OR5M8	936	2.97127584873811	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000181214	OR8G2P	935	2.97081161087252	NA	TRUE	0	0	NA
+ENSG00000249730	OR10J4	935	2.97081161087252	NA	TRUE	0	0	NA
+ENSG00000174339	OR2Y1	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000205030	OR5L2	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000171505	OR1N1	936	2.97127584873811	NA	TRUE	0.1	0	NA
+ENSG00000136939	OR1L4	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000161807	OR7G1	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000205495	OR52J3	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000176200	OR4D11	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000236981	OR10G9	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000279116	OR8D2	936	2.97127584873811	NA	TRUE	0	0	NA
+ENSG00000181371	OR5M8	936	2.97127584873811	NA	TRUE	0	0	NA
 ENSG00000182591	KRTAP11-1	937	2.97173959088778	NA	TRUE	187.3	3	skin
-ENSG00000182477	OR2B8P	938	2.97220283837906	NA	TRUE	0.1	0	retina
-ENSG00000176246	OR4L1	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000176269	OR4F21	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000168828	OR13J1	939	2.97266559226611	NA	TRUE	0.9	0	retina
-ENSG00000170920	OR7G3	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000176239	OR51B6	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000147885	IFNA16	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181761	OR8H3	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000174957	OR5J2	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000184954	OR6C70	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000205327	OR6C68	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000221931	OR6X1	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279012	OR51B2	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000185821	OR6C76	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000284723	OR8S1	939	2.97266559226611	NA	TRUE	0.1	0	ovary
-ENSG00000205328	OR6C65	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000197887	OR1S2	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000177186	OR2M7	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000177174	OR14C36	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279263	OR2L8	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000162727	OR2M5	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000182083	OR6B2	939	2.97266559226611	NA	TRUE	0.3	0	retina
-ENSG00000262628	OR1D5	939	2.97266559226611	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000284733	OR4F29	939	2.97266559226611	NA	TRUE	0.1	0	testis
-ENSG00000284662	OR4F16	939	2.97266559226611	NA	TRUE	0.1	0	testis
-ENSG00000196266	OR10J3	940	2.9731278535997	NA	TRUE	0.1	0	retina
-ENSG00000197233	OR1J2	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000239590	OR1J4	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000124657	OR2B6	942	2.97405090279288	NA	TRUE	0.3	0	prostate; testis
-ENSG00000205496	OR51A2	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000182477	OR2B8P	938	2.97220283837906	NA	TRUE	0.1	0	NA
+ENSG00000176246	OR4L1	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000176269	OR4F21	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000168828	OR13J1	939	2.97266559226611	NA	TRUE	0.9	0	NA
+ENSG00000170920	OR7G3	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000176239	OR51B6	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000147885	IFNA16	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000181761	OR8H3	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000174957	OR5J2	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000184954	OR6C70	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000205327	OR6C68	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000221931	OR6X1	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000279012	OR51B2	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000185821	OR6C76	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000284723	OR8S1	939	2.97266559226611	NA	TRUE	0.1	0	NA
+ENSG00000205328	OR6C65	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000197887	OR1S2	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000177186	OR2M7	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000177174	OR14C36	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000279263	OR2L8	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000162727	OR2M5	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000182083	OR6B2	939	2.97266559226611	NA	TRUE	0.3	0	NA
+ENSG00000262628	OR1D5	939	2.97266559226611	NA	TRUE	0	0	NA
+ENSG00000284733	OR4F29	939	2.97266559226611	NA	TRUE	0.1	0	NA
+ENSG00000284662	OR4F16	939	2.97266559226611	NA	TRUE	0.1	0	NA
+ENSG00000196266	OR10J3	940	2.9731278535997	NA	TRUE	0.1	0	NA
+ENSG00000197233	OR1J2	942	2.97405090279288	NA	TRUE	0	0	NA
+ENSG00000239590	OR1J4	942	2.97405090279288	NA	TRUE	0	0	NA
+ENSG00000124657	OR2B6	942	2.97405090279288	NA	TRUE	0.3	0	NA
+ENSG00000205496	OR51A2	942	2.97405090279288	NA	TRUE	0	0	NA
 ENSG00000205869	KRTAP5-1	942	2.97405090279288	NA	TRUE	11.1	15	cerebellum
-ENSG00000186119	OR5D18	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000196099	OR6M1	942	2.97405090279288	NA	TRUE	0.5	0	pancreas
-ENSG00000175398	OR10P1	942	2.97405090279288	NA	TRUE	0.5	0	heart muscle
-ENSG00000183269	OR52E8	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000188691	OR56A5	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000183024	OR1G1	942	2.97405090279288	NA	TRUE	0.1	0	testis
-ENSG00000225781	OR6V1	942	2.97405090279288	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000276410	H2BC3	943	2.97451169273733	NA	TRUE	0.9	0	testis
-ENSG00000241356	OR5G3	944	2.97497199429807	NA	TRUE	0	0	retina
-ENSG00000258806	OR11H7	945	2.97543180850926	NA	TRUE	0	0	retina
+ENSG00000186119	OR5D18	942	2.97405090279288	NA	TRUE	0	0	NA
+ENSG00000196099	OR6M1	942	2.97405090279288	NA	TRUE	0.5	0	NA
+ENSG00000175398	OR10P1	942	2.97405090279288	NA	TRUE	0.5	0	NA
+ENSG00000183269	OR52E8	942	2.97405090279288	NA	TRUE	0	0	NA
+ENSG00000188691	OR56A5	942	2.97405090279288	NA	TRUE	0	0	NA
+ENSG00000183024	OR1G1	942	2.97405090279288	NA	TRUE	0.1	0	NA
+ENSG00000225781	OR6V1	942	2.97405090279288	NA	TRUE	0	0	NA
+ENSG00000276410	H2BC3	943	2.97451169273733	NA	TRUE	0.9	0	NA
+ENSG00000241356	OR5G3	944	2.97497199429807	NA	TRUE	0	0	NA
+ENSG00000258806	OR11H7	945	2.97543180850926	NA	TRUE	0	0	NA
 ENSG00000165202	OR1Q1	945	2.97543180850926	NA	TRUE	1.1	1	retina
-ENSG00000179055	OR13D1	945	2.97543180850926	NA	TRUE	0.1	0	testis
-ENSG00000186113	OR5D14	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279761	OR5D13	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000225997	OR4A8	945	2.97543180850926	NA	TRUE	0	0	retina
-ENSG00000167825	OR5I1	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000149133	OR5F1	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000167359	OR51I1	945	2.97543180850926	NA	TRUE	0.1	0	testis
-ENSG00000166884	OR4D6	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181958	OR4A15	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000186306	OR10T2	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000179055	OR13D1	945	2.97543180850926	NA	TRUE	0.1	0	NA
+ENSG00000186113	OR5D14	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000279761	OR5D13	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000225997	OR4A8	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000167825	OR5I1	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000149133	OR5F1	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000167359	OR51I1	945	2.97543180850926	NA	TRUE	0.1	0	NA
+ENSG00000166884	OR4D6	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000181958	OR4A15	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000186306	OR10T2	945	2.97543180850926	NA	TRUE	0	0	NA
 ENSG00000238243	OR2W3	945	2.97543180850926	NA	TRUE	3.1	6	thyroid gland
-ENSG00000153230	OR14K1	945	2.97543180850926	NA	TRUE	0.1	0	testis
-ENSG00000186136	TAS2R42	945	2.97543180850926	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000237621	OR9A1P	945	2.97543180850926	NA	TRUE	0	0	retina
+ENSG00000153230	OR14K1	945	2.97543180850926	NA	TRUE	0.1	0	NA
+ENSG00000186136	TAS2R42	945	2.97543180850926	NA	TRUE	0	0	NA
+ENSG00000237621	OR9A1P	945	2.97543180850926	NA	TRUE	0	0	NA
 ENSG00000180042	OR1R1P	945	2.97543180850926	NA	TRUE	1.1	1	testis
-ENSG00000197786	OR5B17	946	2.97589113640179	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000176290	OR4K3	947	2.97634997900327	NA	TRUE	0	0	retina
-ENSG00000130538	OR11H1	948	2.97680833733807	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000258453	OR11H2	948	2.97680833733807	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279270	OR52R1	948	2.97680833733807	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000254834	OR5M10	948	2.97680833733807	NA	TRUE	0	0	retina
-ENSG00000176742	OR51V1	948	2.97680833733807	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000214642	DEFB113	949	2.97726621242729	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000197786	OR5B17	946	2.97589113640179	NA	TRUE	0	0	NA
+ENSG00000176290	OR4K3	947	2.97634997900327	NA	TRUE	0	0	NA
+ENSG00000130538	OR11H1	948	2.97680833733807	NA	TRUE	0	0	NA
+ENSG00000258453	OR11H2	948	2.97680833733807	NA	TRUE	0	0	NA
+ENSG00000279270	OR52R1	948	2.97680833733807	NA	TRUE	0	0	NA
+ENSG00000254834	OR5M10	948	2.97680833733807	NA	TRUE	0	0	NA
+ENSG00000176742	OR51V1	948	2.97680833733807	NA	TRUE	0	0	NA
+ENSG00000214642	DEFB113	949	2.97726621242729	NA	TRUE	0	0	NA
 ENSG00000198854	C1orf68	949	2.97726621242729	NA	TRUE	481.5	1	skin
 ENSG00000169385	RNASE2	950	2.97772360528885	NA	TRUE	33.7	31	spleen
-ENSG00000165204	OR1K1	951	2.97818051693741	NA	TRUE	0.1	0	testis
-ENSG00000172464	OR5AP2	951	2.97818051693741	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000179919	OR10A7	951	2.97818051693741	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000231861	OR5K2	951	2.97818051693741	NA	TRUE	0.6	0	cerebellum
+ENSG00000165204	OR1K1	951	2.97818051693741	NA	TRUE	0.1	0	NA
+ENSG00000172464	OR5AP2	951	2.97818051693741	NA	TRUE	0	0	NA
+ENSG00000179919	OR10A7	951	2.97818051693741	NA	TRUE	0	0	NA
+ENSG00000231861	OR5K2	951	2.97818051693741	NA	TRUE	0.6	0	NA
 ENSG00000181867	FTMT	952	2.97863694838447	NA	TRUE	48.6	1	testis
-ENSG00000197790	OR52M1	954	2.9795483747041	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000197790	OR52M1	954	2.9795483747041	NA	TRUE	0	0	NA
 ENSG00000172640	OR10AD1	954	2.9795483747041	NA	TRUE	2.3	1	retina
-ENSG00000279051	OR6Q1	954	2.9795483747041	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000177489	OR2G2	954	2.9795483747041	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000166363	OR10A5	954	2.9795483747041	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000221910	OR2F2	954	2.9795483747041	NA	TRUE	0.1	0	testis
+ENSG00000279051	OR6Q1	954	2.9795483747041	NA	TRUE	0	0	NA
+ENSG00000177489	OR2G2	954	2.9795483747041	NA	TRUE	0	0	NA
+ENSG00000166363	OR10A5	954	2.9795483747041	NA	TRUE	0	0	NA
+ENSG00000221910	OR2F2	954	2.9795483747041	NA	TRUE	0.1	0	NA
 ENSG00000206422	LRRC30	956	2.9804578922761	NA	TRUE	9.7	1	skeletal muscle
-ENSG00000148136	OR13C4	957	2.98091193777684	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000277556	OR13C5	957	2.98091193777684	NA	TRUE	0.2	0	pituitary gland
-ENSG00000276119	OR13C2	957	2.98091193777684	NA	TRUE	0.4	0	pituitary gland
-ENSG00000136839	OR13C9	957	2.98091193777684	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000171014	OR4D5	957	2.98091193777684	NA	TRUE	0.2	0	pancreas
-ENSG00000196539	OR2T3	957	2.98091193777684	NA	TRUE	0.1	0	salivary gland
-ENSG00000183310	OR2T34	957	2.98091193777684	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000185899	TAS2R60	957	2.98091193777684	NA	TRUE	0.1	0	liver
-ENSG00000221989	OR2A2	957	2.98091193777684	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000243641	OR13C7	959	2.98181860717066	NA	TRUE	0	0	retina
-ENSG00000127529	OR7C2	960	2.98227123303957	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000186881	OR13F1	960	2.98227123303957	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000150261	OR8K1	960	2.98227123303957	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000280021	OR51F1	960	2.98227123303957	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000148136	OR13C4	957	2.98091193777684	NA	TRUE	0	0	NA
+ENSG00000277556	OR13C5	957	2.98091193777684	NA	TRUE	0.2	0	NA
+ENSG00000276119	OR13C2	957	2.98091193777684	NA	TRUE	0.4	0	NA
+ENSG00000136839	OR13C9	957	2.98091193777684	NA	TRUE	0	0	NA
+ENSG00000171014	OR4D5	957	2.98091193777684	NA	TRUE	0.2	0	NA
+ENSG00000196539	OR2T3	957	2.98091193777684	NA	TRUE	0.1	0	NA
+ENSG00000183310	OR2T34	957	2.98091193777684	NA	TRUE	0	0	NA
+ENSG00000185899	TAS2R60	957	2.98091193777684	NA	TRUE	0.1	0	NA
+ENSG00000221989	OR2A2	957	2.98091193777684	NA	TRUE	0	0	NA
+ENSG00000243641	OR13C7	959	2.98181860717066	NA	TRUE	0	0	NA
+ENSG00000127529	OR7C2	960	2.98227123303957	NA	TRUE	0	0	NA
+ENSG00000186881	OR13F1	960	2.98227123303957	NA	TRUE	0	0	NA
+ENSG00000150261	OR8K1	960	2.98227123303957	NA	TRUE	0	0	NA
+ENSG00000280021	OR51F1	960	2.98227123303957	NA	TRUE	0	0	NA
 ENSG00000222018	C21orf140	961	2.98272338766855	NA	TRUE	4	24	retina
-ENSG00000186943	OR13C8	963	2.98362628712453	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000148215	OR5C1	963	2.98362628712453	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000186943	OR13C8	963	2.98362628712453	NA	TRUE	0	0	NA
+ENSG00000148215	OR5C1	963	2.98362628712453	NA	TRUE	0	0	NA
 ENSG00000175602	CCDC85B	963	2.98362628712453	NA	TRUE	367.2	36	hippocampal formation
-ENSG00000186803	IFNA10	963	2.98362628712453	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181109	OR52P1	963	2.98362628712453	NA	TRUE	0	0	retina
-ENSG00000204704	OR2W1	963	2.98362628712453	NA	TRUE	0.2	0	testis
-ENSG00000196944	OR2T4	963	2.98362628712453	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000175485	OR52W1	963	2.98362628712453	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000186803	IFNA10	963	2.98362628712453	NA	TRUE	0	0	NA
+ENSG00000181109	OR52P1	963	2.98362628712453	NA	TRUE	0	0	NA
+ENSG00000204704	OR2W1	963	2.98362628712453	NA	TRUE	0.2	0	NA
+ENSG00000196944	OR2T4	963	2.98362628712453	NA	TRUE	0	0	NA
+ENSG00000175485	OR52W1	963	2.98362628712453	NA	TRUE	0	0	NA
 ENSG00000169397	RNASE3	964	2.98407703390283	NA	TRUE	9	6	spleen
-ENSG00000278870	OR51G1	966	2.98497712641549	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000172938	MRGPRD	966	2.98497712641549	NA	TRUE	0.6	0	colon
-ENSG00000196098	OR5K4	966	2.98497712641549	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000206536	OR5K3	966	2.98497712641549	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000278870	OR51G1	966	2.98497712641549	NA	TRUE	0	0	NA
+ENSG00000172938	MRGPRD	966	2.98497712641549	NA	TRUE	0.6	0	NA
+ENSG00000196098	OR5K4	966	2.98497712641549	NA	TRUE	0	0	NA
+ENSG00000206536	OR5K3	966	2.98497712641549	NA	TRUE	0	0	NA
 ENSG00000142684	ZNF593	966	2.98497712641549	NA	TRUE	104.8	36	skeletal muscle
 ENSG00000241595	KRTAP9-4	967	2.985426474083	NA	TRUE	37.1	1	skin
 ENSG00000293563	NA	968	2.98587535730839	NA	FALSE	NA	0	NA
-ENSG00000136834	OR1J1	969	2.98632377705077	NA	TRUE	0.1	0	retina; testis
-ENSG00000183303	OR5P2	969	2.98632377705077	NA	TRUE	0.2	0	skin
-ENSG00000172489	OR5T3	969	2.98632377705077	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000197591	OR11L1	969	2.98632377705077	NA	TRUE	0.1	0	thyroid gland
-ENSG00000236637	IFNA4	970	2.98677173426624	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000176281	OR4K5	972	2.98766626492627	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181499	OR6T1	972	2.98766626492627	NA	TRUE	0.3	0	pancreas
-ENSG00000176922	OR51S1	972	2.98766626492627	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000255307	OR52B2	972	2.98766626492627	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000127780	OR1E2	972	2.98766626492627	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000244623	OR2AE1	972	2.98766626492627	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000136834	OR1J1	969	2.98632377705077	NA	TRUE	0.1	0	NA
+ENSG00000183303	OR5P2	969	2.98632377705077	NA	TRUE	0.2	0	NA
+ENSG00000172489	OR5T3	969	2.98632377705077	NA	TRUE	0	0	NA
+ENSG00000197591	OR11L1	969	2.98632377705077	NA	TRUE	0.1	0	NA
+ENSG00000236637	IFNA4	970	2.98677173426624	NA	TRUE	0	0	NA
+ENSG00000176281	OR4K5	972	2.98766626492627	NA	TRUE	0	0	NA
+ENSG00000181499	OR6T1	972	2.98766626492627	NA	TRUE	0.3	0	NA
+ENSG00000176922	OR51S1	972	2.98766626492627	NA	TRUE	0	0	NA
+ENSG00000255307	OR52B2	972	2.98766626492627	NA	TRUE	0	0	NA
+ENSG00000127780	OR1E2	972	2.98766626492627	NA	TRUE	0	0	NA
+ENSG00000244623	OR2AE1	972	2.98766626492627	NA	TRUE	0	0	NA
 ENSG00000177202	SPACA4	973	2.98811284026835	NA	TRUE	111.8	7	testis
 ENSG00000176679	TGIF2LY	975	2.98900461569854	NA	TRUE	3.7	1	testis
-ENSG00000171481	OR1L3	975	2.98900461569854	NA	TRUE	0.1	0	retina
-ENSG00000169488	OR4K15	975	2.98900461569854	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279961	OR8U3	975	2.98900461569854	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000232268	OR52I1	975	2.98900461569854	NA	TRUE	0.1	0	cerebellum
-ENSG00000196171	OR6K2	975	2.98900461569854	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000171481	OR1L3	975	2.98900461569854	NA	TRUE	0.1	0	NA
+ENSG00000169488	OR4K15	975	2.98900461569854	NA	TRUE	0	0	NA
+ENSG00000279961	OR8U3	975	2.98900461569854	NA	TRUE	0	0	NA
+ENSG00000232268	OR52I1	975	2.98900461569854	NA	TRUE	0.1	0	NA
+ENSG00000196171	OR6K2	975	2.98900461569854	NA	TRUE	0	0	NA
 ENSG00000153779	TGIF2LX	976	2.98944981766669	NA	TRUE	8.6	1	testis
-ENSG00000176787	OR52E2	978	2.9903388547876	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000176787	OR52E2	978	2.9903388547876	NA	TRUE	0	0	NA
 ENSG00000159723	AGRP	978	2.9903388547876	NA	TRUE	36.4	6	hypothalamus
 ENSG00000123689	G0S2	979	2.99078269180314	NA	TRUE	755.3	35	adipose tissue
-ENSG00000234829	IFNA17	980	2.99122607569249	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000257115	OR11H12	981	2.99166900737995	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000176540	OR4C5	981	2.99166900737995	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000279111	OR10X1	981	2.99166900737995	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000234829	IFNA17	980	2.99122607569249	NA	TRUE	0	0	NA
+ENSG00000257115	OR11H12	981	2.99166900737995	NA	TRUE	0	0	NA
+ENSG00000176540	OR4C5	981	2.99166900737995	NA	TRUE	0	0	NA
+ENSG00000279111	OR10X1	981	2.99166900737995	NA	TRUE	0	0	NA
 ENSG00000198083	KRTAP9-9	981	2.99166900737995	NA	TRUE	22.8	1	skin
-ENSG00000269466	H3Y1	982	2.99211148778695	NA	TRUE	0.2	0	testis
-ENSG00000272987	OR5AL1	985	2.99343623049761	NA	TRUE	0	0	retina
-ENSG00000205029	OR5D16	987	2.99431715266964	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181961	OR4A16	987	2.99431715266964	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000147873	IFNA5	988	2.99475694458763	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000269466	H3Y1	982	2.99211148778695	NA	TRUE	0.2	0	NA
+ENSG00000272987	OR5AL1	985	2.99343623049761	NA	TRUE	0	0	NA
+ENSG00000205029	OR5D16	987	2.99431715266964	NA	TRUE	0	0	NA
+ENSG00000181961	OR4A16	987	2.99431715266964	NA	TRUE	0	0	NA
+ENSG00000147873	IFNA5	988	2.99475694458763	NA	TRUE	0	0	NA
 ENSG00000221880	KRTAP1-3	991	2.99607365448528	NA	TRUE	88.7	1	skin
 ENSG00000196156	KRTAP4-3	991	2.99607365448528	NA	TRUE	16.8	1	skin
-ENSG00000176219	OR11H6	993	2.99694924849538	NA	TRUE	0.1	0	testis
-ENSG00000178358	OR2D3	993	2.99694924849538	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000262085	OR1P1	994	2.99738638439731	NA	TRUE	0	0	retina
-ENSG00000170782	OR10A4	995	2.99782308074573	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000230178	OR4F3	995	2.99782308074573	NA	TRUE	0.3	0	testis
+ENSG00000176219	OR11H6	993	2.99694924849538	NA	TRUE	0.1	0	NA
+ENSG00000178358	OR2D3	993	2.99694924849538	NA	TRUE	0	0	NA
+ENSG00000262085	OR1P1	994	2.99738638439731	NA	TRUE	0	0	NA
+ENSG00000170782	OR10A4	995	2.99782308074573	NA	TRUE	0	0	NA
+ENSG00000230178	OR4F3	995	2.99782308074573	NA	TRUE	0.3	0	NA
 ENSG00000240871	KRTAP4-7	995	2.99782308074573	NA	TRUE	53.2	1	skin
 ENSG00000176125	UFSP1	995	2.99782308074573	NA	TRUE	3.6	33	skeletal muscle
-ENSG00000181803	OR6S1	996	2.9982593384237	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000128519	TAS2R16	997	2.99869515831166	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000198674	OR10G6	999	2.99956548822598	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000212126	TAS2R50	1000	3	NA	TRUE	0.2	0	cerebellum
+ENSG00000181803	OR6S1	996	2.9982593384237	NA	TRUE	0	0	NA
+ENSG00000128519	TAS2R16	997	2.99869515831166	NA	TRUE	0	0	NA
+ENSG00000198674	OR10G6	999	2.99956548822598	NA	TRUE	0	0	NA
+ENSG00000212126	TAS2R50	1000	3	NA	TRUE	0.2	0	NA
 ENSG00000212124	TAS2R19	1002	3.00086772153123	NA	TRUE	1.4	3	cerebellum
 ENSG00000250719	P3R3URF	1003	3.00130093302042	NA	TRUE	133.6	1	testis
-ENSG00000228083	IFNA14	1004	3.001733712809	NA	TRUE	0.1	0	kidney
+ENSG00000228083	IFNA14	1004	3.001733712809	NA	TRUE	0.1	0	NA
 ENSG00000256812	CAPNS2	1004	3.001733712809	NA	TRUE	99	7	skin
 ENSG00000284730	TMDD1	1005	3.00216606175651	NA	TRUE	3.9	2	testis
 ENSG00000174109	C16orf91	1005	3.00216606175651	NA	TRUE	16.6	36	adrenal gland
@@ -291,60 +291,60 @@ ENSG00000239886	KRTAP9-2	1005	3.00216606175651	NA	TRUE	27.7	1	skin
 ENSG00000212935	KRTAP10-3	1006	3.00259798071991	NA	TRUE	21.6	1	skin
 ENSG00000204873	KRTAP9-3	1006	3.00259798071991	NA	TRUE	45	1	skin
 ENSG00000187272	KRTAP9-8	1006	3.00259798071991	NA	TRUE	41.7	1	skin
-ENSG00000187747	OR52B6	1008	3.00346053210951	NA	TRUE	0.1	0	ovary
+ENSG00000187747	OR52B6	1008	3.00346053210951	NA	TRUE	0.1	0	NA
 ENSG00000146066	HIGD2A	1011	3.004751155591	NA	TRUE	423.8	36	skeletal muscle
 ENSG00000183396	TMEM89	1011	3.004751155591	NA	TRUE	28.3	1	testis
 ENSG00000288460	SMIM42	1015	3.00646604224923	NA	TRUE	8.6	1	testis
-ENSG00000236396	SLC35G4	1017	3.00732095292274	NA	TRUE	0.2	0	testis
+ENSG00000236396	SLC35G4	1017	3.00732095292274	NA	TRUE	0.2	0	NA
 ENSG00000177688	SUMO4	1017	3.00732095292274	NA	TRUE	1.2	2	liver
-ENSG00000236398	TAS2R39	1017	3.00732095292274	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000256436	TAS2R31	1021	3.00902574208691	NA	TRUE	0.9	0	ovary
+ENSG00000236398	TAS2R39	1017	3.00732095292274	NA	TRUE	0	0	NA
+ENSG00000256436	TAS2R31	1021	3.00902574208691	NA	TRUE	0.9	0	NA
 ENSG00000293685	NA	1022	3.00945089579869	NA	FALSE	NA	0	NA
-ENSG00000137080	IFNA21	1024	3.01029995663981	NA	TRUE	0.3	0	cerebellum
-ENSG00000205409	OR52E6	1025	3.01072386539177	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000137080	IFNA21	1024	3.01029995663981	NA	TRUE	0.3	0	NA
+ENSG00000205409	OR52E6	1025	3.01072386539177	NA	TRUE	0	0	NA
 ENSG00000212658	KRTAP29-1	1026	3.0111473607758	NA	TRUE	1.7	1	skin
-ENSG00000255374	TAS2R43	1027	3.01157044359728	NA	TRUE	0.2	0	cerebellum; ovary
-ENSG00000258817	OR4C13	1029	3.01241537476243	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000171942	OR10H2	1029	3.01241537476243	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000102128	RAB40AL	1029	3.01241537476243	NA	TRUE	0.3	0	cerebellum
-ENSG00000176547	OR4C3	1036	3.01535975540921	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000180475	OR10Q1	1037	3.01577875638904	NA	TRUE	0.1	0	pancreas
+ENSG00000255374	TAS2R43	1027	3.01157044359728	NA	TRUE	0.2	0	NA
+ENSG00000258817	OR4C13	1029	3.01241537476243	NA	TRUE	0	0	NA
+ENSG00000171942	OR10H2	1029	3.01241537476243	NA	TRUE	0	0	NA
+ENSG00000102128	RAB40AL	1029	3.01241537476243	NA	TRUE	0.3	0	NA
+ENSG00000176547	OR4C3	1036	3.01535975540921	NA	TRUE	0	0	NA
+ENSG00000180475	OR10Q1	1037	3.01577875638904	NA	TRUE	0.1	0	NA
 ENSG00000275714	H3C1	1037	3.01577875638904	NA	TRUE	3.3	1	testis
-ENSG00000146383	TAAR6	1038	3.01619735351244	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000146383	TAAR6	1038	3.01619735351244	NA	TRUE	0	0	NA
 ENSG00000132703	APCS	1040	3.01703333929878	NA	TRUE	2590.7	4	liver
 ENSG00000168703	WFDC12	1041	3.01745072951054	NA	TRUE	20.1	6	skin
-ENSG00000172680	MOS	1041	3.01745072951054	NA	TRUE	0.7	0	testis
-ENSG00000221937	TAS2R40	1043	3.01828430842653	NA	TRUE	0.7	0	spleen
+ENSG00000172680	MOS	1041	3.01745072951054	NA	TRUE	0.7	0	NA
+ENSG00000221937	TAS2R40	1043	3.01828430842653	NA	TRUE	0.7	0	NA
 ENSG00000163794	UCN	1046	3.01953168453126	NA	TRUE	9.2	33	basal ganglia
-ENSG00000278889	OR2S2	1047	3.01994668167884	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000228567	VN1R4	1048	3.02036128264771	NA	TRUE	0.2	0	testis
+ENSG00000278889	OR2S2	1047	3.01994668167884	NA	TRUE	0	0	NA
+ENSG00000228567	VN1R4	1048	3.02036128264771	NA	TRUE	0.2	0	NA
 ENSG00000198573	SPANXC	1055	3.02325245963371	NA	TRUE	30.4	1	testis
 ENSG00000203926	SPANXA2	1055	3.02325245963371	NA	TRUE	61.3	1	testis
 ENSG00000167874	TMEM88	1056	3.02366391819779	NA	TRUE	97.8	36	heart muscle
-ENSG00000237110	TAAR9	1060	3.02530586526477	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000221954	OR4C12	1063	3.0265332645233	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000139223	ANP32D	1064	3.02694162795903	NA	TRUE	0.1	0	ovary; testis
+ENSG00000237110	TAAR9	1060	3.02530586526477	NA	TRUE	0	0	NA
+ENSG00000221954	OR4C12	1063	3.0265332645233	NA	TRUE	0	0	NA
+ENSG00000139223	ANP32D	1064	3.02694162795903	NA	TRUE	0.1	0	NA
 ENSG00000198021	SPANXA1	1065	3.02734960777476	NA	TRUE	4.3	1	testis
 ENSG00000181609	OR52D1	1065	3.02734960777476	NA	TRUE	1.1	1	testis
-ENSG00000176900	OR51T1	1065	3.02734960777476	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000284306	SSU72P2	1066	3.02775720469055	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000181963	OR52K2	1067	3.02816441942447	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000120242	IFNA8	1069	3.02897770520878	NA	TRUE	0.2	0	cerebellum
+ENSG00000176900	OR51T1	1065	3.02734960777476	NA	TRUE	0	0	NA
+ENSG00000284306	SSU72P2	1066	3.02775720469055	NA	TRUE	0	0	NA
+ENSG00000181963	OR52K2	1067	3.02816441942447	NA	TRUE	0	0	NA
+ENSG00000120242	IFNA8	1069	3.02897770520878	NA	TRUE	0.2	0	NA
 ENSG00000177938	CAPZA3	1070	3.02938377768521	NA	TRUE	175.7	4	testis
-ENSG00000221840	OR4A5	1071	3.02978947083186	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000284018	SSU72P5	1071	3.02978947083186	NA	TRUE	0.1	0	liver
-ENSG00000177693	OR4F4	1072	3.03019478535675	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000121381	TAS2R9	1075	3.03140846425162	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000284546	SSU72P3	1075	3.03140846425162	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000221840	OR4A5	1071	3.02978947083186	NA	TRUE	0	0	NA
+ENSG00000284018	SSU72P5	1071	3.02978947083186	NA	TRUE	0.1	0	NA
+ENSG00000177693	OR4F4	1072	3.03019478535675	NA	TRUE	0	0	NA
+ENSG00000121381	TAS2R9	1075	3.03140846425162	NA	TRUE	0	0	NA
+ENSG00000284546	SSU72P3	1075	3.03140846425162	NA	TRUE	0	0	NA
 ENSG00000229937	PRPS1L1	1077	3.03221570329798	NA	TRUE	28.3	1	testis
-ENSG00000173679	OR1L1	1083	3.03462845662532	NA	TRUE	0.1	0	retina
+ENSG00000173679	OR1L1	1083	3.03462845662532	NA	TRUE	0.1	0	NA
 ENSG00000124089	MC3R	1084	3.03502928220237	NA	TRUE	1.3	1	hypothalamus
-ENSG00000182974	OR4M2B	1084	3.03502928220237	NA	TRUE	0.5	0	testis
-ENSG00000146385	TAAR8	1085	3.03542973818455	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000182974	OR4M2B	1084	3.03502928220237	NA	TRUE	0.5	0	NA
+ENSG00000146385	TAAR8	1085	3.03542973818455	NA	TRUE	0	0	NA
 ENSG00000213416	KRTAP4-12	1092	3.03822263836872	NA	TRUE	24.2	1	skin
-ENSG00000183313	OR52L1	1094	3.03901732199741	NA	TRUE	0.1	0	testis
-ENSG00000167360	OR51Q1	1096	3.03981055414835	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000121377	TAS2R7	1096	3.03981055414835	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000183313	OR52L1	1094	3.03901732199741	NA	TRUE	0.1	0	NA
+ENSG00000167360	OR51Q1	1096	3.03981055414835	NA	TRUE	0	0	NA
+ENSG00000121377	TAS2R7	1096	3.03981055414835	NA	TRUE	0	0	NA
 ENSG00000187173	LCE2A	1098	3.04060234011407	NA	TRUE	111.6	1	skin
 ENSG00000179673	RPRML	1098	3.04060234011407	NA	TRUE	47.2	9	basal ganglia
 ENSG00000105374	NKG7	1099	3.04099769242349	NA	TRUE	161	33	spleen
@@ -352,60 +352,60 @@ ENSG00000273313	NA	1099	3.04099769242349	NA	FALSE	NA	0	NA
 ENSG00000221859	KRTAP10-10	1100	3.04139268515822	NA	TRUE	17.1	1	skin
 ENSG00000171396	KRTAP4-4	1100	3.04139268515822	NA	TRUE	17.2	1	skin
 ENSG00000212722	KRTAP4-9	1100	3.04139268515822	NA	TRUE	44.6	1	skin
-ENSG00000284438	SSU72P7	1101	3.04178731897175	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000127362	TAS2R3	1101	3.04178731897175	NA	TRUE	0.3	0	cerebellum; retina
-ENSG00000283873	SSU72P4	1102	3.04218159451577	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000171501	OR1N2	1103	3.04257551244019	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000255582	OR10G2	1105	3.04336227802113	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000204703	OR2B3	1106	3.04375512696868	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000204246	OR13C3	1108	3.04453976039241	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000125533	BHLHE23	1109	3.04493154614916	NA	TRUE	0.2	0	testis
-ENSG00000279395	OR5L1	1110	3.04532297878666	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000268799	H3Y2	1110	3.04532297878666	NA	TRUE	0.3	0	testis
+ENSG00000284438	SSU72P7	1101	3.04178731897175	NA	TRUE	0	0	NA
+ENSG00000127362	TAS2R3	1101	3.04178731897175	NA	TRUE	0.3	0	NA
+ENSG00000283873	SSU72P4	1102	3.04218159451577	NA	TRUE	0	0	NA
+ENSG00000171501	OR1N2	1103	3.04257551244019	NA	TRUE	0	0	NA
+ENSG00000255582	OR10G2	1105	3.04336227802113	NA	TRUE	0	0	NA
+ENSG00000204703	OR2B3	1106	3.04375512696868	NA	TRUE	0	0	NA
+ENSG00000204246	OR13C3	1108	3.04453976039241	NA	TRUE	0	0	NA
+ENSG00000125533	BHLHE23	1109	3.04493154614916	NA	TRUE	0.2	0	NA
+ENSG00000279395	OR5L1	1110	3.04532297878666	NA	TRUE	0	0	NA
+ENSG00000268799	H3Y2	1110	3.04532297878666	NA	TRUE	0.3	0	NA
 ENSG00000143546	S100A8	1111	3.04571405894087	NA	TRUE	36526.2	36	esophagus
 ENSG00000104826	LHB	1112	3.04610478724604	NA	TRUE	4053.3	12	pituitary gland
 ENSG00000198090	KRTAP4-6	1112	3.04610478724604	NA	TRUE	31.1	1	skin
 ENSG00000227234	SPANXB1	1113	3.04649516433471	NA	TRUE	86.5	1	testis
-ENSG00000181939	OR4C15	1113	3.04649516433471	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000181939	OR4C15	1113	3.04649516433471	NA	TRUE	0	0	NA
 ENSG00000188375	H3-5	1114	3.04688519083771	NA	TRUE	19.8	2	testis
 ENSG00000205867	KRTAP5-2	1118	3.0484418035504	NA	TRUE	4.4	2	skin
-ENSG00000196248	OR10S1	1121	3.04960561259497	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000196248	OR10S1	1121	3.04960561259497	NA	TRUE	0	0	NA
 ENSG00000205544	TMEM256	1123	3.05037975626146	NA	TRUE	195.4	36	liver
-ENSG00000221996	OR52B4	1124	3.05076631123304	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000221996	OR52B4	1124	3.05076631123304	NA	TRUE	0	0	NA
 ENSG00000205138	SDHAF1	1125	3.05115252244738	NA	TRUE	31.8	36	liver
 ENSG00000279408	OR4N4C	1125	3.05115252244738	NA	TRUE	2.3	1	testis
 ENSG00000185966	LCE3E	1127	3.05192391604611	NA	TRUE	54.8	5	cervix
 ENSG00000235942	LCE6A	1128	3.05230909964732	NA	TRUE	108.1	1	skin
 ENSG00000149634	SPATA25	1132	3.05384642685225	NA	TRUE	22.9	36	testis
 ENSG00000242252	BGLAP	1134	3.05461305455689	NA	TRUE	17.8	17	colon
-ENSG00000176925	OR51F2	1136	3.055378331375	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
-ENSG00000283758	PMIS2	1136	3.055378331375	NA	TRUE	0.6	0	testis
+ENSG00000176925	OR51F2	1136	3.055378331375	NA	TRUE	0	0	NA
+ENSG00000283758	PMIS2	1136	3.055378331375	NA	TRUE	0.6	0	NA
 ENSG00000163202	LCE3D	1136	3.055378331375	NA	TRUE	238.1	5	cervix
 ENSG00000196734	LCE1B	1138	3.05614226205905	NA	TRUE	167.7	1	skin
-ENSG00000121318	TAS2R10	1140	3.05690485133647	NA	TRUE	0.6	0	adrenal gland
+ENSG00000121318	TAS2R10	1140	3.05690485133647	NA	TRUE	0.6	0	NA
 ENSG00000197191	CYSRT1	1142	3.05766610390983	NA	TRUE	460.4	21	esophagus
-ENSG00000257138	TAS2R38	1143	3.05804623039528	NA	TRUE	0.1	0	small intestine
-ENSG00000188379	IFNA2	1144	3.05842602445701	NA	TRUE	0.2	0	basal ganglia
+ENSG00000257138	TAS2R38	1143	3.05804623039528	NA	TRUE	0.1	0	NA
+ENSG00000188379	IFNA2	1144	3.05842602445701	NA	TRUE	0.2	0	NA
 ENSG00000181649	PHLDA2	1148	3.05994188806195	NA	TRUE	43.5	31	esophagus
 ENSG00000205445	KRTAP10-2	1149	3.06032002868829	NA	TRUE	13.8	1	skin
 ENSG00000182853	VMO1	1149	3.06032002868829	NA	TRUE	29.2	34	pituitary gland
 ENSG00000241123	KRTAP10-5	1150	3.06069784035361	NA	TRUE	15.1	1	skin
 ENSG00000174236	REP15	1150	3.06069784035361	NA	TRUE	23.2	24	colon
-ENSG00000135569	TAAR5	1150	3.06069784035361	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000135569	TAAR5	1150	3.06069784035361	NA	TRUE	0	0	NA
 ENSG00000127366	TAS2R5	1151	3.06107532362979	NA	TRUE	3.7	28	cerebellum
-ENSG00000180919	OR56B4	1152	3.06145247908719	NA	TRUE	0.1	0	retina
-ENSG00000187080	OR2AK2	1154	3.06220580881971	NA	TRUE	0.1	0	testis
+ENSG00000180919	OR56B4	1152	3.06145247908719	NA	TRUE	0.1	0	NA
+ENSG00000187080	OR2AK2	1154	3.06220580881971	NA	TRUE	0.1	0	NA
 ENSG00000185940	KRTAP5-5	1156	3.06295783408451	NA	TRUE	3.2	1	skin
 ENSG00000188996	HUS1B	1162	3.06520612805431	NA	TRUE	2	1	testis
 ENSG00000204880	KRTAP4-8	1162	3.06520612805431	NA	TRUE	22.6	1	skin
 ENSG00000137077	CCL21	1163	3.06557971472845	NA	TRUE	497.7	27	thyroid gland
-ENSG00000180433	OR6K6	1172	3.06892761168207	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000180433	OR6K6	1172	3.06892761168207	NA	TRUE	0	0	NA
 ENSG00000204572	KRTAP5-10	1173	3.06929801211553	NA	TRUE	4.5	1	skin
 ENSG00000187581	COX8C	1175	3.07003786660776	NA	TRUE	71.9	1	testis
 ENSG00000241598	KRTAP5-4	1181	3.07224989761351	NA	TRUE	4.2	1	skin
-ENSG00000255009	UBTFL1	1182	3.07261747654524	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000255009	UBTFL1	1182	3.07261747654524	NA	TRUE	0	0	NA
 ENSG00000221852	KRTAP1-5	1183	3.07298474462793	NA	TRUE	71.2	2	skin
-ENSG00000276380	UBE2NL	1185	3.07371835034612	NA	TRUE	0	0	retina
+ENSG00000276380	UBE2NL	1185	3.07371835034612	NA	TRUE	0	0	NA
 ENSG00000241233	KRTAP5-8	1185	3.07371835034612	NA	TRUE	6.9	3	skin
 ENSG00000109272	PF4V1	1188	3.07481644064517	NA	TRUE	2.7	1	spleen
 ENSG00000214819	CDRT15L2	1188	3.07481644064517	NA	TRUE	14.9	2	testis
@@ -415,14 +415,14 @@ ENSG00000197683	KRTAP26-1	1192	3.07627625540422	NA	TRUE	17.7	1	skin
 ENSG00000134590	RTL8C	1192	3.07627625540422	NA	TRUE	426.8	36	heart muscle
 ENSG00000212721	KRTAP4-11	1193	3.07664044367034	NA	TRUE	8.8	1	skin
 ENSG00000138483	CCDC54	1197	3.07809415040641	NA	TRUE	116	1	testis
-ENSG00000170128	GPR25	1198	3.07845681805329	NA	TRUE	0.5	0	stomach
+ENSG00000170128	GPR25	1198	3.07845681805329	NA	TRUE	0.5	0	NA
 ENSG00000185863	TMEM210	1199	3.07881918309885	NA	TRUE	32.7	1	testis
-ENSG00000278637	H4C1	1199	3.07881918309885	NA	TRUE	0.8	0	cerebellum
-ENSG00000177047	IFNW1	1201	3.07954300740291	NA	TRUE	0.1	0	testis
+ENSG00000278637	H4C1	1199	3.07881918309885	NA	TRUE	0.8	0	NA
+ENSG00000177047	IFNW1	1201	3.07954300740291	NA	TRUE	0.1	0	NA
 ENSG00000169900	PYDC1	1201	3.07954300740291	NA	TRUE	25.5	10	cerebellum
 ENSG00000173991	TCAP	1206	3.08134730780413	NA	TRUE	9916	36	skeletal muscle
 ENSG00000188290	HES4	1211	3.08314414314305	NA	TRUE	30.8	35	blood vessel
-ENSG00000168131	OR2B2	1212	3.08350261983027	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000168131	OR2B2	1212	3.08350261983027	NA	TRUE	0	0	NA
 ENSG00000203909	DPPA5	1214	3.08421868673924	NA	TRUE	1.1	1	testis
 ENSG00000203942	C10orf62	1214	3.08421868673924	NA	TRUE	263	1	testis
 ENSG00000215455	KRTAP10-1	1215	3.08457627793433	NA	TRUE	9.5	1	skin
@@ -430,25 +430,25 @@ ENSG00000228474	OST4	1216	3.08493357493672	NA	TRUE	607.6	36	heart muscle
 ENSG00000160813	PPP1R35	1216	3.08493357493672	NA	TRUE	50.6	36	testis
 ENSG00000163737	PF4	1217	3.08529057823006	NA	TRUE	9.8	2	spleen
 ENSG00000230707	ENSG00000230707	1234	3.09131515969722	NA	TRUE	7.1	9	basal ganglia
-ENSG00000121314	TAS2R8	1236	3.0920184707528	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000121314	TAS2R8	1236	3.0920184707528	NA	TRUE	0	0	NA
 ENSG00000243489	KRTAP10-11	1237	3.09236969962912	NA	TRUE	8.4	1	skin
 ENSG00000188155	KRTAP10-6	1238	3.0927206446841	NA	TRUE	2.4	1	skin
 ENSG00000203618	GP1BB	1238	3.0927206446841	NA	TRUE	92.5	35	basal ganglia
-ENSG00000197617	VN1R5	1239	3.09307130637606	NA	TRUE	0.1	0	retina
+ENSG00000197617	VN1R5	1239	3.09307130637606	NA	TRUE	0.1	0	NA
 ENSG00000156282	CLDN17	1241	3.09377178149873	NA	TRUE	6.9	4	vagina
 ENSG00000187479	C11orf96	1242	3.09412159584056	NA	TRUE	1697.4	36	blood vessel
 ENSG00000142538	PTH2	1242	3.09412159584056	NA	TRUE	1	1	cerebellum
 ENSG00000278828	H3C10	1250	3.09691001300806	NA	TRUE	5.4	19	spleen
-ENSG00000184659	FOXD4L4	1251	3.09725730969342	NA	TRUE	0.5	0	cerebellum
+ENSG00000184659	FOXD4L4	1251	3.09725730969342	NA	TRUE	0.5	0	NA
 ENSG00000221869	CEBPD	1252	3.09760432887441	NA	TRUE	474.6	36	blood vessel
 ENSG00000178828	RNF186	1255	3.09864372581706	NA	TRUE	41.6	4	pancreas
 ENSG00000235631	RNF148	1255	3.09864372581706	NA	TRUE	48.3	1	testis
 ENSG00000285946	LCE7A	1257	3.09933527768596	NA	TRUE	1.7	1	skin
 ENSG00000125352	RNF113A	1259	3.10002573010786	NA	TRUE	26	36	spleen
-ENSG00000204687	MAS1L	1260	3.10037054511756	NA	TRUE	0.3	0	adipose tissue; salivary gland; urinary bladder
+ENSG00000204687	MAS1L	1260	3.10037054511756	NA	TRUE	0.3	0	NA
 ENSG00000203950	RTL8A	1265	3.10209052551184	NA	TRUE	56.9	36	basal ganglia
-ENSG00000173302	GPR148	1267	3.10277661488344	NA	TRUE	0.5	0	cerebellum
-ENSG00000142511	GPR32	1269	3.1034616220947	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000173302	GPR148	1267	3.10277661488344	NA	TRUE	0.5	0	NA
+ENSG00000142511	GPR32	1269	3.1034616220947	NA	TRUE	0	0	NA
 ENSG00000074071	MRPS34	1269	3.1034616220947	NA	TRUE	89.5	36	skeletal muscle
 ENSG00000204511	MCCD1	1271	3.10414555055401	NA	TRUE	120.2	2	kidney
 ENSG00000176797	DEFB103A	1272	3.1044871113124	NA	TRUE	9.5	6	vagina
@@ -464,14 +464,14 @@ ENSG00000204019	CT83	1291	3.11092624226642	NA	TRUE	66.2	2	testis
 ENSG00000187180	LCE2C	1291	3.11092624226642	NA	TRUE	313.4	1	skin
 ENSG00000221900	POM121L12	1293	3.11159852488039	NA	TRUE	12.4	1	testis
 ENSG00000184709	LRRC26	1294	3.11193427633268	NA	TRUE	285.7	9	salivary gland
-ENSG00000196289	BECN2	1296	3.11260500153457	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000196289	BECN2	1296	3.11260500153457	NA	TRUE	0	0	NA
 ENSG00000141437	SLC25A52	1297	3.11293997608408	NA	TRUE	6	1	testis
-ENSG00000198283	OR5B21	1299	3.11360915107303	NA	TRUE	0.2	0	testis
+ENSG00000198283	OR5B21	1299	3.11360915107303	NA	TRUE	0.2	0	NA
 ENSG00000174276	ZNHIT2	1299	3.11360915107303	NA	TRUE	65.5	35	testis
 ENSG00000187166	H1-7	1300	3.11394335230684	NA	TRUE	207.9	1	testis
 ENSG00000179772	FOXS1	1302	3.11461098423217	NA	TRUE	48.7	33	blood vessel
-ENSG00000258436	RNASE12	1304	3.1152775913959	NA	TRUE	0.3	0	testis
-ENSG00000180016	OR1E1	1307	3.11627558758054	NA	TRUE	0.2	0	skeletal muscle; testis
+ENSG00000258436	RNASE12	1304	3.1152775913959	NA	TRUE	0.3	0	NA
+ENSG00000180016	OR1E1	1307	3.11627558758054	NA	TRUE	0.2	0	NA
 ENSG00000175793	SFN	1308	3.11660774398825	NA	TRUE	2404.7	31	esophagus
 ENSG00000254598	CSNK2A3	1309	3.11693964655076	NA	TRUE	1.7	1	skeletal muscle
 ENSG00000159516	SPRR2G	1309	3.11693964655076	NA	TRUE	928.8	7	skin
@@ -484,17 +484,17 @@ ENSG00000205358	MT1H	1316	3.11925588927794	NA	TRUE	1081.3	23	liver
 ENSG00000169688	MT1B	1319	3.12024479554637	NA	TRUE	19.5	1	liver
 ENSG00000177504	VCX2	1324	3.12188798510368	NA	TRUE	27	1	testis
 ENSG00000206013	IFITM5	1327	3.12287092286444	NA	TRUE	6.9	1	pancreas
-ENSG00000267631	CGB1	1327	3.12287092286444	NA	TRUE	0.3	0	testis
+ENSG00000267631	CGB1	1327	3.12287092286444	NA	TRUE	0.3	0	NA
 ENSG00000196406	SPANXD	1329	3.12352498094273	NA	TRUE	20.7	1	testis
 ENSG00000188573	FBLL1	1330	3.12385164096709	NA	TRUE	41.4	16	hypothalamus
 ENSG00000284638	SMIM44	1332	3.12450422483428	NA	TRUE	16.5	2	retina
 ENSG00000174529	TMEM81	1332	3.12450422483428	NA	TRUE	15.7	36	cerebellum
-ENSG00000151379	MSGN1	1339	3.12678057701201	NA	TRUE	0.2	0	esophagus
+ENSG00000151379	MSGN1	1339	3.12678057701201	NA	TRUE	0.2	0	NA
 ENSG00000125144	MT1G	1340	3.12710479836481	NA	TRUE	6501.2	36	liver
 ENSG00000183706	OR4N4	1341	3.1274287778516	NA	TRUE	5.7	1	testis
 ENSG00000171794	UTF1	1342	3.12775251583297	NA	TRUE	5.4	1	testis
 ENSG00000139675	HNRNPA1L2	1343	3.12807601266872	NA	TRUE	13.4	36	ovary
-ENSG00000179172	HNRNPCL1	1344	3.12839926871781	NA	TRUE	0.1	0	testis
+ENSG00000179172	HNRNPCL1	1344	3.12839926871781	NA	TRUE	0.1	0	NA
 ENSG00000215845	TSTD1	1347	3.12936759572299	NA	TRUE	141.1	36	kidney
 ENSG00000230268	SSU72P8	1348	3.1296898921993	NA	TRUE	1	1	testis
 ENSG00000177710	SLC35G5	1349	3.1300119496719	NA	TRUE	2.2	1	testis
@@ -504,7 +504,7 @@ ENSG00000204542	C6orf15	1353	3.13129779659762	NA	TRUE	6.3	2	skin
 ENSG00000105583	WDR83OS	1358	3.13289976994448	NA	TRUE	251.9	36	kidney
 ENSG00000276180	H4C9	1359	3.13321945673249	NA	TRUE	1.7	5	spleen
 ENSG00000159182	PRAC1	1364	3.13481437032046	NA	TRUE	103.8	5	prostate
-ENSG00000275774	HNRNPCL2	1367	3.13576851456782	NA	TRUE	0	0	adipose tissue; adrenal gland; amygdala; basal ganglia; blood vessel; breast; cerebellum; cerebral cortex; cervix; colon; endometrium; esophagus; fallopian tube; heart muscle; hippocampal formation; hypothalamus; kidney; liver; lung; midbrain; ovary; pancreas; pituitary gland; prostate; retina; salivary gland; skeletal muscle; skin; small intestine; spinal cord; spleen; stomach; testis; thyroid gland; urinary bladder; vagina
+ENSG00000275774	HNRNPCL2	1367	3.13576851456782	NA	TRUE	0	0	NA
 ENSG00000163114	PDHA2	1372	3.13735411137073	NA	TRUE	54.8	1	testis
 ENSG00000205899	BHLHA9	1372	3.13735411137073	NA	TRUE	1.3	1	cerebral cortex
 ENSG00000166823	MESP1	1375	3.13830269816628	NA	TRUE	21.4	27	prostate
@@ -523,7 +523,7 @@ ENSG00000181786	ACTL9	1396	3.14488541828714	NA	TRUE	108.2	1	testis
 ENSG00000244094	SPRR2F	1396	3.14488541828714	NA	TRUE	253.6	8	esophagus
 ENSG00000148156	ACTL7B	1399	3.14581771449183	NA	TRUE	202.8	1	testis
 ENSG00000169413	RNASE6	1400	3.14612803567824	NA	TRUE	64.8	36	spleen
-ENSG00000173673	HES3	1400	3.14612803567824	NA	TRUE	0.1	0	testis
+ENSG00000173673	HES3	1400	3.14612803567824	NA	TRUE	0.1	0	NA
 ENSG00000244411	KRTAP5-7	1403	3.14705767102836	NA	TRUE	4.8	2	skin
 ENSG00000262664	OVCA2	1404	3.14736710779379	NA	TRUE	52.3	36	liver
 ENSG00000123594	ATXN3L	1407	3.14829409743475	NA	TRUE	4.4	1	testis

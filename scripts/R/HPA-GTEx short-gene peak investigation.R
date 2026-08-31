@@ -396,7 +396,10 @@ expression_summary <- hpa_standard %>%
     
     tissue_with_max_expression = {
       
-      if (all(is.na(nTPM))) {
+      if (
+        all(is.na(nTPM)) ||
+        max(nTPM, na.rm = TRUE) < 1
+      ) {
         
         NA_character_
         
@@ -425,7 +428,6 @@ expression_summary <- hpa_standard %>%
     
     .groups = "drop"
   )
-
 
 # ============================================================
 # 5. Combine peak genes with expression information
