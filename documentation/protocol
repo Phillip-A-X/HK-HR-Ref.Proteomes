@@ -496,3 +496,25 @@ Only 8 olfactory receptor genes from the short-gene peak reached nTPM >= 1 in at
     Most showed expression in only one tissue and several values were close to the nTPM = 1 cutoff.
     Testis contained the largest number of expressed OR genes (5)???. Check later - not necessarily wrong but i dont understand yet.
     OR2W3 was the main exception, with low-to-moderate expression across several tissues.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MT Analyis
+Added mitochondrial protein-coding genes as separate group for additional gene-length and HPA-GTEx analysis.
+    MT genes were analyzed separately because mitochondrial genes are much shorter than most nuclear genes and could therefore influence gene-length distributions.
+    Original nuclear background table with 20,084 genes was kept unchanged.
+    Generated new extended table containing 20,084 nuclear genes + 13 mitochondrial protein-coding genes = 20,097 genes total.
+    Added column MT: FALSE for nuclear genes and TRUE for mitochondrial genes.
+    hk_status was kept as NA for all MT genes because they were not classified using the HRT Atlas HK definition.
+    All 13 MT genes were taken from the original Ensembl 115 BioMart protein-coding gene export.
+    MT gene lengths range from 207 to 1,812 bp.
+
+Checked the 13 MT genes in the original HPA-GTEx expression dataset.
+    All 13 MT genes were present.
+    All 13 genes reached nTPM >= 1 in all 36 tissues.
+    This resulted in 468/468 expressed MT gene-tissue pairs.
+    Expression summaries were generated per gene and per tissue.
+    MT genes showed very high expression levels but strong differences between genes and tissues.
+    Heart muscle showed the highest mean MT expression among the 36 tissues.
+    Generated separate tables for complete MT gene-tissue expression, gene-wise summary and tissue-wise summary.
+    MT gene length versus mean expression was additionally plotted to check whether expression level is related to gene length within the MT genes.
