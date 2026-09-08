@@ -518,3 +518,18 @@ Checked the 13 MT genes in the original HPA-GTEx expression dataset.
     Heart muscle showed the highest mean MT expression among the 36 tissues.
     Generated separate tables for complete MT gene-tissue expression, gene-wise summary and tissue-wise summary.
     MT gene length versus mean expression was additionally plotted to check whether expression level is related to gene length within the MT genes.
+
+
+Checked the raw HPA-GTEx tissue-expression file data/raw/hpa/rna_tissue_gtex.tsv before Ensembl 115 mapping to verify tissue coverage per gene.
+	The raw dataset contains 20,162 unique Ensembl gene IDs.
+	19,965 genes have entries for all 36 tissues, while 197 genes have an entry for only one tissue ! this is alarming.
+	All 197 incomplete genes occur exclusively in retina, indicating dataset-specific incomplete tissue coverage rather than true single-tissue expression.
+	Among these 197 retina-only entries, 47 have nTPM >= 1, 57 have nTPM >= 0.5 and 89 have nTPM >= 0.1.
+	GSTT2 and SPATA1 are examples with only a retina entry at nTPM = 0.1.
+	The HPA-GTEx mapping script does not generate this pattern. It maps HPA gene IDs to the Ensembl 115 protein-coding background and applies the nTPM >= 1 expression cutoff afterwards.
+	Retina-only genes below nTPM 1 are therefore excluded from the main analysis; only mapped retina-only genes with nTPM >= 1 can affect the retina tissue summary.
+	For expression-breadth analysis, only the 19,965 genes with complete 36-tissue coverage were considered.
+	Using nTPM >= 1 as expression threshold, 1,343 genes are expressed in exactly one of the 36 tissues.
+	Testis contains the largest number of these genes with 726, followed by retina with 173, skin with 107, liver with 54 and spleen with 50.
+	Testis therefore accounts for approximately 54% of all complete-coverage single-tissue genes.
+Next step: perform cutoff sensitivity analysis on these 1,343 genes using nTPM >= 0.5, >= 0.1 and > 0 to determine how many remain restricted to a single tissue when lower expression levels are included.
