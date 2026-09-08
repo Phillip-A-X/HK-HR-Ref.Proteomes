@@ -519,6 +519,8 @@ Checked the 13 MT genes in the original HPA-GTEx expression dataset.
     Generated separate tables for complete MT gene-tissue expression, gene-wise summary and tissue-wise summary.
     MT gene length versus mean expression was additionally plotted to check whether expression level is related to gene length within the MT genes.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INTERVENTION: 197 Genes with only 1 Tissue Entry?!
 
 Checked the raw HPA-GTEx tissue-expression file data/raw/hpa/rna_tissue_gtex.tsv before Ensembl 115 mapping to verify tissue coverage per gene.
 	The raw dataset contains 20,162 unique Ensembl gene IDs.
@@ -532,4 +534,36 @@ Checked the raw HPA-GTEx tissue-expression file data/raw/hpa/rna_tissue_gtex.tsv
 	Using nTPM >= 1 as expression threshold, 1,343 genes are expressed in exactly one of the 36 tissues.
 	Testis contains the largest number of these genes with 726, followed by retina with 173, skin with 107, liver with 54 and spleen with 50.
 	Testis therefore accounts for approximately 54% of all complete-coverage single-tissue genes.
-Next step: perform cutoff sensitivity analysis on these 1,343 genes using nTPM >= 0.5, >= 0.1 and > 0 to determine how many remain restricted to a single tissue when lower expression levels are included.
+
+Solution 08.09.2026 
+	//wsl$/Ubuntu/home/phillip/projects/HK-HR-Ref.Proteomes/Override_Cutoffsensi_Endtable_by_removing_retina_singletissuemistakes.R
+and
+	//wsl$/Ubuntu/home/phillip/projects/HK-HR-Ref.Proteomes/Override_Endtable_by_removing_retina_singletissuemistakes.R
+Checked tissue coverage in the original HPA-GTEx file data/raw/hpa/rna_tissue_gtex.tsv.
+	The raw HPA-GTEx dataset contains 20,162 unique Ensembl gene IDs.
+	19,965 genes have entries for all 36 tissues.
+	197 genes have an entry for only one tissue.
+	All 197 incomplete genes occur exclusively in retina.
+	These genes must not be interpreted as truly retina-specific because the other 35 tissue entries are absent rather than measured as nTPM = 0.
+
+Checked the mapped pre-cutoff dataset data/processed/hpa_gtex/human_hpa_gtex_all_mapped_gene_tissue_pairs.tsv.
+	After mapping to the Ensembl 115 protein-coding main-chromosome background, 19,701 unique genes remain.
+	19,533 mapped genes have complete entries for all 36 tissues.
+	168 mapped genes have only one tissue entry, always retina.
+	The reduction from 197 to 168 results from 29 retina-only genes not mapping to the Ensembl 115 background.
+
+Removed the 168 mapped retina-only genes from the pre-cutoff HPA-GTEx dataset using remove_incomplete_retina_only_genes_from_mapped_hpa_gtex.R.
+	The original mapped dataset was kept unchanged.
+	The 168 excluded retina-only rows were saved separately as data/processed/hpa_gtex/mapped_retina_only_incomplete_genes.tsv.
+	The cleaned complete-coverage dataset was saved as data/processed/hpa_gtex/human_hpa_gtex_all_mapped_gene_tissue_pairs_complete_coverage.tsv.
+	The cleaned dataset contains 19,533 unique Ensembl gene IDs, 36 tissues and 703,188 gene-tissue rows.
+	19,533 x 36 = 703,188, confirming exactly one entry per gene and tissue.
+
+Checked the existing nTPM >= 1 final dataset data/processed/hpa_gtex/HumanProteinCodingGenes_bytissue_onchromosomes.tsv.
+	34 of the incomplete retina-only genes were present in this dataset because they had nTPM >= 1 and successfully mapped to Ensembl 115.
+	These 34 genes occurred only once each and only in retina.
+	They were saved separately as data/processed/hpa_gtex/retina_only_incomplete_genes_ntpm_ge_1.tsv.
+	A cleaned nTPM >= 1 dataset without these 34 genes was saved as data/processed/hpa_gtex/HumanProteinCodingGenes_bytissue_onchromosomes_complete_coverage.tsv.
+	The final nTPM >= 1 dataset was reduced from 481,019 to 480,985 rows.
+
+The cleaned pre-cutoff complete-coverage dataset should be used as the common starting point for future expression-cutoff analyses.
