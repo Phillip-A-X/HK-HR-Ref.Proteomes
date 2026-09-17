@@ -567,3 +567,66 @@ Checked the existing nTPM >= 1 final dataset data/processed/hpa_gtex/HumanProtei
 	The final nTPM >= 1 dataset was reduced from 481,019 to 480,985 rows.
 
 The cleaned pre-cutoff complete-coverage dataset should be used as the common starting point for future expression-cutoff analyses.
+
+All Plots were regenerated from these new tables, also tissues were organized/categorized by organ according to https://www.proteinatlas.org/humanproteome/tissue/data#gtex_tissue_groups_rna
+Human Protein Atlas 09.2026
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Following Species were chosen for mean genelength, quantitative analysis and MT Conservation relative to nuclear prot.coding genes.
+This list was remade due to the last one being base on HR and HK gene lists. Now Ensembl 115 or Corresponding Ensembl Entires from 09/25 are used.
+
+Arabidopsis thaliana
+Saccharomyces cerevisiae
+Nematostella vectensis
+Pecten maximus
+Caenorhabditis elegans
+Drosophila melanogaster
+Danio rerio
+Xenopus tropicalis
+Anolis carolinensis
+Gallus gallus
+Pan troglodytes
+Homo sapiens
+
+TimeTree on 17.09.2026 gave an ordering for MYAs (LCA HOMO?)
+PNG is in data/raw/E115 
+-> the new dir for the different Ensembl 115 or sth from 09/25 GTFs
+
+
+
+COMAPRING SPECIES FOR mean genelength and MT Conservation
+
+QC rule for non-primary sequences
+
+Main analysis:
+    protein-coding genes on primary chromosomes
+	protein-coding MT Genes
+
+
+Sensitivity analysis:
+    all nuclear protein-coding genes
+    = primary + other nuclear scaffolds
+
+QC:
+    fraction_primary
+    fraction_other
+    BUSCO completeness
+
+>=80% primary:
+    accepted for main analysis
+    fraction_other documented
+
+<80% primary (scaffolds etc):
+    additional assembly/annotation QC
+    sensitivity analysis
+    possible exclusion only after investigation
+
+For practicality. Not as biological truth or established cutoff.
+
+If primary-only and all-nuclear results are similar:
+    keep species
+    document scaffold fraction transparently
+
+If results differ strongly:
+    inspect assembly/annotation
+    consider excluding species from main cross-species comparison
