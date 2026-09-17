@@ -630,3 +630,24 @@ If primary-only and all-nuclear results are similar:
 If results differ strongly:
     inspect assembly/annotation
     consider excluding species from main cross-species comparison
+
+
+
+
+Out of E115 or similar 09/25 Ensembl GTFs for aforementioned species list
+Master Tables included following Header
+
+gene_id
+gene_name
+gene_biotype
+chr
+start
+end
+gene_length_bp
+location
+strand
+species
+assembly_name
+ensembl_release
+source_file
+species #this is only added in every line to later on associate fraction.
