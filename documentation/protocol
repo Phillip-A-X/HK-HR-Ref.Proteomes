@@ -519,6 +519,45 @@ Checked the 13 MT genes in the original HPA-GTEx expression dataset.
     Generated separate tables for complete MT gene-tissue expression, gene-wise summary and tissue-wise summary.
     MT gene length versus mean expression was additionally plotted to check whether expression level is related to gene length within the MT genes.
 
+
+Additional Ordering or Exploratory MT / prokaryote gene-length comparison.
+
+Genomic annotations for the compared species were obtained from the Ensembl ecosystem corresponding to Ensembl release 115 (September 2025).
+    Ensembl Bacteria species were taken from the synchronized Ensembl Bacteria release 62.
+
+Human mitochondrial protein-coding genes were compared with selected prokaryotic species.
+
+Only protein-coding gene features were used.
+Gene length was calculated as:
+    gene_length_bp = end - start + 1
+
+For each species:
+    mean genomic gene length
+    gene-length variance
+
+The values were plotted as:
+    x = log10(mean gene length)
+    y = log10(gene-length variance)
+
+The original corrected Human HPA-GTEx nuclear tissue-derived regression was retained as reference:
+    log10(Variance) ≈ -4.584 + 3.042 × log10(Mean)
+
+    equivalent power-law form:
+    Variance ≈ 2.60 × 10^-5 × Mean^3.042
+
+The regression was derived only from the 36 Human HPA-GTEx tissues at nTPM >= 1.
+No new regression was fitted to mitochondrial or prokaryotic points.
+
+Species included:
+    Human MT
+    Rickettsia prowazekii
+    Gemmata obscuriglobus
+    Myxococcus xanthus
+    Escherichia coli
+    Candidatus Lokiarchaeum sp. GC14_75
+
+Turns out their variance is above the human regression line.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INTERVENTION: 197 Genes with only 1 Tissue Entry?!
 
