@@ -651,3 +651,72 @@ assembly_name
 ensembl_release
 source_file
 species #this is only added in every line to later on associate fraction.
+
+
+
+To further the tissue based analysis among species brawands data was used.
+Brawand et al. 2011 Human Ensembl57 -> Ensembl115 compatibility check.
+
+Paper:
+Brawand D. et al. (2011)
+"The evolution of gene expression levels in mammalian organs"
+Nature 478, 343–348.
+DOI: 10.1038/nature10532
+
+This is based on Ensembl 57 BUT The Brawand dataset represents a highly conserved set of 1:1 orthologous genes, making a direct comparison of the old Ensembl57 stable gene IDs with the Ensembl115 annotation reasonable as an initial compatibility test.
+
+Expression data:
+data/raw/brawandexpression/41586_2011_BFnature10532_MOESM328_ESM/Supplementary_Data1/
+
+Main file selected:
+NormalizedRPKM_ConstitutiveExons_Amniote1to1Orthologues.txt
+
+    The Brawand all-amniote dataset was based on 5,636 1:1 orthologue families originally defined using Ensembl release 57.
+    Expression values are normalized RPKM values calculated from constitutive exons defined independently for each species.
+
+    The ConstitutiveExons expression file contains 5,628 lines:
+        1 header
+        5,627 genes
+
+    Therefore, 5,627 of the original 5,636 orthologue families are represented in this expression dataset.
+    The remaining 9 were excluded during Brawand expression processing.
+
+    The more restrictive ConstitutiveAlignedExons file contains:
+        5,321 lines
+        1 header
+        5,320 genes
+
+    This dataset uses only constitutive exon regions that could be perfectly aligned across species.
+    It will therefore not be used as the primary dataset, but may later serve as a sensitivity / annotation-control analysis.
+
+Compared directly against the Human Ensembl115 protein-coding gene dataset.
+
+Initial nuclear main-chromosome comparison:
+    Brawand Human IDs:                 5,627
+    Direct E115 main-chromosome hits:  5,558
+    Missing:                              69
+    Direct match rate:                 98.77 %
+
+The 69 missing IDs were additionally checked against the complete E115 protein-coding BioMart dataset.
+
+Of these 69:
+    6 are still present in Ensembl115 but are mitochondrial genes.
+    63 are not present in the E115 protein-coding background used for the analysis.
+
+As the main tissue gene-length analysis is restricted to nuclear protein-coding genes, these 6 mitochondrial genes were excluded.
+
+Final nuclear comparison:
+    Brawand nuclear genes:             5,621
+    Directly recovered in E115:        5,558
+    Not recovered:                        63
+    Direct nuclear recovery:           98.88 %
+
+No historical Ensembl-ID rescue was performed.
+
+
+Conclusion:
+    Direct Ensembl57 -> Ensembl115 compatibility is sufficiently high for aggregate quantitative analyses of gene-length patterns.
+
+    The 5,558 directly recovered nuclear genes will form the common Human gene set for the initial comparison between Brawand expression data and the HPA-GTEx analysis.
+
+    Human Brawand and HPA-GTEx analyses should use exactly this common gene universe before comparing tissue-specific mean gene length, gene-length variance and related quantitative trends.
