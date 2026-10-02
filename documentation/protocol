@@ -759,3 +759,17 @@ Conclusion:
     The 5,558 directly recovered nuclear genes will form the common Human gene set for the initial comparison between Brawand expression data and the HPA-GTEx analysis.
 
     Human Brawand and HPA-GTEx analyses should use exactly this common gene universe before comparing tissue-specific mean gene length, gene-length variance and related quantitative trends.
+
+
+
+The 5,558 directly mapped nuclear Brawand genes were compared with the complete Human E115 nuclear protein-coding background (n = 20,084) to see or potentially characterize the genes.
+
+    E115 background:
+        Mean gene length = 69,245 bp
+        Median = 27,814 bp
+        Variance = 1.793 × 10^10 bp²
+
+    Brawand subset:
+        Mean gene length = 99,064 bp
+        Median = 51,003 bp
+        Variance = 2.258 × 10^10 bp²
