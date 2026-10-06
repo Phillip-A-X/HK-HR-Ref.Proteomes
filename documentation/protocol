@@ -773,3 +773,77 @@ The 5,558 directly mapped nuclear Brawand genes were compared with the complete 
         Mean gene length = 99,064 bp
         Median = 51,003 bp
         Variance = 2.258 × 10^10 bp²
+
+
+
+---------------------------------------------------------------------------------------------------------------
+HOUSEKEEPING HK PREDICTOR
+---------------------------------------------------------------------------------------------------------------
+
+Developed first draft of an expression-based Housekeeping Gene Predictor (v0.1).
+
+Operational HK definition adapted from Eisenberg & Levanon 2013.
+    Predictor designed to classify genes from quantitative tissue-expression matrices without requiring prior HK annotation.
+    Classification performed directly at gene level to allow application to different species and expression atlases.
+
+Predictor v0.1 criteria:
+    1. Ubiquitous expression:
+       expression > 0 in all analyzed tissues
+
+    2. Low inter-tissue variability:
+       SD(log2(expression)) < 1
+
+    3. No strong tissue-specific expression outlier:
+       max_t |log2(E_t) - mean(log2(E))| < 2
+
+    Housekeeping = all three criteria fulfilled.
+
+Human test dataset:
+    HPA-GTEx complete-coverage expression table.
+    19,533 genes.
+    36 tissues.
+    703,188 gene-tissue observations.
+    Expression measure: nTPM.
+    Number of tissues is detected dynamically by the predictor and is not hard-coded.
+
+Predictor v0.1 results:
+    Genes passing ubiquity: 13,286
+    Genes passing stability: 8,584
+    Genes passing outlier criterion: 5,879
+    Predicted HK genes: 5,856
+
+Validation:
+    HRT Atlas gene-level HK classification used only as an independent reference, not for predictor construction or parameter optimization.
+    HRT-HK genes available in comparison: 2,172.
+
+    Predictor + HRT HK: 1,617
+    Predictor-only HK: 4,239
+    HRT-only HK: 555
+    Both non-HK: 13,122
+
+    Recall: 0.7445
+    Precision: 0.2761
+    Specificity: 0.7558
+    F1: 0.4028
+    MCC: 0.3433
+
+Diagnostic of the 555 missed HRT-HK genes:
+    Failed ubiquity: 2
+    Failed outlier criterion only: 487
+    Failed stability + outlier criterion: 66
+    Failed stability only: 0
+
+Check of the permissive expression > 0 rule:
+    Predictor + HRT HK:
+        median minimum expression = 15.7 nTPM
+        99.94% had minimum expression >= 1 nTPM
+
+    Predictor-only HK:
+        median minimum expression = 4.5 nTPM
+        92.76% had minimum expression >= 1 nTPM
+        only 307 / 4,239 had minimum expression < 1 nTPM
+
+Decision:
+    Keep Predictor v0.1 unchanged for now.
+    The large Predictor/HRT difference is not mainly caused by the >0 expression criterion.
+    Most HRT-HK missed by v0.1 fail the Eisenberg-like outlier criterion.
