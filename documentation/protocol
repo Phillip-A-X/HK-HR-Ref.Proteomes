@@ -847,3 +847,24 @@ Decision:
     Keep Predictor v0.1 unchanged for now.
     The large Predictor/HRT difference is not mainly caused by the >0 expression criterion.
     Most HRT-HK missed by v0.1 fail the Eisenberg-like outlier criterion.
+
+Why not recreate Eisenberg exactly?
+    Different expression dataset.
+    Different number of tissues.
+    Different annotation/background.
+    Eisenberg classified coding exons first.
+    Predictor intentionally works directly on genes.
+
+Why not recreate HRT Atlas exactly?
+    HRT uses a different operational definition.
+    Different tissue/cell-type panel.
+    Different expression processing and detection rule.
+    Transcript-level requirements are involved.
+    HRT was intentionally not used to train/tune the predictor.
+
+What should validation therefore ask?
+    Not: "Is the gene list identical?"
+
+    But:
+    "Does an independently defined expression-based predictor
+    preferentially recover established HK genes?"
