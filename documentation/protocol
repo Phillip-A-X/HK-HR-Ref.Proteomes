@@ -911,3 +911,60 @@ Conclusion:
     Likely missing information includes transcript/isoform consistency, sample-level variability and broader tissue/cell-type coverage.
     Do not optimize cutoffs simply to obtain an expected number of HK genes.
 
+08.10.2026 – Housekeeping predictor diagnostics / Eisenberg comparison
+
+Compared current gene-level HPA-GTEx predictor with the original Eisenberg 2013 HK list.
+    Eisenberg reported 3,804 HK genes.
+    3,502 genes available in the existing Ensembl mapping.
+    3,500 mapped Eisenberg genes present in the current 19,533-gene predictor universe.
+    Predictor v0.1 classified 5,856 genes as HK.
+    2,722 / 3,500 Eisenberg genes recovered = 77.77%.
+    46.48% of predicted HK genes are also Eisenberg HK genes.
+	Predicted 5856 HK genes total of which 2722 were matching Eisenberg. 
+
+3134 considered HK which are not in Eisenberg
+Investigated the 778 Eisenberg HK genes missed by predictor v0.1 (not labeled HK even though they should be according to Eisenberg.
+    685 fail only the max-log2-deviation criterion.
+    80 fail SD + max-log2-deviation.
+    12 fail ubiquity.
+    1 fails only SD.
+    Main disagreement therefore comes from expression variability/outliers, not missing expression.
+
+Tested stricter minimum-expression cutoffs while keeping SD(log2) < 1 and max log2 deviation < 2 fixed.
+    >0 nTPM:   5,856 predicted HK; 2,722 Eisenberg recovered; 77.77%.
+    >0.5 nTPM: 5,723 predicted HK; 2,713 recovered; 77.51%.
+    >1 nTPM:   5,500 predicted HK; 2,694 recovered; 76.97%.
+    >2 nTPM:   4,949 predicted HK; 2,599 recovered; 74.26%.
+    >5 nTPM:   3,400 predicted HK; 2,087 recovered; 59.63%.
+    Low cutoffs remove some additional genes without strongly affecting Eisenberg recovery.
+    >5 nTPM becomes clearly too restrictive.
+    Expression cutoff alone does not explain the difference between both HK sets.
+
+Used ABHD8 as an individual diagnostic example.
+    ABHD8 is an Eisenberg HK but not predicted as HK in v0.1.
+    Expressed in 36/36 HPA-GTEx tissues.
+    Minimum expression = 5.6 nTPM (esophagus).
+    Maximum expression = 99.0 nTPM (cerebral cortex).
+    Remains ubiquitous even at >5 nTPM.
+    SD(log2 expression) = 1.087 > 1.
+    Max log2 deviation = 2.585 > 2.
+    ABHD8 therefore fails because of tissue-level variability, not low expression.
+    Possible explanation: transcript/exon-level HK signal is lost by current gene-level aggregation.
+
+Generated expression-distribution plots for:
+    Eisenberg HK genes.
+    Predictor v0.1 HK genes.
+    Eisenberg HK genes vs all genes.
+    Raw nTPM distributions are strongly right-skewed; maximum value in the complete matrix = 229,146.3 nTPM.
+    Used visual x-axis cuts (150 and later 80 nTPM) without removing higher-expression observations.
+    Eisenberg HK expression does not show an obvious clean absolute nTPM threshold separating it from the full gene background.
+
+Mapping errors considered as possible explanation.
+    Likely relevant for individual genes but unlikely to explain the majority of the 778 disagreements.
+    3,500 / 3,502 mapped Eisenberg genes are present in the predictor universe.
+    Systematic expression/methodological differences currently appear more plausible.
+
+Next major diagnostic:
+    GTEx v7 sample-level data.
+    Test whether differences are caused by tissue aggregation, number of tissues, sample-level variability and gene-level summarization.
+
