@@ -968,3 +968,169 @@ Next major diagnostic:
     GTEx v7 sample-level data.
     Test whether differences are caused by tissue aggregation, number of tissues, sample-level variability and gene-level summarization.
 
+NOW THIS IS MAJOR GTExV7
+08.10.2026 – GTEx v7 / HRT housekeeping-gene diagnostics
+
+Goal:
+    Test why the current HPA-GTEx predictor produces a broad HK set and whether tissue aggregation
+    hides biologically relevant sample-level variability.
+
+1. Reconstructed the HRT GTEx v7 dataset
+
+    GTEx v7 gene-TPM matrix:
+        56,202 genes/features
+        11,688 individual samples
+        53 detailed SMTSD tissue categories
+
+    HRT reports:
+        11,281 samples
+        52 tissue/cell types
+
+    HRT tissue list was compared with the 53 GTEx tissues.
+    Whole Blood was absent from HRT, while Esophagus - Mucosa was included.
+
+    Removed Whole Blood:
+        11,281 samples
+        52 tissues
+
+    This reproduced the HRT sample and tissue numbers exactly.
+
+
+2. Prepared the GTEx gene universe
+
+    GTEx GCT gene IDs are ENSG IDs with version suffixes.
+        ENSGxxxx.x -> ENSGxxxx
+
+    Genes were restricted to the current protein-coding human background.
+
+    Final GTEx universe:
+        18,808 protein-coding genes
+
+
+3. Tested HRT-like rules on individual GTEx samples
+
+    Purpose:
+        Determine how strongly sample-level variability reduces the HK set.
+
+    Rules:
+        TPM >1 in every individual sample
+        SD(log2 TPM) <1
+        MFC <2
+
+    Result:
+        2,596 predicted HK genes
+
+    This was much smaller than the tissue-level HPA result and showed that retaining individual
+    samples strongly increases stringency.
+
+
+4. Tested the same GTEx data after tissue aggregation
+
+    Purpose:
+        Isolate the effect of aggregation without changing dataset, genes, tissues or thresholds.
+
+    The same 11,281 samples were averaged within each of the 52 tissues.
+    The same HRT-like rules were then applied to the 52 tissue means.
+
+    Result:
+        6,942 predicted HK genes
+
+    Comparison:
+        individual samples:   2,596 HK
+        tissue means:         6,942 HK
+
+    Conclusion:
+        Tissue aggregation strongly increases the HK set by removing within-tissue /
+        inter-individual variability.
+
+
+5. Compared with the HRT 1,003 Gene Model list
+
+    HRT Supplementary Table 1 contains 1,003 gene-level HK genes as gene symbols.
+
+    Mapping required:
+        HRT gene symbol
+            -> exact GTEx gene_symbol match
+            -> GTEx ENSG
+
+    Only unique direct mappings were accepted.
+
+    Result:
+        1,003 HRT Gene Model genes
+        950 uniquely mapped
+        53 unmapped
+        0 ambiguous
+
+    Recovery:
+        sample-level predictor:       546 / 950 = 57.47%
+        tissue-aggregated predictor:  922 / 950 = 97.05%
+
+    Interpretation:
+        Tissue aggregation recovers nearly all HRT Gene Model genes,
+        but the resulting 6,942-gene HK set is far broader than the published 1,003 genes.
+
+
+6. Compared the 2,596 GTEx sample-level HK genes with the main HRT Atlas HK list
+
+    The main HRT Atlas list had already been mapped previously:
+        2,176 original HRT HK genes
+        2,172 mapped to current ENSG IDs
+
+    No new symbol mapping was required:
+        HRT ENSG -> GTEx ENSG
+
+    2,165 HRT HK genes were present in the 18,808-gene GTEx universe.
+
+    Result:
+        GTEx sample-level HK:     2,596
+        overlap with HRT:         1,463
+        HRT recovery:             67.58%
+        GTEx HK also HRT:         56.36%
+        Jaccard:                  44.36%
+        HRT HK missed:              702
+
+
+7. Diagnosed the 702 missed HRT HK genes
+
+    Purpose:
+        Identify which sample-level rule causes established HRT genes to be lost.
+
+    Main result:
+        491 / 702 = 69.94% failed the requirement TPM >1 in every individual sample.
+        206 / 702 = 29.34% failed only SD.
+        MFC caused almost no additional loss.
+
+    The 491 expression-failed genes were then checked for how many samples were actually ≤1 TPM.
+
+    Result:
+        median samples >1 TPM = 11,278 / 11,281
+        median passing fraction = 99.9734%
+
+        58.66% failed in only 1-3 samples.
+        74.34% failed in only 1-5 samples.
+        86.35% failed in only 1-10 samples.
+        96.54% failed in at most 50 samples.
+
+    Conclusion:
+        Requiring >1 TPM in every single individual sample is too strict.
+        Many established HRT HK genes are rejected because of only a few low-expression samples.
+
+
+Current conclusion:
+
+    Tissue aggregation is a major reason why tissue-level HK predictors become very broad.
+
+    However, the opposite extreme is also unsuitable:
+        requiring >1 TPM in every individual GTEx sample rejects many established HRT HK genes
+        because of rare low-expression observations.
+
+    Current extremes:
+        individual-sample test -> 2,596 HK, too sensitive to rare low samples
+        tissue-mean test       -> 6,942 HK, too permissive after aggregation
+
+    Therefore the exact HRT procedure cannot be reproduced by simply applying the three thresholds
+    directly to GTEx gene TPM.
+
+Next step:
+    Reconstruct the exact HRT sample-to-tissue summarization / transcript-processing method
+    before introducing any new arbitrary sample-percentage cutoff.
