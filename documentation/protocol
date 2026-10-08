@@ -868,3 +868,46 @@ What should validation therefore ask?
     But:
     "Does an independently defined expression-based predictor
     preferentially recover established HK genes?"
+
+
+Investigated why the first gene-level HK predictor produces substantially more Human HK genes than established HK lists.
+
+Initial result:
+    Predictor v0.1: 5,856 / 19,533 genes classified as HK.
+    HRT Atlas reference: 2,172 mapped HK genes.
+    1,617 HRT-HK recovered -> recall 74.45%.
+    Precision relative to HRT: 27.61%.
+
+Checked which criterion causes missed HRT-HK:
+    555 HRT-HK missed.
+    487 failed only the Eisenberg-like outlier criterion.
+    66 failed stability + outlier.
+    Only 2 failed ubiquitous expression.
+    -> expression >0 is not the main cause of disagreement.
+
+Tested HRT MFC <2 instead of Eisenberg outlier criterion:
+    HRT-like nTPM version predicted 7,228 HK genes.
+    Recovered 2,085 / 2,172 HRT-HK -> 95.99% recall.
+    -> different outlier definition explains most HRT false negatives, but makes the total HK set even broader.
+
+Checked stability distributions:
+    Predictor + HRT HK and Predictor-only HK showed very similar SD and outlier distributions.
+    Predictor-only genes therefore do not appear obviously unstable according to the existing variables.
+
+Tested stricter total expression-range criteria:
+    Stronger range cutoffs reduced the HK number but also reduced HRT agreement.
+    range <2: 2,071 HK, MCC 0.223
+    range <2.5: 3,719 HK, MCC 0.292
+    original v0.1: 5,856 HK, MCC 0.343
+    -> arbitrary tightening can produce a realistic-looking HK count without producing a better classification.
+
+Literature check:
+    HRT Atlas classified HK genes primarily from transcript-level expression across 11,281 samples and 52 tissues/cell types.
+    A separate direct gene-level aggregation produced only 1,003 genes, showing that transcript/gene treatment strongly affects classification.
+
+Conclusion:
+    The high HK number is unlikely to be caused by a simple coding error or one poorly chosen cutoff.
+    The three current gene-level variables alone are insufficient to reproduce established strict HK sets.
+    Likely missing information includes transcript/isoform consistency, sample-level variability and broader tissue/cell-type coverage.
+    Do not optimize cutoffs simply to obtain an expected number of HK genes.
+
