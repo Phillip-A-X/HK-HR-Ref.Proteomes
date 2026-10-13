@@ -1134,3 +1134,206 @@ Current conclusion:
 Next step:
     Reconstruct the exact HRT sample-to-tissue summarization / transcript-processing method
     before introducing any new arbitrary sample-percentage cutoff.
+
+
+========================================
+HOUSEKEEPING GENE PREDICTOR
+THRESHOLD OPTIMIZATION AND VALIDATION
+========================================
+at ubiquitiy, meaning nTPM > 0 in all 36 tissues and nTPM > 1 in all tissues >99% of Eisenberg HK genes were recovered. But there were WAY too many candidates.
+DATASET
+----------------------------------------
+Total genes:                  19,533
+Eisenberg reference HK genes:  3,500
+Non-Eisenberg genes:          16,033
+Tissues analyzed:                36/36 (HPA/GTEx)
+
+
+========================================
+1. EXPRESSION THRESHOLD COMPARISON
+SD(log2 nTPM) < 1.25
+========================================
+
+nTPM > 0:
+  Candidate genes:           10,037
+  Eisenberg HKs recovered:    3,473
+  Eisenberg recovery:        99.23%
+
+nTPM > 0.5:
+  Candidate genes:            9,138
+  Eisenberg HKs recovered:    3,437
+  Eisenberg recovery:        98.20%
+
+nTPM > 1:
+  Candidate genes:            8,366
+  Eisenberg HKs recovered:    3,384
+  Eisenberg recovery:        96.69%
+
+nTPM > 2:
+  Candidate genes:            7,081
+  Eisenberg HKs recovered:    3,202
+  Eisenberg recovery:        91.49%
+
+
+SELECTED EXPRESSION THRESHOLD: nTPM > 1
+
+Rationale:
+  - Provides a compromise between expression level
+    and recovery of Eisenberg reference HK genes.
+  - Excludes genes with very low expression levels.
+  - Compared with nTPM > 0.5, removes 772 candidate
+    genes while losing only 53 reference HK genes.
+  - Increasing the threshold to nTPM > 2 would
+    exclude another 182 reference HK genes.
+
+
+========================================
+2. VARIABILITY THRESHOLD COMPARISON
+nTPM > 1 IN ALL 36 TISSUES
+========================================
+
+SD(log2 nTPM) < 0.75:
+  Candidate genes:            6,098
+  Eisenberg HKs recovered:    3,037
+  Eisenberg recovery:        86.77%
+
+SD(log2 nTPM) < 1.00:
+  Candidate genes:            7,608
+  Eisenberg HKs recovered:    3,331
+  Eisenberg recovery:        95.17%
+
+SD(log2 nTPM) < 1.25:
+  Candidate genes:            8,366
+  Eisenberg HKs recovered:    3,384
+  Eisenberg recovery:        96.69%
+
+SD(log2 nTPM) < 1.50:
+  Candidate genes:            8,789
+  Eisenberg HKs recovered:    3,390
+  Eisenberg recovery:        96.86%
+
+
+SELECTED VARIABILITY THRESHOLD: SD < 1.25
+
+Rationale:
+  - Increasing the threshold from SD < 1.00 to
+    SD < 1.25 recovers 53 additional reference HKs.
+  - Relaxing the threshold further to SD < 1.50
+    recovers only 6 additional reference HKs.
+  - However, this further relaxation also retains
+    417 additional genes outside the Eisenberg
+    reference set.
+  - SD < 1.25 therefore represents a practical
+    compromise between reference recovery and
+    restriction of expression variability.
+
+
+========================================
+3. ADDITIONAL OUTLIER FILTER EVALUATION
+========================================
+
+Original outlier criterion:
+
+  max_t |log2(E_t) - mean(log2(E))| < 2
+
+This criterion limits the maximum deviation
+of any individual tissue from the mean
+log2 expression level.
+
+Previous comparison:
+
+nTPM > 1 + Outlier < 2:
+  Candidate genes:            5,518
+  Eisenberg HKs recovered:    2,695
+  Eisenberg recovery:        77.00%
+
+nTPM > 1 + SD < 1.00:
+  Candidate genes:            7,608
+  Eisenberg HKs recovered:    3,331
+  Eisenberg recovery:        95.17%
+
+
+DECISION: OMIT ADDITIONAL OUTLIER FILTER
+
+Rationale:
+  - The outlier criterion excluded many reference
+    HK genes due to stronger expression deviations
+    in individual tissues.
+  - Low overall expression variability is already
+    assessed by the standard deviation criterion.
+  - The additional outlier filter was therefore
+    not retained in the final predictor.
+
+Important:
+  - These numbers originate from an earlier,
+    separate filter comparison.
+  - They do not demonstrate the additional losses
+    that would result from applying the outlier
+    filter after SD < 1.25.
+
+
+========================================
+4. FINAL HOUSEKEEPING GENE CLASSIFICATION
+========================================
+
+FINAL CRITERIA:
+
+  1. nTPM > 1 in all 36 HPA tissues
+
+  2. SD(log2 nTPM) < 1.25
+
+  3. No additional outlier filter
+
+
+FINAL RESULTS:
+
+Total genes evaluated:        19,533
+Predicted HK candidates:       8,366
+
+Eisenberg reference HKs:       3,500
+Eisenberg HKs recovered:       3,384
+Eisenberg HKs missed:            116
+
+Reference HK recovery:        96.69%
+
+Non-Eisenberg genes retained:  4,982
+
+
+========================================
+5. INTERPRETATION AND LIMITATIONS
+========================================
+
+The final predictor recovers 96.69% of the
+Eisenberg reference housekeeping genes while
+requiring expression above 1 nTPM in every
+one of the 36 analyzed tissues and relatively
+low expression variability.
+
+The 4,982 additional candidate genes are not
+included in the Eisenberg reference set.
+
+However, absence from the Eisenberg reference
+does not necessarily indicate a false-positive
+housekeeping gene classification.
+
+The selected thresholds represent a pragmatic
+compromise based primarily on reference gene
+recovery and expression variability.
+
+Recovery of the Eisenberg reference set is not
+equivalent to independent biological validation
+of all predicted housekeeping genes.
+
+
+========================================
+"Best" Prototypical PREDICTOR CONFIGURATION
+========================================
+
+Expression:  nTPM > 1 (36/36 tissues)
+Variability: SD(log2 nTPM) < 1.25
+Outlier:     Disabled
+
+Candidates:  8,366
+HK recovery: 96.69% (3,384 / 3,500)
+
+========================================
