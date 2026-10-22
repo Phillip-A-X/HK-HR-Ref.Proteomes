@@ -1,0 +1,80 @@
+#STEP1 HRT Atlas – Human HK Gene Mapping (GENCODE v19 → Ensembl 115)
+
+Date: 21–23 October 2026  
+Repository: HK-HR-Ref.Proteomes
+
+## Data sources
+
+- HRT Atlas v1.0 (Hounkpe et al., 2021): Original human housekeeping transcript list containing 2,833 unique ENST identifiers.
+- GENCODE release 19 (GRCh37.p13): Historical transcript-to-gene reference annotation.
+- Ensembl release 115 (GRCh38), BioMart: Human protein-coding gene universe containing 23,262 genes before chromosome filtering.
+
+GENCODE v19 was selected as the historical reference because HRT Atlas used GTEx v7 expression data, and GTEx v7 was annotated using GENCODE v19. This supports the selection of the historical reference without assuming that HRT Atlas explicitly documented GENCODE v19 as the origin of every published transcript identifier.
+
+## Historical transcript-to-gene mapping
+
+Mapped all 2,833 HRT ENST identifiers against the GENCODE v19 GTF annotation.
+
+    Mapped ENST: 2,833 / 2,833 (100%)
+    Unmapped ENST: 0
+    Ambiguous ENST: 0
+    Unique historical ENSG: 2,176
+
+## Mapping to Ensembl 115
+
+Compared the 2,176 historical GENCODE v19 ENSG identifiers with the complete Ensembl 115 protein-coding BioMart export, without chromosome filtering.
+
+    Direct ENSG matches: 2,174
+    Unmapped historical ENSG: 2
+    Multiple BioMart annotations: 0
+
+Identified two historical identifier changes:
+
+    RBM8A: ENSG00000131795 → ENSG00000265241
+    ACBD6: ENSG00000135847 → ENSG00000230124
+
+Both target identifiers were confirmed to occur in the Ensembl 115 BioMart export.
+
+    Final mapped ENSG: 2,176 / 2,176
+    Unique E115 ENSG: 2,176
+    Unresolved genes: 0
+    Identifier collisions: 0
+
+## Comparison with previous HRT mapping
+
+Compared the new mapping against the previous HRT classification containing 2,172 HK genes.
+
+    Shared HK genes: 2,168
+    New-only HK genes: 8
+    Old-only HK genes: 4
+
+Five new-only genes originated from HRT transcripts that were not found in the original direct BioMart transcript mapping:
+
+    GSS, SETD1B, BTBD6, FBXO21, PCSK7
+
+Three new-only genes resulted from differences between historical and current transcript-to-gene assignments:
+
+    TAF9, AL135905.2, C11orf98
+
+A fourth transcript-to-gene assignment difference involved CHTF8, but its historically assigned ENSG was already represented in the previous HK set.
+
+The four old-only ENSG identifiers were associated with these four transcript assignment differences and were not retained in the new reference-based classification.
+
+## Final chromosome-restricted classification
+
+Restricted the Ensembl 115 protein-coding BioMart background to chromosomes 1–22, X and Y. Calculated genomic gene length as end − start + 1 using Ensembl 115 BioMart coordinates.
+
+    Original BioMart genes: 23,262
+    Primary-chromosome genes: 20,084
+    HRT reference-positive HK genes: 2,176
+    HRT reference-negative genes: 17,908
+    HRT HK genes excluded by chromosome filtering: 0
+    Duplicate ENSG identifiers: 0
+
+Final output:
+
+    data/processed/human_all_genes_with_hrt_atlas_hk_status_gencode19.tsv
+
+The term non-HK denotes absence from the HRT Atlas reference set, not independently verified non-housekeeping status. Mapping completeness does not establish biological completeness of the HK reference.
+
+Original source files and previous mapping outputs were preserved.
