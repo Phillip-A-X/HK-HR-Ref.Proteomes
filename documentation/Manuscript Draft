@@ -7,7 +7,7 @@ Repository: HK-HR-Ref.Proteomes
 
 - HRT Atlas v1.0 (Hounkpe et al., 2021): Original human housekeeping transcript list containing 2,833 unique ENST identifiers.
 - GENCODE release 19 (GRCh37.p13): Historical transcript-to-gene reference annotation.
-- Ensembl release 115 (GRCh38), BioMart: Human protein-coding gene universe containing 23,262 genes before chromosome filtering.
+- Ensembl release 115 (GRCh38.p14), BioMart: Human protein-coding gene universe containing 23,262 genes before chromosome filtering.
 
 GENCODE v19 was selected as the historical reference because HRT Atlas used GTEx v7 expression data, and GTEx v7 was annotated using GENCODE v19. This supports the selection of the historical reference without assuming that HRT Atlas explicitly documented GENCODE v19 as the origin of every published transcript identifier.
 
