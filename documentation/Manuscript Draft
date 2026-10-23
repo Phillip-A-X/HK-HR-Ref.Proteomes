@@ -78,3 +78,407 @@ Final output:
 The term non-HK denotes absence from the HRT Atlas reference set, not independently verified non-housekeeping status. Mapping completeness does not establish biological completeness of the HK reference.
 
 Original source files and previous mapping outputs were preserved.
+
+
+
+# STEP2 Eisenberg & Levanon – Human HK Gene Mapping (RefSeq/HGNC → Ensembl 115)
+
+Date: October 2026  
+Repository: HK-HR-Ref.Proteomes
+
+## Data sources
+
+- Eisenberg & Levanon (2013): Original human housekeeping gene list containing 3,804 entries with HGNC gene symbols and RefSeq mRNA accession identifiers.
+- Ensembl release 115 (GRCh38.p14), BioMart: Complete human protein-coding gene universe containing 23,262 genes before chromosome filtering.
+- Ensembl 115 BioMart RefSeq mapping: 331,801 transcript rows, including Ensembl gene identifiers, transcript identifiers, transcript types, RefSeq mRNA identifiers and CCDS identifiers.
+- Ensembl 115 BioMart HGNC mapping: Complete protein-coding gene export containing 23,262 ENSG entries, of which 22,390 have HGNC symbols.
+
+The original Eisenberg list was mapped using RefSeq mRNA identifiers and HGNC symbols as independent mapping sources. The complete protein-coding BioMart exports were used instead of the previously Eisenberg-prefiltered HGNC export.
+
+## Initial RefSeq and HGNC mapping
+
+Compared the 3,804 original Eisenberg entries with both BioMart mapping tables without prior chromosome restriction.
+
+    Concordant: 3,261
+    RefSeqOnly: 275
+    SymbolOnly: 11
+    Conflict: 3
+    AmbiguousIntersection: 224
+    AmbiguousSingleSource: 17
+    Unmapped: 13
+
+    Initially assigned entries: 3,261
+    Unique assigned ENSG: 3,261
+    Duplicate assigned ENSG: 0
+    Concordant mapping rate: 85.73%
+
+Concordant entries were directly supported by matching RefSeq and HGNC mappings. Entries without unique concordance were retained for subsequent resolution rather than automatically assigning the first available candidate.
+
+Script:
+
+    EisenbergHKmapping.py
+
+## Mapping consolidation
+
+Resolved additional entries using the complete Ensembl 115 gene universe and chromosome information.
+
+Where several candidate ENSG identifiers existed, a uniquely identifiable candidate on chromosomes 1–22, X or Y was accepted. Conflicting assignments, missing mappings and identifier collisions were kept unresolved.
+
+    Concordant: 3,260
+    ConcordantPrimaryResolved: 224
+    RefSeqOnly: 274
+    SymbolOnly: 11
+    RefSeqPrimaryResolved: 16
+    SymbolPrimaryResolved: 1
+
+    UnresolvedConflict: 3
+    UnresolvedAmbiguous: 0
+    UnresolvedNoCandidates: 13
+    UnresolvedCollision: 2
+
+    Resolved original entries: 3,786 / 3,804
+    Unresolved original entries: 18
+    Unique resolved ENSG: 3,786
+    Mapping coverage: 99.53%
+
+    Resolved on primary chromosomes: 3,785
+    Resolved on other sequences: 1
+
+One identifier collision was identified:
+
+    ENSG00000163156
+        SCNM1 – NM_024041
+        TNFAIP8L2-SCNM1 – NM_001204848
+
+Both original entries involved in this collision were conservatively retained as unresolved.
+
+The single resolved gene outside the primary chromosomes was:
+
+    UBE2NL – ENSG00000292243
+    Location: HSCHRX_2_CTG14
+
+This gene was not included in the final chromosome-restricted background.
+
+Of the 18 unresolved original Eisenberg entries, seven distinct candidate ENSG identifiers were identified on primary chromosomes. Two were already independently classified as HK through other resolved entries. The remaining five were retained with the status Unresolved.
+
+Script:
+
+    EisenbergMappingConsolidation.py
+
+## Final chromosome-restricted classification
+
+Restricted the Ensembl 115 protein-coding gene universe to chromosomes 1–22, X and Y.
+
+Calculated genomic gene length as end − start + 1 using Ensembl 115 BioMart coordinates.
+
+    Original BioMart genes: 23,262
+    Primary-chromosome genes: 20,084
+    Eisenberg reference-positive HK genes: 3,785
+    Unresolved genes: 5
+    Eisenberg reference-negative genes: 16,294
+
+The five unresolved ENSG identifiers were:
+
+    ENSG00000033050
+    ENSG00000285292
+    ENSG00000125954
+    ENSG00000128534
+    ENSG00000163156
+
+Final output:
+
+    data/processed/human_all_genes_with_eisenberg_hk_status_refseq_validated.tsv
+
+Scripts:
+
+    EisenbergHKmapping.py
+    EisenbergMappingConsolidation.py
+    EisenbergFinalHKclassification.py
+
+The term non-HK denotes absence from the resolved Eisenberg reference set, not independently verified non-housekeeping status.
+
+The 13 original entries without mapping candidates could not be explicitly assigned to ENSG identifiers in the final background. Consequently, the 99.53% mapping coverage does not imply that every original Eisenberg entry was resolved.
+
+Original source files and intermediate QC outputs were preserved.
+
+---
+
+# STEP3 Eisenberg vs HRT Atlas – Human HK Reference Comparison
+
+Date: October 2026  
+Repository: HK-HR-Ref.Proteomes
+
+## Input datasets
+
+Compared the final gene-level HK classifications generated from:
+
+- Eisenberg & Levanon (2013), using the validated RefSeq/HGNC mapping.
+- HRT Atlas v1.0 (Hounkpe et al., 2021), using the validated GENCODE v19 → Ensembl 115 mapping.
+
+Both datasets were based on the same Ensembl 115 protein-coding gene universe restricted to chromosomes 1–22, X and Y.
+
+The ENSG sets and genomic annotation columns were checked for consistency before classification.
+
+    Shared gene universe: 20,084
+    Unique ENSG in both datasets: 20,084
+    Genomic annotations identical: YES
+
+## HK reference comparison
+
+    Eisenberg HK genes: 3,785
+    HRT Atlas HK genes: 2,176
+
+    HK in both references: 1,520
+    HK only in Eisenberg: 2,265
+    HK only in HRT: 655
+    Eisenberg Unresolved: 5
+    Reference-negative in both: 15,639
+
+Detailed cross-classification:
+
+    Eisenberg HK / HRT HK: 1,520
+    Eisenberg HK / HRT non-HK: 2,265
+    Eisenberg non-HK / HRT HK: 655
+    Eisenberg non-HK / HRT non-HK: 15,639
+    Eisenberg Unresolved / HRT HK: 1
+    Eisenberg Unresolved / HRT non-HK: 4
+
+The five Eisenberg-Unresolved genes were handled as a separate category and were not automatically included in either reference-negative or reference-exclusive groups.
+
+## Overlap metrics
+
+    Shared HK genes: 1,520
+    Eisenberg HK shared with HRT: 40.16%
+    HRT HK shared with Eisenberg: 69.85%
+
+    HK union: 4,441
+    Jaccard index: 0.3423
+
+The 4,441-gene union includes one HRT-HK gene with unresolved Eisenberg status.
+
+The two references show substantial disagreement despite representing the same biological concept. In particular, 2,265 genes classified as HK by Eisenberg are reference-negative in HRT, while 655 HRT-HK genes are reference-negative in Eisenberg.
+
+The HRT Atlas HK set is therefore not simply a smaller subset of the Eisenberg HK set.
+
+## Outputs
+
+    data/processed/hk_reference_comparison/human_eisenberg_hrt_hk_comparison.tsv
+    data/processed/hk_reference_comparison/hk_shared_eisenberg_hrt.tsv
+    data/processed/hk_reference_comparison/hk_eisenberg_only.tsv
+    data/processed/hk_reference_comparison/hk_hrt_only.tsv
+    data/processed/hk_reference_comparison/eisenberg_unresolved_hrt_status.tsv
+    data/processed/hk_reference_comparison/hk_reference_comparison_summary.tsv
+
+Script:
+
+    Compare_Eisenberg_vs_HRT_HK.py
+
+The reference comparison demonstrates that HK classification depends substantially on the underlying reference definition and methodology.
+
+Genes absent from either reference must not automatically be interpreted as biologically confirmed non-HK genes.
+
+---
+
+# STEP4 Transfer and Reproduction – HK-Manuscript Repository
+
+Date: 24 October 2026  
+Source repository: HK-HR-Ref.Proteomes  
+Target repository: HK-Manuscript
+
+## Repository transfer
+
+Transferred the validated human HRT Atlas and Eisenberg HK mapping workflows into the new manuscript repository.
+
+The transferred workflow comprises eight Python scripts:
+
+    HRTtoGENCODEv19.py
+    HRTGENCODEtoE115allprotcodinggenes.py
+    HRTMAPPINGnewFINALQC.py
+    HRTfinalmappingtoCHROM.py
+
+    EisenbergHKmapping.py
+    EisenbergMappingConsolidation.py
+    EisenbergFinalHKclassification.py
+    Compare_Eisenberg_vs_HRT_HK.py
+
+Transferred six required original data files:
+
+    Housekeeping_GenesHuman_HRTatlas.tsv
+    eisenberg_hk_genes.tsv
+    gencode.v19.annotation.gtf.gz
+    biomart_export_HumanAllGenes_220526.tsv
+    BiomartExport_protcodingHGNC_ENSG.tsv
+    BiomartExport_GeneID_TranscriptID_TranscriptType_RefSeqmRNAID_CCDS ID_E115_23262Genes.tsv
+
+The manuscript repository uses the following directories:
+
+    data/raw/HousekeepingGeneLists/
+    data/raw/biomart/
+    data/raw/gencode/release-19/
+
+    data/processed/HRTmapping/
+    data/processed/EisenbergMapping/
+    data/processed/EisenbergVsHRT/
+
+    scripts/HumanHousekeepingMapping/
+
+Updated the script paths to match the new repository structure.
+
+The project root was resolved dynamically using the script location rather than hard-coded absolute paths.
+
+Mapping algorithms, classification rules and output filenames were retained.
+
+## Independent execution in the new repository
+
+Executed all eight Python scripts in their dependency order.
+
+HRT mapping reproduced:
+
+    Original HRT transcripts: 2,833
+    Historical GENCODE v19 ENSG: 2,176
+    Direct Ensembl 115 matches: 2,174
+    Historical ID rescues: 2
+    Final HRT HK genes: 2,176
+
+Eisenberg mapping reproduced:
+
+    Original Eisenberg entries: 3,804
+    Resolved entries: 3,786
+    Unresolved entries: 18
+    Final Eisenberg HK genes: 3,785
+    Unresolved primary ENSG: 5
+
+Reference comparison reproduced:
+
+    Shared gene universe: 20,084
+    Shared HK genes: 1,520
+    Eisenberg-only HK genes: 2,265
+    HRT-only HK genes: 655
+    Jaccard index: 0.3423
+
+## Output reproducibility verification
+
+Compared the newly generated final datasets with the corresponding original files in HK-HR-Ref.Proteomes.
+
+The comparison checked column names, row counts, row order and complete TSV contents.
+
+    Final HRT classification:
+        20,084 rows
+        Columns identical: YES
+        Content identical: YES
+
+    Final Eisenberg classification:
+        20,084 rows
+        Columns identical: YES
+        Content identical: YES
+
+    Final Eisenberg vs HRT comparison:
+        20,084 rows
+        Columns identical: YES
+        Content identical: YES
+
+All three final datasets were reproduced identically in the new repository.
+
+---
+
+# STEP5 Manuscript Metadata – Data Provenance and Processing Documentation
+
+Date: 24 October 2026  
+Repository: HK-Manuscript
+
+## Metadata structure
+
+Used the existing metadata management system consisting of:
+
+    metadata/data_sources.tsv
+    metadata/file_processing.tsv
+    metadata/metadata_config.json
+    scripts/metadata/MetadataUpdater.py
+
+The metadata configuration was rebuilt to describe only the eight production steps executed and validated in the manuscript repository.
+
+Historical exploratory or superseded processing steps were not included in the production workflow.
+
+## Data source documentation
+
+Registered six original data sources:
+
+    SRC001: HRT Atlas human housekeeping transcript list
+    SRC002: GENCODE release 19 annotation
+    SRC003: Ensembl 115 protein-coding gene universe
+    SRC004: Eisenberg & Levanon human housekeeping gene list
+    SRC005: Ensembl 115 RefSeq transcript mapping
+    SRC006: Ensembl 115 HGNC symbol mapping
+
+For every source, documented its relative file path and available provenance information.
+
+Calculated SHA256 checksums for all six locally available source files.
+
+    Registered data sources: 6
+    Files verified locally: 6 / 6
+    SHA256 checksums present: 6 / 6
+    Verification date: 2026-10-24
+
+Existing source information was preserved. Unknown download details were not inferred from the date of repository transfer.
+
+## Processing documentation
+
+Registered the eight validated processing steps in their execution order.
+
+    STEP001: HRT ENST to GENCODE v19 ENSG
+    STEP002: Historical ENSG to Ensembl 115
+    STEP003: Historical ENSG rescue and QC
+    STEP004: Final HRT HK classification
+    STEP005: Eisenberg RefSeq and HGNC mapping
+    STEP006: Eisenberg mapping consolidation
+    STEP007: Final Eisenberg HK classification
+    STEP008: Eisenberg versus HRT comparison
+
+For each processing step, documented:
+
+    StepID
+    StepName
+    InputFiles
+    ScriptPath
+    Parameters
+    OutputFiles
+    QCResults
+    Status
+    CompletionDate
+    GitCommit
+    Notes
+
+Verified that all referenced scripts, input files and output files exist in the manuscript repository.
+
+    Registered processing steps: 8
+    Completed steps: 8 / 8
+    Script paths verified: 8 / 8
+    Completion date: 2026-10-24
+
+Executed MetadataUpdater.py with --dry-run before updating the metadata tables.
+
+The dry run identified six sources and eight processing steps without modifying existing metadata files.
+
+The updater was subsequently executed to populate both TSV metadata tables.
+
+## Git versioning
+
+Configured .gitignore to exclude local Python environments, generated Quarto files, raw datasets, processed datasets and local metadata backups.
+
+The source files and generated datasets remain available locally, while scripts and metadata are version-controlled.
+
+Created the following Git commits:
+
+    d078723
+    Add validated human HK reference mapping pipelines and metadata
+
+    46acd01
+    Record validated HK mapping pipeline commit
+
+The GitCommit field of all eight processing entries was populated with d078723, identifying the initial version-controlled manuscript pipeline.
+
+The second commit records this metadata addition without modifying the mapping algorithms.
+
+The validated pipeline, source provenance and processing history are now documented in HK-Manuscript.
+
+The transfer preserves the original HK-HR-Ref.Proteomes repository and provides an independently executed, reproducible basis for subsequent manuscript analyses.
